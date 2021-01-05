@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/nerd-fonts-iosevka*
+pacman -Si *therepoclub/nerd-fonts-iosevka*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/nerd-fonts-iosevka-2.1.0-2-any.pkg.tar.zst">nerd-fonts-iosevka</a>
 <b>Version</b>         : 2.1.0-2
 <b>Description</b>     : Patched Iosevka font from the nerd-fonts library
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/nerd-fonts-iosevka*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/nerd-fonts-iosevka*
+pacman -S *therepoclub/nerd-fonts-iosevka*

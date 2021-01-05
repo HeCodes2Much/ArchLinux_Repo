@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/multimonitorlock-gui*
+pacman -Si *therepoclub/multimonitorlock-gui*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/multimonitorlock-gui-2021.01.02-1-any.pkg.tar.zst">multimonitorlock-gui</a>
 <b>Version</b>         : 2021.01.02-1
 <b>Description</b>     : GUI for multimonitorlock to set the background using QT6 and pyside6
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/multimonitorlock-gui*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/multimonitorlock-gui*
+pacman -S *therepoclub/multimonitorlock-gui*

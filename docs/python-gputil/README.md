@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/python-gputil*
+pacman -Si *therepoclub/python-gputil*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/python-gputil-1.4.0-3-any.pkg.tar.zst">python-gputil</a>
 <b>Version</b>         : 1.4.0-3
 <b>Description</b>     : A Python module for getting the GPU status from NVIDA GPUs using nvidia-smi
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/python-gputil*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/python-gputil*
+pacman -S *therepoclub/python-gputil*

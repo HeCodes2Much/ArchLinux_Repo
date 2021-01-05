@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/touchpad-indicator*
+pacman -Si *therepoclub/touchpad-indicator*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/touchpad-indicator-2.3.2-1-any.pkg.tar.zst">touchpad-indicator</a>
 <b>Version</b>         : 2.3.2-1
 <b>Description</b>     : An indicator for the touchpad
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/touchpad-indicator*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/touchpad-indicator*
+pacman -S *therepoclub/touchpad-indicator*

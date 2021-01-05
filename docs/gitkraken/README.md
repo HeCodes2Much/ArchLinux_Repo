@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/gitkraken*
+pacman -Si *therepoclub/gitkraken*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/gitkraken-7.4.1-1-x86_64.pkg.tar.zst">gitkraken</a>
 <b>Version</b>         : 7.4.1-1
 <b>Description</b>     : The intuitive, fast, and beautiful cross-platform Git client.
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/gitkraken*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/gitkraken*
+pacman -S *therepoclub/gitkraken*

@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/roccat-tools-arvo*
+pacman -Si *therepoclub/roccat-tools-arvo*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/roccat-tools-arvo-5.9.0-3-x86_64.pkg.tar.zst">roccat-tools-arvo</a>
 <b>Version</b>         : 5.9.0-3
 <b>Description</b>     : Userland applications to configure and make extended use of ROCCAT Arvo devices
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/roccat-tools-arvo*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/roccat-tools-arvo*
+pacman -S *therepoclub/roccat-tools-arvo*

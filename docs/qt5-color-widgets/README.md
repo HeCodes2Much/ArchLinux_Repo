@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/qt5-color-widgets*
+pacman -Si *therepoclub/qt5-color-widgets*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/qt5-color-widgets-2021.01.01-1-x86_64.pkg.tar.zst">qt5-color-widgets</a>
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : A user-friendly color dialog and several color-related widgets for Qt
@@ -24,6 +24,6 @@ pacman -Si *cynicalteam/qt5-color-widgets*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/qt5-color-widgets*
+pacman -S *therepoclub/qt5-color-widgets*

@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/perl-checkupdates-aur*
+pacman -Si *therepoclub/perl-checkupdates-aur*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/perl-checkupdates-aur-0.04-1-any.pkg.tar.zst">perl-checkupdates-aur</a>
 <b>Version</b>         : 0.04-1
 <b>Description</b>     : checkupdates for aur
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/perl-checkupdates-aur*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/perl-checkupdates-aur*
+pacman -S *therepoclub/perl-checkupdates-aur*

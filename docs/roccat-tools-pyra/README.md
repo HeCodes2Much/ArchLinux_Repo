@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/roccat-tools-pyra*
+pacman -Si *therepoclub/roccat-tools-pyra*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/roccat-tools-pyra-5.9.0-3-x86_64.pkg.tar.zst">roccat-tools-pyra</a>
 <b>Version</b>         : 5.9.0-3
 <b>Description</b>     : Userland applications to configure and make extended use of ROCCAT Pyra devices
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/roccat-tools-pyra*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/roccat-tools-pyra*
+pacman -S *therepoclub/roccat-tools-pyra*

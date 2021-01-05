@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/qt-logout*
+pacman -Si *therepoclub/qt-logout*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/qt-logout-2021.01.02-1-any.pkg.tar.zst">qt-logout</a>
 <b>Version</b>         : 2021.01.02-1
 <b>Description</b>     : Logout screen for QT using QT6 and pyside6
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/qt-logout*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/qt-logout*
+pacman -S *therepoclub/qt-logout*

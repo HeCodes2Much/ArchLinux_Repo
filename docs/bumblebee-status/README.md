@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/bumblebee-status*
+pacman -Si *therepoclub/bumblebee-status*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/bumblebee-status-2.1.1-1-any.pkg.tar.zst">bumblebee-status</a>
 <b>Version</b>         : 2.1.1-1
 <b>Description</b>     : Modular, theme-able status line generator for the i3 window manager
@@ -36,6 +36,6 @@ pacman -Si *cynicalteam/bumblebee-status*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/bumblebee-status*
+pacman -S *therepoclub/bumblebee-status*

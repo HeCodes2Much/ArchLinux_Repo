@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/python-pyparted*
+pacman -Si *therepoclub/python-pyparted*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/python-pyparted-3.11.7-1-x86_64.pkg.tar.zst">python-pyparted</a>
 <b>Version</b>         : 3.11.7-1
 <b>Description</b>     : Python module for GNU parted
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/python-pyparted*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/python-pyparted*
+pacman -S *therepoclub/python-pyparted*

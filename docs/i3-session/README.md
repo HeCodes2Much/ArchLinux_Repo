@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/i3-session*
+pacman -Si *therepoclub/i3-session*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/i3-session-2021.01.01-1-any.pkg.tar.zst">i3-session</a>
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : Remembers what's running in your i3 workspaces by saving a session file
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/i3-session*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/i3-session*
+pacman -S *therepoclub/i3-session*

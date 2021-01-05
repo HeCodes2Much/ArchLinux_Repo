@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/i3lock-color*
+pacman -Si *therepoclub/i3lock-color*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/i3lock-color-2.13.c.1-1-x86_64.pkg.tar.zst">i3lock-color</a>
 <b>Version</b>         : 2.13.c.1-1
 <b>Description</b>     : An improved screenlocker based upon XCB and PAM with color configuration support
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/i3lock-color*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/i3lock-color*
+pacman -S *therepoclub/i3lock-color*

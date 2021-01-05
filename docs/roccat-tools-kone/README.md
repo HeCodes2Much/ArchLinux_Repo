@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/roccat-tools-kone*
+pacman -Si *therepoclub/roccat-tools-kone*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/roccat-tools-kone-5.9.0-3-x86_64.pkg.tar.zst">roccat-tools-kone</a>
 <b>Version</b>         : 5.9.0-3
 <b>Description</b>     : Userland applications to configure and make extended use of ROCCAT Kone devices
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/roccat-tools-kone*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/roccat-tools-kone*
+pacman -S *therepoclub/roccat-tools-kone*

@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/qt6ct*
+pacman -Si *therepoclub/qt6ct*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/qt6ct-0.2-4-x86_64.pkg.tar.zst">qt6ct</a>
 <b>Version</b>         : 0.2-4
 <b>Description</b>     : Qt 6 Configuration Utility
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/qt6ct*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/qt6ct*
+pacman -S *therepoclub/qt6ct*

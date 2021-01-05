@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/roccat-tools-ryosmkfx*
+pacman -Si *therepoclub/roccat-tools-ryosmkfx*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/roccat-tools-ryosmkfx-5.9.0-3-x86_64.pkg.tar.zst">roccat-tools-ryosmkfx</a>
 <b>Version</b>         : 5.9.0-3
 <b>Description</b>     : Userland applications to configure and make extended use of ROCCAT RyosMK FX devices
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/roccat-tools-ryosmkfx*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/roccat-tools-ryosmkfx*
+pacman -S *therepoclub/roccat-tools-ryosmkfx*

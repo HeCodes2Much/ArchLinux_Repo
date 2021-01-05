@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/nerd-fonts-roboto-mono*
+pacman -Si *therepoclub/nerd-fonts-roboto-mono*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/nerd-fonts-roboto-mono-2.1.0-1-any.pkg.tar.zst">nerd-fonts-roboto-mono</a>
 <b>Version</b>         : 2.1.0-1
 <b>Description</b>     : Patched font Roboto Mono from the nerd-fonts library
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/nerd-fonts-roboto-mono*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/nerd-fonts-roboto-mono*
+pacman -S *therepoclub/nerd-fonts-roboto-mono*

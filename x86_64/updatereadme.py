@@ -17,16 +17,16 @@ datetime = custom_strftime('%a {d}, %b %Y at %I:%M:%S%p', dt.now())
 home = os.path.expanduser("~")
 readme = open('../README.md','w')
 installme = open(home + '/.config/package-list','w')
-readme.write(f"# <img src='favicon.ico'> CynicalTeam's Arch Repo <img src='favicon.ico'>\n")
+readme.write(f"# <img src='favicon.ico'> The Repo Club's Arch Repo <img src='favicon.ico'>\n")
 badges = '\n<p align="center">\n\
   <img src="https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square">\n\
-  <img src="https://img.shields.io/github/last-commit/TheCynicalTeam/cynicalteam_repo?color=red&style=flat-square">\n\
-  <img src="https://img.shields.io/github/repo-size/TheCynicalTeam/cynicalteam_repo?color=red&style=flat-square">\n\
+  <img src="https://img.shields.io/github/last-commit/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">\n\
+  <img src="https://img.shields.io/github/repo-size/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">\n\
   <img src="https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square">\n\
-  <img src="https://img.shields.io/github/issues/TheCynicalTeam/cynicalteam_repo?color=red&style=flat-square">\n\
-  <img src="https://img.shields.io/github/stars/TheCynicalTeam/cynicalteam_repo?color=red&style=flat-square">\n\
-  <img src="https://img.shields.io/github/forks/TheCynicalTeam/cynicalteam_repo?color=red&style=flat-square">\n\
-  <img src="https://img.shields.io/github/commit-activity/m/TheCynicalTeam/cynicalteam_repo?color=red&style=flat-square">\n\
+  <img src="https://img.shields.io/github/issues/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">\n\
+  <img src="https://img.shields.io/github/stars/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">\n\
+  <img src="https://img.shields.io/github/forks/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">\n\
+  <img src="https://img.shields.io/github/commit-activity/m/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">\n\
 </p>\n'
 readme.write(badges)
 readme.write(f"\n## Software\n")

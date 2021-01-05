@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/polkit-dumb-agent*
+pacman -Si *therepoclub/polkit-dumb-agent*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/polkit-dumb-agent-2020.12.30-1-x86_64.pkg.tar.zst">polkit-dumb-agent</a>
 <b>Version</b>         : 2020.12.30-1
 <b>Description</b>     : A polkit agent in 145 lines of code using Qt and libsystemd, because polkit sucks.
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/polkit-dumb-agent*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/polkit-dumb-agent*
+pacman -S *therepoclub/polkit-dumb-agent*

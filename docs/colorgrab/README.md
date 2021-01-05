@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/colorgrab*
+pacman -Si *therepoclub/colorgrab*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/colorgrab-0.3-1-x86_64.pkg.tar.zst">colorgrab</a>
 <b>Version</b>         : 0.3-1
 <b>Description</b>     : A cross-platform color picker.
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/colorgrab*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/colorgrab*
+pacman -S *therepoclub/colorgrab*

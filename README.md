@@ -1,26 +1,27 @@
-# <img src='favicon.ico'> CynicalTeam's Arch Repo <img src='favicon.ico'>
+# <img src='favicon.ico'> The Repo Club's Arch Repo <img src='favicon.ico'>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square">
-  <img src="https://img.shields.io/github/last-commit/TheCynicalTeam/cynicalteam_repo?color=red&style=flat-square">
-  <img src="https://img.shields.io/github/repo-size/TheCynicalTeam/cynicalteam_repo?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/last-commit/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/repo-size/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square">
-  <img src="https://img.shields.io/github/issues/TheCynicalTeam/cynicalteam_repo?color=red&style=flat-square">
-  <img src="https://img.shields.io/github/stars/TheCynicalTeam/cynicalteam_repo?color=red&style=flat-square">
-  <img src="https://img.shields.io/github/forks/TheCynicalTeam/cynicalteam_repo?color=red&style=flat-square">
-  <img src="https://img.shields.io/github/commit-activity/m/TheCynicalTeam/cynicalteam_repo?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/issues/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/stars/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/forks/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/commit-activity/m/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">
 </p>
 
 ## Software
 *   [auracle](docs/auracle/) Version: r363.f338d45-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/auracle-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/auracle-git?color=orange&style=flat-square)
 *   [autotiling](docs/autotiling/) Version: 1.1-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/autotiling?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/autotiling?color=orange&style=flat-square)
-*   [bpytop](docs/bpytop/) Version: 1.0.55-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bpytop-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bpytop-git?color=orange&style=flat-square)
+*   [bpytop](docs/bpytop/) Version: 1.0.56-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bpytop-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bpytop-git?color=orange&style=flat-square)
 *   [bumblebee-status](docs/bumblebee-status/) Version: 2.1.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bumblebee-status?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bumblebee-status?color=orange&style=flat-square)
 *   [checkupdates+aur](docs/checkupdates+aur/) Version: 1-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/checkupdates+aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/checkupdates+aur?color=orange&style=flat-square)
 *   [checkupdates-aur](docs/checkupdates-aur/) Version: 0.04-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/checkupdates-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/checkupdates-aur?color=orange&style=flat-square)
 *   [ckb-next](docs/ckb-next/) Version: 0.4.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/ckb-next?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/ckb-next?color=orange&style=flat-square)
 *   [code](docs/code/) Version: 1.52.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/code-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/code-git?color=orange&style=flat-square)
 *   [colorgrab](docs/colorgrab/) Version: 0.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/colorgrab?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/colorgrab?color=orange&style=flat-square)
+*   [gamehub](docs/gamehub/) Version: 0.16.0.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/gamehub?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/gamehub?color=orange&style=flat-square)
 *   [gitkraken](docs/gitkraken/) Version: 7.4.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/gitkraken?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/gitkraken?color=orange&style=flat-square)
 *   [glow](docs/glow/) Version: 1.3.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/glow?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/glow?color=orange&style=flat-square)
 *   [godot](docs/godot/) Version: 3.2.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/godot?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/godot?color=orange&style=flat-square)
@@ -70,7 +71,7 @@
 *   [roccat-tools-kone](docs/roccat-tools-kone/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-kone?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-kone?color=orange&style=flat-square)
 *   [roccat-tools-koneplus](docs/roccat-tools-koneplus/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-koneplus?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-koneplus?color=orange&style=flat-square)
 *   [roccat-tools-konepure](docs/roccat-tools-konepure/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-konepure?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-konepure?color=orange&style=flat-square)
-*   [roccat-tools-konepuremilitary](docs/roccat-tools-konepuremilitary/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-konepuremilitary?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-konepuremilitary?color=orange&style=flat-square)
+*   [roccat-tools-konepuremilitary](docs/roccat-tools-konepuremilitary/) Version:  ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-konepuremilitary?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-konepuremilitary?color=orange&style=flat-square)
 *   [roccat-tools-konepureoptical](docs/roccat-tools-konepureoptical/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-konepureoptical?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-konepureoptical?color=orange&style=flat-square)
 *   [roccat-tools-konextd](docs/roccat-tools-konextd/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-konextd?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-konextd?color=orange&style=flat-square)
 *   [roccat-tools-konextdoptical](docs/roccat-tools-konextdoptical/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-konextdoptical?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-konextdoptical?color=orange&style=flat-square)
@@ -95,15 +96,15 @@
 ## Add my repo
 * **Maintainer:** [TheCynicalTeam](https://aur.archlinux.org/account/TheCynicalTeam/)
 * **Description:**  A repository with some AUR packages that the team uses
-* **Upstream page:** https://cynicalteam.archlinux-aur.xyz/
+* **Upstream page:** https://arch.therepo.club/
 * **Key-ID:** 10DF 44AC D4C8 4539 53B7 CCBA 206A DED6 6160 901B
 * **Fingerprint:** [download](http://pgp.net.nz:11371/pks/lookup?op=vindex&fingerprint=on&search=0x96414492E2220753)
 
 Append to */etc/pacman.conf*:
 ```
-[cynicalteam]
+[therepoclub]
 SigLevel = Required DatabaseOptional
-Server = https://cynicalteam.archlinux-aur.xyz/$arch/
+Server = https://arch.therepo.club/$arch/
 ```
 To check signature, add my key:
 ```
@@ -115,4 +116,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-*   Last updated on: Sun 3rd, Jan 2021 at 09:57:27PM
+*   Last updated on: Tue 5th, Jan 2021 at 03:39:15PM

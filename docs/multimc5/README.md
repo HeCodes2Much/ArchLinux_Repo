@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/multimc5*
+pacman -Si *therepoclub/multimc5*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/multimc5-0.6.11-2-x86_64.pkg.tar.zst">multimc5</a>
 <b>Version</b>         : 0.6.11-2
 <b>Description</b>     : Minecraft launcher with ability to manage multiple instances.
@@ -24,6 +24,6 @@ pacman -Si *cynicalteam/multimc5*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/multimc5*
+pacman -S *therepoclub/multimc5*

@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/roccat-tools-konextd*
+pacman -Si *therepoclub/roccat-tools-konextd*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/roccat-tools-konextd-5.9.0-3-x86_64.pkg.tar.zst">roccat-tools-konextd</a>
 <b>Version</b>         : 5.9.0-3
 <b>Description</b>     : Userland applications to configure and make extended use of ROCCAT Kone XTD devices
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/roccat-tools-konextd*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/roccat-tools-konextd*
+pacman -S *therepoclub/roccat-tools-konextd*

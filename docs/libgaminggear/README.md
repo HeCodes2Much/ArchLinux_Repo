@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/libgaminggear*
+pacman -Si *therepoclub/libgaminggear*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/libgaminggear-0.15.1-9-x86_64.pkg.tar.zst">libgaminggear</a>
 <b>Version</b>         : 0.15.1-9
 <b>Description</b>     : <b>Provides</b> functionality for gaming input devices
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/libgaminggear*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/libgaminggear*
+pacman -S *therepoclub/libgaminggear*

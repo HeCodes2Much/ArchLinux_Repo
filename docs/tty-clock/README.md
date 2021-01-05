@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/tty-clock*
+pacman -Si *therepoclub/tty-clock*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/tty-clock-2.3-1-x86_64.pkg.tar.zst">tty-clock</a>
 <b>Version</b>         : 2.3-1
 <b>Description</b>     : Analog clock in ncurses.
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/tty-clock*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/tty-clock*
+pacman -S *therepoclub/tty-clock*

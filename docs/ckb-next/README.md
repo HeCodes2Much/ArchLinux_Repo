@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/ckb-next*
+pacman -Si *therepoclub/ckb-next*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/ckb-next-0.4.3-1-x86_64.pkg.tar.zst">ckb-next</a>
 <b>Version</b>         : 0.4.3-1
 <b>Description</b>     : Corsair Keyboard and Mouse Input Driver, release version
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/ckb-next*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/ckb-next*
+pacman -S *therepoclub/ckb-next*

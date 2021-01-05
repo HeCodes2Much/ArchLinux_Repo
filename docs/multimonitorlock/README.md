@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/multimonitorlock*
+pacman -Si *therepoclub/multimonitorlock*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/multimonitorlock-2021.01.01-1-any.pkg.tar.zst">multimonitorlock</a>
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : A simple lock script for i3lock-color
@@ -24,6 +24,6 @@ pacman -Si *cynicalteam/multimonitorlock*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/multimonitorlock*
+pacman -S *therepoclub/multimonitorlock*

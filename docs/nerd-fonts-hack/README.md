@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/nerd-fonts-hack*
+pacman -Si *therepoclub/nerd-fonts-hack*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/nerd-fonts-hack-2.1.0-3-any.pkg.tar.zst">nerd-fonts-hack</a>
 <b>Version</b>         : 2.1.0-3
 <b>Description</b>     : Patched font Hack from nerd-fonts library
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/nerd-fonts-hack*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/nerd-fonts-hack*
+pacman -S *therepoclub/nerd-fonts-hack*

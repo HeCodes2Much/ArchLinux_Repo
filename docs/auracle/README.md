@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/auracle*
+pacman -Si *therepoclub/auracle*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/auracle-r363.f338d45-1-x86_64.pkg.tar.zst">auracle</a>
 <b>Version</b>         : r363.f338d45-1
 <b>Description</b>     : A flexible client for the AUR
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/auracle*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/auracle*
+pacman -S *therepoclub/auracle*

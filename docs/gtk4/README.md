@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/gtk4*
+pacman -Si *therepoclub/gtk4*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/gtk4-4.0.0-1-x86_64.pkg.tar.zst">gtk4</a>
 <b>Version</b>         : 4.0.0-1
 <b>Description</b>     : GObject-based multi-platform GUI toolkit
@@ -25,6 +25,6 @@ pacman -Si *cynicalteam/gtk4*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/gtk4*
+pacman -S *therepoclub/gtk4*

@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/qt5-styleplugins*
+pacman -Si *therepoclub/qt5-styleplugins*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/qt5-styleplugins-5.0.0.20170311-26-x86_64.pkg.tar.zst">qt5-styleplugins</a>
 <b>Version</b>         : 5.0.0.20170311-26
 <b>Description</b>     : Additional style plugins for Qt5
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/qt5-styleplugins*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/qt5-styleplugins*
+pacman -S *therepoclub/qt5-styleplugins*

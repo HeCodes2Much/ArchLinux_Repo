@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/nbteditor*
+pacman -Si *therepoclub/nbteditor*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/nbteditor-1.3-1-x86_64.pkg.tar.zst">nbteditor</a>
 <b>Version</b>         : 1.3-1
 <b>Description</b>     : Editor for Minecraft NBT and schematic files
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/nbteditor*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/nbteditor*
+pacman -S *therepoclub/nbteditor*

@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/code*
+pacman -Si *therepoclub/code*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/code-1.52.1-1-x86_64.pkg.tar.zst">code</a>
 <b>Version</b>         : 1.52.1-1
 <b>Description</b>     : Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version)
@@ -24,6 +24,6 @@ pacman -Si *cynicalteam/code*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/code*
+pacman -S *therepoclub/code*

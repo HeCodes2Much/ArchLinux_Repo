@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/minecraft-launcher*
+pacman -Si *therepoclub/minecraft-launcher*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/minecraft-launcher-2.2.909-1-x86_64.pkg.tar.zst">minecraft-launcher</a>
 <b>Version</b>         : 2.2.909-1
 <b>Description</b>     : Official Minecraft Launcher
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/minecraft-launcher*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/minecraft-launcher*
+pacman -S *therepoclub/minecraft-launcher*

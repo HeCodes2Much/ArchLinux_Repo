@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/perl-www-aur*
+pacman -Si *therepoclub/perl-www-aur*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/perl-www-aur-0.22-3-any.pkg.tar.zst">perl-www-aur</a>
 <b>Version</b>         : 0.22-3
 <b>Description</b>     : API for the Archlinux User <b>Repository</b> website.
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/perl-www-aur*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/perl-www-aur*
+pacman -S *therepoclub/perl-www-aur*

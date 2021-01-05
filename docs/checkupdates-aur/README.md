@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/checkupdates-aur*
+pacman -Si *therepoclub/checkupdates-aur*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/checkupdates-aur-0.04-1-any.pkg.tar.zst">checkupdates-aur</a>
 <b>Version</b>         : 0.04-1
 <b>Description</b>     : checkupdates for aur
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/checkupdates-aur*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/checkupdates-aur*
+pacman -S *therepoclub/checkupdates-aur*

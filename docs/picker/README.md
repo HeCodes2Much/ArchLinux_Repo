@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/picker*
+pacman -Si *therepoclub/picker*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/picker-2021.01.01-1-any.pkg.tar.zst">picker</a>
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : Bash wrapper for pacman and aur
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/picker*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/picker*
+pacman -S *therepoclub/picker*

@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/autotiling*
+pacman -Si *therepoclub/autotiling*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/autotiling-1.1-2-x86_64.pkg.tar.zst">autotiling</a>
 <b>Version</b>         : 1.1-2
 <b>Description</b>     : Script for sway and i3 to automatically switch the horizontal / vertical window split orientation
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/autotiling*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/autotiling*
+pacman -S *therepoclub/autotiling*

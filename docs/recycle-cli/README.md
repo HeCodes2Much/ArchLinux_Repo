@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/recycle-cli*
+pacman -Si *therepoclub/recycle-cli*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/recycle-cli-2021.01.01-1-any.pkg.tar.zst">recycle-cli</a>
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : A recycle bin cli in python 3
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/recycle-cli*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/recycle-cli*
+pacman -S *therepoclub/recycle-cli*

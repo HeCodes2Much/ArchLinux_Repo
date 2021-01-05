@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/instamenu-schemas*
+pacman -Si *therepoclub/instamenu-schemas*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/instamenu-schemas-2021.01.01-1-any.pkg.tar.zst">instamenu-schemas</a>
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : addons for instamenu
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/instamenu-schemas*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/instamenu-schemas*
+pacman -S *therepoclub/instamenu-schemas*

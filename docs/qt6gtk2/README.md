@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/qt6gtk2*
+pacman -Si *therepoclub/qt6gtk2*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/qt6gtk2-0.1-1-x86_64.pkg.tar.zst">qt6gtk2</a>
 <b>Version</b>         : 0.1-1
 <b>Description</b>     : GTK+2.0 integration plugins for Qt6
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/qt6gtk2*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/qt6gtk2*
+pacman -S *therepoclub/qt6gtk2*

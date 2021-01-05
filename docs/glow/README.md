@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/glow*
+pacman -Si *therepoclub/glow*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/glow-1.3.0-1-x86_64.pkg.tar.zst">glow</a>
 <b>Version</b>         : 1.3.0-1
 <b>Description</b>     : Markdown renderer for the CLI
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/glow*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/glow*
+pacman -S *therepoclub/glow*

@@ -1,9 +1,9 @@
-# Check cynicalteam for download
+# Check therepoclub for download
 
-pacman -Si *cynicalteam/libxft-bgra*
+pacman -Si *therepoclub/libxft-bgra*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : cynicalteam
+<b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/libxft-bgra-2.3.3.r7.7808631e-1-x86_64.pkg.tar.zst">libxft-bgra</a>
 <b>Version</b>         : 2.3.3.r7.7808631e-1
 <b>Description</b>     : libXft with BGRA glyph (color emoji) rendering & scaling patches by Maxime Coste
@@ -23,6 +23,6 @@ pacman -Si *cynicalteam/libxft-bgra*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from cynicalteam
+## How to install from therepoclub
 
-pacman -S *cynicalteam/libxft-bgra*
+pacman -S *therepoclub/libxft-bgra*
