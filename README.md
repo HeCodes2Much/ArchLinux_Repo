@@ -13,7 +13,7 @@
 
 ## Software
 *   [auracle](docs/auracle/) Version: r363.f338d45-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/auracle-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/auracle-git?color=orange&style=flat-square)
-*   [autotiling](docs/autotiling/) Version: 1.1-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/autotiling?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/autotiling?color=orange&style=flat-square)
+*   [autotiling](docs/autotiling/) Version: 1.2-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/autotiling?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/autotiling?color=orange&style=flat-square)
 *   [bpytop](docs/bpytop/) Version: 1.0.56-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bpytop-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bpytop-git?color=orange&style=flat-square)
 *   [bumblebee-status](docs/bumblebee-status/) Version: 2.1.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bumblebee-status?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bumblebee-status?color=orange&style=flat-square)
 *   [checkupdates+aur](docs/checkupdates+aur/) Version: 1-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/checkupdates+aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/checkupdates+aur?color=orange&style=flat-square)
@@ -71,7 +71,7 @@
 *   [roccat-tools-kone](docs/roccat-tools-kone/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-kone?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-kone?color=orange&style=flat-square)
 *   [roccat-tools-koneplus](docs/roccat-tools-koneplus/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-koneplus?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-koneplus?color=orange&style=flat-square)
 *   [roccat-tools-konepure](docs/roccat-tools-konepure/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-konepure?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-konepure?color=orange&style=flat-square)
-*   [roccat-tools-konepuremilitary](docs/roccat-tools-konepuremilitary/) Version:  ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-konepuremilitary?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-konepuremilitary?color=orange&style=flat-square)
+*   [roccat-tools-konepuremilitary](docs/roccat-tools-konepuremilitary/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-konepuremilitary?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-konepuremilitary?color=orange&style=flat-square)
 *   [roccat-tools-konepureoptical](docs/roccat-tools-konepureoptical/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-konepureoptical?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-konepureoptical?color=orange&style=flat-square)
 *   [roccat-tools-konextd](docs/roccat-tools-konextd/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-konextd?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-konextd?color=orange&style=flat-square)
 *   [roccat-tools-konextdoptical](docs/roccat-tools-konextdoptical/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-konextdoptical?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-konextdoptical?color=orange&style=flat-square)
@@ -116,4 +116,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-*   Last updated on: Tue 5th, Jan 2021 at 03:39:15PM
+*   Last updated on: Tue 5th, Jan 2021 at 05:46:59PM
