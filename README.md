@@ -12,7 +12,7 @@
 </p>
 
 ## Software
-*   [auracle](docs/auracle/) Version: r363.f338d45-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/auracle-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/auracle-git?color=orange&style=flat-square)
+*   [auracle](docs/auracle/) Version: r366.8739929-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/auracle-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/auracle-git?color=orange&style=flat-square)
 *   [autotiling](docs/autotiling/) Version: 1.2-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/autotiling?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/autotiling?color=orange&style=flat-square)
 *   [bpytop](docs/bpytop/) Version: 1.0.56-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bpytop-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bpytop-git?color=orange&style=flat-square)
 *   [bumblebee-status](docs/bumblebee-status/) Version: 2.1.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bumblebee-status?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bumblebee-status?color=orange&style=flat-square)
@@ -22,10 +22,10 @@
 *   [code](docs/code/) Version: 1.52.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/code-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/code-git?color=orange&style=flat-square)
 *   [colorgrab](docs/colorgrab/) Version: 0.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/colorgrab?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/colorgrab?color=orange&style=flat-square)
 *   [gamehub](docs/gamehub/) Version: 0.16.0.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/gamehub?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/gamehub?color=orange&style=flat-square)
-*   [gitkraken](docs/gitkraken/) Version: 7.4.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/gitkraken?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/gitkraken?color=orange&style=flat-square)
 *   [glow](docs/glow/) Version: 1.3.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/glow?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/glow?color=orange&style=flat-square)
 *   [godot](docs/godot/) Version: 3.2.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/godot?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/godot?color=orange&style=flat-square)
 *   [gtk4](docs/gtk4/) Version: 4.0.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/gtk4?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/gtk4?color=orange&style=flat-square)
+*   [guitar](docs/guitar/) Version: 1.2.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/guitar?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/guitar?color=orange&style=flat-square)
 *   [i3-cheat](docs/i3-cheat/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-cheat?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-cheat?color=orange&style=flat-square)
 *   [i3-maim](docs/i3-maim/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-maim?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-maim?color=orange&style=flat-square)
 *   [i3-session](docs/i3-session/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-session?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-session?color=orange&style=flat-square)
@@ -116,4 +116,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-*   Last updated on: Tue 5th, Jan 2021 at 05:46:59PM
+*   Last updated on: Thu 7th, Jan 2021 at 06:18:54PM

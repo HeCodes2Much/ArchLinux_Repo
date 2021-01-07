@@ -16,10 +16,10 @@ pacman -Si *therepoclub/xtitle*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : xtitle
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 19.31 KiB
+<b>Download Size</b>   : 20.80 KiB
 <b>Installed Size</b>  : 18.94 KiB
 <b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 26 Oct 2020 12:45:13 GMT
+<b>Build Date</b>      : Thu 07 Jan 2021 14:51:11 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
