@@ -29,7 +29,7 @@ badges = '\n<p align="center">\n\
   <img src="https://img.shields.io/github/commit-activity/m/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">\n\
 </p>\n'
 readme.write(badges)
-readme.write(f"\n## Software\n")
+readme.write(f"\n## Software\n\n")
 
 def filebrowser(ext=""):
     "Returns files with an extension"
