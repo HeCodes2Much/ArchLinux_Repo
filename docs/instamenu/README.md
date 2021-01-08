@@ -4,9 +4,9 @@ pacman -Si *therepoclub/instamenu*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/instamenu-2021.01.03-1-any.pkg.tar.zst">instamenu</a>
-<b>Version</b>         : 2021.01.03-1
-<b>Description</b>     : dmenu like menu with the Manjaro Matcha-dark-sea theme
+<b>Name</b>            : <a href="../../x86_64/instamenu-2021.01.08-1-any.pkg.tar.zst">instamenu</a>
+<b>Version</b>         : 2021.01.08-1
+<b>Description</b>     : dmenu like menu with the Dracula theme
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/TheCynicalTeam/instamenu
 <b>Licenses</b>        : CC BY-NC-SA 4.0
@@ -16,10 +16,10 @@ pacman -Si *therepoclub/instamenu*
 <b>Optional Deps</b>   : instamenu-extra: Extra script that instamenu can use
 <b>Conflicts With</b>  : dmenu
 <b>Replaces</b>        : dmenu
-<b>Download Size</b>   : 51.89 KiB
-<b>Installed Size</b>  : 155.49 KiB
+<b>Download Size</b>   : 52.02 KiB
+<b>Installed Size</b>  : 155.42 KiB
 <b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 03 Jan 2021 12:42:31 GMT
+<b>Build Date</b>      : Fri 08 Jan 2021 16:26:46 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
