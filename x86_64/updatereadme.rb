@@ -97,8 +97,9 @@ for file in files
       end
 
       print("File Updated: (#{name} v#{version})\n")
+      aur_name = "#{get_aur_name(name)}"
       open("../README.md", "a") { |f|
-        f.write("*   [#{name}](docs/#{name}/) Version: #{version} ![AUR maintainer](https://img.shields.io/aur/maintainer/#{get_aur_name(name)}?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/'#{get_aur_name(name)}?color=orange&style=flat-square)\n")
+        f.write("*   [#{name}](docs/#{name}/) Version: #{version} ![AUR maintainer](https://img.shields.io/aur/maintainer/#{aur_name}?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/#{aur_name}?color=orange&style=flat-square)\n")
       }
       open("#{home}/.config/package-list", "a") { |f|
         f.write("#{name} #{version}\n")
