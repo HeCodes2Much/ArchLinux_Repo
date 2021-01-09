@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/recycle-cli*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/recycle-cli-2021.01.01-1-any.pkg.tar.zst">recycle-cli</a>
+<b>Name</b>            : <a href='../../x86_64/recycle-cli-2021.01.01-1-any.pkg.tar.zst'>recycle-cli</a>
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : A recycle bin cli in python 3
 <b>Architecture</b>    : any
@@ -25,4 +26,5 @@ pacman -Si *therepoclub/recycle-cli*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/recycle-cli*
+        
+pacman -S *therepoclub/{name}*

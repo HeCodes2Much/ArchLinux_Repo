@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/qt6ct*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/qt6ct-0.2-4-x86_64.pkg.tar.zst">qt6ct</a>
+<b>Name</b>            : <a href='../../x86_64/qt6ct-0.2-4-x86_64.pkg.tar.zst'>qt6ct</a>
 <b>Version</b>         : 0.2-4
 <b>Description</b>     : Qt 6 Configuration Utility
 <b>Architecture</b>    : x86_64
@@ -25,4 +26,5 @@ pacman -Si *therepoclub/qt6ct*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/qt6ct*
+        
+pacman -S *therepoclub/{name}*

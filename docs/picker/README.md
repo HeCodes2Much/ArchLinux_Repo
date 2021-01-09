@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/picker*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/picker-2021.01.01-1-any.pkg.tar.zst">picker</a>
+<b>Name</b>            : <a href='../../x86_64/picker-2021.01.01-1-any.pkg.tar.zst'>picker</a>
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : Bash wrapper for pacman and aur
 <b>Architecture</b>    : any
@@ -25,4 +26,5 @@ pacman -Si *therepoclub/picker*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/picker*
+        
+pacman -S *therepoclub/{name}*

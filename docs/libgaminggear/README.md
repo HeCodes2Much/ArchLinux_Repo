@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/libgaminggear*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/libgaminggear-0.15.1-9-x86_64.pkg.tar.zst">libgaminggear</a>
+<b>Name</b>            : <a href='../../x86_64/libgaminggear-0.15.1-9-x86_64.pkg.tar.zst'>libgaminggear</a>
 <b>Version</b>         : 0.15.1-9
 <b>Description</b>     : <b>Provides</b> functionality for gaming input devices
 <b>Architecture</b>    : x86_64
@@ -25,4 +26,5 @@ pacman -Si *therepoclub/libgaminggear*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/libgaminggear*
+        
+pacman -S *therepoclub/{name}*

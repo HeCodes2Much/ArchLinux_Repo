@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/glow*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/glow-1.3.0-1-x86_64.pkg.tar.zst">glow</a>
+<b>Name</b>            : <a href='../../x86_64/glow-1.3.0-1-x86_64.pkg.tar.zst'>glow</a>
 <b>Version</b>         : 1.3.0-1
 <b>Description</b>     : Markdown renderer for the CLI
 <b>Architecture</b>    : x86_64
@@ -25,4 +26,5 @@ pacman -Si *therepoclub/glow*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/glow*
+        
+pacman -S *therepoclub/{name}*

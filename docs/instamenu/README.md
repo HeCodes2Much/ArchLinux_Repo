@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/instamenu*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/instamenu-2021.01.08-1-any.pkg.tar.zst">instamenu</a>
+<b>Name</b>            : <a href='../../x86_64/instamenu-2021.01.08-1-any.pkg.tar.zst'>instamenu</a>
 <b>Version</b>         : 2021.01.08-1
 <b>Description</b>     : dmenu like menu with the Dracula theme
 <b>Architecture</b>    : any
@@ -25,4 +26,5 @@ pacman -Si *therepoclub/instamenu*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/instamenu*
+        
+pacman -S *therepoclub/{name}*

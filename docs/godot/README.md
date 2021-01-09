@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/godot*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/godot-3.2.3-1-x86_64.pkg.tar.zst">godot</a>
+<b>Name</b>            : <a href='../../x86_64/godot-3.2.3-1-x86_64.pkg.tar.zst'>godot</a>
 <b>Version</b>         : 3.2.3-1
 <b>Description</b>     : An advanced, feature packed, multi-platform 2D and 3D game engine
 <b>Architecture</b>    : x86_64
@@ -25,4 +26,5 @@ pacman -Si *therepoclub/godot*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/godot*
+        
+pacman -S *therepoclub/{name}*

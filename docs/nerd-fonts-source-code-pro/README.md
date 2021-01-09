@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/nerd-fonts-source-code-pro*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/nerd-fonts-source-code-pro-2.1.0-2-any.pkg.tar.zst">nerd-fonts-source-code-pro</a>
+<b>Name</b>            : <a href='../../x86_64/nerd-fonts-source-code-pro-2.1.0-2-any.pkg.tar.zst'>nerd-fonts-source-code-pro</a>
 <b>Version</b>         : 2.1.0-2
 <b>Description</b>     : Patched font SourceCodePro from nerd-fonts library
 <b>Architecture</b>    : any
@@ -25,4 +26,5 @@ pacman -Si *therepoclub/nerd-fonts-source-code-pro*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/nerd-fonts-source-code-pro*
+        
+pacman -S *therepoclub/{name}*

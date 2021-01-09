@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/roccat-tools-kova2016*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/roccat-tools-kova2016-5.9.0-3-x86_64.pkg.tar.zst">roccat-tools-kova2016</a>
+<b>Name</b>            : <a href='../../x86_64/roccat-tools-kova2016-5.9.0-3-x86_64.pkg.tar.zst'>roccat-tools-kova2016</a>
 <b>Version</b>         : 5.9.0-3
 <b>Description</b>     : Userland applications to configure and make extended use of ROCCAT Kova2016 devices
 <b>Architecture</b>    : x86_64
@@ -25,4 +26,5 @@ pacman -Si *therepoclub/roccat-tools-kova2016*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/roccat-tools-kova2016*
+        
+pacman -S *therepoclub/{name}*

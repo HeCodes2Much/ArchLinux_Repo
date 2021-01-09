@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/roccat-tools-skeltr*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/roccat-tools-skeltr-5.9.0-3-x86_64.pkg.tar.zst">roccat-tools-skeltr</a>
+<b>Name</b>            : <a href='../../x86_64/roccat-tools-skeltr-5.9.0-3-x86_64.pkg.tar.zst'>roccat-tools-skeltr</a>
 <b>Version</b>         : 5.9.0-3
 <b>Description</b>     : Userland applications to configure and make extended use of ROCCAT Skeltr devices
 <b>Architecture</b>    : x86_64
@@ -25,4 +26,5 @@ pacman -Si *therepoclub/roccat-tools-skeltr*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/roccat-tools-skeltr*
+        
+pacman -S *therepoclub/{name}*

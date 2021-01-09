@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/touchpad-indicator*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/touchpad-indicator-2.3.2-1-any.pkg.tar.zst">touchpad-indicator</a>
+<b>Name</b>            : <a href='../../x86_64/touchpad-indicator-2.3.2-1-any.pkg.tar.zst'>touchpad-indicator</a>
 <b>Version</b>         : 2.3.2-1
 <b>Description</b>     : An indicator for the touchpad
 <b>Architecture</b>    : any
@@ -25,4 +26,5 @@ pacman -Si *therepoclub/touchpad-indicator*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/touchpad-indicator*
+        
+pacman -S *therepoclub/{name}*

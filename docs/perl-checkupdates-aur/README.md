@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/perl-checkupdates-aur*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/perl-checkupdates-aur-0.04-1-any.pkg.tar.zst">perl-checkupdates-aur</a>
+<b>Name</b>            : <a href='../../x86_64/perl-checkupdates-aur-0.04-1-any.pkg.tar.zst'>perl-checkupdates-aur</a>
 <b>Version</b>         : 0.04-1
 <b>Description</b>     : checkupdates for aur
 <b>Architecture</b>    : any
@@ -25,4 +26,5 @@ pacman -Si *therepoclub/perl-checkupdates-aur*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/perl-checkupdates-aur*
+        
+pacman -S *therepoclub/{name}*

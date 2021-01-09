@@ -2,8 +2,8 @@
 require 'date'
 require 'active_support/core_ext/integer/inflections'
 require 'open3'
-require 'nokogiri'
 require 'open-uri'
+require 'json'
 
 def get_file_name(file)
   begin
@@ -31,57 +31,37 @@ def get_file_version(file)
   end
 end
 
-def get_aur_maintainer_name(name)
+def get_aur_name(name)
   begin
-    aur_maintainer = Nokogiri::HTML.parse(URI.open("https://img.shields.io/aur/maintainer/#{name}"))
-    title = aur_maintainer.title.gsub('maintainer: ', '')
-    if title == "package not found"
-        new_name = "#{name}-git"
+    packages = []
+    response = URI.open("https://aur.archlinux.org/rpc/?v=5&type=search&arg=#{CGI.escape(name)}").read
+    data = JSON.parse(response)
+    
+    title = data["results"]
+    title.each do |title|
+      new_name = title["Name"]
+      packages.push(new_name)
+    end
 
-        aur_maintainer = Nokogiri::HTML.parse(URI.open("https://img.shields.io/aur/maintainer/#{new_name}"))
-        title = aur_maintainer.title.gsub('maintainer: ', '')
-
-        if title == "package not found"
-            new_name = "#{name}-bin"
-            aur_maintainer = Nokogiri::HTML.parse(URI.open("https://img.shields.io/aur/maintainer/#{new_name}"))
-            title = aur_maintainer.title.gsub('maintainer: ', '')
-        end
+    if packages.include?("#{name}")
+      return "#{name}"
+    elsif packages.include?("#{name}-git")
+      return "#{name}-git"
+    elsif packages.include?("#{name}-bin")
+      return "#{name}-bin"
+    else
+      return "#{name}"
     end
   rescue => e
     retry
   end
-
-  return title
 end
 
-def get_aur_license_name(name)
-  begin
-    aur_maintainer = Nokogiri::HTML.parse(URI.open("https://img.shields.io/aur/license/#{name}"))
-    title = aur_maintainer.title.gsub('license: ', '')
-    if title == "package not found"
-        new_name = "#{name}-git"
-
-        aur_maintainer = Nokogiri::HTML.parse(URI.open("https://img.shields.io/aur/license/#{new_name}"))
-        title = aur_maintainer.title.gsub('license: ', '')
-
-        if title == "package not found"
-            new_name = "#{name}-bin"
-            aur_maintainer = Nokogiri::HTML.parse(URI.open("https://img.shields.io/aur/license/#{new_name}"))
-            title = aur_maintainer.title.gsub('license: ', '')
-        end
-    end
-  rescue => e
-    retry
-  end
-
-  return title
-end
-
-open('../README.md', 'w') { |f|
+open("../README.md", "w") { |f|
   f.write("")
 }
 home = Dir.home
-open("#{home}/.config/package-list", 'w') { |f|
+open("#{home}/.config/package-list", "w") { |f|
   f.write("")
 }
 
@@ -98,7 +78,7 @@ badges = ("# <img src='favicon.ico'> The Repo Club's Arch Repo <img src='favicon
 </p>
 \n## Software\n")
 
-open('../README.md', 'a') { |f|
+open("../README.md", "a") { |f|
   f.write(badges)
 }
 
@@ -116,11 +96,11 @@ for file in files
         version = get_file_name(file.to_s)
       end
 
-      print("File Updated: (#{name} v#{version}) #{get_aur_maintainer_name(name)} #{get_aur_license_name(name)}\n")
-      open('../README.md', 'a') { |f|
-        f.write("*   [#{name}](docs/#{name}/) Version: #{version} ![AUR maintainer](https://img.shields.io/aur/maintainer/#{get_aur_maintainer_name(name)}?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/'#{get_aur_license_name(name)}?color=orange&style=flat-square)\n")
+      print("File Updated: (#{name} v#{version})\n")
+      open("../README.md", "a") { |f|
+        f.write("*   [#{name}](docs/#{name}/) Version: #{version} ![AUR maintainer](https://img.shields.io/aur/maintainer/#{get_aur_name(name)}?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/'#{get_aur_name(name)}?color=orange&style=flat-square)\n")
       }
-      open("#{home}/.config/package-list", 'a') { |f|
+      open("#{home}/.config/package-list", "a") { |f|
         f.write("#{name} #{version}\n")
       }
     end
@@ -139,7 +119,7 @@ multiline_addrepo = ("\n## Add my repo\n"\
 "\nTo check signature, add my key:\n"\
 "```\nsudo pacman-key --keyserver hkp://pgp.net.nz --recv-key 75A38DC684F1A0B808918BCEE30EC2FBFB05C44F\nsudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BCEE30EC2FBFB05C44F\n```")
 
-open('../README.md', 'a') { |f|
+open("../README.md", "a") { |f|
   f.write(multiline_addrepo)
 }
 
@@ -151,6 +131,6 @@ multiline_showsupport = ("\n## Show your support\n"\
 "\nThis README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)\n"\
 "*   #{dt}")
 
-open('../README.md', 'a') { |f|
+open("../README.md", "a") { |f|
   f.write(multiline_showsupport)
 }

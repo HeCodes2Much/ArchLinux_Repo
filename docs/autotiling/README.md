@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/autotiling*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/autotiling-1.2-1-x86_64.pkg.tar.zst">autotiling</a>
+<b>Name</b>            : <a href='../../x86_64/autotiling-1.2-1-x86_64.pkg.tar.zst'>autotiling</a>
 <b>Version</b>         : 1.2-1
 <b>Description</b>     : Script for sway and i3 to automatically switch the horizontal / vertical window split orientation
 <b>Architecture</b>    : x86_64
@@ -25,4 +26,5 @@ pacman -Si *therepoclub/autotiling*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/autotiling*
+        
+pacman -S *therepoclub/{name}*

@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/qt5-color-widgets*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/qt5-color-widgets-2021.01.01-1-x86_64.pkg.tar.zst">qt5-color-widgets</a>
+<b>Name</b>            : <a href='../../x86_64/qt5-color-widgets-2021.01.01-1-x86_64.pkg.tar.zst'>qt5-color-widgets</a>
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : A user-friendly color dialog and several color-related widgets for Qt
 <b>Architecture</b>    : x86_64
@@ -26,4 +27,5 @@ pacman -Si *therepoclub/qt5-color-widgets*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/qt5-color-widgets*
+        
+pacman -S *therepoclub/{name}*

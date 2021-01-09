@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/qt5-styleplugins*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/qt5-styleplugins-5.0.0.20170311-26-x86_64.pkg.tar.zst">qt5-styleplugins</a>
+<b>Name</b>            : <a href='../../x86_64/qt5-styleplugins-5.0.0.20170311-26-x86_64.pkg.tar.zst'>qt5-styleplugins</a>
 <b>Version</b>         : 5.0.0.20170311-26
 <b>Description</b>     : Additional style plugins for Qt5
 <b>Architecture</b>    : x86_64
@@ -25,4 +26,5 @@ pacman -Si *therepoclub/qt5-styleplugins*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/qt5-styleplugins*
+        
+pacman -S *therepoclub/{name}*

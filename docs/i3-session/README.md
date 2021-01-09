@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/i3-session*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/i3-session-2021.01.01-1-any.pkg.tar.zst">i3-session</a>
+<b>Name</b>            : <a href='../../x86_64/i3-session-2021.01.01-1-any.pkg.tar.zst'>i3-session</a>
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : Remembers what's running in your i3 workspaces by saving a session file
 <b>Architecture</b>    : any
@@ -25,4 +26,5 @@ pacman -Si *therepoclub/i3-session*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/i3-session*
+        
+pacman -S *therepoclub/{name}*

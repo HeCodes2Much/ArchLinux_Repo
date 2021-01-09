@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/guitar*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/guitar-1.2.0-1-x86_64.pkg.tar.zst">guitar</a>
+<b>Name</b>            : <a href='../../x86_64/guitar-1.2.0-1-x86_64.pkg.tar.zst'>guitar</a>
 <b>Version</b>         : 1.2.0-1
 <b>Description</b>     : Open source Git GUI Client
 <b>Architecture</b>    : x86_64
@@ -25,4 +26,5 @@ pacman -Si *therepoclub/guitar*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/guitar*
+        
+pacman -S *therepoclub/{name}*

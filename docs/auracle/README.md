@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/auracle*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/auracle-r366.8739929-1-x86_64.pkg.tar.zst">auracle</a>
+<b>Name</b>            : <a href='../../x86_64/auracle-r366.8739929-1-x86_64.pkg.tar.zst'>auracle</a>
 <b>Version</b>         : r366.8739929-1
 <b>Description</b>     : A flexible client for the AUR
 <b>Architecture</b>    : x86_64
@@ -25,4 +26,5 @@ pacman -Si *therepoclub/auracle*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/auracle*
+        
+pacman -S *therepoclub/{name}*

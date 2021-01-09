@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/minecraft-launcher*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/minecraft-launcher-2.2.909-1-x86_64.pkg.tar.zst">minecraft-launcher</a>
+<b>Name</b>            : <a href='../../x86_64/minecraft-launcher-2.2.909-1-x86_64.pkg.tar.zst'>minecraft-launcher</a>
 <b>Version</b>         : 2.2.909-1
 <b>Description</b>     : Official Minecraft Launcher
 <b>Architecture</b>    : x86_64
@@ -25,4 +26,5 @@ pacman -Si *therepoclub/minecraft-launcher*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/minecraft-launcher*
+        
+pacman -S *therepoclub/{name}*

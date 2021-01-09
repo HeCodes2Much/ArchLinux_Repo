@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/python-i3-py*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/python-i3-py-0.6.7-7-any.pkg.tar.zst">python-i3-py</a>
+<b>Name</b>            : <a href='../../x86_64/python-i3-py-0.6.7-7-any.pkg.tar.zst'>python-i3-py</a>
 <b>Version</b>         : 0.6.7-7
 <b>Description</b>     : tools for i3 users and developers
 <b>Architecture</b>    : any
@@ -25,4 +26,5 @@ pacman -Si *therepoclub/python-i3-py*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/python-i3-py*
+        
+pacman -S *therepoclub/{name}*

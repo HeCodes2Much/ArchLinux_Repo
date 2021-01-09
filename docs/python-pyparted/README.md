@@ -1,10 +1,11 @@
 # Check therepoclub for download
 
-pacman -Si *therepoclub/python-pyparted*
+        
+pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/python-pyparted-3.11.7-1-x86_64.pkg.tar.zst">python-pyparted</a>
+<b>Name</b>            : <a href='../../x86_64/python-pyparted-3.11.7-1-x86_64.pkg.tar.zst'>python-pyparted</a>
 <b>Version</b>         : 3.11.7-1
 <b>Description</b>     : Python module for GNU parted
 <b>Architecture</b>    : x86_64
@@ -25,4 +26,5 @@ pacman -Si *therepoclub/python-pyparted*
 
 ## How to install from therepoclub
 
-pacman -S *therepoclub/python-pyparted*
+        
+pacman -S *therepoclub/{name}*
