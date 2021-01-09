@@ -113,7 +113,7 @@ end
 multiline_addrepo = ("\n## Add my repo\n"\
 "* **Maintainer:** [TheCynicalTeam](https://aur.archlinux.org/account/TheCynicalTeam/)\n"\
 "* **Description:**  A repository with some AUR packages that the team uses\n"\
-"* **Upstream page:** https://arch.therepo.club/\n"
+"* **Upstream page:** https://arch.therepo.club/\n"\
 "* **Key-ID:** 10DF 44AC D4C8 4539 53B7 CCBA 206A DED6 6160 901B\n"\
 "* **Fingerprint:** [download](http://pgp.net.nz:11371/pks/lookup?op=vindex&fingerprint=on&search=0x96414492E2220753)\n"\
 "\nAppend to */etc/pacman.conf*:\n```\n[therepoclub]\nSigLevel = Required DatabaseOptional\nServer = https://arch.therepo.club/$arch/\n```"\

@@ -90,6 +90,11 @@
 *   [touchpad-indicator](docs/touchpad-indicator/) Version: 2.3.2-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/touchpad-indicator-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/touchpad-indicator-git?color=orange&style=flat-square)
 *   [tty-clock](docs/tty-clock/) Version: 2.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/tty-clock?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/tty-clock?color=orange&style=flat-square)
 *   [xtitle](docs/xtitle/) Version: 20190826-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/xtitle?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/xtitle?color=orange&style=flat-square)
+
+## Add my repo
+* **Maintainer:** [TheCynicalTeam](https://aur.archlinux.org/account/TheCynicalTeam/)
+* **Description:**  A repository with some AUR packages that the team uses
+* **Upstream page:** https://arch.therepo.club/
 * **Key-ID:** 10DF 44AC D4C8 4539 53B7 CCBA 206A DED6 6160 901B
 * **Fingerprint:** [download](http://pgp.net.nz:11371/pks/lookup?op=vindex&fingerprint=on&search=0x96414492E2220753)
 
@@ -109,4 +114,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-*   Last updated on: Sat 9th, Jan 2021 at 03:10:54PM
+*   Last updated on: Sat 9th, Jan 2021 at 03:13:27PM
