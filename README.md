@@ -114,8 +114,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-<<<<<<< HEAD
-*   Last updated on: Sun 10th, Jan 2021 at 05:27:22PM
-=======
-*   Last updated on: Sun 10th, Jan 2021 at 02:19:12PM
->>>>>>> parent of fdc9810 (Repo update 10/01/2021_14:33:25_GMT)
+*   Last updated on: Sun 10th, Jan 2021 at 05:32:34PM
