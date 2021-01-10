@@ -60,6 +60,8 @@ for file in files
   begin
     ignore = open("../ignorepackages", "r").read
     name = get_file_name(file.to_s)
+    Dir.mkdir("#{name}") unless File.exists?("#{name}")
+    File.new "#{name}/README.md", "w" unless File.exists?("#{name}/README.md")
     if not ignore.include?(name)
       version = get_file_version(file.to_s, name)
       if not name
