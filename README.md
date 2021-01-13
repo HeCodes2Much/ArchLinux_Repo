@@ -23,7 +23,7 @@
 *   [gamehub](docs/gamehub/) Version: 0.16.0.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/gamehub?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/gamehub?color=orange&style=flat-square)
 *   [glow](docs/glow/) Version: 1.3.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/glow?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/glow?color=orange&style=flat-square)
 *   [godot](docs/godot/) Version: 3.2.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/godot?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/godot?color=orange&style=flat-square)
-*   [gtk4](docs/gtk4/) Version: 4.0.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/gtk4?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/gtk4?color=orange&style=flat-square)
+*   [gtk4](docs/gtk4/) Version: 4.0.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/gtk4-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/gtk4-git?color=orange&style=flat-square)
 *   [guitar](docs/guitar/) Version: 1.2.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/guitar?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/guitar?color=orange&style=flat-square)
 *   [i3-cheat](docs/i3-cheat/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-cheat?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-cheat?color=orange&style=flat-square)
 *   [i3-maim](docs/i3-maim/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-maim?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-maim?color=orange&style=flat-square)
@@ -114,4 +114,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-*   Last updated on: Sun 10th, Jan 2021 at 09:42:15PM
+*   Last updated on: Wed 13th, Jan 2021 at 02:44:41PM
