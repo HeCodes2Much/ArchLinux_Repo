@@ -5,7 +5,7 @@ pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/colorgrab-0.3-1-x86_64.pkg.tar.zst'>colorgrab</a>
+<b>Name</b>            : <a href='../../x86_64/colorgrab-0.3-2-x86_64.pkg.tar.zst'>colorgrab</a>
 <b>Version</b>         : 0.3-1
 <b>Description</b>     : A cross-platform color picker.
 <b>Architecture</b>    : x86_64
