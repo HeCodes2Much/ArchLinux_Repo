@@ -5,8 +5,8 @@ pacman -Si *therepoclub/{name}*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/instamenu-2021.01.08-1-any.pkg.tar.zst'>instamenu</a>
-<b>Version</b>         : 2021.01.08-1
+<b>Name</b>            : <a href='../../x86_64/instamenu-2021.01.15-1-any.pkg.tar.zst'>instamenu</a>
+<b>Version</b>         : 2021.01.15-1
 <b>Description</b>     : dmenu like menu with the Dracula theme
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/TheCynicalTeam/instamenu
@@ -17,10 +17,10 @@ pacman -Si *therepoclub/{name}*
 <b>Optional Deps</b>   : instamenu-extra: Extra script that instamenu can use
 <b>Conflicts With</b>  : dmenu
 <b>Replaces</b>        : dmenu
-<b>Download Size</b>   : 52.02 KiB
-<b>Installed Size</b>  : 155.42 KiB
+<b>Download Size</b>   : 51.90 KiB
+<b>Installed Size</b>  : 155.53 KiB
 <b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 08 Jan 2021 16:26:46 GMT
+<b>Build Date</b>      : Fri 15 Jan 2021 16:48:56 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
