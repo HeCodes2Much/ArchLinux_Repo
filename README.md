@@ -51,7 +51,7 @@
 *   [perl-checkupdates-aur](docs/perl-checkupdates-aur/) Version: 0.04-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/perl-checkupdates-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/perl-checkupdates-aur?color=orange&style=flat-square)
 *   [perl-www-aur](docs/perl-www-aur/) Version: 0.22-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/perl-www-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/perl-www-aur?color=orange&style=flat-square)
 *   [picker](docs/picker/) Version: 2021.01.16-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/picker?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/picker?color=orange&style=flat-square)
-*   [polkit-dumb-agent](docs/polkit-dumb-agent/) Version: 2020.12.30-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/polkit-dumb-agent-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/polkit-dumb-agent-git?color=orange&style=flat-square)
+*   [polkit-dumb-agent](docs/polkit-dumb-agent/) Version: 2021.01.17-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/polkit-dumb-agent-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/polkit-dumb-agent-git?color=orange&style=flat-square)
 *   [pyfetch](docs/pyfetch/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/pyfetch?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/pyfetch?color=orange&style=flat-square)
 *   [python-gputil](docs/python-gputil/) Version: 1.4.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/python-gputil?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/python-gputil?color=orange&style=flat-square)
 *   [python-i3-py](docs/python-i3-py/) Version: 0.6.7-7 ![AUR maintainer](https://img.shields.io/aur/maintainer/python-i3-py?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/python-i3-py?color=orange&style=flat-square)
@@ -88,7 +88,7 @@
 *   [roccat-tools-suora](docs/roccat-tools-suora/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-suora?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-suora?color=orange&style=flat-square)
 *   [roccat-tools-tyon](docs/roccat-tools-tyon/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-tyon?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-tyon?color=orange&style=flat-square)
 *   [siji](docs/siji/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/siji?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/siji?color=orange&style=flat-square)
-*   [touchpad-indicator](docs/touchpad-indicator/) Version: 2.3.2-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/touchpad-indicator-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/touchpad-indicator-git?color=orange&style=flat-square)
+*   [touchpad-indicator](docs/touchpad-indicator/) Version: 2021.01.17-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/touchpad-indicator-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/touchpad-indicator-git?color=orange&style=flat-square)
 *   [tty-clock](docs/tty-clock/) Version: 2.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/tty-clock?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/tty-clock?color=orange&style=flat-square)
 *   [xtitle](docs/xtitle/) Version: 20190826-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/xtitle?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/xtitle?color=orange&style=flat-square)
 
@@ -115,4 +115,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-*   Last updated on: Sun 17th, Jan 2021 at 05:55:54PM
+*   Last updated on: Sun 17th, Jan 2021 at 06:12:37PM
