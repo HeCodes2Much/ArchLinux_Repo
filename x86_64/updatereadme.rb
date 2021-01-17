@@ -83,7 +83,9 @@ open("../README.md", "a") { |f|
 }
 
 files = Dir["*.pkg.tar.zst"].sort
+pkgcount = 0
 for file in files
+  pkgcount += 1
   begin
     ignore = open("../ignorepackages", "r").read
     name = get_file_name(file.to_s)
@@ -109,6 +111,7 @@ for file in files
     retry
   end
 end
+print("There have been #{pkgcount} packages uploaded!\n")
 
 multiline_addrepo = ("\n## Add my repo\n"\
 "* **Maintainer:** [TheCynicalTeam](https://aur.archlinux.org/account/TheCynicalTeam/)\n"\
