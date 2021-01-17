@@ -14,7 +14,7 @@
 ## Software
 *   [auracle](docs/auracle/) Version: r366.8739929-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/auracle-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/auracle-git?color=orange&style=flat-square)
 *   [autotiling](docs/autotiling/) Version: 1.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/autotiling?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/autotiling?color=orange&style=flat-square)
-*   [bpytop](docs/bpytop/) Version: 1.0.57-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bpytop-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bpytop-git?color=orange&style=flat-square)
+*   [bpytop](docs/bpytop/) Version: 1.0.59-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bpytop-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bpytop-git?color=orange&style=flat-square)
 *   [bumblebee-status](docs/bumblebee-status/) Version: 2.1.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bumblebee-status?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bumblebee-status?color=orange&style=flat-square)
 *   [checkupdates+aur](docs/checkupdates+aur/) Version: 1-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/checkupdates+aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/checkupdates+aur?color=orange&style=flat-square)
 *   [checkupdates-aur](docs/checkupdates-aur/) Version: 0.04-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/checkupdates-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/checkupdates-aur?color=orange&style=flat-square)
@@ -36,7 +36,7 @@
 *   [lib32-libxft-bgra](docs/lib32-libxft-bgra/) Version: 2.3.3.r7.7808631e-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/lib32-libxft-bgra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/lib32-libxft-bgra?color=orange&style=flat-square)
 *   [libgaminggear](docs/libgaminggear/) Version: 0.15.1-9 ![AUR maintainer](https://img.shields.io/aur/maintainer/libgaminggear?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/libgaminggear?color=orange&style=flat-square)
 *   [libxft-bgra](docs/libxft-bgra/) Version: 2.3.3.r7.7808631e-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/libxft-bgra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/libxft-bgra?color=orange&style=flat-square)
-*   [minecraft-launcher](docs/minecraft-launcher/) Version: 2.2.909-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/minecraft-launcher?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/minecraft-launcher?color=orange&style=flat-square)
+*   [minecraft-launcher](docs/minecraft-launcher/) Version: 2.2.1262-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/minecraft-launcher?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/minecraft-launcher?color=orange&style=flat-square)
 *   [multimc5](docs/multimc5/) Version: 0.6.11-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/multimc5?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/multimc5?color=orange&style=flat-square)
 *   [multimonitorlock](docs/multimonitorlock/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/multimonitorlock?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/multimonitorlock?color=orange&style=flat-square)
 *   [multimonitorlock-gui](docs/multimonitorlock-gui/) Version: 2021.01.02-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/multimonitorlock-gui?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/multimonitorlock-gui?color=orange&style=flat-square)
@@ -114,4 +114,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-*   Last updated on: Sat 16th, Jan 2021 at 08:19:19PM
+*   Last updated on: Sun 17th, Jan 2021 at 12:20:36PM

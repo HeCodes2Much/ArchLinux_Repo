@@ -102,7 +102,7 @@ for file in files
         f.write("*   [#{name}](docs/#{name}/) Version: #{version} ![AUR maintainer](https://img.shields.io/aur/maintainer/#{aur_name}?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/#{aur_name}?color=orange&style=flat-square)\n")
       }
       open("#{home}/.config/package-list", "a") { |f|
-        f.write("#{name} #{version}\n")
+        f.write("#{name}\n")
       }
     end
   rescue TypeError
