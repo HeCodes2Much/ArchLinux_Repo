@@ -17,10 +17,10 @@ pacman -Si *therepoclub/{name}*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 20.21 KiB
-<b>Installed Size</b>  : 25.91 KiB
+<b>Download Size</b>   : 20.23 KiB
+<b>Installed Size</b>  : 26.57 KiB
 <b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 18 Jan 2021 19:12:22 GMT
+<b>Build Date</b>      : Mon 18 Jan 2021 20:00:31 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
