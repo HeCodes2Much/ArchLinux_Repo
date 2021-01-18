@@ -55,7 +55,6 @@
 *   [pyfetch](docs/pyfetch/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/pyfetch?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/pyfetch?color=orange&style=flat-square)
 *   [python-gputil](docs/python-gputil/) Version: 1.4.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/python-gputil?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/python-gputil?color=orange&style=flat-square)
 *   [python-i3-py](docs/python-i3-py/) Version: 0.6.7-7 ![AUR maintainer](https://img.shields.io/aur/maintainer/python-i3-py?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/python-i3-py?color=orange&style=flat-square)
-*   [python-pyparted](docs/python-pyparted/) Version: 3.11.7-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/python-pyparted?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/python-pyparted?color=orange&style=flat-square)
 *   [qt-logout](docs/qt-logout/) Version: 2021.01.02-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt-logout?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt-logout?color=orange&style=flat-square)
 *   [qt5-color-widgets](docs/qt5-color-widgets/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt5-color-widgets?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt5-color-widgets?color=orange&style=flat-square)
 *   [qt5-styleplugins](docs/qt5-styleplugins/) Version: 5.0.0.20170311-26 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt5-styleplugins?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt5-styleplugins?color=orange&style=flat-square)
@@ -115,4 +114,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-*   Last updated on: Sun 17th, Jan 2021 at 06:12:37PM
+*   Last updated on: Mon 18th, Jan 2021 at 04:04:21PM
