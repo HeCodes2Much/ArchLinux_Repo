@@ -27,10 +27,10 @@ pacman -Si *therepoclub/{name}*
                   xorg-xrandr: Resolution detection (Multi Monitor + Refresh rates)
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 122.37 KiB
-<b>Installed Size</b>  : 378.70 KiB
+<b>Download Size</b>   : 122.35 KiB
+<b>Installed Size</b>  : 378.60 KiB
 <b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 18 Jan 2021 22:16:04 GMT
+<b>Build Date</b>      : Tue 19 Jan 2021 00:13:47 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
