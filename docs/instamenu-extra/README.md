@@ -13,14 +13,14 @@ pacman -Si *therepoclub/{name}*
 <b>Licenses</b>        : CC BY-NC-SA 4.0
 <b>Groups</b>          : None
 <b>Provides</b>        : instamenu-extra
-<b>Depends On</b>      : autorandr  instamenu  instamenu-schemas
+<b>Depends On</b>      : bash  autorandr  instamenu  instamenu-schemas  python>=3.4
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 60.00 KiB
+<b>Download Size</b>   : 60.53 KiB
 <b>Installed Size</b>  : 143.48 KiB
 <b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 15 Jan 2021 16:48:53 GMT
+<b>Build Date</b>      : Tue 19 Jan 2021 15:07:23 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
