@@ -50,6 +50,8 @@
 *   [nerd-fonts-mononoki](docs/nerd-fonts-mononoki/) Version: 2.1.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-mononoki?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-mononoki?color=orange&style=flat-square)
 *   [nerd-fonts-roboto-mono](docs/nerd-fonts-roboto-mono/) Version: 2.1.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-roboto-mono?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-roboto-mono?color=orange&style=flat-square)
 *   [nerd-fonts-source-code-pro](docs/nerd-fonts-source-code-pro/) Version: 2.1.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-source-code-pro?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-source-code-pro?color=orange&style=flat-square)
+*   [opendoas](docs/opendoas/) Version: 6.8-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/opendoas-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/opendoas-git?color=orange&style=flat-square)
+*   [opendoas-sudo](docs/opendoas-sudo/) Version: 1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/opendoas-sudo?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/opendoas-sudo?color=orange&style=flat-square)
 *   [perl-checkupdates-aur](docs/perl-checkupdates-aur/) Version: 0.04-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/perl-checkupdates-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/perl-checkupdates-aur?color=orange&style=flat-square)
 *   [perl-www-aur](docs/perl-www-aur/) Version: 0.22-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/perl-www-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/perl-www-aur?color=orange&style=flat-square)
 *   [picker](docs/picker/) Version: 2021.01.16-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/picker?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/picker?color=orange&style=flat-square)
@@ -116,4 +118,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-*   Last updated on: Wed 20th, Jan 2021 at 04:44:40PM
+*   Last updated on: Wed 20th, Jan 2021 at 05:26:25PM
