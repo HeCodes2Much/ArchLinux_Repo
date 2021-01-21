@@ -11,7 +11,7 @@ pacman -Si *therepoclub/bfetch*
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/TheCynicalTeam/bfetch
 <b>Licenses</b>        : CC BY-NC-SA 4.0
-<b>Groups</b>          : None
+<b>Groups</b>          : therepoclub
 <b>Provides</b>        : None
 <b>Depends On</b>      : bash
 <b>Optional Deps</b>   : catimg: Display Images
@@ -27,10 +27,10 @@ pacman -Si *therepoclub/bfetch*
                   xorg-xrandr: Resolution detection (Multi Monitor + Refresh rates)
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 122.35 KiB
+<b>Download Size</b>   : 122.59 KiB
 <b>Installed Size</b>  : 378.60 KiB
 <b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 19 Jan 2021 00:13:47 GMT
+<b>Build Date</b>      : Thu 21 Jan 2021 17:39:56 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -11,16 +11,16 @@ pacman -Si *therepoclub/picker*
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/TheCynicalTeam/picker
 <b>Licenses</b>        : CC BY-NC-SA 4.0
-<b>Groups</b>          : None
+<b>Groups</b>          : therepoclub
 <b>Provides</b>        : picker
 <b>Depends On</b>      : grep  sed  bash  curl  pacman  jshon  expac
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 45.63 KiB
+<b>Download Size</b>   : 45.62 KiB
 <b>Installed Size</b>  : 86.45 KiB
 <b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 21 Jan 2021 14:14:58 GMT
+<b>Build Date</b>      : Thu 21 Jan 2021 17:39:16 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
