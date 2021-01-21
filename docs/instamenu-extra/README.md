@@ -11,16 +11,16 @@ pacman -Si *therepoclub/instamenu-extra*
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/TheCynicalTeam/instamenu-extra
 <b>Licenses</b>        : CC BY-NC-SA 4.0
-<b>Groups</b>          : None
+<b>Groups</b>          : therepoclub
 <b>Provides</b>        : instamenu-extra
 <b>Depends On</b>      : bash  autorandr  instamenu  instamenu-schemas  python>=3.4
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 60.53 KiB
+<b>Download Size</b>   : 60.75 KiB
 <b>Installed Size</b>  : 143.48 KiB
 <b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 19 Jan 2021 15:07:23 GMT
+<b>Build Date</b>      : Thu 21 Jan 2021 17:50:54 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -11,16 +11,16 @@ pacman -Si *therepoclub/multimonitorlock-gui*
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/TheCynicalTeam/multimonitorlock-gui
 <b>Licenses</b>        : CC BY-NC-SA 4.0
-<b>Groups</b>          : None
+<b>Groups</b>          : therepoclub
 <b>Provides</b>        : None
 <b>Depends On</b>      : pyside6  multimonitorlock  gtk-engine-murrine
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 17.04 KiB
+<b>Download Size</b>   : 18.09 KiB
 <b>Installed Size</b>  : 10.93 KiB
 <b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 02 Jan 2021 10:56:27 GMT
+<b>Build Date</b>      : Thu 21 Jan 2021 17:54:38 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
