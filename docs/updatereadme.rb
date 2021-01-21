@@ -74,7 +74,7 @@ for file in files
       print("File Updated: (#{name})\n")
       open("#{name}/README.md", "w") { |f|
         f.write("# Check therepoclub for download\n
-        \npacman -Si *therepoclub/{name}*\n")
+        \npacman -Si *therepoclub/#{name}*\n")
       }
       highlight = '<div class="highlight"><pre class="highlight"><text>'
       open("#{name}/README.md", "a") { |f|
@@ -89,7 +89,7 @@ for file in files
       }
       open("#{name}/README.md", "a") { |f|
         f.write("\n## How to install from therepoclub\n
-        \npacman -S *therepoclub/{name}*\n")
+        \npacman -S *therepoclub/#{name}*\n")
       }
     end
   rescue TypeError

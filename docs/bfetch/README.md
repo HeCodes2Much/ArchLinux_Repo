@@ -1,7 +1,7 @@
 # Check therepoclub for download
 
         
-pacman -Si *therepoclub/{name}*
+pacman -Si *therepoclub/bfetch*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
@@ -37,4 +37,4 @@ pacman -Si *therepoclub/{name}*
 ## How to install from therepoclub
 
         
-pacman -S *therepoclub/{name}*
+pacman -S *therepoclub/bfetch*
