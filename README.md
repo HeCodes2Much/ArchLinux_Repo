@@ -14,8 +14,8 @@
 ## Software
 *   [auracle](docs/auracle/) Version: r366.8739929-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/auracle-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/auracle-git?color=orange&style=flat-square)
 *   [autotiling](docs/autotiling/) Version: 1.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/autotiling?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/autotiling?color=orange&style=flat-square)
-*   [bfetch](docs/bfetch/) Version: 2021.01.18-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bfetch?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bfetch?color=orange&style=flat-square)
-*   [bpytop](docs/bpytop/) Version: 1.0.59-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bpytop-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bpytop-git?color=orange&style=flat-square)
+*   [bfetch](docs/bfetch/) Version: 2021.01.23-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bfetch?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bfetch?color=orange&style=flat-square)
+*   [bpytop](docs/bpytop/) Version: 1.0.60-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bpytop-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bpytop-git?color=orange&style=flat-square)
 *   [bspwm-cheat](docs/bspwm-cheat/) Version: 2021.01.17-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bspwm-cheat?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bspwm-cheat?color=orange&style=flat-square)
 *   [bumblebee-status](docs/bumblebee-status/) Version: 2.1.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bumblebee-status?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bumblebee-status?color=orange&style=flat-square)
 *   [checkupdates+aur](docs/checkupdates+aur/) Version: 1-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/checkupdates+aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/checkupdates+aur?color=orange&style=flat-square)
@@ -30,7 +30,7 @@
 *   [i3-cheat](docs/i3-cheat/) Version: 2021.01.17-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-cheat?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-cheat?color=orange&style=flat-square)
 *   [i3-maim](docs/i3-maim/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-maim?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-maim?color=orange&style=flat-square)
 *   [i3-session](docs/i3-session/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-session?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-session?color=orange&style=flat-square)
-*   [i3-swallow](docs/i3-swallow/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-swallow?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-swallow?color=orange&style=flat-square)
+*   [i3-swallow](docs/i3-swallow/) Version: 2021.01.01-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3-swallow?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3-swallow?color=orange&style=flat-square)
 *   [i3lock-color](docs/i3lock-color/) Version: 2.13.c.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/i3lock-color?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/i3lock-color?color=orange&style=flat-square)
 *   [instamenu](docs/instamenu/) Version: 2021.01.15-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu?color=orange&style=flat-square)
 *   [instamenu-extra](docs/instamenu-extra/) Version: 2021.01.15-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/instamenu-extra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/instamenu-extra?color=orange&style=flat-square)
@@ -118,4 +118,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-*   Last updated on: Thu 21st, Jan 2021 at 06:20:49PM
+*   Last updated on: Sat 23rd, Jan 2021 at 01:39:42PM
