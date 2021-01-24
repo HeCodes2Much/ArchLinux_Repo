@@ -14,7 +14,7 @@
 ## Software
 *   [auracle](docs/auracle/) Version: r366.8739929-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/auracle-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/auracle-git?color=orange&style=flat-square)
 *   [autotiling](docs/autotiling/) Version: 1.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/autotiling?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/autotiling?color=orange&style=flat-square)
-*   [bfetch](docs/bfetch/) Version: 2021.01.23-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bfetch?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bfetch?color=orange&style=flat-square)
+*   [bfetch](docs/bfetch/) Version: 2021.01.24-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bfetch?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bfetch?color=orange&style=flat-square)
 *   [bpytop](docs/bpytop/) Version: 1.0.60-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bpytop-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bpytop-git?color=orange&style=flat-square)
 *   [bspwm-cheat](docs/bspwm-cheat/) Version: 2021.01.17-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bspwm-cheat?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bspwm-cheat?color=orange&style=flat-square)
 *   [bumblebee-status](docs/bumblebee-status/) Version: 2.1.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bumblebee-status?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bumblebee-status?color=orange&style=flat-square)
@@ -118,4 +118,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-*   Last updated on: Sat 23rd, Jan 2021 at 01:39:42PM
+*   Last updated on: Sun 24th, Jan 2021 at 08:52:36PM
