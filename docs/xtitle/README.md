@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/xtitle*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/xtitle-20190826-1-x86_64.pkg.tar.zst'>xtitle</a>
+<b>Name</b>            : <a href="../../x86_64/xtitle-20190826-1-x86_64.pkg.tar.zst">xtitle</a>
 <b>Version</b>         : 20190826-1
 <b>Description</b>     : Outputs X window titles
 <b>Architecture</b>    : x86_64
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/xtitle*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/xtitle*

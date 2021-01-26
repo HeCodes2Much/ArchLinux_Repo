@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/qt6gtk2*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/qt6gtk2-0.1-1-any.pkg.tar.zst'>qt6gtk2</a>
+<b>Name</b>            : <a href="../../x86_64/qt6gtk2-0.1-1-any.pkg.tar.zst">qt6gtk2</a>
 <b>Version</b>         : 0.1-1
 <b>Description</b>     : GTK+2.0 integration plugins for Qt6
 <b>Architecture</b>    : any
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/qt6gtk2*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/qt6gtk2*

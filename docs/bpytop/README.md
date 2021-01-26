@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/bpytop*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/bpytop-1.0.60-1-any.pkg.tar.zst'>bpytop</a>
+<b>Name</b>            : <a href="../../x86_64/bpytop-1.0.60-1-any.pkg.tar.zst">bpytop</a>
 <b>Version</b>         : 1.0.60-1
 <b>Description</b>     : Resource monitor that shows usage and stats for processor, memory, disks, network and processes
 <b>Architecture</b>    : any
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/bpytop*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/bpytop*

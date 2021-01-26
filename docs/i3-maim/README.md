@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/i3-maim*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/i3-maim-2021.01.01-1-any.pkg.tar.zst'>i3-maim</a>
+<b>Name</b>            : <a href="../../x86_64/i3-maim-2021.01.01-1-any.pkg.tar.zst">i3-maim</a>
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : simple screenshot script using maim
 <b>Architecture</b>    : any
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/i3-maim*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/i3-maim*

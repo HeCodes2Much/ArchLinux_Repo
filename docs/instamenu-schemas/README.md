@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/instamenu-schemas*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/instamenu-schemas-2021.01.10-1-any.pkg.tar.zst'>instamenu-schemas</a>
+<b>Name</b>            : <a href="../../x86_64/instamenu-schemas-2021.01.10-1-any.pkg.tar.zst">instamenu-schemas</a>
 <b>Version</b>         : 2021.01.10-1
 <b>Description</b>     : addons for instamenu
 <b>Architecture</b>    : any
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/instamenu-schemas*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/instamenu-schemas*

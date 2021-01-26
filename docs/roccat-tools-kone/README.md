@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/roccat-tools-kone*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/roccat-tools-kone-5.9.0-3-x86_64.pkg.tar.zst'>roccat-tools-kone</a>
+<b>Name</b>            : <a href="../../x86_64/roccat-tools-kone-5.9.0-3-x86_64.pkg.tar.zst">roccat-tools-kone</a>
 <b>Version</b>         : 5.9.0-3
 <b>Description</b>     : Userland applications to configure and make extended use of ROCCAT Kone devices
 <b>Architecture</b>    : x86_64
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/roccat-tools-kone*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/roccat-tools-kone*

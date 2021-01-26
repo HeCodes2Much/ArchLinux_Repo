@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/multimonitorlock-gui*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/multimonitorlock-gui-2021.01.02-1-any.pkg.tar.zst'>multimonitorlock-gui</a>
+<b>Name</b>            : <a href="../../x86_64/multimonitorlock-gui-2021.01.02-1-any.pkg.tar.zst">multimonitorlock-gui</a>
 <b>Version</b>         : 2021.01.02-1
 <b>Description</b>     : GUI for multimonitorlock to set the background using QT6 and pyside6
 <b>Architecture</b>    : any
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/multimonitorlock-gui*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/multimonitorlock-gui*

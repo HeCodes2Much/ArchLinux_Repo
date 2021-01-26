@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/qt-logout*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/qt-logout-2021.01.02-1-any.pkg.tar.zst'>qt-logout</a>
+<b>Name</b>            : <a href="../../x86_64/qt-logout-2021.01.02-1-any.pkg.tar.zst">qt-logout</a>
 <b>Version</b>         : 2021.01.02-1
 <b>Description</b>     : Logout screen for QT using QT6 and pyside6
 <b>Architecture</b>    : any
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/qt-logout*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/qt-logout*

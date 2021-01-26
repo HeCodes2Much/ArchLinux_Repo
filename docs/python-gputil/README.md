@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/python-gputil*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/python-gputil-1.4.0-3-any.pkg.tar.zst'>python-gputil</a>
+<b>Name</b>            : <a href="../../x86_64/python-gputil-1.4.0-3-any.pkg.tar.zst">python-gputil</a>
 <b>Version</b>         : 1.4.0-3
 <b>Description</b>     : A Python module for getting the GPU status from NVIDA GPUs using nvidia-smi
 <b>Architecture</b>    : any
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/python-gputil*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/python-gputil*

@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/multimonitorlock*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/multimonitorlock-2021.01.01-1-any.pkg.tar.zst'>multimonitorlock</a>
+<b>Name</b>            : <a href="../../x86_64/multimonitorlock-2021.01.01-1-any.pkg.tar.zst">multimonitorlock</a>
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : A simple lock script for i3lock-color
 <b>Architecture</b>    : any
@@ -27,5 +26,4 @@ pacman -Si *therepoclub/multimonitorlock*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/multimonitorlock*

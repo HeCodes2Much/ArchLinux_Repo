@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/gtk4*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/gtk4-4.0.0-1-x86_64.pkg.tar.zst'>gtk4</a>
+<b>Name</b>            : <a href="../../x86_64/gtk4-4.0.0-1-x86_64.pkg.tar.zst">gtk4</a>
 <b>Version</b>         : 4.0.0-1
 <b>Description</b>     : GObject-based multi-platform GUI toolkit
 <b>Architecture</b>    : x86_64
@@ -28,5 +27,4 @@ pacman -Si *therepoclub/gtk4*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/gtk4*

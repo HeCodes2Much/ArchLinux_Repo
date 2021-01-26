@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/bspwm-cheat*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/bspwm-cheat-2021.01.17-1-any.pkg.tar.zst'>bspwm-cheat</a>
+<b>Name</b>            : <a href="../../x86_64/bspwm-cheat-2021.01.17-1-any.pkg.tar.zst">bspwm-cheat</a>
 <b>Version</b>         : 2021.01.17-1
 <b>Description</b>     : cheat sheet for bspwm
 <b>Architecture</b>    : any
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/bspwm-cheat*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/bspwm-cheat*

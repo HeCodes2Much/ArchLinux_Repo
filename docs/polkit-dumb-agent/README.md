@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/polkit-dumb-agent*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/polkit-dumb-agent-2021.01.17-1-any.pkg.tar.zst'>polkit-dumb-agent</a>
+<b>Name</b>            : <a href="../../x86_64/polkit-dumb-agent-2021.01.17-1-any.pkg.tar.zst">polkit-dumb-agent</a>
 <b>Version</b>         : 2021.01.17-1
 <b>Description</b>     : A polkit agent in 145 lines of code using Qt and libsystemd, because polkit sucks.
 <b>Architecture</b>    : any
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/polkit-dumb-agent*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/polkit-dumb-agent*

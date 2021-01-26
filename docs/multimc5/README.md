@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/multimc5*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/multimc5-0.6.11-2-x86_64.pkg.tar.zst'>multimc5</a>
+<b>Name</b>            : <a href="../../x86_64/multimc5-0.6.11-2-x86_64.pkg.tar.zst">multimc5</a>
 <b>Version</b>         : 0.6.11-2
 <b>Description</b>     : Minecraft launcher with ability to manage multiple instances.
 <b>Architecture</b>    : x86_64
@@ -27,5 +26,4 @@ pacman -Si *therepoclub/multimc5*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/multimc5*

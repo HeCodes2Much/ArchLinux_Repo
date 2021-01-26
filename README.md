@@ -1,14 +1,14 @@
 # <img src='favicon.ico'> The Repo Club's Arch Repo <img src='favicon.ico'>
 
-<p align='center'>
-  <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
-  <img src='https://img.shields.io/github/last-commit/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/github/repo-size/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>
-  <img src='https://img.shields.io/github/issues/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/github/stars/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/github/forks/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/github/commit-activity/m/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/last-commit/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/repo-size/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">
+  <img src="https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square">
+  <img src="https://img.shields.io/github/issues/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/stars/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/forks/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/commit-activity/m/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">
 </p>
 
 ## Software
@@ -52,6 +52,7 @@
 *   [nerd-fonts-source-code-pro](docs/nerd-fonts-source-code-pro/) Version: 2.1.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-source-code-pro?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-source-code-pro?color=orange&style=flat-square)
 *   [opendoas](docs/opendoas/) Version: 6.8-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/opendoas-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/opendoas-git?color=orange&style=flat-square)
 *   [opendoas-sudo](docs/opendoas-sudo/) Version: 1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/opendoas-sudo?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/opendoas-sudo?color=orange&style=flat-square)
+*   [paru](docs/paru/) Version: 1.1.4-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/paru?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/paru?color=orange&style=flat-square)
 *   [perl-checkupdates-aur](docs/perl-checkupdates-aur/) Version: 0.04-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/perl-checkupdates-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/perl-checkupdates-aur?color=orange&style=flat-square)
 *   [perl-www-aur](docs/perl-www-aur/) Version: 0.22-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/perl-www-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/perl-www-aur?color=orange&style=flat-square)
 *   [picker](docs/picker/) Version: 2021.01.20-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/picker?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/picker?color=orange&style=flat-square)
@@ -118,4 +119,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-*   Last updated on: Sun 24th, Jan 2021 at 08:52:36PM
+*   Last updated on: Tue 26th, Jan 2021 at 03:31:48PM

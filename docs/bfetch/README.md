@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/bfetch*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/bfetch-2021.01.24-1-any.pkg.tar.zst'>bfetch</a>
+<b>Name</b>            : <a href="../../x86_64/bfetch-2021.01.24-1-any.pkg.tar.zst">bfetch</a>
 <b>Version</b>         : 2021.01.24-1
 <b>Description</b>     : A CLI system information tool written in BASH that supports displaying images.
 <b>Architecture</b>    : any
@@ -36,5 +35,4 @@ pacman -Si *therepoclub/bfetch*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/bfetch*

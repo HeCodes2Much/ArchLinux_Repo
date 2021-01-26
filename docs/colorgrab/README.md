@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/colorgrab*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/colorgrab-0.3-2-x86_64.pkg.tar.zst'>colorgrab</a>
+<b>Name</b>            : <a href="../../x86_64/colorgrab-0.3-2-x86_64.pkg.tar.zst">colorgrab</a>
 <b>Version</b>         : 0.3-2
 <b>Description</b>     : A cross-platform color picker.
 <b>Architecture</b>    : x86_64
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/colorgrab*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/colorgrab*

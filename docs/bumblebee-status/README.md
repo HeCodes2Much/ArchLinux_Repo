@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/bumblebee-status*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/bumblebee-status-2.1.1-1-any.pkg.tar.zst'>bumblebee-status</a>
+<b>Name</b>            : <a href="../../x86_64/bumblebee-status-2.1.1-1-any.pkg.tar.zst">bumblebee-status</a>
 <b>Version</b>         : 2.1.1-1
 <b>Description</b>     : Modular, theme-able status line generator for the i3 window manager
 <b>Architecture</b>    : any
@@ -39,5 +38,4 @@ pacman -Si *therepoclub/bumblebee-status*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/bumblebee-status*

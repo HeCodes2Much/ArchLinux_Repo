@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/perl-www-aur*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/perl-www-aur-0.22-3-any.pkg.tar.zst'>perl-www-aur</a>
+<b>Name</b>            : <a href="../../x86_64/perl-www-aur-0.22-3-any.pkg.tar.zst">perl-www-aur</a>
 <b>Version</b>         : 0.22-3
 <b>Description</b>     : API for the Archlinux User <b>Repository</b> website.
 <b>Architecture</b>    : any
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/perl-www-aur*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/perl-www-aur*

@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/tty-clock*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/tty-clock-2.3-1-x86_64.pkg.tar.zst'>tty-clock</a>
+<b>Name</b>            : <a href="../../x86_64/tty-clock-2.3-1-x86_64.pkg.tar.zst">tty-clock</a>
 <b>Version</b>         : 2.3-1
 <b>Description</b>     : Analog clock in ncurses.
 <b>Architecture</b>    : x86_64
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/tty-clock*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/tty-clock*

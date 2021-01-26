@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/pyfetch*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/pyfetch-2021.01.18-1-any.pkg.tar.zst'>pyfetch</a>
+<b>Name</b>            : <a href="../../x86_64/pyfetch-2021.01.18-1-any.pkg.tar.zst">pyfetch</a>
 <b>Version</b>         : 2021.01.18-1
 <b>Description</b>     : neofetch rewritten in python
 <b>Architecture</b>    : any
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/pyfetch*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/pyfetch*

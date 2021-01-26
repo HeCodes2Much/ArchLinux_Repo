@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/siji*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/siji-2021.01.01-1-any.pkg.tar.zst'>siji</a>
+<b>Name</b>            : <a href="../../x86_64/siji-2021.01.01-1-any.pkg.tar.zst">siji</a>
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : Iconic bitmap font based on stlarch with additional glyphs
 <b>Architecture</b>    : any
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/siji*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/siji*

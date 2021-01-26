@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/lazygit*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/lazygit-0.24.2-1-x86_64.pkg.tar.zst'>lazygit</a>
+<b>Name</b>            : <a href="../../x86_64/lazygit-0.24.2-1-x86_64.pkg.tar.zst">lazygit</a>
 <b>Version</b>         : 0.24.2-1
 <b>Description</b>     : A simple terminal UI for git commands
 <b>Architecture</b>    : x86_64
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/lazygit*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/lazygit*

@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/libxft-bgra*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/libxft-bgra-2.3.3.r7.7808631e-1-x86_64.pkg.tar.zst'>libxft-bgra</a>
+<b>Name</b>            : <a href="../../x86_64/libxft-bgra-2.3.3.r7.7808631e-1-x86_64.pkg.tar.zst">libxft-bgra</a>
 <b>Version</b>         : 2.3.3.r7.7808631e-1
 <b>Description</b>     : libXft with BGRA glyph (color emoji) rendering & scaling patches by Maxime Coste
 <b>Architecture</b>    : x86_64
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/libxft-bgra*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/libxft-bgra*

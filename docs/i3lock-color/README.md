@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/i3lock-color*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/i3lock-color-2.13.c.1-1-x86_64.pkg.tar.zst'>i3lock-color</a>
+<b>Name</b>            : <a href="../../x86_64/i3lock-color-2.13.c.1-1-x86_64.pkg.tar.zst">i3lock-color</a>
 <b>Version</b>         : 2.13.c.1-1
 <b>Description</b>     : An improved screenlocker based upon XCB and PAM with color configuration support
 <b>Architecture</b>    : x86_64
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/i3lock-color*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/i3lock-color*

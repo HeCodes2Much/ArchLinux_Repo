@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/ckb-next*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/ckb-next-0.4.3-1-x86_64.pkg.tar.zst'>ckb-next</a>
+<b>Name</b>            : <a href="../../x86_64/ckb-next-0.4.3-1-x86_64.pkg.tar.zst">ckb-next</a>
 <b>Version</b>         : 0.4.3-1
 <b>Description</b>     : Corsair Keyboard and Mouse Input Driver, release version
 <b>Architecture</b>    : x86_64
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/ckb-next*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/ckb-next*

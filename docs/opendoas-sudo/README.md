@@ -1,11 +1,10 @@
 # Check therepoclub for download
 
-        
 pacman -Si *therepoclub/opendoas-sudo*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href='../../x86_64/opendoas-sudo-1-1-any.pkg.tar.zst'>opendoas-sudo</a>
+<b>Name</b>            : <a href="../../x86_64/opendoas-sudo-1-1-any.pkg.tar.zst">opendoas-sudo</a>
 <b>Version</b>         : 1-1
 <b>Description</b>     : A symlink for using Doas as a drop-in replacement to sudo
 <b>Architecture</b>    : any
@@ -26,5 +25,4 @@ pacman -Si *therepoclub/opendoas-sudo*
 
 ## How to install from therepoclub
 
-        
 pacman -S *therepoclub/opendoas-sudo*
