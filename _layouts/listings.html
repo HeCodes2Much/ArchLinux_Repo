@@ -36,7 +36,7 @@
       {% else %}<section class="no-header">{% endif %}
         <div id="title">
           {% if page.icon %}
-            <img src="{{ page.icon | relative_url }}" />
+          <img src="{{ page.icon | relative_url }}" />
           {% endif %}
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -44,6 +44,28 @@
         </div>
 
         {{ content }}
+
+        <div class="listings">
+          {% for category in page.listings %}
+            <div class="listings-category">
+              <h2 class="title">{{ category[0] }}</h2>
+              {% for listing in category[1] %}
+                <div class="listing">
+                  {% if listing[1].link contains 'http' %}
+                    <a href="{{ listing[1].link }}">
+                  {% else %}
+                    <a href="{{ listing[1].link | baseurl }}">
+                  {% endif %}
+                    <img src="{{ listing[1].icon | relative_url }}" />
+                    <h3>{{ listing[0] }}</h3>
+                  </a>
+                </div>
+              {% endfor %}
+            </div>
+          {% endfor %}
+        </div>
+
+        <a href="../" class="button">Back</a>
 
         <div id="footer">
           <hr />
