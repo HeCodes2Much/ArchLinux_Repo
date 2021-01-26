@@ -100,8 +100,8 @@
 * **Maintainer:** [TheCynicalTeam](https://aur.archlinux.org/account/TheCynicalTeam/)
 * **Description:**  A repository with some AUR packages that the team uses
 * **Upstream page:** https://arch.therepo.club/
-* **Key-ID:** 10DF 44AC D4C8 4539 53B7 CCBA 206A DED6 6160 901B
-* **Fingerprint:** [download](http://pgp.net.nz:11371/pks/lookup?op=vindex&fingerprint=on&search=0x96414492E2220753)
+* **Key-ID:** 75A3 8DC6 84F1 A0B8 0891  8BCE E30E C2FB FB05 C44F 
+* **Fingerprint:** [download](http://pgp.net.nz:11371/pks/lookup?op=vindex&fingerprint=on&search=0xE30EC2FBFB05C44F)
 
 Append to */etc/pacman.conf*:
 ```
@@ -119,4 +119,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-*   Last updated on: Tue 26th, Jan 2021 at 03:31:48PM
+*   Last updated on: Tue 26th, Jan 2021 at 03:46:00PM
