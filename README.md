@@ -1,4 +1,4 @@
-# <img src='favicon.ico'> The Repo Club's Arch Repo <img src='favicon.ico'>
+# <img src='favicon.ico' width='64' height='64'> The Repo Club's Arch Repo <img src='favicon.ico' width='64' height='64'>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square">
@@ -119,4 +119,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-*   Last updated on: Tue 26th, Jan 2021 at 04:55:21PM
+*   Last updated on: Tue 26th, Jan 2021 at 07:05:52PM
