@@ -18,7 +18,7 @@ datetime = custom_strftime('%a {d}, %b %Y at %I:%M:%S%p', dt.now())
 home = os.path.expanduser("~")
 readme = open('../README.md','w')
 installme = open(home + '/.config/package-list','w')
-readme.write(f"# <img src='favicon.ico'> The Repo Club's Arch Repo <img src='favicon.ico'>\n")
+readme.write(f"# <img src='favicon.ico' width='64' height='64'> The Repo Club's Arch Repo <img src='favicon.ico' width='64' height='64'>\n")
 badges = '\n<p align="center">\n\
   <img src="https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square">\n\
   <img src="https://img.shields.io/github/last-commit/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">\n\
