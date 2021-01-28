@@ -16,10 +16,10 @@ pacman -Si *therepoclub/wmappearance*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 115.79 KiB
+<b>Download Size</b>   : 115.75 KiB
 <b>Installed Size</b>  : 385.25 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 28 Jan 2021 14:40:23 GMT
+<b>Build Date</b>      : Thu 28 Jan 2021 16:03:42 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
