@@ -122,4 +122,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-*   Last updated on: Thu 28th, Jan 2021 at 04:07:14PM
+*   Last updated on: Thu 28th, Jan 2021 at 05:17:59PM
