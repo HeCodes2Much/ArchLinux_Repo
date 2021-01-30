@@ -16,10 +16,10 @@ pacman -Si *therepoclub/opendoas*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 38.79 KiB
+<b>Download Size</b>   : 38.96 KiB
 <b>Installed Size</b>  : 46.50 KiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 20 Jan 2021 17:20:17 GMT
+<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
+<b>Build Date</b>      : Sat 30 Jan 2021 15:18:49 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
