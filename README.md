@@ -53,7 +53,7 @@
 *   [nerd-fonts-source-code-pro](docs/nerd-fonts-source-code-pro/) Version: 2.1.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-source-code-pro?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-source-code-pro?color=orange&style=flat-square)
 *   [opendoas](docs/opendoas/) Version: 6.8-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/opendoas-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/opendoas-git?color=orange&style=flat-square)
 *   [opendoas-sudo](docs/opendoas-sudo/) Version: 1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/opendoas-sudo?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/opendoas-sudo?color=orange&style=flat-square)
-*   [papirus-folders](docs/papirus-folders/) Version: 1.8.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/papirus-folders?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/papirus-folders?color=orange&style=flat-square)
+*   [papirus-folders-doas](docs/papirus-folders-doas/) Version: 1.8.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/papirus-folders-doas?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/papirus-folders-doas?color=orange&style=flat-square)
 *   [paru](docs/paru/) Version: 1.1.4-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/paru?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/paru?color=orange&style=flat-square)
 *   [perl-checkupdates-aur](docs/perl-checkupdates-aur/) Version: 0.04-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/perl-checkupdates-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/perl-checkupdates-aur?color=orange&style=flat-square)
 *   [perl-www-aur](docs/perl-www-aur/) Version: 0.22-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/perl-www-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/perl-www-aur?color=orange&style=flat-square)
@@ -123,4 +123,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-*   Last updated on: Sat 30th, Jan 2021 at 06:09:42PM
+*   Last updated on: Sun 31st, Jan 2021 at 03:52:12PM
