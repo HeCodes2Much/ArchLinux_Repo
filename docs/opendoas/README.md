@@ -4,8 +4,8 @@ pacman -Si *therepoclub/opendoas*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/opendoas-6.8-1-x86_64.pkg.tar.zst">opendoas</a>
-<b>Version</b>         : 6.8-1
+<b>Name</b>            : <a href="../../x86_64/opendoas-6.8.1-1-x86_64.pkg.tar.zst">opendoas</a>
+<b>Version</b>         : 6.8.1-1
 <b>Description</b>     : Run commands as super user or another user
 <b>Architecture</b>    : x86_64
 <b>URL</b>             : https://github.com/Duncaen/OpenDoas
@@ -16,10 +16,10 @@ pacman -Si *therepoclub/opendoas*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 38.96 KiB
-<b>Installed Size</b>  : 46.50 KiB
+<b>Download Size</b>   : 39.06 KiB
+<b>Installed Size</b>  : 46.52 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 30 Jan 2021 15:18:49 GMT
+<b>Build Date</b>      : Sun 31 Jan 2021 16:48:47 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
