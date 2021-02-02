@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=88&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=89&color=red&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -13,6 +13,7 @@
 </p>
 
 ## Software
+*   [anymeal](docs/anymeal/) Version: 1.13-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/anymeal?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/anymeal?color=orange&style=flat-square)
 *   [auracle](docs/auracle/) Version: r366.8739929-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/auracle-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/auracle-git?color=orange&style=flat-square)
 *   [autotiling](docs/autotiling/) Version: 1.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/autotiling?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/autotiling?color=orange&style=flat-square)
 *   [bfetch](docs/bfetch/) Version: 2021.01.24-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/bfetch?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/bfetch?color=orange&style=flat-square)
@@ -42,7 +43,7 @@
 *   [lib32-libxft-bgra](docs/lib32-libxft-bgra/) Version: 2.3.3.r7.7808631e-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/lib32-libxft-bgra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/lib32-libxft-bgra?color=orange&style=flat-square)
 *   [libgaminggear](docs/libgaminggear/) Version: 0.15.1-9 ![AUR maintainer](https://img.shields.io/aur/maintainer/libgaminggear?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/libgaminggear?color=orange&style=flat-square)
 *   [libxft-bgra](docs/libxft-bgra/) Version: 2.3.3.r7.7808631e-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/libxft-bgra?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/libxft-bgra?color=orange&style=flat-square)
-*   [minecraft-launcher](docs/minecraft-launcher/) Version: 2.2.1262-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/minecraft-launcher?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/minecraft-launcher?color=orange&style=flat-square)
+*   [minecraft-launcher](docs/minecraft-launcher/) Version: 2.2.1441-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/minecraft-launcher?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/minecraft-launcher?color=orange&style=flat-square)
 *   [multimc5](docs/multimc5/) Version: 0.6.11-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/multimc5?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/multimc5?color=orange&style=flat-square)
 *   [multimonitorlock](docs/multimonitorlock/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/multimonitorlock?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/multimonitorlock?color=orange&style=flat-square)
 *   [multimonitorlock-gui](docs/multimonitorlock-gui/) Version: 2021.01.02-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/multimonitorlock-gui?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/multimonitorlock-gui?color=orange&style=flat-square)
@@ -54,7 +55,7 @@
 *   [nerd-fonts-roboto-mono](docs/nerd-fonts-roboto-mono/) Version: 2.1.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-roboto-mono?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-roboto-mono?color=orange&style=flat-square)
 *   [nerd-fonts-source-code-pro](docs/nerd-fonts-source-code-pro/) Version: 2.1.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-source-code-pro?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-source-code-pro?color=orange&style=flat-square)
 *   [papirus-folders](docs/papirus-folders/) Version: 1.8.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/papirus-folders?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/papirus-folders?color=orange&style=flat-square)
-*   [paru](docs/paru/) Version: 1.1.4-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/paru?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/paru?color=orange&style=flat-square)
+*   [paru](docs/paru/) Version: 1.2.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/paru?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/paru?color=orange&style=flat-square)
 *   [perl-checkupdates-aur](docs/perl-checkupdates-aur/) Version: 0.04-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/perl-checkupdates-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/perl-checkupdates-aur?color=orange&style=flat-square)
 *   [perl-www-aur](docs/perl-www-aur/) Version: 0.22-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/perl-www-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/perl-www-aur?color=orange&style=flat-square)
 *   [picker](docs/picker/) Version: 2021.01.20-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/picker?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/picker?color=orange&style=flat-square)
@@ -125,4 +126,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-*   Last updated on: Tue 2nd, Feb 2021 at 11:15:59AM
+*   Last updated on: Tue 2nd, Feb 2021 at 12:30:28PM
