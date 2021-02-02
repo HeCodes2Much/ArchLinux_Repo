@@ -15,23 +15,6 @@ def custom_strftime(format, t):
 
 datetime = custom_strftime('%a {d}, %b %Y at %I:%M:%S%p', dt.now())
 
-home = os.path.expanduser("~")
-readme = open('../README.md','w')
-installme = open(home + '/.config/package-list','w')
-readme.write(f"# <img src='favicon.ico' width='64' height='64'> The Repo Club's Arch Repo <img src='favicon.ico' width='64' height='64'>\n")
-badges = '\n<p align="center">\n\
-  <img src="https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square">\n\
-  <img src="https://img.shields.io/github/last-commit/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">\n\
-  <img src="https://img.shields.io/github/repo-size/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">\n\
-  <img src="https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square">\n\
-  <img src="https://img.shields.io/github/issues/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">\n\
-  <img src="https://img.shields.io/github/stars/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">\n\
-  <img src="https://img.shields.io/github/forks/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">\n\
-  <img src="https://img.shields.io/github/commit-activity/m/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square">\n\
-</p>\n'
-readme.write(badges)
-readme.write(f"\n## Software\n")
-
 def filebrowser(ext=""):
     "Returns files with an extension"
     return [file for file in glob.glob(f"*{ext}")]
@@ -39,6 +22,29 @@ def filebrowser(ext=""):
 files = filebrowser(".pkg.tar.zst")
 
 files.sort()
+
+pkgcount = 0
+for file in files:
+    pkgcount += 1
+print(f"There are {pkgcount} packages to be uploaded!\n")
+
+home = os.path.expanduser("~")
+readme = open('../README.md','w')
+installme = open(home + '/.config/package-list','w')
+readme.write(f"# <img src='favicon.ico' width='64' height='64'> The Repo Club's Arch Repo <img src='favicon.ico' width='64' height='64'>\n")
+badges = f"\n<p align='center'>\n\
+  <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/last-commit/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/repo-size/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
+  <img src='https://img.shields.io/static/v1?label=Packages&message={pkgcount}&color=red&style=flat-square'>\n\
+  <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/issues/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/stars/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/forks/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/commit-activity/m/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>\n\
+</p>\n"
+readme.write(badges)
+readme.write(f"\n## Software\n")
 
 def get_file_name(file):
     awk1 = "awk '{print $0}'"
@@ -78,10 +84,8 @@ def get_aur_name(name):
     else:
         return(f"{name}")
 
-pkgcount = 0
 for file in files:
-    pkgcount += 1
-    ignore = open("../ignorepackages", "r").read().splitlines() 
+    ignore = open("../ignorepackages", "r").read().splitlines()
     name = str(get_file_name(file))
     if name not in ignore:
         version = str(get_file_version(file))
@@ -95,7 +99,6 @@ for file in files:
 
         readme.write(f"*   [{name}](docs/{name}/) Version: {version} ![AUR maintainer](https://img.shields.io/aur/maintainer/{aur_name}?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/{aur_name}?color=orange&style=flat-square)\n")
         installme.write(f"{name}\n")
-print(f"There have been {pkgcount} packages uploaded!\n")
 
 multiline_addrepo = (f"\n## Add my repo\n"
 f"* **Maintainer:** [TheCynicalTeam](https://aur.archlinux.org/account/TheCynicalTeam/)\n"
