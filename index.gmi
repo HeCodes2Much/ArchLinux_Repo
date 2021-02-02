@@ -1,0 +1,232 @@
+# The Repo Club's Arch Repo
+
+Repo for Arch Linux created by the The Repo Club
+
+=> /  The Repo Club's Arch Repo
+
+# [‡ favicon] The Repo Club’s Arch Repo [‡ favicon]
+
+[‡ Maintained Yes green?color=red&style=flat square] [‡ Arch.TheRepo] [‡ Arch.TheRepo] [‡ v1?label=Packages&message=89&color=red&style=flat square] [‡ v1?label=License&message=CC%20BY NC SA%204] [‡ Arch.TheRepo] [‡ Arch.TheRepo] [‡ Arch.TheRepo] [‡ Arch.TheRepo]
+
+## Software
+
+* anymeal Version: 1.13-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* auracle Version: r366.8739929-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* autotiling Version: 1.3-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* bfetch Version: 2021.01.24-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* bpytop Version: 1.0.61-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* bspwm-cheat Version: 2021.01.17-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* bumblebee-status Version: 2.1.1-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* checkupdates+aur Version: 1-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* checkupdates-aur Version: 0.04-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* ckb-next Version: 0.4.3-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* colorgrab Version: 0.3-2 [‡ AUR maintainer] [‡ AUR maintainer]
+* dracula-gtk-theme Version: v2.0-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* duf Version: 0.5.0-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* gamehub Version: 0.16.0.1-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* glow Version: 1.3.0-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* godot Version: 3.2.3-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* gtk4 Version: 4.0.0-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* guitar Version: 1.2.0-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* i3-cheat Version: 2021.01.17-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* i3-maim Version: 2021.01.01-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* i3-session Version: 2021.01.01-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* i3-swallow Version: 2021.01.01-2 [‡ AUR maintainer] [‡ AUR maintainer]
+* i3lock-color Version: 2.13.c.1-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* instamenu Version: 2021.01.15-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* instamenu-extra Version: 2021.01.15-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* instamenu-schemas Version: 2021.01.10-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* lazygit Version: 0.24.2-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* lib32-libxft-bgra Version: 2.3.3.r7.7808631e-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* libgaminggear Version: 0.15.1-9 [‡ AUR maintainer] [‡ AUR maintainer]
+* libxft-bgra Version: 2.3.3.r7.7808631e-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* minecraft-launcher Version: 2.2.1441-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* multimc5 Version: 0.6.11-2 [‡ AUR maintainer] [‡ AUR maintainer]
+* multimonitorlock Version: 2021.01.01-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* multimonitorlock-gui Version: 2021.01.02-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* nbteditor Version: 1.3-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* nerd-fonts-fira-code Version: 2.1.0-2 [‡ AUR maintainer] [‡ AUR maintainer]
+* nerd-fonts-hack Version: 2.1.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* nerd-fonts-iosevka Version: 2.1.0-2 [‡ AUR maintainer] [‡ AUR maintainer]
+* nerd-fonts-mononoki Version: 2.1.0-2 [‡ AUR maintainer] [‡ AUR maintainer]
+* nerd-fonts-roboto-mono Version: 2.1.0-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* nerd-fonts-source-code-pro Version: 2.1.0-2 [‡ AUR maintainer] [‡ AUR maintainer]
+* papirus-folders Version: 1.8.0-2 [‡ AUR maintainer] [‡ AUR maintainer]
+* paru Version: 1.2.0-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* perl-checkupdates-aur Version: 0.04-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* perl-www-aur Version: 0.22-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* picker Version: 2021.01.20-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* please Version: 0.3.21-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* please-sudo Version: 1-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* polkit-dumb-agent Version: 2021.01.17-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* pyfetch Version: 2021.01.18-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* python-gputil Version: 1.4.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* python-i3-py Version: 0.6.7-7 [‡ AUR maintainer] [‡ AUR maintainer]
+* qt-logout Version: 2021.01.02-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* qt5-color-widgets Version: 2021.01.01-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* qt5-styleplugins Version: 5.0.0.20170311-26 [‡ AUR maintainer] [‡ AUR maintainer]
+* qt6ct Version: 0.2-4 [‡ AUR maintainer] [‡ AUR maintainer]
+* qt6gtk2 Version: 0.1-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* recycle-cli Version: 2021.01.01-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-arvo Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-common Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-isku Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-iskufx Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-kiro Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-kone Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-koneplus Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-konepure Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-konepuremilitary Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-konepureoptical Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-konextd Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-konextdoptical Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-kova2016 Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-kovaplus Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-lua Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-nyth Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-pyra Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-ryosmk Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-ryosmkfx Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-ryostkl Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-savu Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-skeltr Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-sova Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-suora Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* roccat-tools-tyon Version: 5.9.0-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* siji Version: 2021.01.01-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* touchpad-indicator Version: 2021.01.17-3 [‡ AUR maintainer] [‡ AUR maintainer]
+* tty-clock Version: 2.3-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* wmappearance Version: 2021.01.28-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* wmappearance-gtk3 Version: 2021.01.28-1 [‡ AUR maintainer] [‡ AUR maintainer]
+* xtitle Version: 20190826-1 [‡ AUR maintainer] [‡ AUR maintainer]
+
+=> docs/anymeal/  anymeal
+=> docs/auracle/  auracle
+=> docs/autotiling/  autotiling
+=> docs/bfetch/  bfetch
+=> docs/bpytop/  bpytop
+=> docs/bspwm-cheat/  bspwm-cheat
+=> docs/bumblebee-status/  bumblebee-status
+=> docs/checkupdates+aur/  checkupdates+aur
+=> docs/checkupdates-aur/  checkupdates-aur
+=> docs/ckb-next/  ckb-next
+=> docs/colorgrab/  colorgrab
+=> docs/dracula-gtk-theme/  dracula-gtk-theme
+=> docs/duf/  duf
+=> docs/gamehub/  gamehub
+=> docs/glow/  glow
+=> docs/godot/  godot
+=> docs/gtk4/  gtk4
+=> docs/guitar/  guitar
+=> docs/i3-cheat/  i3-cheat
+=> docs/i3-maim/  i3-maim
+=> docs/i3-session/  i3-session
+=> docs/i3-swallow/  i3-swallow
+=> docs/i3lock-color/  i3lock-color
+=> docs/instamenu/  instamenu
+=> docs/instamenu-extra/  instamenu-extra
+=> docs/instamenu-schemas/  instamenu-schemas
+=> docs/lazygit/  lazygit
+=> docs/lib32-libxft-bgra/  lib32-libxft-bgra
+=> docs/libgaminggear/  libgaminggear
+=> docs/libxft-bgra/  libxft-bgra
+=> docs/minecraft-launcher/  minecraft-launcher
+=> docs/multimc5/  multimc5
+=> docs/multimonitorlock/  multimonitorlock
+=> docs/multimonitorlock-gui/  multimonitorlock-gui
+=> docs/nbteditor/  nbteditor
+=> docs/nerd-fonts-fira-code/  nerd-fonts-fira-code
+=> docs/nerd-fonts-hack/  nerd-fonts-hack
+=> docs/nerd-fonts-iosevka/  nerd-fonts-iosevka
+=> docs/nerd-fonts-mononoki/  nerd-fonts-mononoki
+=> docs/nerd-fonts-roboto-mono/  nerd-fonts-roboto-mono
+=> docs/nerd-fonts-source-code-pro/  nerd-fonts-source-code-pro
+=> docs/papirus-folders/  papirus-folders
+=> docs/paru/  paru
+=> docs/perl-checkupdates-aur/  perl-checkupdates-aur
+=> docs/perl-www-aur/  perl-www-aur
+=> docs/picker/  picker
+=> docs/please/  please
+=> docs/please-sudo/  please-sudo
+=> docs/polkit-dumb-agent/  polkit-dumb-agent
+=> docs/pyfetch/  pyfetch
+=> docs/python-gputil/  python-gputil
+=> docs/python-i3-py/  python-i3-py
+=> docs/qt-logout/  qt-logout
+=> docs/qt5-color-widgets/  qt5-color-widgets
+=> docs/qt5-styleplugins/  qt5-styleplugins
+=> docs/qt6ct/  qt6ct
+=> docs/qt6gtk2/  qt6gtk2
+=> docs/recycle-cli/  recycle-cli
+=> docs/roccat-tools-arvo/  roccat-tools-arvo
+=> docs/roccat-tools-common/  roccat-tools-common
+=> docs/roccat-tools-isku/  roccat-tools-isku
+=> docs/roccat-tools-iskufx/  roccat-tools-iskufx
+=> docs/roccat-tools-kiro/  roccat-tools-kiro
+=> docs/roccat-tools-kone/  roccat-tools-kone
+=> docs/roccat-tools-koneplus/  roccat-tools-koneplus
+=> docs/roccat-tools-konepure/  roccat-tools-konepure
+=> docs/roccat-tools-konepuremilitary/  roccat-tools-konepuremilitary
+=> docs/roccat-tools-konepureoptical/  roccat-tools-konepureoptical
+=> docs/roccat-tools-konextd/  roccat-tools-konextd
+=> docs/roccat-tools-konextdoptical/  roccat-tools-konextdoptical
+=> docs/roccat-tools-kova2016/  roccat-tools-kova2016
+=> docs/roccat-tools-kovaplus/  roccat-tools-kovaplus
+=> docs/roccat-tools-lua/  roccat-tools-lua
+=> docs/roccat-tools-nyth/  roccat-tools-nyth
+=> docs/roccat-tools-pyra/  roccat-tools-pyra
+=> docs/roccat-tools-ryosmk/  roccat-tools-ryosmk
+=> docs/roccat-tools-ryosmkfx/  roccat-tools-ryosmkfx
+=> docs/roccat-tools-ryostkl/  roccat-tools-ryostkl
+=> docs/roccat-tools-savu/  roccat-tools-savu
+=> docs/roccat-tools-skeltr/  roccat-tools-skeltr
+=> docs/roccat-tools-sova/  roccat-tools-sova
+=> docs/roccat-tools-suora/  roccat-tools-suora
+=> docs/roccat-tools-tyon/  roccat-tools-tyon
+=> docs/siji/  siji
+=> docs/touchpad-indicator/  touchpad-indicator
+=> docs/tty-clock/  tty-clock
+=> docs/wmappearance/  wmappearance
+=> docs/wmappearance-gtk3/  wmappearance-gtk3
+=> docs/xtitle/  xtitle
+
+## Add my repo
+
+* Maintainer: TheCynicalTeam
+* Description: A repository with some AUR packages that the team uses
+* Upstream page: https://arch.therepo.club/
+* Key-ID: 75A3 8DC6 84F1 A0B8 0891 8BCE E30E C2FB FB05 C44F
+* Fingerprint: download
+
+Append to /etc/pacman.conf :
+
+```
+[therepoclub]
+SigLevel = Required DatabaseOptional
+Server = https://arch.therepo.club/$arch/
+
+```
+
+To check signature, add my key:
+
+```
+sudo pacman-key --keyserver hkp://pgp.net.nz --recv-key 75A38DC684F1A0B808918BCEE30EC2FBFB05C44F
+sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BCEE30EC2FBFB05C44F
+
+```
+
+=> https://aur.archlinux.org/account/TheCynicalTeam/  TheCynicalTeam
+=> http://pgp.net.nz:11371/pks/lookup?op=vindex&fingerprint=on&search=0xE30EC2FBFB05C44F  download
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+This README was generated with ❤️ by TheCynicalTeam
+
+* Last updated on: Tue 2nd, Feb 2021 at 12:30:28PM
+
+Copyright © April 2020 - Jan 2021 TheCynicalTeam, Mr Wayne Wesley. All rights reserved worldwide. Any trademarks, service marks, product names or named features are used only for reference with permission and assumed to be the property of their respective owners.
+
+=> https://github.com/TheCynicalTeam/  TheCynicalTeam
+=> https://github.com/TheCynicalTeam  TheCynicalTeam
