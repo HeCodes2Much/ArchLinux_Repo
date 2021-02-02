@@ -24,6 +24,7 @@
 *   [ckb-next](docs/ckb-next/) Version: 0.4.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/ckb-next?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/ckb-next?color=orange&style=flat-square)
 *   [colorgrab](docs/colorgrab/) Version: 0.3-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/colorgrab?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/colorgrab?color=orange&style=flat-square)
 *   [dracula-gtk-theme](docs/dracula-gtk-theme/) Version: v2.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/dracula-gtk-theme?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/dracula-gtk-theme?color=orange&style=flat-square)
+*   [duf](docs/duf/) Version: 0.5.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/duf?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/duf?color=orange&style=flat-square)
 *   [gamehub](docs/gamehub/) Version: 0.16.0.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/gamehub?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/gamehub?color=orange&style=flat-square)
 *   [glow](docs/glow/) Version: 1.3.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/glow?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/glow?color=orange&style=flat-square)
 *   [godot](docs/godot/) Version: 3.2.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/godot?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/godot?color=orange&style=flat-square)
@@ -53,7 +54,6 @@
 *   [nerd-fonts-roboto-mono](docs/nerd-fonts-roboto-mono/) Version: 2.1.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-roboto-mono?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-roboto-mono?color=orange&style=flat-square)
 *   [nerd-fonts-source-code-pro](docs/nerd-fonts-source-code-pro/) Version: 2.1.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-source-code-pro?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-source-code-pro?color=orange&style=flat-square)
 *   [papirus-folders](docs/papirus-folders/) Version: 1.8.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/papirus-folders?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/papirus-folders?color=orange&style=flat-square)
-*   [papirus-folders-please](docs/papirus-folders-please/) Version: 1.8.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/papirus-folders-please?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/papirus-folders-please?color=orange&style=flat-square)
 *   [paru](docs/paru/) Version: 1.1.4-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/paru?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/paru?color=orange&style=flat-square)
 *   [perl-checkupdates-aur](docs/perl-checkupdates-aur/) Version: 0.04-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/perl-checkupdates-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/perl-checkupdates-aur?color=orange&style=flat-square)
 *   [perl-www-aur](docs/perl-www-aur/) Version: 0.22-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/perl-www-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/perl-www-aur?color=orange&style=flat-square)
@@ -125,4 +125,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-*   Last updated on: Tue 2nd, Feb 2021 at 11:00:21AM
+*   Last updated on: Tue 2nd, Feb 2021 at 11:15:59AM
