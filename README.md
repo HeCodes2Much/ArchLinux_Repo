@@ -25,7 +25,7 @@
 *   [ckb-next](docs/ckb-next/) Version: 0.4.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/ckb-next?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/ckb-next?color=orange&style=flat-square)
 *   [colorgrab](docs/colorgrab/) Version: 0.3-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/colorgrab?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/colorgrab?color=orange&style=flat-square)
 *   [dracula-gtk-theme](docs/dracula-gtk-theme/) Version: v2.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/dracula-gtk-theme?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/dracula-gtk-theme?color=orange&style=flat-square)
-*   [duf](docs/duf/) Version: 0.5.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/duf?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/duf?color=orange&style=flat-square)
+*   [duf](docs/duf/) Version: 0.6.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/duf?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/duf?color=orange&style=flat-square)
 *   [gamehub](docs/gamehub/) Version: 0.16.0.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/gamehub?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/gamehub?color=orange&style=flat-square)
 *   [glow](docs/glow/) Version: 1.3.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/glow?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/glow?color=orange&style=flat-square)
 *   [godot](docs/godot/) Version: 3.2.3-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/godot?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/godot?color=orange&style=flat-square)
@@ -55,7 +55,7 @@
 *   [nerd-fonts-roboto-mono](docs/nerd-fonts-roboto-mono/) Version: 2.1.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-roboto-mono?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-roboto-mono?color=orange&style=flat-square)
 *   [nerd-fonts-source-code-pro](docs/nerd-fonts-source-code-pro/) Version: 2.1.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-source-code-pro?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-source-code-pro?color=orange&style=flat-square)
 *   [papirus-folders](docs/papirus-folders/) Version: 1.8.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/papirus-folders?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/papirus-folders?color=orange&style=flat-square)
-*   [paru](docs/paru/) Version: 1.2.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/paru?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/paru?color=orange&style=flat-square)
+*   [paru](docs/paru/) Version: 1.2.2-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/paru?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/paru?color=orange&style=flat-square)
 *   [perl-checkupdates-aur](docs/perl-checkupdates-aur/) Version: 0.04-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/perl-checkupdates-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/perl-checkupdates-aur?color=orange&style=flat-square)
 *   [perl-www-aur](docs/perl-www-aur/) Version: 0.22-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/perl-www-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/perl-www-aur?color=orange&style=flat-square)
 *   [picker](docs/picker/) Version: 2021.01.20-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/picker?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/picker?color=orange&style=flat-square)
@@ -68,7 +68,7 @@
 *   [qt-logout](docs/qt-logout/) Version: 2021.01.02-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt-logout?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt-logout?color=orange&style=flat-square)
 *   [qt5-color-widgets](docs/qt5-color-widgets/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt5-color-widgets?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt5-color-widgets?color=orange&style=flat-square)
 *   [qt5-styleplugins](docs/qt5-styleplugins/) Version: 5.0.0.20170311-26 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt5-styleplugins?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt5-styleplugins?color=orange&style=flat-square)
-*   [qt6ct](docs/qt6ct/) Version: 0.2-4 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt6ct?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt6ct?color=orange&style=flat-square)
+*   [qt6ct](docs/qt6ct/) Version: 0.2-4 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt6ct-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt6ct-git?color=orange&style=flat-square)
 *   [qt6gtk2](docs/qt6gtk2/) Version: 0.1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/qt6gtk2?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/qt6gtk2?color=orange&style=flat-square)
 *   [recycle-cli](docs/recycle-cli/) Version: 2021.01.01-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/recycle-cli?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/recycle-cli?color=orange&style=flat-square)
 *   [roccat-tools-arvo](docs/roccat-tools-arvo/) Version: 5.9.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/roccat-tools-arvo?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/roccat-tools-arvo?color=orange&style=flat-square)
@@ -126,4 +126,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-*   Last updated on: Tue 2nd, Feb 2021 at 12:30:28PM
+*   Last updated on: Fri 5th, Feb 2021 at 03:55:56PM
