@@ -16,10 +16,10 @@ pacman -Si *therepoclub/opendoas-sudo*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : sudo
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 14.18 KiB
+<b>Download Size</b>   : 14.47 KiB
 <b>Installed Size</b>  : 0.00 KiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 20 Jan 2021 17:24:12 GMT
+<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
+<b>Build Date</b>      : Fri 05 Feb 2021 16:11:40 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

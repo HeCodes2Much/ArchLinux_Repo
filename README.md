@@ -4,7 +4,7 @@
   <img src='https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>
-  <img src='https://img.shields.io/static/v1?label=Packages&message=89&color=red&style=flat-square'>
+  <img src='https://img.shields.io/static/v1?label=Packages&message=88&color=red&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=red&style=flat-square'>
   <img src='https://img.shields.io/github/issues/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>
   <img src='https://img.shields.io/github/stars/TheCynicalTeam/Arch.TheRepo.Club?color=red&style=flat-square'>
@@ -54,13 +54,12 @@
 *   [nerd-fonts-mononoki](docs/nerd-fonts-mononoki/) Version: 2.1.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-mononoki?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-mononoki?color=orange&style=flat-square)
 *   [nerd-fonts-roboto-mono](docs/nerd-fonts-roboto-mono/) Version: 2.1.0-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-roboto-mono?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-roboto-mono?color=orange&style=flat-square)
 *   [nerd-fonts-source-code-pro](docs/nerd-fonts-source-code-pro/) Version: 2.1.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/nerd-fonts-source-code-pro?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/nerd-fonts-source-code-pro?color=orange&style=flat-square)
+*   [opendoas-sudo](docs/opendoas-sudo/) Version: 1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/opendoas-sudo?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/opendoas-sudo?color=orange&style=flat-square)
 *   [papirus-folders](docs/papirus-folders/) Version: 1.8.0-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/papirus-folders?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/papirus-folders?color=orange&style=flat-square)
 *   [paru](docs/paru/) Version: 1.2.2-2 ![AUR maintainer](https://img.shields.io/aur/maintainer/paru?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/paru?color=orange&style=flat-square)
 *   [perl-checkupdates-aur](docs/perl-checkupdates-aur/) Version: 0.04-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/perl-checkupdates-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/perl-checkupdates-aur?color=orange&style=flat-square)
 *   [perl-www-aur](docs/perl-www-aur/) Version: 0.22-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/perl-www-aur?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/perl-www-aur?color=orange&style=flat-square)
 *   [picker](docs/picker/) Version: 2021.01.20-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/picker?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/picker?color=orange&style=flat-square)
-*   [please](docs/please/) Version: 0.3.21-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/please?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/please?color=orange&style=flat-square)
-*   [please-sudo](docs/please-sudo/) Version: 1-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/please-sudo?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/please-sudo?color=orange&style=flat-square)
 *   [polkit-dumb-agent](docs/polkit-dumb-agent/) Version: 2021.01.17-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/polkit-dumb-agent-git?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/polkit-dumb-agent-git?color=orange&style=flat-square)
 *   [pyfetch](docs/pyfetch/) Version: 2021.01.18-1 ![AUR maintainer](https://img.shields.io/aur/maintainer/pyfetch?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/pyfetch?color=orange&style=flat-square)
 *   [python-gputil](docs/python-gputil/) Version: 1.4.0-3 ![AUR maintainer](https://img.shields.io/aur/maintainer/python-gputil?color=blue&style=flat-square) ![AUR maintainer](https://img.shields.io/aur/license/python-gputil?color=orange&style=flat-square)
@@ -126,4 +125,4 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [TheCynicalTeam](https://github.com/TheCynicalTeam/)
-*   Last updated on: Fri 5th, Feb 2021 at 03:55:56PM
+*   Last updated on: Fri 5th, Feb 2021 at 04:14:41PM
