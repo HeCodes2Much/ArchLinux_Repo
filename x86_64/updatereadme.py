@@ -52,7 +52,9 @@ def get_file_name(file):
     command = f"bsdtar -xOf {file} | {awk1} | grep -I pkgname | {awk2}"
     process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=None, shell=True)
     output = process.communicate()
-    name = str(output[0].decode().split()[0]).strip()
+    name = str(output[0].decode()).strip()
+    splitted = name.split()
+    name = splitted[0]
 
     return name
 
@@ -62,7 +64,9 @@ def get_file_version(file):
     command = f"bsdtar -xOf {file} | {awk1} | grep -I pkgver | {awk2}"
     process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=None, shell=True)
     output = process.communicate()
-    version = str(output[0].decode().split()[0]).strip()
+    version = str(output[0].decode()).strip()
+    splitted = version.split()
+    version = splitted[0]
 
     return version
 
