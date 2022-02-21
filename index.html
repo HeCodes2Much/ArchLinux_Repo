@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="assets/js/jquery-3.3.1.min.js"></script>
+  <script src="assets/js/jquery.terminal.js"></script>
+  <link rel="stylesheet" href="assets/css/terminal.css"/>
+  <link rel="stylesheet" href="assets/css/jquery.terminal.css"/>
+  <title>The Repo Club's Arch Repo</title>
+</head>
+<body>
+  <script>
+  if (screen.width <= 520) {
+    window.location = "repo";
+  }
+
+  var allRepos = [];
+  $.getJSON( "https://arch.therepo.club/packages.json", function( data ) {
+    $.each( data, function( key, val ) {
+      allRepos.push( val );
+    });
+  });
+  $('body').terminal({
+    pacman: function(prem, keyword) {
+      if (prem == "-A") {
+        this.echo(allRepos)
+      } else if (prem == "-S") {
+        count = 0
+        for(var key in allRepos){
+          value = allRepos[key]
+          if(value.search(keyword) > -1 ) {
+            this.echo('[[b;#ff59f9;]TheReloClub]/'+ value);
+            count++
+          }
+        }
+        if (count <= 0) {
+          this.echo('[[b;#e5e9f0;]'+keyword+'] is not a valid package.');
+        }
+        return;
+      } else if (prem == "-Si") {
+        count = 0
+        for(var key in allRepos){
+          value = allRepos[key]
+          if(value.search(keyword) > -1 ) {
+            fetch('https://arch.therepo.club/json/' + value + '.json')
+              .then(response => response.json())
+              .then(data => {
+                // do something with your data
+                console.log(data)
+                this.echo('[[b;#ff59f9;]TheReloClub]/'+ data['Name']);
+                this.echo('   [[b;#e5e9f0;]Repository]: '+ data['Repository']);
+                this.echo('   [[b;#e5e9f0;]Version]: '+ data['Version']);
+                this.echo('   [[b;#e5e9f0;]Description]: '+ data['Description']);
+                this.echo('   [[b;#e5e9f0;]Architecture]: '+ data['Architecture']);
+                this.echo('   [[b;#e5e9f0;]URL]: '+ data['URL']);
+                this.echo('   [[b;#e5e9f0;]Licenses]: '+ data['Licenses']);
+                this.echo('   [[b;#e5e9f0;]Groups]: '+ data['Groups']);
+                this.echo('   [[b;#e5e9f0;]Provides]: '+ data['Provides']);
+                this.echo('   [[b;#e5e9f0;]Depends On]: '+ data['Depends On']);
+                if (typeof data['Optional Deps'] === 'object' && data['Optional Deps'] !== null) {
+                  this.echo('   [[b;#e5e9f0;]Optional Deps]:');
+                  for (var key in data['Optional Deps']) {
+                    var value = data['Optional Deps'][key];
+                    this.echo('     [[b;#e5e9f0;]'+key+']: '+ value);
+                  }
+                } else {
+                  this.echo('   [[b;#e5e9f0;]Optional Deps]: '+ data['Optional Deps']);
+                }
+                this.echo('   [[b;#e5e9f0;]Replaces]: '+ data['Replaces']);
+                this.echo('   [[b;#e5e9f0;]Download Size]: '+ data['Download Size']);
+                this.echo('   [[b;#e5e9f0;]Installed Size]: '+ data['Installed Size']);
+                this.echo('   [[b;#e5e9f0;]Packager]: '+ data['Packager']);
+                this.echo('   [[b;#e5e9f0;]Build Date]: '+ data['Build Date']);
+                this.echo('   [[b;#e5e9f0;]Validated By]: '+ data['Validated By']);
+                this.echo('');
+              });
+            count++
+          }
+        }
+        if (count <= 0) {
+          this.echo('[[b;#e5e9f0;]'+keyword+'] is not a valid package.');
+        }
+        return;
+      } else{
+        this.echo('Pacman commands:')
+        this.echo('   [[b;#e5e9f0;]-A] display a list of all packages.');
+        this.echo('   [[b;#e5e9f0;]-S] search for a package.');
+        this.echo('   [[b;#e5e9f0;]-Si] search for a package\'s information.');
+      }
+    },
+    pacman_key: function(prem, keyword) {
+      this.echo('sudo pacman-key --keyserver hkp://pgp.net.nz --recv-key 75A38DC684F1A0B808918BCEE30EC2FBFB05C44F')
+      this.echo('sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BCEE30EC2FBFB05C44F')
+    },
+    repo: function(prem, keyword) {
+      this.echo('[[b;;]Paste the text below into your /etc/pacman.conf file]')
+      this.echo('[therepoclub]')
+      this.echo('SigLevel = Required DatabaseOptional')
+      this.echo('Server = https://arch.therepo.club/$arch/')
+
+    },
+    credits: function() {
+      this.echo('Credits:');
+      this.echo('   [[b;#e5e9f0;]Terminal Script] https://terminal.jcubic.pl/');
+      this.echo('   [[b;#e5e9f0;]Pacman Parser] matyklug (https://klugmathias.me/)');
+    },
+    help: function() {
+      this.echo('Command List:');
+      this.echo('   [[b;#e5e9f0;]clear] clear the console window.');
+      this.echo('   [[b;#e5e9f0;]credits] get a list of credits people.');
+      this.echo('   [[b;#e5e9f0;]help] get this helpful message.');
+      this.echo('   [[b;#e5e9f0;]pacman] search and get infomation about a package.');
+      this.echo('   [[b;#e5e9f0;]pacman_key] display commands for my pacman keyring.');
+      this.echo('   [[b;#e5e9f0;]repo] display the config for my /etc/pacman.conf.');
+    },
+  }, {
+    exit: false,
+    // detect iframe codepen preview
+    onInit: function() {
+        this.echo('Type [[b;#e5e9f0;]help] for the list of commands.');
+    },
+    checkArity: false,
+    completion: true,
+    greetings: '[[;#ffff59;]The Repo Club\'s Arch Repo]\n',
+    prompt: '[[;#ff5959;]\[][[b;#ffff59;]arch][[;#59ff59;]@][[b;#9059ff;]therepo.club] [[;#59fff9;]~][[;#ff5959;]\\]] '
+  });
+  </script>
+  <noscript>
+    You don't have javascript enabled.  Good luck with that. view <a href="/repo">Repo</a>.
+  </noscript>
+</body>
+</html>

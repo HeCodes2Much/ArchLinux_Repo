@@ -1,0 +1,26 @@
+{
+  "Architecture": "any",
+  "Build Date": "Thu 20 Jan 2022 21:47:15 GMT",
+  "Conflicts With": "None",
+  "Depends On": "None",
+  "Description": "Node Version Manager - Simple bash script to manage multiple active node.js versions",
+  "Download Size": "51.13 KiB",
+  "Groups": "None",
+  "Installed Size": "140.07 KiB",
+  "Licenses": "MIT",
+  "Name": "nvm",
+  "Optional Deps": {
+    "bash": "bash completion"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/nvm-sh/nvm",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "0.39.1-1"
+}

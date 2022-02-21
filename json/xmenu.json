@@ -1,0 +1,24 @@
+{
+  "Architecture": "any",
+  "Build Date": "Wed 01 Dec 2021 16:21:30 GMT",
+  "Conflicts With": "None",
+  "Depends On": "imlib2",
+  "Description": "A menu utility for X.",
+  "Download Size": "34.08 KiB",
+  "Groups": "therepoclub",
+  "Installed Size": "45.16 KiB",
+  "Licenses": "MIT",
+  "Name": "xmenu",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "xmenu",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/The-Repo-Club/xmenu",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2021.12.01-1"
+}

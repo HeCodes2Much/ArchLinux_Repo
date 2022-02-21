@@ -1,0 +1,36 @@
+{
+  "Architecture": "any",
+  "Build Date": "Thu 23 Sep 2021 12:54:52 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "bash",
+    "glib2",
+    "autorandr",
+    "repomenu",
+    "repomenu-schemas",
+    "networkmanager"
+  ],
+  "Description": "addons for repomenu",
+  "Download Size": "75.09 KiB",
+  "Groups": "therepoclub",
+  "Installed Size": "183.19 KiB",
+  "Licenses": "GPL3",
+  "Name": "repomenu-extra",
+  "Optional Deps": {
+    "btrfs-snapshots": "Scripts that are for the btrfs menu.",
+    "cutycapt": "Taking screenshots with bm command.",
+    "ffmpeg": "music script depends on this.",
+    "pacaur": "Using the aur with pacman script."
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "repomenu-extra",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/The-Repo-Club/repomenu-extra",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2021.09.23-1"
+}

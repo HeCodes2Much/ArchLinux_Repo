@@ -1,0 +1,29 @@
+{
+  "Architecture": "any",
+  "Build Date": "Sun 24 Oct 2021 12:47:11 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "hicolor-icon-theme",
+    "gtk-update-icon-cache",
+    "librsvg",
+    "humanity-icon-theme"
+  ],
+  "Description": "Yaru default ubuntu icon theme",
+  "Download Size": "30.67 MiB",
+  "Groups": "None",
+  "Installed Size": "108.19 MiB",
+  "Licenses": "GPL3",
+  "Name": "yaru-icon-theme",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/ubuntu/yaru",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "21.10.2-1"
+}

@@ -1,0 +1,24 @@
+{
+  "Architecture": "any",
+  "Build Date": "Sun 30 Jan 2022 15:49:56 GMT",
+  "Conflicts With": "None",
+  "Depends On": "libx11",
+  "Description": "click on root window and run a command .",
+  "Download Size": "19.51 KiB",
+  "Groups": "therepoclub",
+  "Installed Size": "14.49 KiB",
+  "Licenses": "MIT",
+  "Name": "xroot",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "xroot",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/The-Repo-Club/xroot",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2022.01.30-1"
+}

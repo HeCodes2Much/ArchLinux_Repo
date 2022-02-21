@@ -1,0 +1,28 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Tue 09 Feb 2021 13:55:29 GMT",
+  "Conflicts With": "None",
+  "Depends On": [
+    "hicolor-icon-theme",
+    "recode",
+    "qt5-webkit"
+  ],
+  "Description": "A recipe database software",
+  "Download Size": "396.89 KiB",
+  "Groups": "None",
+  "Installed Size": "649.92 KiB",
+  "Licenses": "GPL3",
+  "Name": "anymeal",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://wedesoft.github.io/anymeal",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1.13-1"
+}

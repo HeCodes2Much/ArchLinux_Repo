@@ -1,0 +1,24 @@
+{
+  "Architecture": "any",
+  "Build Date": "Wed 16 Dec 2020 11:44:56 GMT",
+  "Conflicts With": "None",
+  "Depends On": "None",
+  "Description": "Patched font Mononoki from nerd-fonts library",
+  "Download Size": "2.22 MiB",
+  "Groups": "None",
+  "Installed Size": "6.63 MiB",
+  "Licenses": "MIT",
+  "Name": "nerd-fonts-mononoki",
+  "Optional Deps": "None",
+  "Packager": "TheCynicalTeam <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/ryanoasis/nerd-fonts",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2.1.0-2"
+}

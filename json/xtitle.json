@@ -1,0 +1,27 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Tue 09 Feb 2021 14:14:16 GMT",
+  "Conflicts With": "xtitle",
+  "Depends On": [
+    "libxcb",
+    "xcb-util-wm"
+  ],
+  "Description": "Outputs X window titles",
+  "Download Size": "21.81 KiB",
+  "Groups": "None",
+  "Installed Size": "18.94 KiB",
+  "Licenses": "custom:Unlicense",
+  "Name": "xtitle",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "xtitle",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/baskerville/xtitle",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "20190826-1"
+}

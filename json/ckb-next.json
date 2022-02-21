@@ -1,0 +1,37 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Fri 24 Sep 2021 15:15:38 BST",
+  "Conflicts With": [
+    "ckb-git",
+    "ckb-git-latest",
+    "ckb-next-git"
+  ],
+  "Depends On": [
+    "qt5-base",
+    "hicolor-icon-theme",
+    "quazip",
+    "qt5-tools",
+    "libxcb",
+    "xcb-util-wm",
+    "qt5-x11extras",
+    "libdbusmenu-qt5"
+  ],
+  "Description": "Corsair Keyboard and Mouse Input Driver, release version",
+  "Download Size": "1317.23 KiB",
+  "Groups": "None",
+  "Installed Size": "2887.16 KiB",
+  "Licenses": "GPL2",
+  "Name": "ckb-next",
+  "Optional Deps": "libpulse",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "ckb-next",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/ckb-next/ckb-next",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "0.4.4-3"
+}

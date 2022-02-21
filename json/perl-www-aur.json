@@ -1,0 +1,33 @@
+{
+  "Architecture": "any",
+  "Build Date": "Sun 30 May 2021 13:26:39 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "perl-http-cookies>=0",
+    "perl-json>=0",
+    "perl-lwp-protocol-https>=6",
+    "perl-uri>=0",
+    "perl-libwww>=0"
+  ],
+  "Description": "API for the Archlinux User Repository website.",
+  "Download Size": "59.25 KiB",
+  "Groups": "None",
+  "Installed Size": "77.55 KiB",
+  "Licenses": [
+    "PerlArtistic",
+    "GPL"
+  ],
+  "Name": "perl-www-aur",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://metacpan.org/release/WWW-AUR",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "0.22-3"
+}

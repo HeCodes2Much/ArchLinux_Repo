@@ -1,0 +1,24 @@
+{
+  "Architecture": "any",
+  "Build Date": "Mon 05 Jul 2021 15:26:38 BST",
+  "Conflicts With": "None",
+  "Depends On": "sddm",
+  "Description": "Endeavour Dracula Theme for SDDM",
+  "Download Size": "179.93 KiB",
+  "Groups": "None",
+  "Installed Size": "225.94 KiB",
+  "Licenses": "MIT",
+  "Name": "sddm-endeavour",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/The-Repo-Club/sddm-endeavour",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2021.07.05-1"
+}

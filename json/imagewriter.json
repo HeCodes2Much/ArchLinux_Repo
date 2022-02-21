@@ -1,0 +1,27 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Fri 07 Jan 2022 16:48:52 GMT",
+  "Conflicts With": "None",
+  "Depends On": [
+    "qt5-base",
+    "udisks2"
+  ],
+  "Description": "A graphical utility for writing raw disk images & hybrid isos to USB keys",
+  "Download Size": "138.91 KiB",
+  "Groups": "None",
+  "Installed Size": "233.47 KiB",
+  "Licenses": "GPL2",
+  "Name": "imagewriter",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/openSUSE/imagewriter",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1.10.1432200249.1d253d9.2.10-1"
+}

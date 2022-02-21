@@ -1,0 +1,28 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Sun 15 Aug 2021 14:40:51 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "qt5-charts",
+    "qt5-svg",
+    "hicolor-icon-theme"
+  ],
+  "Description": "Ubuntu System Optimizer",
+  "Download Size": "919.32 KiB",
+  "Groups": "None",
+  "Installed Size": "1961.83 KiB",
+  "Licenses": "GPL3",
+  "Name": "stacer",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/oguzhaninan/Stacer",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1.1.0-1"
+}

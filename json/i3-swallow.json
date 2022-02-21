@@ -1,0 +1,27 @@
+{
+  "Architecture": "any",
+  "Build Date": "Tue 09 Feb 2021 14:03:22 GMT",
+  "Conflicts With": "i3-swallow-git",
+  "Depends On": [
+    "xdo",
+    "python-i3ipc"
+  ],
+  "Description": "Swallow a terminal window after a blocking application is run in i3",
+  "Download Size": "28.69 KiB",
+  "Groups": "therepoclub",
+  "Installed Size": "36.46 KiB",
+  "Licenses": "CC BY-NC-SA 4.0",
+  "Name": "i3-swallow",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/The-Repo-Club/i3-swallow",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2021.01.01-2"
+}

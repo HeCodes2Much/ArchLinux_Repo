@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+        {% seo %}
+        <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+        <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+        <!--[if lt IE 9]>
+            <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <!--[if lt IE 8]>
+            <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
+        <![endif]-->
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    </head>
+    <body class="{{ page.colorspace }}">
+
+        <section class="no-header">
+            <nav id="title">
+                <span class="red"><a href="/"><logo id="logo_title"></logo> {{ site.title | default: site.github.repository_name }}</a></span> |
+                <span class="purple"><a href="{{ site.github.repository_url }}"><logo id="logo_github"></logo> Source Code</a></span>
+            </nav>
+            <hr>
+            <div class="wrapper">
+
+                {{ content }}
+
+            </div>
+
+            <div id="footer">
+                <hr />
+                <div id="copyright">
+                    <span class="credits left">Copyright &copy; April 2020 - <span id="ccdate"></span> <a href='https://github.com/The-Repo-Club' rel='publisher'>The-Repo-Club</a>, Mr Wayne Wesley. All rights reserved worldwide.</span>
+                    <span class="credits right">Any trademarks, service marks, product names or named features are used only for reference with permission and assumed to be the property of their respective owners.</span>
+                </div>
+            </div>
+        </section>
+        <script>
+            var d = new Date();
+            var months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+            document.getElementById("ccdate").innerHTML = months[d.getMonth()] + " " + d.getFullYear();
+
+            document.getElementById("logo_title").innerHTML = "<(||')"
+            document.getElementById("logo_github").innerHTML = "|=|"
+        </script>
+
+    </body>
+</html>

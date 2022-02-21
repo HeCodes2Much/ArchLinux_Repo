@@ -1,0 +1,27 @@
+{
+  "Architecture": "any",
+  "Build Date": "Sat 08 May 2021 10:50:44 BST",
+  "Conflicts With": [
+    "imgcat-bin",
+    "imgcat-git"
+  ],
+  "Depends On": "w3m",
+  "Description": "A simple script to print images to stdout",
+  "Download Size": "12.62 KiB",
+  "Groups": "None",
+  "Installed Size": "1.80 KiB",
+  "Licenses": "MIT",
+  "Name": "w3m-imgcat",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "None",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "0.1-2"
+}

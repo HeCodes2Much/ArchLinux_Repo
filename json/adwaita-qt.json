@@ -1,0 +1,27 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Mon 15 Nov 2021 17:34:52 GMT",
+  "Conflicts With": "None",
+  "Depends On": "qt5-x11extras",
+  "Description": "A style to bend Qt5 applications to look like they belong into GNOME Shell",
+  "Download Size": "283.67 KiB",
+  "Groups": "None",
+  "Installed Size": "772.51 KiB",
+  "Licenses": "GPL",
+  "Name": "adwaita-qt",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": [
+    "libadwaitaqtpriv.so=1",
+    "libadwaitaqt.so=1"
+  ],
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/FedoraQt/adwaita-qt",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1.4.1-2"
+}

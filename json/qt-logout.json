@@ -1,0 +1,26 @@
+{
+  "Architecture": "any",
+  "Build Date": "Tue 24 Aug 2021 10:37:21 BST",
+  "Conflicts With": "None",
+  "Depends On": "pyside6",
+  "Description": "Logout screen for QT using QT5 and pyside2",
+  "Download Size": "17.26 KiB",
+  "Groups": "therepoclub",
+  "Installed Size": "15.46 KiB",
+  "Licenses": "GPL3",
+  "Name": "qt-logout",
+  "Optional Deps": {
+    "multimonitorlock": "default lock screen for qt-logout"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/The-Repo-Club/qt-logout",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2021.08.24-1"
+}

@@ -1,0 +1,24 @@
+{
+  "Architecture": "any",
+  "Build Date": "Wed 20 Oct 2021 14:35:37 BST",
+  "Conflicts With": "None",
+  "Depends On": "None",
+  "Description": "This theme provides support for GTK-3 and GTK-2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc. Also provides support for KDE plasma.",
+  "Download Size": "245.59 KiB",
+  "Groups": "None",
+  "Installed Size": "832.34 KiB",
+  "Licenses": "GPL",
+  "Name": "dracula-gtk-theme",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/The-Repo-Club/themix-Dracula",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2021.10.20-1"
+}

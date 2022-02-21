@@ -1,0 +1,40 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Mon 26 Jul 2021 17:52:29 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "cairo",
+    "gcc-libs",
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc",
+    "gtk2",
+    "libcap",
+    "libglvnd",
+    "libsm",
+    "libx11",
+    "libxxf86vm",
+    "openssl",
+    "pango",
+    "sdl2",
+    "zlib"
+  ],
+  "Description": "RuneScape Game Client (NXT)",
+  "Download Size": "4.63 MiB",
+  "Groups": "None",
+  "Installed Size": "10.65 MiB",
+  "Licenses": "custom",
+  "Name": "runescape-launcher",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://www.runescape.com/",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2.2.9-1"
+}

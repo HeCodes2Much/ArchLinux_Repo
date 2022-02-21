@@ -1,0 +1,24 @@
+{
+  "Architecture": "any",
+  "Build Date": "Sun 22 Aug 2021 13:27:27 BST",
+  "Conflicts With": "None",
+  "Depends On": "None",
+  "Description": "TheRepoClub keyring",
+  "Download Size": "17.17 KiB",
+  "Groups": "therepoclub",
+  "Installed Size": "3.11 KiB",
+  "Licenses": "GPL3",
+  "Name": "therepoclub-keyring",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/ArchAUR/therepoclub-keyring",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2021.08.22-1"
+}

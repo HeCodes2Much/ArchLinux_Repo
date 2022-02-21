@@ -1,0 +1,31 @@
+{
+  "Architecture": "any",
+  "Build Date": "Sat 06 Nov 2021 18:15:34 GMT",
+  "Conflicts With": "None",
+  "Depends On": [
+    "curl",
+    "jq",
+    "bc"
+  ],
+  "Description": "A Shell script for displaying the current weather conditions in your terminal, with support for ANSI colors and Unicode symbols.",
+  "Download Size": "22.61 KiB",
+  "Groups": "None",
+  "Installed Size": "13.36 KiB",
+  "Licenses": "BSD",
+  "Name": "ansiweather",
+  "Optional Deps": {
+    "inetutils": "support for downloading with ftp",
+    "wget": "support for downloading with wget"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "ansiweather",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/fcambus/ansiweather",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1.18.0-1"
+}

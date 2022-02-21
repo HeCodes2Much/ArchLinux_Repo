@@ -1,0 +1,34 @@
+{
+  "Architecture": "any",
+  "Build Date": "Sun 06 Jun 2021 17:07:31 BST",
+  "Conflicts With": [
+    "vim",
+    "vi",
+    "vi-vim-symlink"
+  ],
+  "Depends On": [
+    "neovim",
+    "sh"
+  ],
+  "Description": "Runs neovim if vi or vim is called",
+  "Download Size": "12.82 KiB",
+  "Groups": "None",
+  "Installed Size": "0.14 KiB",
+  "Licenses": "None",
+  "Name": "neovim-symlinks",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": [
+    "vim",
+    "vi"
+  ],
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "None",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "4-1"
+}

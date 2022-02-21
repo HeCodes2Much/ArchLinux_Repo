@@ -1,0 +1,24 @@
+{
+  "Architecture": "any",
+  "Build Date": "Tue 08 Feb 2022 16:47:16 GMT",
+  "Conflicts With": "None",
+  "Depends On": "bash",
+  "Description": "Terminal Based Session Manager",
+  "Download Size": "34.61 KiB",
+  "Groups": "therepoclub",
+  "Installed Size": "48.86 KiB",
+  "Licenses": "GPL3",
+  "Name": "tbsm",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/The-Repo-Club/tbsm",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2022.01.23-1"
+}

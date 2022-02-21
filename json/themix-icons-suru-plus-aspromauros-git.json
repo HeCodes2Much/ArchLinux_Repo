@@ -1,0 +1,33 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Sun 24 Oct 2021 12:42:22 BST",
+  "Conflicts With": [
+    "themix-icons-suru-plus-aspromauros",
+    "oomox",
+    "oomox-git"
+  ],
+  "Depends On": [
+    "sed",
+    "findutils"
+  ],
+  "Description": "Suru++ Aspromauros icons plugin for Themix GUI designer",
+  "Download Size": "5.86 MiB",
+  "Groups": "None",
+  "Installed Size": "37.50 MiB",
+  "Licenses": "GPL3",
+  "Name": "themix-icons-suru-plus-aspromauros-git",
+  "Optional Deps": {
+    "themix-gui": "GUI"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "themix-icons-suru-plus-aspromauros",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/gusbemacbe/suru-plus-aspromauros/",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "3.0.r0.gd43a8ec4-1"
+}

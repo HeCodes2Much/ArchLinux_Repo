@@ -1,0 +1,32 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Mon 25 Oct 2021 14:59:50 BST",
+  "Conflicts With": [
+    "themix-plugin-base16",
+    "oomox",
+    "oomox-git"
+  ],
+  "Depends On": [
+    "themix-gui",
+    "python-pystache",
+    "python-yaml"
+  ],
+  "Description": "Import and export plugin for Themix GUI designer to use color palettes from Base16 project",
+  "Download Size": "160.44 KiB",
+  "Groups": "None",
+  "Installed Size": "575.41 KiB",
+  "Licenses": "GPL3",
+  "Name": "themix-plugin-base16-git",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "themix-plugin-base16",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/themix-project/themix-plugin-base16",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1.2.r1.gf07e291-1"
+}

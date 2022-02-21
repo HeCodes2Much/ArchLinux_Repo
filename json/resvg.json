@@ -1,0 +1,28 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Sun 06 Feb 2022 14:25:34 GMT",
+  "Conflicts With": "None",
+  "Depends On": "gdk-pixbuf2",
+  "Description": "SVG rendering library and CLI",
+  "Download Size": "5.27 MiB",
+  "Groups": "None",
+  "Installed Size": "9.99 MiB",
+  "Licenses": "MPL2",
+  "Name": "resvg",
+  "Optional Deps": {
+    "cairo": "For the cairo backend",
+    "kio": "For the dolphin thumbnailer",
+    "qt5-base": "For the Qt backend"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/RazrFalcon/resvg",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "0.20.0-3"
+}

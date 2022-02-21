@@ -1,0 +1,42 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Thu 09 Sep 2021 20:01:56 BST",
+  "Conflicts With": [
+    "themix-icons-gnome-colors",
+    "oomox",
+    "oomox-git"
+  ],
+  "Depends On": [
+    "librsvg",
+    "sed",
+    "findutils",
+    "grep",
+    "bc",
+    "imagemagick"
+  ],
+  "Description": "Gnome-Colors icons plugin for Themix GUI designer",
+  "Download Size": "2.51 MiB",
+  "Groups": "None",
+  "Installed Size": "12.32 MiB",
+  "Licenses": "GPL3",
+  "Name": "themix-icons-gnome-colors-git",
+  "Optional Deps": {
+    "adwaita-icon-theme": "fallback icons",
+    "breeze-icons": "fallback icons",
+    "gnome-icon-theme": "fallback icons",
+    "gnome-icon-theme-symbolic": "fallback icons",
+    "oxygen-icons": "fallback icons",
+    "themix-gui": "GUI"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "themix-icons-gnome-colors",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/themix-project/gnome-colors-icon-theme",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "5.5.5.r0.gcd8b05a-2"
+}

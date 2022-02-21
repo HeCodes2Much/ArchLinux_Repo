@@ -1,0 +1,27 @@
+{
+  "Architecture": "any",
+  "Build Date": "Thu 02 Sep 2021 13:37:36 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "glib2",
+    "dconf"
+  ],
+  "Description": "schemas for instawm",
+  "Download Size": "17.22 KiB",
+  "Groups": "therepoclub",
+  "Installed Size": "3.81 KiB",
+  "Licenses": "GPL3",
+  "Name": "repowm-schemas",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "repowm-schemas=2021.08.21",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/The-Repo-Club/repowm-schemas",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2021.08.21-1"
+}

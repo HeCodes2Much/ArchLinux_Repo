@@ -1,0 +1,27 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Sun 14 Nov 2021 12:03:26 GMT",
+  "Conflicts With": "None",
+  "Depends On": [
+    "pacman>=6.0",
+    "gist>=4.5.0"
+  ],
+  "Description": "Keeps a list of installed packages in a Gist at your GitHub account",
+  "Download Size": "31.07 KiB",
+  "Groups": "None",
+  "Installed Size": "37.56 KiB",
+  "Licenses": "GPL",
+  "Name": "pacmanity",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/The-Repo-Club/pacmanity",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2021.11.14-1"
+}

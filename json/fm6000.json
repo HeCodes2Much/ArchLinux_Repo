@@ -1,0 +1,24 @@
+{
+  "Architecture": "any",
+  "Build Date": "Sun 15 Aug 2021 15:09:12 BST",
+  "Conflicts With": "None",
+  "Depends On": "perl",
+  "Description": "Simple system info fetching tool",
+  "Download Size": "30.50 KiB",
+  "Groups": "therepoclub",
+  "Installed Size": "48.44 KiB",
+  "Licenses": "GPL3",
+  "Name": "fm6000",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/anhsirk0/fetch-master-6000",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "168.f4c7798-1"
+}

@@ -1,0 +1,31 @@
+{
+  "Architecture": "any",
+  "Build Date": "Sun 10 Oct 2021 11:09:09 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "libnotify",
+    "imagemagick",
+    "xdg-user-dirs",
+    "xdotool"
+  ],
+  "Description": "simple screenshot script using imagemagick",
+  "Download Size": "15.61 KiB",
+  "Groups": "therepoclub",
+  "Installed Size": "2.08 KiB",
+  "Licenses": "GPL3",
+  "Name": "win-shot",
+  "Optional Deps": {
+    "xclip": "Allow screenshots to be saved to clipboard"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/The-Repo-Club/win-shot",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2021.10.10-1"
+}

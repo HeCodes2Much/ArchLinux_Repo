@@ -1,0 +1,28 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Tue 06 Apr 2021 21:53:04 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "gtk2",
+    "gtk-engines",
+    "gtk-engine-murrine"
+  ],
+  "Description": "X11 window switcher with fancy look",
+  "Download Size": "56.00 KiB",
+  "Groups": "None",
+  "Installed Size": "91.78 KiB",
+  "Licenses": "GNU General Public License v3.0",
+  "Name": "xwingridselect",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/The-Repo-Club/xwingridselect",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2021.04.06-1"
+}

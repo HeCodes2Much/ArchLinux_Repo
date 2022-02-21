@@ -1,0 +1,30 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Sun 06 Feb 2022 12:32:42 GMT",
+  "Conflicts With": "None",
+  "Depends On": [
+    "pacman>=4.1",
+    "pacman<6.1",
+    "python>=3.2",
+    "python<3.11",
+    "python-pyqt5"
+  ],
+  "Description": "A utility for browsing pacman databases and the AUR",
+  "Download Size": "208.52 KiB",
+  "Groups": "None",
+  "Installed Size": "599.64 KiB",
+  "Licenses": "GPL2",
+  "Name": "pkgbrowser",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://osdn.net/projects/pkgbrowser",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "0.26-1"
+}

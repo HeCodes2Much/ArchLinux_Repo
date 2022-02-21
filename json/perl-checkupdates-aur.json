@@ -1,0 +1,30 @@
+{
+  "Architecture": "any",
+  "Build Date": "Sun 30 May 2021 13:26:01 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "perl-www-aur",
+    "perl-json",
+    "perl-try-tiny"
+  ],
+  "Description": "checkupdates for aur",
+  "Download Size": "24.09 KiB",
+  "Groups": "None",
+  "Installed Size": "13.39 KiB",
+  "Licenses": "Artistic2.0",
+  "Name": "perl-checkupdates-aur",
+  "Optional Deps": {
+    "perl-smart-comments": "for debug perpose only"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://metacpan.org/release/OS-CheckUpdates-AUR",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "0.04-1"
+}

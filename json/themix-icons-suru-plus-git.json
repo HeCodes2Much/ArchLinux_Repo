@@ -1,0 +1,36 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Sun 24 Oct 2021 12:44:17 BST",
+  "Conflicts With": [
+    "themix-icons-suru-plus",
+    "oomox",
+    "oomox-git"
+  ],
+  "Depends On": [
+    "sed",
+    "findutils"
+  ],
+  "Description": "Suru++ icons plugin for Themix GUI designer",
+  "Download Size": "30.38 MiB",
+  "Groups": "None",
+  "Installed Size": "90.19 MiB",
+  "Licenses": "GPL3",
+  "Name": "themix-icons-suru-plus-git",
+  "Optional Deps": {
+    "gnome-icon-theme": "fallback icons",
+    "gnome-icon-theme-symbolic": "fallback icons",
+    "themix-gui": "GUI",
+    "yaru-icon-theme": "fallback icons"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "themix-icons-suru-plus",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/gusbemacbe/suru-plus/",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "30.0.r2.g9bd895f32-1"
+}

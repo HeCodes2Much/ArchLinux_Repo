@@ -1,0 +1,24 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Wed 15 Dec 2021 18:39:41 GMT",
+  "Conflicts With": "None",
+  "Depends On": "python-i3ipc",
+  "Description": "Script for sway and i3 to automatically switch the horizontal / vertical window split orientation",
+  "Download Size": "24.37 KiB",
+  "Groups": "None",
+  "Installed Size": "18.50 KiB",
+  "Licenses": "GPL3",
+  "Name": "autotiling",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/nwg-piotr/autotiling",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1.6-2"
+}

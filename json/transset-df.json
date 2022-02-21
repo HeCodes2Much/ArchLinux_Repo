@@ -1,0 +1,28 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Tue 08 Feb 2022 13:51:49 GMT",
+  "Conflicts With": "None",
+  "Depends On": [
+    "libxcomposite",
+    "libxdamage",
+    "libxrender"
+  ],
+  "Description": "A patched version of X.Org's transset with added functionality.",
+  "Download Size": "25.12 KiB",
+  "Groups": "None",
+  "Installed Size": "26.94 KiB",
+  "Licenses": "GPL",
+  "Name": "transset-df",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://forchheimer.se/transset-df/",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "6-7"
+}

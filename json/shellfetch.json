@@ -1,0 +1,29 @@
+{
+  "Architecture": "any",
+  "Build Date": "Sat 19 Feb 2022 17:06:31 GMT",
+  "Conflicts With": "None",
+  "Depends On": [
+    "bash",
+    "xorg-xrandr",
+    "figlet",
+    "ncurses"
+  ],
+  "Description": "Shell System Information Fetcher",
+  "Download Size": "33.37 KiB",
+  "Groups": "therepoclub",
+  "Installed Size": "73.27 KiB",
+  "Licenses": "MIT",
+  "Name": "shellfetch",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/The-Repo-Club/shellfetch",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2022.02.19-1"
+}

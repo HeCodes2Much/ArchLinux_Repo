@@ -1,0 +1,28 @@
+{
+  "Architecture": "any",
+  "Build Date": "Mon 14 Dec 2020 21:33:33 GMT",
+  "Conflicts With": [
+    "nerd-fonts-git",
+    "nerd-fonts-complete",
+    "otf-nerd-fonts-fira-code"
+  ],
+  "Depends On": "fontconfig",
+  "Description": "Patched font Fira (Fura) Code from the nerd-fonts library",
+  "Download Size": "33.77 MiB",
+  "Groups": "nerd-fonts",
+  "Installed Size": "75.81 MiB",
+  "Licenses": "MIT",
+  "Name": "nerd-fonts-fira-code",
+  "Optional Deps": "None",
+  "Packager": "TheCynicalTeam <wayne6324@gmail.com>",
+  "Provides": "nerd-fonts-fira-code",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/ryanoasis/nerd-fonts",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2.1.0-2"
+}

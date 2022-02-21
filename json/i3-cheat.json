@@ -1,0 +1,27 @@
+{
+  "Architecture": "any",
+  "Build Date": "Sun 23 Jan 2022 18:17:25 GMT",
+  "Conflicts With": "None",
+  "Depends On": [
+    "gtk3",
+    "i3-wm"
+  ],
+  "Description": "cheat sheet for i3wm",
+  "Download Size": "19.69 KiB",
+  "Groups": "therepoclub",
+  "Installed Size": "10.13 KiB",
+  "Licenses": "GPL3",
+  "Name": "i3-cheat",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/The-Repo-Club/wm-cheat",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2022.01.23-1"
+}

@@ -1,0 +1,27 @@
+{
+  "Architecture": "any",
+  "Build Date": "Mon 27 Dec 2021 16:14:42 GMT",
+  "Conflicts With": "None",
+  "Depends On": [
+    "glib2",
+    "dconf"
+  ],
+  "Description": "schemas for repomenu",
+  "Download Size": "17.10 KiB",
+  "Groups": "therepoclub",
+  "Installed Size": "2.58 KiB",
+  "Licenses": "GPL3",
+  "Name": "repomenu-schemas",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "repomenu-schemas=2021.12.27",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/The-Repo-Club/repomenu-schemas",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2021.12.27-1"
+}

@@ -1,0 +1,42 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Tue 28 Dec 2021 14:15:22 GMT",
+  "Conflicts With": "i3-wm",
+  "Depends On": [
+    "xcb-util-keysyms",
+    "xcb-util-wm",
+    "libev",
+    "yajl",
+    "startup-notification",
+    "pango",
+    "perl",
+    "xcb-util-cursor",
+    "xcb-util-xrm",
+    "libxkbcommon-x11"
+  ],
+  "Description": "A fork of i3wm tiling window manager with more features, including gaps",
+  "Download Size": "1031.51 KiB",
+  "Groups": "i3",
+  "Installed Size": "2064.44 KiB",
+  "Licenses": "BSD",
+  "Name": "i3-gaps",
+  "Optional Deps": {
+    "dmenu": "As menu.",
+    "i3lock": "For locking your screen.",
+    "i3status": "To display system information with a bar.",
+    "perl-anyevent-i3": "For i3-save-tree",
+    "perl-json-xs": "For i3-save-tree",
+    "rxvt-unicode": "The terminal emulator used in the default config."
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "i3-wm",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/Airblader/i3",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "4.20.1-3"
+}

@@ -1,0 +1,28 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Tue 01 Jun 2021 17:13:08 BST",
+  "Conflicts With": "auracle",
+  "Depends On": [
+    "pacman",
+    "libcurl.so=4-64",
+    "libsystemd"
+  ],
+  "Description": "A flexible client for the AUR",
+  "Download Size": "377.11 KiB",
+  "Groups": "None",
+  "Installed Size": "862.79 KiB",
+  "Licenses": "MIT",
+  "Name": "auracle",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "auracle",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/falconindy/auracle.git",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "r366.8739929-1"
+}

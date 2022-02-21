@@ -1,0 +1,29 @@
+{
+  "Architecture": "any",
+  "Build Date": "Sun 24 Oct 2021 12:47:11 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "gtk3",
+    "gdk-pixbuf2",
+    "gtk-engine-murrine",
+    "gnome-themes-extra"
+  ],
+  "Description": "Yaru default ubuntu gtk theme",
+  "Download Size": "697.18 KiB",
+  "Groups": "None",
+  "Installed Size": "4881.57 KiB",
+  "Licenses": "GPL3",
+  "Name": "yaru-gtk-theme",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/ubuntu/yaru",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "21.10.2-1"
+}

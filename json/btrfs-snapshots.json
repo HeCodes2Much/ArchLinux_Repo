@@ -1,0 +1,24 @@
+{
+  "Architecture": "any",
+  "Build Date": "Thu 23 Sep 2021 12:50:45 BST",
+  "Conflicts With": "None",
+  "Depends On": "bash",
+  "Description": "addons for repomenu",
+  "Download Size": "33.17 KiB",
+  "Groups": "therepoclub",
+  "Installed Size": "65.03 KiB",
+  "Licenses": "GPL3",
+  "Name": "btrfs-snapshots",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "btrfs-snapshots",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/The-Repo-Club/btrfs-snapshots",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2021.09.23-1"
+}

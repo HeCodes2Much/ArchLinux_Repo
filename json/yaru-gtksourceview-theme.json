@@ -1,0 +1,24 @@
+{
+  "Architecture": "any",
+  "Build Date": "Sun 24 Oct 2021 12:47:11 BST",
+  "Conflicts With": "None",
+  "Depends On": "None",
+  "Description": "Yaru default ubuntu gtksourceview theme",
+  "Download Size": "17.64 KiB",
+  "Groups": "None",
+  "Installed Size": "26.22 KiB",
+  "Licenses": "GPL3",
+  "Name": "yaru-gtksourceview-theme",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/ubuntu/yaru",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "21.10.2-1"
+}

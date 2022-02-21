@@ -1,0 +1,24 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Thu 03 Dec 2020 17:51:24 GMT",
+  "Conflicts With": "None",
+  "Depends On": "qt5-base",
+  "Description": "Editor for Minecraft NBT and schematic files",
+  "Download Size": "115.59 KiB",
+  "Groups": "None",
+  "Installed Size": "309.40 KiB",
+  "Licenses": "BSD",
+  "Name": "nbteditor",
+  "Optional Deps": "None",
+  "Packager": "TheCynicalTeam <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/Howaner/NBTEditor",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1.3-1"
+}

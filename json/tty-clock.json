@@ -1,0 +1,24 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Tue 03 Nov 2020 18:08:38 GMT",
+  "Conflicts With": "None",
+  "Depends On": "ncurses",
+  "Description": "Analog clock in ncurses.",
+  "Download Size": "23.11 KiB",
+  "Groups": "None",
+  "Installed Size": "27.32 KiB",
+  "Licenses": "BSD",
+  "Name": "tty-clock",
+  "Optional Deps": "None",
+  "Packager": "TheCynicalTeam <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "http://github.com/xorg62/tty-clock",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2.3-1"
+}

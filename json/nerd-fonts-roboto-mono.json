@@ -1,0 +1,27 @@
+{
+  "Architecture": "any",
+  "Build Date": "Thu 17 Jun 2021 16:48:40 BST",
+  "Conflicts With": [
+    "nerd-fonts-git",
+    "nerd-fonts-complete"
+  ],
+  "Depends On": "None",
+  "Description": "Patched font Roboto Mono from the nerd-fonts library",
+  "Download Size": "6.01 MiB",
+  "Groups": "nerd-fonts",
+  "Installed Size": "18.14 MiB",
+  "Licenses": "MIT",
+  "Name": "nerd-fonts-roboto-mono",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "nerd-fonts-roboto-mono",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/ryanoasis/nerd-fonts",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2.1.0-2"
+}
