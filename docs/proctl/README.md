@@ -4,8 +4,8 @@ pacman -Si *therepoclub/proctl*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/proctl-2022.02.19-1-any.pkg.tar.zst">proctl</a>
-<b>Version</b>         : 2022.02.19-1
+<b>Name</b>            : <a href="../../x86_64/proctl-2022.02.21-1-any.pkg.tar.zst">proctl</a>
+<b>Version</b>         : 2022.02.21-1
 <b>Description</b>     : Github Project Manager
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/The-Repo-Club/proctl
@@ -18,10 +18,10 @@ pacman -Si *therepoclub/proctl*
                   ncurses: for the colors
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 22.83 KiB
-<b>Installed Size</b>  : 19.73 KiB
+<b>Download Size</b>   : 23.29 KiB
+<b>Installed Size</b>  : 21.74 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 19 Feb 2022 17:32:24 GMT
+<b>Build Date</b>      : Mon 21 Feb 2022 16:15:43 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

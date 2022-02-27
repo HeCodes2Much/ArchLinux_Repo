@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 24 Oct 2021 12:47:11 BST",
+  "Build Date": "Sun 27 Feb 2022 10:07:22 GMT",
   "Conflicts With": "None",
   "Depends On": [
     "gtk3",
@@ -9,9 +9,9 @@
     "gnome-themes-extra"
   ],
   "Description": "Yaru default ubuntu gtk theme",
-  "Download Size": "697.18 KiB",
+  "Download Size": "346.64 KiB",
   "Groups": "None",
-  "Installed Size": "4881.57 KiB",
+  "Installed Size": "2949.15 KiB",
   "Licenses": "GPL3",
   "Name": "yaru-gtk-theme",
   "Optional Deps": "None",
@@ -25,5 +25,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "21.10.2-1"
+  "Version": "22.04.1-1"
 }

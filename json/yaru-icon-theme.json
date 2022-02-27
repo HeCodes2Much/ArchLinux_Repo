@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 24 Oct 2021 12:47:11 BST",
+  "Build Date": "Sun 27 Feb 2022 10:07:22 GMT",
   "Conflicts With": "None",
   "Depends On": [
     "hicolor-icon-theme",
@@ -9,9 +9,9 @@
     "humanity-icon-theme"
   ],
   "Description": "Yaru default ubuntu icon theme",
-  "Download Size": "30.67 MiB",
+  "Download Size": "31.88 MiB",
   "Groups": "None",
-  "Installed Size": "108.19 MiB",
+  "Installed Size": "113.01 MiB",
   "Licenses": "GPL3",
   "Name": "yaru-icon-theme",
   "Optional Deps": "None",
@@ -25,5 +25,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "21.10.2-1"
+  "Version": "22.04.1-1"
 }
