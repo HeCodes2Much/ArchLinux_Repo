@@ -1,12 +1,12 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 27 Feb 2022 10:07:22 GMT",
+  "Build Date": "Sat 19 Mar 2022 11:38:53 GMT",
   "Conflicts With": "None",
   "Depends On": "None",
   "Description": "Yaru default ubuntu xfwm4 theme",
-  "Download Size": "68.17 KiB",
+  "Download Size": "113.98 KiB",
   "Groups": "None",
-  "Installed Size": "55.24 KiB",
+  "Installed Size": "113.75 KiB",
   "Licenses": "GPL3",
   "Name": "yaru-xfwm4-theme",
   "Optional Deps": "None",
@@ -20,5 +20,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "22.04.1-1"
+  "Version": "22.04.2-1"
 }

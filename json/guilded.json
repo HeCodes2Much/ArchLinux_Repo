@@ -1,0 +1,35 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Wed 09 Mar 2022 14:05:39 GMT",
+  "Conflicts With": "None",
+  "Depends On": [
+    "gtk3",
+    "libnotify",
+    "nss",
+    "libxss",
+    "libxtst",
+    "xdg-utils",
+    "at-spi2-core",
+    "util-linux-libs",
+    "libappindicator-gtk3",
+    "libsecret"
+  ],
+  "Description": "Chat for Gaming Communities",
+  "Download Size": "99.64 MiB",
+  "Groups": "None",
+  "Installed Size": "313.75 MiB",
+  "Licenses": "custom",
+  "Name": "guilded",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://www.guilded.gg/",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1.0.9126173-1"
+}
