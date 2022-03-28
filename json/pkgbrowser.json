@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Sun 06 Feb 2022 12:32:42 GMT",
+  "Build Date": "Mon 28 Mar 2022 12:09:07 BST",
   "Conflicts With": "None",
   "Depends On": [
     "pacman>=4.1",
@@ -10,9 +10,9 @@
     "python-pyqt5"
   ],
   "Description": "A utility for browsing pacman databases and the AUR",
-  "Download Size": "208.52 KiB",
+  "Download Size": "208.61 KiB",
   "Groups": "None",
-  "Installed Size": "599.64 KiB",
+  "Installed Size": "599.61 KiB",
   "Licenses": "GPL2",
   "Name": "pkgbrowser",
   "Optional Deps": "None",
@@ -26,5 +26,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "0.26-1"
+  "Version": "0.27-1"
 }
