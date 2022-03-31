@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sat 19 Mar 2022 11:38:20 GMT",
+  "Build Date": "Thu 31 Mar 2022 14:30:08 BST",
   "Conflicts With": "None",
   "Depends On": [
     "git",
@@ -10,9 +10,9 @@
     "expect"
   ],
   "Description": "helper tools for the arch user repository",
-  "Download Size": "86.27 KiB",
+  "Download Size": "88.46 KiB",
   "Groups": "None",
-  "Installed Size": "127.76 KiB",
+  "Installed Size": "134.98 KiB",
   "Licenses": "custom:ISC",
   "Name": "aurutils",
   "Optional Deps": {
@@ -32,5 +32,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "8.3.1-1"
+  "Version": "9-1"
 }
