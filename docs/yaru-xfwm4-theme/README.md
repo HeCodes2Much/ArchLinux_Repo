@@ -4,7 +4,7 @@ pacman -Si *therepoclub/yaru-xfwm4-theme*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/yaru-xfwm4-theme-22.04.2-1-any.pkg.tar.zst">yaru-xfwm4-theme</a>
+<b>Name</b>            : <a href="../../x86_64/yaru-xfwm4-theme-22.04.3.1-1-any.pkg.tar.zst">yaru-xfwm4-theme</a>
 <b>Version</b>         : 22.04.2-1
 <b>Description</b>     : Yaru default ubuntu xfwm4 theme
 <b>Architecture</b>    : any

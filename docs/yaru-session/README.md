@@ -4,7 +4,7 @@ pacman -Si *therepoclub/yaru-session*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/yaru-session-22.04.2-1-any.pkg.tar.zst">yaru-session</a>
+<b>Name</b>            : <a href="../../x86_64/yaru-session-22.04.3.1-1-any.pkg.tar.zst">yaru-session</a>
 <b>Version</b>         : 22.04.2-1
 <b>Description</b>     : Yaru session
 <b>Architecture</b>    : any

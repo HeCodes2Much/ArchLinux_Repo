@@ -4,7 +4,7 @@ pacman -Si *therepoclub/aurutils*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/aurutils-9-1-any.pkg.tar.zst">aurutils</a>
+<b>Name</b>            : <a href="../../x86_64/aurutils-9.6-1-any.pkg.tar.zst">aurutils</a>
 <b>Version</b>         : 9-1
 <b>Description</b>     : helper tools for the arch user repository
 <b>Architecture</b>    : any

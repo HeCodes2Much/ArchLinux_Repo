@@ -4,7 +4,7 @@ pacman -Si *therepoclub/yaru-metacity-theme*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/yaru-metacity-theme-22.04.2-1-any.pkg.tar.zst">yaru-metacity-theme</a>
+<b>Name</b>            : <a href="../../x86_64/yaru-metacity-theme-22.04.3.1-1-any.pkg.tar.zst">yaru-metacity-theme</a>
 <b>Version</b>         : 22.04.2-1
 <b>Description</b>     : Yaru default ubuntu metacity theme
 <b>Architecture</b>    : any

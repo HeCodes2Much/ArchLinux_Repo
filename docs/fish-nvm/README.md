@@ -4,7 +4,7 @@ pacman -Si *therepoclub/fish-nvm*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/fish-nvm-2.2.6-1-x86_64.pkg.tar.zst">fish-nvm</a>
+<b>Name</b>            : <a href="../../x86_64/fish-nvm-2.2.7-1-x86_64.pkg.tar.zst">fish-nvm</a>
 <b>Version</b>         : 2.2.6-1
 <b>Description</b>     : Node.js version manager lovingly made for Fish
 <b>Architecture</b>    : x86_64
