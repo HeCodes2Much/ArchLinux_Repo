@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Wed 09 Mar 2022 14:05:39 GMT",
+  "Build Date": "Tue 24 May 2022 14:19:45 BST",
   "Conflicts With": "None",
   "Depends On": [
     "gtk3",
@@ -12,12 +12,14 @@
     "at-spi2-core",
     "util-linux-libs",
     "libappindicator-gtk3",
-    "libsecret"
+    "libsecret",
+    "libxkbcommon-x11",
+    "alsa-lib"
   ],
   "Description": "Chat for Gaming Communities",
-  "Download Size": "99.64 MiB",
+  "Download Size": "99.09 MiB",
   "Groups": "None",
-  "Installed Size": "313.75 MiB",
+  "Installed Size": "312.71 MiB",
   "Licenses": "custom",
   "Name": "guilded",
   "Optional Deps": "None",
@@ -31,5 +33,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "1.0.9126173-1"
+  "Version": "1.0.9136306-1"
 }

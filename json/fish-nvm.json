@@ -1,17 +1,17 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Thu 20 Jan 2022 21:59:38 GMT",
+  "Build Date": "Wed 20 Apr 2022 14:01:35 BST",
   "Conflicts With": "None",
   "Depends On": "fish",
   "Description": "Node.js version manager lovingly made for Fish",
-  "Download Size": "22.54 KiB",
+  "Download Size": "23.25 KiB",
   "Groups": "None",
-  "Installed Size": "15.82 KiB",
+  "Installed Size": "16.52 KiB",
   "Licenses": "MIT",
   "Name": "fish-nvm",
   "Optional Deps": "None",
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
-  "Provides": "fish-nvm=2.2.6",
+  "Provides": "fish-nvm=2.2.7",
   "Replaces": "None",
   "Repository": "therepoclub",
   "URL": "https://github.com/jorgebucaran/nvm.fish",
@@ -20,5 +20,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "2.2.6-1"
+  "Version": "2.2.7-1"
 }

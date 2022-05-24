@@ -1,12 +1,12 @@
 {
   "Architecture": "any",
-  "Build Date": "Sat 19 Mar 2022 11:38:53 GMT",
+  "Build Date": "Tue 24 May 2022 14:21:13 BST",
   "Conflicts With": "None",
   "Depends On": "gnome-shell",
   "Description": "Yaru default ubuntu gnome shell theme",
-  "Download Size": "94.01 KiB",
+  "Download Size": "89.22 KiB",
   "Groups": "None",
-  "Installed Size": "5045.47 KiB",
+  "Installed Size": "4812.37 KiB",
   "Licenses": "GPL3",
   "Name": "yaru-gnome-shell-theme",
   "Optional Deps": "None",
@@ -20,5 +20,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "22.04.2-1"
+  "Version": "22.04.4-1"
 }

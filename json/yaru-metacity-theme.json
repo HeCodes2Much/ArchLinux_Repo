@@ -1,12 +1,12 @@
 {
   "Architecture": "any",
-  "Build Date": "Sat 19 Mar 2022 11:38:53 GMT",
+  "Build Date": "Tue 24 May 2022 14:21:13 BST",
   "Conflicts With": "None",
   "Depends On": "metacity",
   "Description": "Yaru default ubuntu metacity theme",
-  "Download Size": "27.18 KiB",
+  "Download Size": "28.64 KiB",
   "Groups": "None",
-  "Installed Size": "220.27 KiB",
+  "Installed Size": "219.62 KiB",
   "Licenses": "GPL3",
   "Name": "yaru-metacity-theme",
   "Optional Deps": "None",
@@ -20,5 +20,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "22.04.2-1"
+  "Version": "22.04.4-1"
 }

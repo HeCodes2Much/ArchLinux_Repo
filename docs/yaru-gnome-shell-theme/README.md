@@ -4,8 +4,8 @@ pacman -Si *therepoclub/yaru-gnome-shell-theme*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/yaru-gnome-shell-theme-22.04.3.1-1-any.pkg.tar.zst">yaru-gnome-shell-theme</a>
-<b>Version</b>         : 22.04.2-1
+<b>Name</b>            : <a href="../../x86_64/yaru-gnome-shell-theme-22.04.4-1-any.pkg.tar.zst">yaru-gnome-shell-theme</a>
+<b>Version</b>         : 22.04.4-1
 <b>Description</b>     : Yaru default ubuntu gnome shell theme
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/ubuntu/yaru
@@ -16,10 +16,10 @@ pacman -Si *therepoclub/yaru-gnome-shell-theme*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 94.01 KiB
-<b>Installed Size</b>  : 5045.47 KiB
+<b>Download Size</b>   : 89.22 KiB
+<b>Installed Size</b>  : 4812.37 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 19 Mar 2022 11:38:53 GMT
+<b>Build Date</b>      : Tue 24 May 2022 14:21:13 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

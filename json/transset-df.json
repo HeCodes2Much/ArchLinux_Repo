@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Tue 08 Feb 2022 13:51:49 GMT",
+  "Build Date": "Tue 26 Apr 2022 14:11:35 BST",
   "Conflicts With": "None",
   "Depends On": [
     "libxcomposite",
@@ -8,7 +8,7 @@
     "libxrender"
   ],
   "Description": "A patched version of X.Org's transset with added functionality.",
-  "Download Size": "25.12 KiB",
+  "Download Size": "25.06 KiB",
   "Groups": "None",
   "Installed Size": "26.94 KiB",
   "Licenses": "GPL",
@@ -24,5 +24,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "6-7"
+  "Version": "6-8"
 }
