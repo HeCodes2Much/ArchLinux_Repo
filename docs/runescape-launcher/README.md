@@ -4,7 +4,7 @@ pacman -Si *therepoclub/runescape-launcher*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/runescape-launcher-2.2.9-1-x86_64.pkg.tar.zst">runescape-launcher</a>
+<b>Name</b>            : <a href="../../x86_64/runescape-launcher-2.2.10-1-x86_64.pkg.tar.zst">runescape-launcher</a>
 <b>Version</b>         : 2.2.9-1
 <b>Description</b>     : RuneScape Game Client (NXT)
 <b>Architecture</b>    : x86_64

@@ -4,7 +4,7 @@ pacman -Si *therepoclub/ckb-next*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/ckb-next-0.4.4-5-x86_64.pkg.tar.zst">ckb-next</a>
+<b>Name</b>            : <a href="../../x86_64/ckb-next-0.5.0-1-x86_64.pkg.tar.zst">ckb-next</a>
 <b>Version</b>         : 0.4.4-5
 <b>Description</b>     : Corsair Keyboard and Mouse Input Driver, release version
 <b>Architecture</b>    : x86_64
