@@ -1,13 +1,13 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Tue 24 May 2022 14:20:03 BST",
+  "Build Date": "Sat 25 Jun 2022 18:59:17 BST",
   "Conflicts With": "None",
   "Depends On": [
     "qt5-base",
     "udisks2"
   ],
   "Description": "A graphical utility for writing raw disk images & hybrid isos to USB keys",
-  "Download Size": "120.02 KiB",
+  "Download Size": "120.33 KiB",
   "Groups": "None",
   "Installed Size": "177.48 KiB",
   "Licenses": "GPL2",
@@ -23,5 +23,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "1.10.1432200249.1d253d9.2.12-1"
+  "Version": "1.10.1432200249.1d253d9.2.13-1"
 }

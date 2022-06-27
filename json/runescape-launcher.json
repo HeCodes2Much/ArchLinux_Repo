@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Mon 26 Jul 2021 17:52:29 BST",
+  "Build Date": "Sun 05 Jun 2022 12:25:40 BST",
   "Conflicts With": "None",
   "Depends On": [
     "cairo",
@@ -20,9 +20,9 @@
     "zlib"
   ],
   "Description": "RuneScape Game Client (NXT)",
-  "Download Size": "4.63 MiB",
+  "Download Size": "4.66 MiB",
   "Groups": "None",
-  "Installed Size": "10.65 MiB",
+  "Installed Size": "10.77 MiB",
   "Licenses": "custom",
   "Name": "runescape-launcher",
   "Optional Deps": "None",
@@ -36,5 +36,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "2.2.9-1"
+  "Version": "2.2.10-1"
 }

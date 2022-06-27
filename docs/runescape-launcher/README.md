@@ -5,7 +5,7 @@ pacman -Si *therepoclub/runescape-launcher*
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
 <b>Name</b>            : <a href="../../x86_64/runescape-launcher-2.2.10-1-x86_64.pkg.tar.zst">runescape-launcher</a>
-<b>Version</b>         : 2.2.9-1
+<b>Version</b>         : 2.2.10-1
 <b>Description</b>     : RuneScape Game Client (NXT)
 <b>Architecture</b>    : x86_64
 <b>URL</b>             : https://www.runescape.com/
@@ -16,10 +16,10 @@ pacman -Si *therepoclub/runescape-launcher*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 4.63 MiB
-<b>Installed Size</b>  : 10.65 MiB
+<b>Download Size</b>   : 4.66 MiB
+<b>Installed Size</b>  : 10.77 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 26 Jul 2021 17:52:29 BST
+<b>Build Date</b>      : Sun 05 Jun 2022 12:25:40 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

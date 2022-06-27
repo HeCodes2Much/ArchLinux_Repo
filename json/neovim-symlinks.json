@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 06 Jun 2021 17:07:31 BST",
+  "Build Date": "Mon 27 Jun 2022 20:36:11 BST",
   "Conflicts With": [
     "vim",
     "vi",
@@ -11,9 +11,9 @@
     "sh"
   ],
   "Description": "Runs neovim if vi or vim is called",
-  "Download Size": "12.82 KiB",
+  "Download Size": "16.85 KiB",
   "Groups": "None",
-  "Installed Size": "0.14 KiB",
+  "Installed Size": "0.08 KiB",
   "Licenses": "None",
   "Name": "neovim-symlinks",
   "Optional Deps": "None",
@@ -30,5 +30,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "4-1"
+  "Version": "5-1"
 }
