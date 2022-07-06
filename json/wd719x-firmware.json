@@ -1,0 +1,24 @@
+{
+  "Architecture": "any",
+  "Build Date": "Wed 06 Jul 2022 06:59:56 BST",
+  "Conflicts With": "None",
+  "Depends On": "None",
+  "Description": "Driver for Western Digital WD7193, WD7197 and WD7296 SCSI cards",
+  "Download Size": "25.98 KiB",
+  "Groups": "None",
+  "Installed Size": "14.50 KiB",
+  "Licenses": "unknown",
+  "Name": "wd719x-firmware",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/mijailr/wd719x-firmware",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1-7"
+}

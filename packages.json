@@ -1,4 +1,5 @@
 [
+    "aic94xx-firmware",
     "ansiweather",
     "anymeal",
     "aura",
@@ -36,6 +37,7 @@
     "libxft-bgra",
     "lovesay",
     "minecraft-launcher",
+    "mkinitcpio-firmware",
     "multimonitorlock",
     "multimonitorlock-gui",
     "nbteditor",
@@ -89,7 +91,9 @@
     "ttf-remixicon",
     "tty-clock",
     "ufw-icon-bar",
+    "upd72020x-fw",
     "w3m-imgcat",
+    "wd719x-firmware",
     "win-shot",
     "woeusb-gui",
     "xcursor-breeze",

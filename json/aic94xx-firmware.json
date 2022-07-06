@@ -1,0 +1,24 @@
+{
+  "Architecture": "any",
+  "Build Date": "Wed 06 Jul 2022 06:58:42 BST",
+  "Conflicts With": "None",
+  "Depends On": "None",
+  "Description": "Adaptec SAS 44300, 48300, 58300 Sequencer Firmware for AIC94xx driver",
+  "Download Size": "40.91 KiB",
+  "Groups": "None",
+  "Installed Size": "30.03 KiB",
+  "Licenses": "custom",
+  "Name": "aic94xx-firmware",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://storage.microsemi.com/en-us/speed/scsi/linux/aic94xx-seq-30-1_tar_gz.php",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "30-9"
+}

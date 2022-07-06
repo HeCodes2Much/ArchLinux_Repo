@@ -1,0 +1,39 @@
+{
+  "Architecture": "any",
+  "Build Date": "Wed 06 Jul 2022 07:00:29 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "linux-firmware",
+    "aic94xx-firmware",
+    "linux-firmware-qlogic",
+    "linux-firmware-bnx2x",
+    "linux-firmware-liquidio",
+    "linux-firmware-mellanox",
+    "linux-firmware-nfp",
+    "wd719x-firmware",
+    "upd72020x-fw"
+  ],
+  "Description": {
+    "Optional firmware for the default linux kernel to get rid of the annoying 'WARNING": "Possibly missing firmware for module"
+  },
+  "Download Size": "17.34 KiB",
+  "Groups": "None",
+  "Installed Size": "0.23 KiB",
+  "Licenses": "GPL",
+  "Name": "mkinitcpio-firmware",
+  "Optional Deps": {
+    "linux": "default linux preset",
+    "mkinitcpio": "build the initramfs"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://aur.archlinux.org/packages/mkinitcpio-firmware",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1.3.0-2"
+}
