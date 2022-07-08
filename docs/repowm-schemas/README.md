@@ -16,10 +16,10 @@ pacman -Si *therepoclub/repowm-schemas*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 17.22 KiB
+<b>Download Size</b>   : 18.59 KiB
 <b>Installed Size</b>  : 3.81 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 02 Sep 2021 13:37:36 BST
+<b>Build Date</b>      : Fri 08 Jul 2022 21:51:30 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

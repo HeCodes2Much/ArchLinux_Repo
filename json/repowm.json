@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Sat 22 Jan 2022 14:31:56 GMT",
+  "Build Date": "Fri 08 Jul 2022 22:35:55 BST",
   "Conflicts With": "None",
   "Depends On": [
     "libx11",
@@ -10,9 +10,9 @@
     "repomenu"
   ],
   "Description": "A dynamic window manager for X",
-  "Download Size": "60.22 KiB",
+  "Download Size": "68.88 KiB",
   "Groups": "therepoclub",
-  "Installed Size": "95.11 KiB",
+  "Installed Size": "104.72 KiB",
   "Licenses": "MIT",
   "Name": "repowm",
   "Optional Deps": {
@@ -33,5 +33,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "2022.01.22-1"
+  "Version": "2022.07.08-1"
 }

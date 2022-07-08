@@ -4,8 +4,8 @@ pacman -Si *therepoclub/repowm*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/repowm-2022.01.22-1-x86_64.pkg.tar.zst">repowm</a>
-<b>Version</b>         : 2022.01.22-1
+<b>Name</b>            : <a href="../../x86_64/repowm-2022.07.08-1-x86_64.pkg.tar.zst">repowm</a>
+<b>Version</b>         : 2022.07.08-1
 <b>Description</b>     : A dynamic window manager for X
 <b>Architecture</b>    : x86_64
 <b>URL</b>             : https://github.com/The-Repo-Club/repowm
@@ -21,10 +21,10 @@ pacman -Si *therepoclub/repowm*
                   ttf-remixicon: font used by default
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 60.22 KiB
-<b>Installed Size</b>  : 95.11 KiB
+<b>Download Size</b>   : 68.88 KiB
+<b>Installed Size</b>  : 104.72 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 22 Jan 2022 14:31:56 GMT
+<b>Build Date</b>      : Fri 08 Jul 2022 22:35:55 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
