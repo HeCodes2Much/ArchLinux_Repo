@@ -13,7 +13,7 @@ pacman -Si *therepoclub/repowm*
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : None
 <b>Depends On</b>      : libx11  libxinerama  libxft  freetype2  repomenu
-<b>Optional Deps</b>   : repowm-schemas: gsettings for repowm
+<b>Optional Deps</b>   : repo-exec: exec for repowm
                   siji: font used by default
                   nerd-fonts-fira-code: font used by default
                   adobe-source-code-pro-fonts: font used by default
@@ -21,10 +21,10 @@ pacman -Si *therepoclub/repowm*
                   ttf-remixicon: font used by default
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 68.88 KiB
+<b>Download Size</b>   : 69.00 KiB
 <b>Installed Size</b>  : 104.72 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 08 Jul 2022 22:35:55 BST
+<b>Build Date</b>      : Sun 17 Jul 2022 14:39:30 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

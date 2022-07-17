@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Thu 02 Sep 2021 13:39:16 BST",
+  "Build Date": "Sun 17 Jul 2022 14:40:45 BST",
   "Conflicts With": "dmenu",
   "Depends On": [
     "python",
@@ -8,16 +8,16 @@
     "libxft"
   ],
   "Description": "dmenu like menu with the Dracula theme",
-  "Download Size": "53.26 KiB",
+  "Download Size": "54.88 KiB",
   "Groups": "therepoclub",
-  "Installed Size": "147.75 KiB",
+  "Installed Size": "147.78 KiB",
   "Licenses": "MIT",
   "Name": "repomenu",
   "Optional Deps": {
     "adobe-source-code-pro-fonts": "font used by default",
     "nerd-fonts-fira-code": "font used by default",
+    "repo-exec": "exec for repomenu",
     "repomenu-extra": "Extra script that repomenu can use",
-    "repomenu-schemas": "gsettings for repomenu",
     "siji": "font used by default",
     "ttf-material-design-icons": "font used by default",
     "ttf-remixicon": "font used by default"

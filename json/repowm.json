@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Fri 08 Jul 2022 22:35:55 BST",
+  "Build Date": "Sun 17 Jul 2022 14:39:30 BST",
   "Conflicts With": "None",
   "Depends On": [
     "libx11",
@@ -10,7 +10,7 @@
     "repomenu"
   ],
   "Description": "A dynamic window manager for X",
-  "Download Size": "68.88 KiB",
+  "Download Size": "69.00 KiB",
   "Groups": "therepoclub",
   "Installed Size": "104.72 KiB",
   "Licenses": "MIT",
@@ -18,7 +18,7 @@
   "Optional Deps": {
     "adobe-source-code-pro-fonts": "font used by default",
     "nerd-fonts-fira-code": "font used by default",
-    "repowm-schemas": "gsettings for repowm",
+    "repo-exec": "exec for repowm",
     "siji": "font used by default",
     "ttf-material-design-icons": "font used by default",
     "ttf-remixicon": "font used by default"

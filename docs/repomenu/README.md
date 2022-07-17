@@ -14,7 +14,7 @@ pacman -Si *therepoclub/repomenu*
 <b>Provides</b>        : repomenu  dmenu
 <b>Depends On</b>      : python  libxinerama  libxft
 <b>Optional Deps</b>   : repomenu-extra: Extra script that repomenu can use
-                  repomenu-schemas: gsettings for repomenu
+                  repo-exec: exec for repomenu
                   siji: font used by default
                   nerd-fonts-fira-code: font used by default
                   adobe-source-code-pro-fonts: font used by default
@@ -22,10 +22,10 @@ pacman -Si *therepoclub/repomenu*
                   ttf-remixicon: font used by default
 <b>Conflicts With</b>  : dmenu
 <b>Replaces</b>        : dmenu
-<b>Download Size</b>   : 53.26 KiB
-<b>Installed Size</b>  : 147.75 KiB
+<b>Download Size</b>   : 54.88 KiB
+<b>Installed Size</b>  : 147.78 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 02 Sep 2021 13:39:16 BST
+<b>Build Date</b>      : Sun 17 Jul 2022 14:40:45 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
