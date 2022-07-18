@@ -1,19 +1,19 @@
 {
   "Architecture": "any",
-  "Build Date": "Thu 23 Sep 2021 12:54:52 BST",
+  "Build Date": "Sun 17 Jul 2022 15:20:37 BST",
   "Conflicts With": "None",
   "Depends On": [
     "bash",
     "glib2",
     "autorandr",
     "repomenu",
-    "repomenu-schemas",
+    "repo-exec",
     "networkmanager"
   ],
   "Description": "addons for repomenu",
-  "Download Size": "75.09 KiB",
+  "Download Size": "78.15 KiB",
   "Groups": "therepoclub",
-  "Installed Size": "183.19 KiB",
+  "Installed Size": "185.27 KiB",
   "Licenses": "GPL3",
   "Name": "repomenu-extra",
   "Optional Deps": {
@@ -32,5 +32,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "2021.09.23-1"
+  "Version": "2022.07.17-1"
 }

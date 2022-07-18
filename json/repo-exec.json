@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 17 Jul 2022 14:37:22 BST",
+  "Build Date": "Sun 17 Jul 2022 15:21:25 BST",
   "Conflicts With": "None",
   "Depends On": [
     "bash",
@@ -8,7 +8,7 @@
     "repowm"
   ],
   "Description": "Exec for repowm and repomenu",
-  "Download Size": "19.21 KiB",
+  "Download Size": "19.25 KiB",
   "Groups": "therepoclub",
   "Installed Size": "2.97 KiB",
   "Licenses": "GPL3",

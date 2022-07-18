@@ -1,10 +1,10 @@
 {
   "Architecture": "any",
-  "Build Date": "Wed 01 Dec 2021 16:21:30 GMT",
+  "Build Date": "Sun 17 Jul 2022 15:07:40 BST",
   "Conflicts With": "None",
   "Depends On": "imlib2",
   "Description": "A menu utility for X.",
-  "Download Size": "34.08 KiB",
+  "Download Size": "35.55 KiB",
   "Groups": "therepoclub",
   "Installed Size": "45.16 KiB",
   "Licenses": "MIT",

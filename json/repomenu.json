@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 17 Jul 2022 14:40:45 BST",
+  "Build Date": "Sun 17 Jul 2022 14:54:47 BST",
   "Conflicts With": "dmenu",
   "Depends On": [
     "python",
@@ -8,7 +8,7 @@
     "libxft"
   ],
   "Description": "dmenu like menu with the Dracula theme",
-  "Download Size": "54.88 KiB",
+  "Download Size": "54.86 KiB",
   "Groups": "therepoclub",
   "Installed Size": "147.78 KiB",
   "Licenses": "MIT",

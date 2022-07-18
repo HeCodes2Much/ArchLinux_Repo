@@ -107,7 +107,7 @@ f"* **Key-ID:** 75A3 8DC6 84F1 A0B8 0891  8BCE E30E C2FB FB05 C44F \n"
 f"* **Fingerprint:** [download](http://pgp.net.nz:11371/pks/lookup?op=vindex&fingerprint=on&search=0xE30EC2FBFB05C44F)\n"
 f"\nAppend to */etc/pacman.conf*:\n```\n[therepoclub]\nSigLevel = Required DatabaseOptional\nServer = https://arch.therepo.club/$arch/\n```"
 f"\nTo check signature, add my key:\n"
-f"```\nsudo pacman-key --keyserver hkp://pgp.net.nz --recv-key 75A38DC684F1A0B808918BCEE30EC2FBFB05C44F\nsudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BCEE30EC2FBFB05C44F\n```")
+f"```\nsudo pacman-key --keyserver hkp://pgp.net.nz --recv-key BFC53564DA0DD9E5D02D0B409F12B9FF50E52583\nsudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key BFC53564DA0DD9E5D02D0B409F12B9FF50E52583\n```")
 
 readme.write(multiline_addrepo)
 
