@@ -1,0 +1,28 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Mon 18 Jul 2022 19:12:41 BST",
+  "Conflicts With": "robo3t",
+  "Depends On": [
+    "qt5-base",
+    "openssl-1.0",
+    "libcurl-gnutls"
+  ],
+  "Description": "Shell-centric MongoDB management tool",
+  "Download Size": "14.16 MiB",
+  "Groups": "None",
+  "Installed Size": "34.14 MiB",
+  "Licenses": "GPLv3",
+  "Name": "robo3t-bin",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://robomongo.org/",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1.4.4-1"
+}

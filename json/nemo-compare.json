@@ -1,0 +1,33 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Tue 19 Jul 2022 17:55:57 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "nemo-python>=3.9.0",
+    "python-gobject"
+  ],
+  "Description": "Context menu comparison extension for Nemo file manager",
+  "Download Size": "23.53 KiB",
+  "Groups": "nemo-extensions",
+  "Installed Size": "23.47 KiB",
+  "Licenses": "GPL3",
+  "Name": "nemo-compare",
+  "Optional Deps": {
+    "diffuse": "Alternate comparison backend",
+    "fldiff": "Additional comparison options (preferred diff, three-way, multi-compare)",
+    "kdiff3": "Alternate comparison backend",
+    "kompare": "Additional comparison options (preferred diff, three-way, multi-compare)",
+    "meld": "Install at least one file comparison program"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/linuxmint/nemo-extensions",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "5.4.0-2"
+}

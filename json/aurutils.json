@@ -1,18 +1,17 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 08 May 2022 10:12:36 BST",
+  "Build Date": "Tue 19 Jul 2022 18:04:24 BST",
   "Conflicts With": "None",
   "Depends On": [
     "git",
     "jq",
     "pacutils",
-    "curl",
-    "expect"
+    "curl"
   ],
   "Description": "helper tools for the arch user repository",
-  "Download Size": "88.88 KiB",
+  "Download Size": "98.67 KiB",
   "Groups": "None",
-  "Installed Size": "134.50 KiB",
+  "Installed Size": "155.83 KiB",
   "Licenses": "custom:ISC",
   "Name": "aurutils",
   "Optional Deps": {
@@ -32,5 +31,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "9.6-3"
+  "Version": "10b-1"
 }

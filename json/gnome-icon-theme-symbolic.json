@@ -1,0 +1,28 @@
+{
+  "Architecture": "any",
+  "Build Date": "Mon 18 Jul 2022 17:12:59 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "gtk-update-icon-cache",
+    "hicolor-icon-theme",
+    "librsvg"
+  ],
+  "Description": "GNOME icon theme, symbolic icons",
+  "Download Size": "204.07 KiB",
+  "Groups": "None",
+  "Installed Size": "1909.24 KiB",
+  "Licenses": "GPL",
+  "Name": "gnome-icon-theme-symbolic",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "http://www.gnome.org",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "3.12.0-6"
+}

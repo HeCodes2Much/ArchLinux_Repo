@@ -1,0 +1,24 @@
+{
+  "Architecture": "any",
+  "Build Date": "Mon 18 Jul 2022 19:12:37 BST",
+  "Conflicts With": "None",
+  "Depends On": "php",
+  "Description": "PHP Extension and Application Repository",
+  "Download Size": "360.52 KiB",
+  "Groups": "None",
+  "Installed Size": "1874.85 KiB",
+  "Licenses": "PHP",
+  "Name": "php-pear",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://pear.php.net/package/pearweb_phars/",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1:1.10.21-2"
+}
