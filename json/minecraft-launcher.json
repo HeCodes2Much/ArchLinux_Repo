@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Tue 16 Nov 2021 18:32:13 GMT",
+  "Build Date": "Wed 20 Jul 2022 08:50:35 BST",
   "Conflicts With": "minecraft-launcher-beta",
   "Depends On": [
     "alsa-lib",
@@ -33,9 +33,9 @@
     "xorg-xrandr"
   ],
   "Description": "Official Minecraft Launcher",
-  "Download Size": "564.23 KiB",
+  "Download Size": "623.12 KiB",
   "Groups": "None",
-  "Installed Size": "1544.31 KiB",
+  "Installed Size": "1646.02 KiB",
   "Licenses": "All rights reserved",
   "Name": "minecraft-launcher",
   "Optional Deps": {
@@ -51,5 +51,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "928-1"
+  "Version": "1:1.0.1221-1"
 }
