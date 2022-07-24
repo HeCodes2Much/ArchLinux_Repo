@@ -4,7 +4,7 @@ pacman -Si *therepoclub/nemo-compare*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/nemo-compare-5.4.0-2-x86_64.pkg.tar.zst">nemo-compare</a>
+<b>Name</b>            : <a href="../../x86_64/nemo-compare-5.4.1-1-x86_64.pkg.tar.zst">nemo-compare</a>
 <b>Version</b>         : 5.4.1-1
 <b>Description</b>     : Context menu comparison extension for Nemo file manager
 <b>Architecture</b>    : x86_64
@@ -20,10 +20,10 @@ pacman -Si *therepoclub/nemo-compare*
                   kdiff3: Alternate comparison backend
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 23.43 KiB
+<b>Download Size</b>   : 23.37 KiB
 <b>Installed Size</b>  : 18.11 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 20 Jul 2022 08:51:50 BST
+<b>Build Date</b>      : Sun 24 Jul 2022 18:42:50 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

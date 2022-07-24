@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Wed 20 Jul 2022 08:50:35 BST",
+  "Build Date": "Sun 24 Jul 2022 18:42:34 BST",
   "Conflicts With": "minecraft-launcher-beta",
   "Depends On": [
     "alsa-lib",
@@ -33,7 +33,7 @@
     "xorg-xrandr"
   ],
   "Description": "Official Minecraft Launcher",
-  "Download Size": "623.12 KiB",
+  "Download Size": "623.05 KiB",
   "Groups": "None",
   "Installed Size": "1646.02 KiB",
   "Licenses": "All rights reserved",
