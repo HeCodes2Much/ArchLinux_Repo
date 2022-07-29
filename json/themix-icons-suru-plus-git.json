@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Sun 24 Oct 2021 12:44:17 BST",
+  "Build Date": "Sun 24 Oct 2021 11:44:17 UTC",
   "Conflicts With": [
     "themix-icons-suru-plus",
     "oomox",
@@ -17,10 +17,7 @@
   "Licenses": "GPL3",
   "Name": "themix-icons-suru-plus-git",
   "Optional Deps": {
-    "gnome-icon-theme": "fallback icons",
-    "gnome-icon-theme-symbolic": "fallback icons",
-    "themix-gui": "GUI",
-    "yaru-icon-theme": "fallback icons"
+    "gnome-icon-theme-symbolic": "fallback icons"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "themix-icons-suru-plus",

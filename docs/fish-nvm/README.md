@@ -19,7 +19,7 @@ pacman -Si *therepoclub/fish-nvm*
 <b>Download Size</b>   : 24.42 KiB
 <b>Installed Size</b>  : 17.57 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 08 Jul 2022 22:44:18 BST
+<b>Build Date</b>      : Fri 08 Jul 2022 21:44:18 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

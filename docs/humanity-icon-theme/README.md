@@ -19,7 +19,7 @@ pacman -Si *therepoclub/humanity-icon-theme*
 <b>Download Size</b>   : 2.87 MiB
 <b>Installed Size</b>  : 21.87 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 24 Oct 2021 12:46:45 BST
+<b>Build Date</b>      : Sun 24 Oct 2021 11:46:45 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

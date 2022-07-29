@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Wed 06 Jul 2022 07:00:29 BST",
+  "Build Date": "Wed 06 Jul 2022 06:00:29 UTC",
   "Conflicts With": "None",
   "Depends On": [
     "linux-firmware",
@@ -22,8 +22,7 @@
   "Licenses": "GPL",
   "Name": "mkinitcpio-firmware",
   "Optional Deps": {
-    "linux": "default linux preset",
-    "mkinitcpio": "build the initramfs"
+    "linux": "default linux preset"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "None",

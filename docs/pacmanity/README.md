@@ -19,7 +19,7 @@ pacman -Si *therepoclub/pacmanity*
 <b>Download Size</b>   : 31.07 KiB
 <b>Installed Size</b>  : 37.56 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 14 Nov 2021 12:03:26 GMT
+<b>Build Date</b>      : Sun 14 Nov 2021 12:03:26 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

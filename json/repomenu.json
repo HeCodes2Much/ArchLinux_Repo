@@ -1,0 +1,33 @@
+{
+  "Architecture": "any",
+  "Build Date": "Fri 29 Jul 2022 16:47:19 UTC",
+  "Conflicts With": "dmenu",
+  "Depends On": [
+    "python",
+    "libxinerama",
+    "libxft"
+  ],
+  "Description": "dmenu like menu with the Dracula theme",
+  "Download Size": "42.09 KiB",
+  "Groups": "therepoclub",
+  "Installed Size": "147.78 KiB",
+  "Licenses": "MIT",
+  "Name": "repomenu",
+  "Optional Deps": {
+    "ttf-remixicon": "font used by default"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": [
+    "repomenu",
+    "dmenu"
+  ],
+  "Replaces": "dmenu",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/The-Repo-Club/repomenu",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2021.08.25-1"
+}

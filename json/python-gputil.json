@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Wed 15 Dec 2021 18:39:34 GMT",
+  "Build Date": "Wed 15 Dec 2021 18:39:34 UTC",
   "Conflicts With": "None",
   "Depends On": "python",
   "Description": "A Python module for getting the GPU status from NVIDA GPUs using nvidia-smi",

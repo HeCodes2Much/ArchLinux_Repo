@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sat 08 May 2021 10:50:44 BST",
+  "Build Date": "Sat 08 May 2021 09:50:44 UTC",
   "Conflicts With": [
     "imgcat-bin",
     "imgcat-git"

@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 23 Jan 2022 18:17:25 GMT",
+  "Build Date": "Sun 23 Jan 2022 18:17:25 UTC",
   "Conflicts With": "None",
   "Depends On": [
     "gtk3",

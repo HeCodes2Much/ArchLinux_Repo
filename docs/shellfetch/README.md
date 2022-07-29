@@ -19,7 +19,7 @@ pacman -Si *therepoclub/shellfetch*
 <b>Download Size</b>   : 33.37 KiB
 <b>Installed Size</b>  : 73.27 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 19 Feb 2022 17:06:31 GMT
+<b>Build Date</b>      : Sat 19 Feb 2022 17:06:31 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

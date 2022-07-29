@@ -19,7 +19,7 @@ pacman -Si *therepoclub/win-shot*
 <b>Download Size</b>   : 15.61 KiB
 <b>Installed Size</b>  : 2.08 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 10 Oct 2021 11:09:09 BST
+<b>Build Date</b>      : Sun 10 Oct 2021 10:09:09 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

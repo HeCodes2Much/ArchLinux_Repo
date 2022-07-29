@@ -19,7 +19,7 @@ pacman -Si *therepoclub/robo3t-bin*
 <b>Download Size</b>   : 14.16 MiB
 <b>Installed Size</b>  : 34.14 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 18 Jul 2022 19:12:41 BST
+<b>Build Date</b>      : Mon 18 Jul 2022 18:12:41 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

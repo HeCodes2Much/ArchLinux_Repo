@@ -29,7 +29,7 @@ pacman -Si *therepoclub/bfetch*
 <b>Download Size</b>   : 124.25 KiB
 <b>Installed Size</b>  : 388.06 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 31 Dec 2021 14:09:45 GMT
+<b>Build Date</b>      : Fri 31 Dec 2021 14:09:45 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

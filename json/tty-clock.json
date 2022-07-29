@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Tue 03 Nov 2020 18:08:38 GMT",
+  "Build Date": "Tue 03 Nov 2020 18:08:38 UTC",
   "Conflicts With": "None",
   "Depends On": "ncurses",
   "Description": "Analog clock in ncurses.",

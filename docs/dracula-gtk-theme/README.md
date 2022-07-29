@@ -19,7 +19,7 @@ pacman -Si *therepoclub/dracula-gtk-theme*
 <b>Download Size</b>   : 245.59 KiB
 <b>Installed Size</b>  : 832.34 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 20 Oct 2021 14:35:37 BST
+<b>Build Date</b>      : Wed 20 Oct 2021 13:35:37 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

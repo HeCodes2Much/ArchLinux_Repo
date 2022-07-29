@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Mon 18 Jul 2022 17:12:59 BST",
+  "Build Date": "Mon 18 Jul 2022 16:12:59 UTC",
   "Conflicts With": "None",
   "Depends On": [
     "gtk-update-icon-cache",

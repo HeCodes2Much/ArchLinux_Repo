@@ -19,7 +19,7 @@ pacman -Si *therepoclub/nerd-fonts-fira-code*
 <b>Download Size</b>   : 33.77 MiB
 <b>Installed Size</b>  : 75.81 MiB
 <b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 14 Dec 2020 21:33:33 GMT
+<b>Build Date</b>      : Mon 14 Dec 2020 21:33:33 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

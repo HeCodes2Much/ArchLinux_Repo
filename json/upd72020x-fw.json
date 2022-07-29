@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Wed 06 Jul 2022 07:00:06 BST",
+  "Build Date": "Wed 06 Jul 2022 06:00:06 UTC",
   "Conflicts With": "None",
   "Depends On": "None",
   "Description": "Renesas uPD720201 / uPD720202 USB 3.0 chipsets firmware",

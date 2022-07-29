@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Mon 21 Feb 2022 16:15:43 GMT",
+  "Build Date": "Mon 21 Feb 2022 16:15:43 UTC",
   "Conflicts With": "None",
   "Depends On": [
     "bash",
@@ -13,8 +13,6 @@
   "Licenses": "MIT",
   "Name": "proctl",
   "Optional Deps": {
-    "fzf": "-pick-license, -pick-language, -new-template flags",
-    "git": "generating default config automatically",
     "ncurses": "for the colors"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",

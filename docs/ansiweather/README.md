@@ -20,7 +20,7 @@ pacman -Si *therepoclub/ansiweather*
 <b>Download Size</b>   : 22.61 KiB
 <b>Installed Size</b>  : 13.36 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 06 Nov 2021 18:15:34 GMT
+<b>Build Date</b>      : Sat 06 Nov 2021 18:15:34 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

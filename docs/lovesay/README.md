@@ -19,7 +19,7 @@ pacman -Si *therepoclub/lovesay*
 <b>Download Size</b>   : 18.66 KiB
 <b>Installed Size</b>  : 7.18 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 18 Feb 2022 15:23:42 GMT
+<b>Build Date</b>      : Fri 18 Feb 2022 15:23:42 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -19,7 +19,7 @@ pacman -Si *therepoclub/aic94xx-firmware*
 <b>Download Size</b>   : 40.91 KiB
 <b>Installed Size</b>  : 30.03 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 06 Jul 2022 06:58:42 BST
+<b>Build Date</b>      : Wed 06 Jul 2022 05:58:42 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

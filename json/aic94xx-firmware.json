@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Wed 06 Jul 2022 06:58:42 BST",
+  "Build Date": "Wed 06 Jul 2022 05:58:42 UTC",
   "Conflicts With": "None",
   "Depends On": "None",
   "Description": "Adaptec SAS 44300, 48300, 58300 Sequencer Firmware for AIC94xx driver",

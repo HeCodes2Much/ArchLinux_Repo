@@ -1,0 +1,29 @@
+{
+  "Architecture": "any",
+  "Build Date": "Fri 29 Jul 2022 16:51:56 UTC",
+  "Conflicts With": "None",
+  "Depends On": [
+    "bash",
+    "glib2",
+    "autorandr",
+    "networkmanager"
+  ],
+  "Description": "addons for repomenu",
+  "Download Size": "66.55 KiB",
+  "Groups": "therepoclub",
+  "Installed Size": "185.27 KiB",
+  "Licenses": "GPL3",
+  "Name": "repomenu-extra",
+  "Optional Deps": "repo-exec",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "repomenu-extra",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/The-Repo-Club/repomenu-extra",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2022.07.17-1"
+}

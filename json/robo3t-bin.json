@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Mon 18 Jul 2022 19:12:41 BST",
+  "Build Date": "Mon 18 Jul 2022 18:12:41 UTC",
   "Conflicts With": "robo3t",
   "Depends On": [
     "qt5-base",

@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Thu 09 Sep 2021 20:02:07 BST",
+  "Build Date": "Thu 09 Sep 2021 19:02:07 UTC",
   "Conflicts With": [
     "themix-icons-numix",
     "oomox",
@@ -18,9 +18,7 @@
   "Licenses": "GPL3",
   "Name": "themix-icons-numix-git",
   "Optional Deps": {
-    "gnome-icon-theme": "fallback icons",
-    "gnome-icon-theme-symbolic": "fallback icons",
-    "themix-gui": "GUI"
+    "gnome-icon-theme-symbolic": "fallback icons"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "themix-icons-numix",

@@ -19,7 +19,7 @@ pacman -Si *therepoclub/fm6000*
 <b>Download Size</b>   : 30.50 KiB
 <b>Installed Size</b>  : 48.44 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 15 Aug 2021 15:09:12 BST
+<b>Build Date</b>      : Sun 15 Aug 2021 14:09:12 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

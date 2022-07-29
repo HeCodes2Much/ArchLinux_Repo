@@ -19,7 +19,7 @@ pacman -Si *therepoclub/ckb-next*
 <b>Download Size</b>   : 1494.96 KiB
 <b>Installed Size</b>  : 3197.09 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 25 Jun 2022 18:56:03 BST
+<b>Build Date</b>      : Sat 25 Jun 2022 17:56:03 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

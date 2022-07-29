@@ -19,7 +19,7 @@ pacman -Si *therepoclub/themix-theme-materia-git*
 <b>Download Size</b>   : 595.01 KiB
 <b>Installed Size</b>  : 1610.48 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 17 Oct 2021 15:13:15 BST
+<b>Build Date</b>      : Sun 17 Oct 2021 14:13:15 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

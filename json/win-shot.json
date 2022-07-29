@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 10 Oct 2021 11:09:09 BST",
+  "Build Date": "Sun 10 Oct 2021 10:09:09 UTC",
   "Conflicts With": "None",
   "Depends On": [
     "libnotify",

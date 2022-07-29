@@ -19,7 +19,7 @@ pacman -Si *therepoclub/xcursor-breeze*
 <b>Download Size</b>   : 460.22 KiB
 <b>Installed Size</b>  : 5302.91 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 21 Mar 2021 14:09:45 GMT
+<b>Build Date</b>      : Sun 21 Mar 2021 14:09:45 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

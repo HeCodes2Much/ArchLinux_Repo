@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 30 Jan 2022 15:49:56 GMT",
+  "Build Date": "Sun 30 Jan 2022 15:49:56 UTC",
   "Conflicts With": "None",
   "Depends On": "libx11",
   "Description": "click on root window and run a command .",

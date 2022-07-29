@@ -1,0 +1,28 @@
+{
+  "Architecture": "any",
+  "Build Date": "Fri 29 Jul 2022 20:31:44 UTC",
+  "Conflicts With": "code-features",
+  "Depends On": [
+    "code",
+    "sed",
+    "org.freedesktop.secrets"
+  ],
+  "Description": "Unblock some features in Code OSS",
+  "Download Size": "9.41 KiB",
+  "Groups": "None",
+  "Installed Size": "5.43 KiB",
+  "Licenses": "unknown",
+  "Name": "code-features",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "code-features",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/microsoft/vscode",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1.69.0-1"
+}

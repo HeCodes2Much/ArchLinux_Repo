@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Thu 03 Dec 2020 17:51:24 GMT",
+  "Build Date": "Thu 03 Dec 2020 17:51:24 UTC",
   "Conflicts With": "None",
   "Depends On": "qt5-base",
   "Description": "Editor for Minecraft NBT and schematic files",

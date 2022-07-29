@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 30 May 2021 13:26:39 BST",
+  "Build Date": "Sun 30 May 2021 12:26:39 UTC",
   "Conflicts With": "None",
   "Depends On": [
     "perl-http-cookies>=0",

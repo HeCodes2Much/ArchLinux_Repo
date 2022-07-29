@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Wed 21 Jul 2021 18:42:03 BST",
+  "Build Date": "Wed 21 Jul 2021 17:42:03 UTC",
   "Conflicts With": "None",
   "Depends On": "glibc",
   "Description": "A terminal based graphical activity monitor inspired by gtop and vtop",

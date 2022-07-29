@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Tue 06 Apr 2021 21:53:04 BST",
+  "Build Date": "Tue 06 Apr 2021 20:53:04 UTC",
   "Conflicts With": "None",
   "Depends On": [
     "gtk2",

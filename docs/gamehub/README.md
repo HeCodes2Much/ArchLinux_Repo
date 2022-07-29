@@ -19,7 +19,7 @@ pacman -Si *therepoclub/gamehub*
 <b>Download Size</b>   : 2.31 MiB
 <b>Installed Size</b>  : 7.96 MiB
 <b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 04 Jan 2021 16:59:50 GMT
+<b>Build Date</b>      : Mon 04 Jan 2021 16:59:50 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

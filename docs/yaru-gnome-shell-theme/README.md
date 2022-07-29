@@ -19,7 +19,7 @@ pacman -Si *therepoclub/yaru-gnome-shell-theme*
 <b>Download Size</b>   : 89.22 KiB
 <b>Installed Size</b>  : 4812.37 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 24 May 2022 14:21:13 BST
+<b>Build Date</b>      : Tue 24 May 2022 13:21:13 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

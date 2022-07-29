@@ -1,8 +1,9 @@
 import glob
 import subprocess
 import os
+import io
 import json
-import errno
+import zstandard
 from parse_pacman import parse_pacman
 
 
@@ -10,39 +11,71 @@ def filebrowser(ext=""):
     "Returns files with an extension"
     return [file for file in glob.glob(f"../x86_64/*{ext}")]
 
+
 files = filebrowser(".pkg.tar.zst")
 
 files.sort()
 
+
 def get_file_name(file):
     head = "head -n5"
     awk = "awk '{$1=$2=\"\"; print $0}'"
-    command = f"bsdtar -xOf {file} .BUILDINFO | {head} | grep -I pkgname | {awk} | sed -n 1p"
-    process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=None, shell=True)
-    output = process.communicate()
-    name = str(output[0].decode()).strip()
+
+    try:
+        with open(file, 'rb') as fh:
+            dctx = zstandard.ZstdDecompressor(max_window_size=2147483648)
+            stream_reader = dctx.stream_reader(fh)
+            text_stream = io.TextIOWrapper(stream_reader, encoding='utf-8')
+            for line in text_stream:
+                if line.startswith('pkgname'):
+                    command = f"echo '{line}' | {head} | grep -I pkgname | {awk} | sed -n 1p"
+                    process = subprocess.Popen(command,
+                                               stdout=subprocess.PIPE,
+                                               stderr=None,
+                                               shell=True)
+                    output = process.communicate()
+                    name = str(output[0].decode()).strip()
+    except UnicodeDecodeError:
+        pass
 
     if not name:
         get_file_name(file)
     else:
         return name
 
+
 def get_file_version(file):
     head = "head -n5"
     awk = "awk '{$1=$2=\"\"; print $0}'"
-    command = f"bsdtar -xOf {file} .BUILDINFO | {head} | grep -I pkgver | {awk} | sed -n 1p"
-    process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=None, shell=True)
-    output = process.communicate()
-    version = str(output[0].decode()).strip()
+    try:
+        with open(file, 'rb') as fh:
+            dctx = zstandard.ZstdDecompressor(max_window_size=2147483648)
+            stream_reader = dctx.stream_reader(fh)
+            text_stream = io.TextIOWrapper(stream_reader, encoding='utf-8')
+            for line in text_stream:
+                if line.startswith('pkgver'):
+                    command = f"echo '{line}' | {head} | grep -I pkgver | {awk} | sed -n 1p"
+                    process = subprocess.Popen(command,
+                                               stdout=subprocess.PIPE,
+                                               stderr=None,
+                                               shell=True)
+                    output = process.communicate()
+                    version = str(output[0].decode()).strip()
+    except UnicodeDecodeError:
+        pass
 
     if not version:
         get_file_version(file)
     else:
         return version
 
+
 def get_file_info(file, name):
     command = f"pacman -Si therepoclub/{name}"
-    process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=None, shell=True)
+    process = subprocess.Popen(command,
+                               stdout=subprocess.PIPE,
+                               stderr=None,
+                               shell=True)
     output = process.communicate()
     link = f'<a href="../{file}">{name}</a>'
     fileInfo = str(output[0].decode())\
@@ -89,10 +122,7 @@ def get_file_info(file, name):
                 vr = {}
                 vr[r[1].strip()] = v
         k = r[0].strip()
-        if k in res:
-            res[k][list(vr.keys())[0]] = list(vr.values())[0]
-        else:
-            res[k] = vr
+        res[k] = vr
 
     output = json.dumps(res, sort_keys=True, indent=2)
     with open(f"../json/{name}.json", 'w') as outfile:
@@ -102,10 +132,9 @@ def get_file_info(file, name):
         get_file_info(file, name)
     else:
         return fileInfo
-    
+
 
 for file in files:
-    name = str(get_file_name(file))
     name = str(get_file_name(file))
     version = str(get_file_version(file))
     info = str(get_file_info(file, name))

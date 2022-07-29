@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Sun 24 Jul 2022 18:42:50 BST",
+  "Build Date": "Sun 24 Jul 2022 17:42:50 UTC",
   "Conflicts With": "None",
   "Depends On": [
     "nemo-python>=3.9.0",
@@ -13,11 +13,7 @@
   "Licenses": "GPL3",
   "Name": "nemo-compare",
   "Optional Deps": {
-    "diffuse": "Alternate comparison backend",
-    "fldiff": "Additional comparison options (preferred diff, three-way, multi-compare)",
-    "kdiff3": "Alternate comparison backend",
-    "kompare": "Additional comparison options (preferred diff, three-way, multi-compare)",
-    "meld": "Install at least one file comparison program"
+    "kdiff3": "Alternate comparison backend"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "None",

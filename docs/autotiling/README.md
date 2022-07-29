@@ -19,7 +19,7 @@ pacman -Si *therepoclub/autotiling*
 <b>Download Size</b>   : 24.37 KiB
 <b>Installed Size</b>  : 18.50 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 15 Dec 2021 18:39:41 GMT
+<b>Build Date</b>      : Wed 15 Dec 2021 18:39:41 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 30 May 2021 13:26:01 BST",
+  "Build Date": "Sun 30 May 2021 12:26:01 UTC",
   "Conflicts With": "None",
   "Depends On": "perl-checkupdates-aur",
   "Description": "checkupdates for aur",

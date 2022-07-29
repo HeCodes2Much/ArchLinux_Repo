@@ -19,7 +19,7 @@ pacman -Si *therepoclub/woeusb-gui*
 <b>Download Size</b>   : 279.19 KiB
 <b>Installed Size</b>  : 547.59 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 24 Aug 2021 02:08:07 BST
+<b>Build Date</b>      : Tue 24 Aug 2021 01:08:07 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

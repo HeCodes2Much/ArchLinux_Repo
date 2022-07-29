@@ -19,7 +19,7 @@ pacman -Si *therepoclub/btrfs-snapshots*
 <b>Download Size</b>   : 33.17 KiB
 <b>Installed Size</b>  : 65.03 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 23 Sep 2021 12:50:45 BST
+<b>Build Date</b>      : Thu 23 Sep 2021 11:50:45 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

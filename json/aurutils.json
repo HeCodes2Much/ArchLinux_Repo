@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Tue 19 Jul 2022 18:04:24 BST",
+  "Build Date": "Tue 19 Jul 2022 17:04:24 UTC",
   "Conflicts With": "None",
   "Depends On": [
     "git",
@@ -15,11 +15,7 @@
   "Licenses": "custom:ISC",
   "Name": "aurutils",
   "Optional Deps": {
-    "bash-completion": "bash completion",
-    "devtools": "aur-chroot",
-    "ninja": "aur-sync ninja support",
-    "vifm": "default pager",
-    "zsh": "zsh completion"
+    "ninja": "aur-sync ninja support"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "None",

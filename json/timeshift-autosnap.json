@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sat 24 Apr 2021 19:01:23 BST",
+  "Build Date": "Sat 24 Apr 2021 18:01:23 UTC",
   "Conflicts With": "None",
   "Depends On": "timeshift",
   "Description": "Timeshift auto-snapshot script which runs before package upgrade using Pacman hook.",

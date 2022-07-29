@@ -19,7 +19,7 @@ pacman -Si *therepoclub/neovim-symlinks*
 <b>Download Size</b>   : 16.85 KiB
 <b>Installed Size</b>  : 0.08 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 27 Jun 2022 20:36:11 BST
+<b>Build Date</b>      : Mon 27 Jun 2022 19:36:11 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

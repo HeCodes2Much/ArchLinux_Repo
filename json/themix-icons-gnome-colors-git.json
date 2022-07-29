@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Thu 09 Sep 2021 20:01:56 BST",
+  "Build Date": "Thu 09 Sep 2021 19:01:56 UTC",
   "Conflicts With": [
     "themix-icons-gnome-colors",
     "oomox",
@@ -21,12 +21,7 @@
   "Licenses": "GPL3",
   "Name": "themix-icons-gnome-colors-git",
   "Optional Deps": {
-    "adwaita-icon-theme": "fallback icons",
-    "breeze-icons": "fallback icons",
-    "gnome-icon-theme": "fallback icons",
-    "gnome-icon-theme-symbolic": "fallback icons",
-    "oxygen-icons": "fallback icons",
-    "themix-gui": "GUI"
+    "oxygen-icons": "fallback icons"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "themix-icons-gnome-colors",

@@ -19,7 +19,7 @@ pacman -Si *therepoclub/auracle*
 <b>Download Size</b>   : 377.11 KiB
 <b>Installed Size</b>  : 862.79 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 01 Jun 2021 17:13:08 BST
+<b>Build Date</b>      : Tue 01 Jun 2021 16:13:08 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -19,7 +19,7 @@ pacman -Si *therepoclub/tbsm*
 <b>Download Size</b>   : 34.61 KiB
 <b>Installed Size</b>  : 48.86 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 08 Feb 2022 16:47:16 GMT
+<b>Build Date</b>      : Tue 08 Feb 2022 16:47:16 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

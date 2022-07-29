@@ -16,10 +16,10 @@ pacman -Si *therepoclub/nerd-fonts-source-code-pro*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 5.17 MiB
+<b>Download Size</b>   : 5.58 MiB
 <b>Installed Size</b>  : 25.32 MiB
-<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 02 Sep 2020 15:07:35 BST
+<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
+<b>Build Date</b>      : Fri 29 Jul 2022 21:19:48 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

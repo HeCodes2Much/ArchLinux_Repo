@@ -1,0 +1,29 @@
+{
+  "Architecture": "any",
+  "Build Date": "Fri 29 Jul 2022 20:31:12 UTC",
+  "Conflicts With": "None",
+  "Depends On": [
+    "code",
+    "sed"
+  ],
+  "Description": "Enable vscode marketplace in Code OSS",
+  "Download Size": "8.42 KiB",
+  "Groups": "None",
+  "Installed Size": "1.87 KiB",
+  "Licenses": "unknown",
+  "Name": "code-marketplace",
+  "Optional Deps": {
+    "code-features": "unblock some extensions specific to the official build"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://marketplace.visualstudio.com/vscode",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1.66.0-1"
+}

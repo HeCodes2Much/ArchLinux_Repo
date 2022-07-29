@@ -1,0 +1,24 @@
+{
+  "Architecture": "any",
+  "Build Date": "Fri 29 Jul 2022 16:51:29 UTC",
+  "Conflicts With": "None",
+  "Depends On": "bash",
+  "Description": "Exec for repowm and repomenu",
+  "Download Size": "7.84 KiB",
+  "Groups": "therepoclub",
+  "Installed Size": "2.97 KiB",
+  "Licenses": "GPL3",
+  "Name": "repo-exec",
+  "Optional Deps": "repowm",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "repo-exec",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/The-Repo-Club/repo-exec",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2022.07.17-1"
+}

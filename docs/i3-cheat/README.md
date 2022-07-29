@@ -19,7 +19,7 @@ pacman -Si *therepoclub/i3-cheat*
 <b>Download Size</b>   : 19.69 KiB
 <b>Installed Size</b>  : 10.13 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 23 Jan 2022 18:17:25 GMT
+<b>Build Date</b>      : Sun 23 Jan 2022 18:17:25 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

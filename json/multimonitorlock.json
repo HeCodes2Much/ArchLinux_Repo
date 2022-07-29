@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Fri 20 Aug 2021 15:30:05 BST",
+  "Build Date": "Fri 20 Aug 2021 14:30:05 UTC",
   "Conflicts With": [
     "multilockscreen-git",
     "betterlockscreen",
@@ -21,7 +21,6 @@
   "Licenses": "GPL3",
   "Name": "multimonitorlock",
   "Optional Deps": {
-    "feh": "Allows setting wallpaper",
     "multimonitorlock-gui": "Allows the background to be changed"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",

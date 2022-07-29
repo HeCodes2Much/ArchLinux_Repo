@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Wed 15 Dec 2021 18:39:37 GMT",
+  "Build Date": "Wed 15 Dec 2021 18:39:37 UTC",
   "Conflicts With": "protonup",
   "Depends On": [
     "python",

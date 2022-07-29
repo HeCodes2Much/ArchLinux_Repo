@@ -19,7 +19,7 @@ pacman -Si *therepoclub/xidlehook*
 <b>Download Size</b>   : 1091.33 KiB
 <b>Installed Size</b>  : 3405.97 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 21 Jan 2022 16:33:33 GMT
+<b>Build Date</b>      : Fri 21 Jan 2022 16:33:33 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

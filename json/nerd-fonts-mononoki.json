@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Wed 16 Dec 2020 11:44:56 GMT",
+  "Build Date": "Wed 16 Dec 2020 11:44:56 UTC",
   "Conflicts With": "None",
   "Depends On": "None",
   "Description": "Patched font Mononoki from nerd-fonts library",

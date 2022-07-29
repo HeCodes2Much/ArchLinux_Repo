@@ -21,7 +21,7 @@ pacman -Si *therepoclub/proctl*
 <b>Download Size</b>   : 23.29 KiB
 <b>Installed Size</b>  : 21.74 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 21 Feb 2022 16:15:43 GMT
+<b>Build Date</b>      : Mon 21 Feb 2022 16:15:43 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

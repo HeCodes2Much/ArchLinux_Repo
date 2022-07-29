@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Mon 27 Jun 2022 20:36:11 BST",
+  "Build Date": "Mon 27 Jun 2022 19:36:11 UTC",
   "Conflicts With": [
     "vim",
     "vi",

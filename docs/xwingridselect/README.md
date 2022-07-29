@@ -19,7 +19,7 @@ pacman -Si *therepoclub/xwingridselect*
 <b>Download Size</b>   : 56.00 KiB
 <b>Installed Size</b>  : 91.78 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 06 Apr 2021 21:53:04 BST
+<b>Build Date</b>      : Tue 06 Apr 2021 20:53:04 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

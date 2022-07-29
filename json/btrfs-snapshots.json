@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Thu 23 Sep 2021 12:50:45 BST",
+  "Build Date": "Thu 23 Sep 2021 11:50:45 UTC",
   "Conflicts With": "None",
   "Depends On": "bash",
   "Description": "addons for repomenu",

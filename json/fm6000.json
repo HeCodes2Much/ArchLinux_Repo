@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 15 Aug 2021 15:09:12 BST",
+  "Build Date": "Sun 15 Aug 2021 14:09:12 UTC",
   "Conflicts With": "None",
   "Depends On": "perl",
   "Description": "Simple system info fetching tool",

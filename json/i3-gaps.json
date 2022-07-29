@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Tue 28 Dec 2021 14:15:22 GMT",
+  "Build Date": "Tue 28 Dec 2021 14:15:22 UTC",
   "Conflicts With": "i3-wm",
   "Depends On": [
     "xcb-util-keysyms",
@@ -21,12 +21,7 @@
   "Licenses": "BSD",
   "Name": "i3-gaps",
   "Optional Deps": {
-    "dmenu": "As menu.",
-    "i3lock": "For locking your screen.",
-    "i3status": "To display system information with a bar.",
-    "perl-anyevent-i3": "For i3-save-tree",
-    "perl-json-xs": "For i3-save-tree",
-    "rxvt-unicode": "The terminal emulator used in the default config."
+    "perl-anyevent-i3": "For i3-save-tree"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "i3-wm",
