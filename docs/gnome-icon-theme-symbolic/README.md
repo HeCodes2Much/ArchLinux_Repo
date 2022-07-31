@@ -19,7 +19,7 @@ pacman -Si *therepoclub/gnome-icon-theme-symbolic*
 <b>Download Size</b>   : 204.07 KiB
 <b>Installed Size</b>  : 1909.24 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 18 Jul 2022 16:12:59 UTC
+<b>Build Date</b>      : Mon 18 Jul 2022 17:12:59 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

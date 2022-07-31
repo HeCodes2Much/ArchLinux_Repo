@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Wed 15 Dec 2021 18:39:41 UTC",
+  "Build Date": "Wed 15 Dec 2021 18:39:41 GMT",
   "Conflicts With": "None",
   "Depends On": "python-i3ipc",
   "Description": "Script for sway and i3 to automatically switch the horizontal / vertical window split orientation",

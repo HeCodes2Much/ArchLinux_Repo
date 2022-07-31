@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Mon 28 Mar 2022 11:09:07 UTC",
+  "Build Date": "Mon 28 Mar 2022 12:09:07 BST",
   "Conflicts With": "None",
   "Depends On": [
     "pacman>=4.1",

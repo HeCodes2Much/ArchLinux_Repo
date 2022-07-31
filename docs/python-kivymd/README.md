@@ -19,7 +19,7 @@ pacman -Si *therepoclub/python-kivymd*
 <b>Download Size</b>   : 2.20 MiB
 <b>Installed Size</b>  : 6.47 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 15 Dec 2021 18:39:30 UTC
+<b>Build Date</b>      : Wed 15 Dec 2021 18:39:30 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

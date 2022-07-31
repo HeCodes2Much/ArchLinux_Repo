@@ -24,7 +24,7 @@ pacman -Si *therepoclub/i3-gaps*
 <b>Download Size</b>   : 1031.51 KiB
 <b>Installed Size</b>  : 2064.44 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 28 Dec 2021 14:15:22 UTC
+<b>Build Date</b>      : Tue 28 Dec 2021 14:15:22 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -19,7 +19,7 @@ pacman -Si *therepoclub/upd72020x-fw*
 <b>Download Size</b>   : 35.48 KiB
 <b>Installed Size</b>  : 44.87 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 06 Jul 2022 06:00:06 UTC
+<b>Build Date</b>      : Wed 06 Jul 2022 07:00:06 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

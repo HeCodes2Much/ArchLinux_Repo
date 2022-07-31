@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Mon 04 Jan 2021 16:59:50 UTC",
+  "Build Date": "Mon 04 Jan 2021 16:59:50 GMT",
   "Conflicts With": "None",
   "Depends On": [
     "gtk3",

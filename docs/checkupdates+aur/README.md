@@ -19,7 +19,7 @@ pacman -Si *therepoclub/checkupdates+aur*
 <b>Download Size</b>   : 14.82 KiB
 <b>Installed Size</b>  : 0.33 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 09 Feb 2021 14:16:19 UTC
+<b>Build Date</b>      : Tue 09 Feb 2021 14:16:19 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

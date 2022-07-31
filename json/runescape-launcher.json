@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Sun 05 Jun 2022 11:25:40 UTC",
+  "Build Date": "Sun 05 Jun 2022 12:25:40 BST",
   "Conflicts With": "None",
   "Depends On": [
     "cairo",

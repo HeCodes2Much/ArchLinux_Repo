@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Tue 09 Feb 2021 14:03:11 UTC",
+  "Build Date": "Tue 09 Feb 2021 14:03:11 GMT",
   "Conflicts With": "None",
   "Depends On": [
     "python2-xdg",

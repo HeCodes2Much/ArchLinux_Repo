@@ -19,7 +19,7 @@ pacman -Si *therepoclub/imagewriter*
 <b>Download Size</b>   : 120.33 KiB
 <b>Installed Size</b>  : 177.48 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 25 Jun 2022 17:59:17 UTC
+<b>Build Date</b>      : Sat 25 Jun 2022 18:59:17 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

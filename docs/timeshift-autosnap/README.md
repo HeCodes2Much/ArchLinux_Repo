@@ -19,7 +19,7 @@ pacman -Si *therepoclub/timeshift-autosnap*
 <b>Download Size</b>   : 14.53 KiB
 <b>Installed Size</b>  : 4.37 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 24 Apr 2021 18:01:23 UTC
+<b>Build Date</b>      : Sat 24 Apr 2021 19:01:23 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

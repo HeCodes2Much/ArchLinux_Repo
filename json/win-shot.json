@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 10 Oct 2021 10:09:09 UTC",
+  "Build Date": "Sun 31 Jul 2022 18:30:42 BST",
   "Conflicts With": "None",
   "Depends On": [
     "libnotify",
@@ -9,9 +9,9 @@
     "xdotool"
   ],
   "Description": "simple screenshot script using imagemagick",
-  "Download Size": "15.61 KiB",
+  "Download Size": "10.46 KiB",
   "Groups": "therepoclub",
-  "Installed Size": "2.08 KiB",
+  "Installed Size": "2.42 KiB",
   "Licenses": "GPL3",
   "Name": "win-shot",
   "Optional Deps": {
@@ -27,5 +27,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "2021.10.10-1"
+  "Version": "2022.07.31-1"
 }

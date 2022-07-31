@@ -19,7 +19,7 @@ pacman -Si *therepoclub/code-features*
 <b>Download Size</b>   : 9.41 KiB
 <b>Installed Size</b>  : 5.43 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 29 Jul 2022 20:31:44 UTC
+<b>Build Date</b>      : Fri 29 Jul 2022 21:31:44 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

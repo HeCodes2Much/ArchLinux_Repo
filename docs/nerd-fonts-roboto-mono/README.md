@@ -19,7 +19,7 @@ pacman -Si *therepoclub/nerd-fonts-roboto-mono*
 <b>Download Size</b>   : 6.01 MiB
 <b>Installed Size</b>  : 18.14 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 17 Jun 2021 15:48:40 UTC
+<b>Build Date</b>      : Thu 17 Jun 2021 16:48:40 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

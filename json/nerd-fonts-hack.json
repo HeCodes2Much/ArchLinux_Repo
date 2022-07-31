@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Tue 28 Dec 2021 13:50:32 UTC",
+  "Build Date": "Tue 28 Dec 2021 13:50:32 GMT",
   "Conflicts With": "None",
   "Depends On": "None",
   "Description": "Patched font Hack from nerd-fonts library",

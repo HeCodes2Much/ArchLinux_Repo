@@ -19,7 +19,7 @@ pacman -Si *therepoclub/themix-icons-suru-plus-aspromauros-git*
 <b>Download Size</b>   : 5.86 MiB
 <b>Installed Size</b>  : 37.50 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 24 Oct 2021 11:42:22 UTC
+<b>Build Date</b>      : Sun 24 Oct 2021 12:42:22 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

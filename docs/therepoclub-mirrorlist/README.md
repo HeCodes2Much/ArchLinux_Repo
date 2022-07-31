@@ -19,7 +19,7 @@ pacman -Si *therepoclub/therepoclub-mirrorlist*
 <b>Download Size</b>   : 13.48 KiB
 <b>Installed Size</b>  : 0.04 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 22 Aug 2021 12:33:11 UTC
+<b>Build Date</b>      : Sun 22 Aug 2021 13:33:11 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

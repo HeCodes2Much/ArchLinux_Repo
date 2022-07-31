@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Fri 08 Jul 2022 21:44:18 UTC",
+  "Build Date": "Fri 08 Jul 2022 22:44:18 BST",
   "Conflicts With": "None",
   "Depends On": "fish",
   "Description": "Node.js version manager lovingly made for Fish",

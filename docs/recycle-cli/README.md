@@ -19,7 +19,7 @@ pacman -Si *therepoclub/recycle-cli*
 <b>Download Size</b>   : 16.83 KiB
 <b>Installed Size</b>  : 6.12 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 09 Feb 2021 14:14:01 UTC
+<b>Build Date</b>      : Tue 09 Feb 2021 14:14:01 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

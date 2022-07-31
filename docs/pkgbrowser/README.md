@@ -19,7 +19,7 @@ pacman -Si *therepoclub/pkgbrowser*
 <b>Download Size</b>   : 208.61 KiB
 <b>Installed Size</b>  : 599.61 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 28 Mar 2022 11:09:07 UTC
+<b>Build Date</b>      : Mon 28 Mar 2022 12:09:07 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

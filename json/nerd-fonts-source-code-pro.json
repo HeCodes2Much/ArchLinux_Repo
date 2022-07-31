@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Fri 29 Jul 2022 21:19:48 UTC",
+  "Build Date": "Fri 29 Jul 2022 22:19:48 BST",
   "Conflicts With": "None",
   "Depends On": "fontconfig",
   "Description": "Patched font SourceCodePro from nerd-fonts library",

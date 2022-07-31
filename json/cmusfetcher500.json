@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Tue 28 Dec 2021 14:50:26 UTC",
+  "Build Date": "Tue 28 Dec 2021 14:50:26 GMT",
   "Conflicts With": "None",
   "Depends On": "bash",
   "Description": "A simple tool for fetching an image and sound from cmus",

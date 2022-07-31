@@ -19,7 +19,7 @@ pacman -Si *therepoclub/nbteditor*
 <b>Download Size</b>   : 115.59 KiB
 <b>Installed Size</b>  : 309.40 KiB
 <b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 03 Dec 2020 17:51:24 UTC
+<b>Build Date</b>      : Thu 03 Dec 2020 17:51:24 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

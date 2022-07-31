@@ -19,7 +19,7 @@ pacman -Si *therepoclub/therepoclub-keyring*
 <b>Download Size</b>   : 17.17 KiB
 <b>Installed Size</b>  : 3.11 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 22 Aug 2021 12:27:27 UTC
+<b>Build Date</b>      : Sun 22 Aug 2021 13:27:27 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

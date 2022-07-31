@@ -19,7 +19,7 @@ pacman -Si *therepoclub/dracula-qt6-theme*
 <b>Download Size</b>   : 15.74 KiB
 <b>Installed Size</b>  : 0.73 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 20 Oct 2021 13:35:37 UTC
+<b>Build Date</b>      : Wed 20 Oct 2021 14:35:37 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

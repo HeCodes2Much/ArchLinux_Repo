@@ -19,7 +19,7 @@ pacman -Si *therepoclub/yaru-sound-theme*
 <b>Download Size</b>   : 488.10 KiB
 <b>Installed Size</b>  : 733.83 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 24 May 2022 13:21:13 UTC
+<b>Build Date</b>      : Tue 24 May 2022 14:21:13 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

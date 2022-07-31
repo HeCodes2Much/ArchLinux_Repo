@@ -19,7 +19,7 @@ pacman -Si *therepoclub/themix-theme-oomox-git*
 <b>Download Size</b>   : 322.04 KiB
 <b>Installed Size</b>  : 2304.80 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 08 Oct 2021 17:59:13 UTC
+<b>Build Date</b>      : Fri 08 Oct 2021 18:59:13 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

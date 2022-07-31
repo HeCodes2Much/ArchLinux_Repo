@@ -19,7 +19,7 @@ pacman -Si *therepoclub/gotop*
 <b>Download Size</b>   : 2.71 MiB
 <b>Installed Size</b>  : 7.59 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 21 Jul 2021 17:42:03 UTC
+<b>Build Date</b>      : Wed 21 Jul 2021 18:42:03 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

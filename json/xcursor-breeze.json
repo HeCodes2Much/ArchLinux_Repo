@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 21 Mar 2021 14:09:45 UTC",
+  "Build Date": "Sun 21 Mar 2021 14:09:45 GMT",
   "Conflicts With": "breeze",
   "Depends On": "libxcursor",
   "Description": "Breeze cursor theme (KDE Plasma 5). This package is for usage in non-KDE Plasma desktops.",

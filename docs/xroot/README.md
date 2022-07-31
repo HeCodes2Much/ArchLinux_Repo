@@ -19,7 +19,7 @@ pacman -Si *therepoclub/xroot*
 <b>Download Size</b>   : 19.51 KiB
 <b>Installed Size</b>  : 14.49 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 30 Jan 2022 15:49:56 UTC
+<b>Build Date</b>      : Sun 30 Jan 2022 15:49:56 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

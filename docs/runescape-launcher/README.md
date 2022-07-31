@@ -19,7 +19,7 @@ pacman -Si *therepoclub/runescape-launcher*
 <b>Download Size</b>   : 4.66 MiB
 <b>Installed Size</b>  : 10.77 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 05 Jun 2022 11:25:40 UTC
+<b>Build Date</b>      : Sun 05 Jun 2022 12:25:40 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

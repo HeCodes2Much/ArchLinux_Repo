@@ -19,7 +19,7 @@ pacman -Si *therepoclub/sddm-endeavour*
 <b>Download Size</b>   : 179.93 KiB
 <b>Installed Size</b>  : 225.94 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 05 Jul 2021 14:26:38 UTC
+<b>Build Date</b>      : Mon 05 Jul 2021 15:26:38 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

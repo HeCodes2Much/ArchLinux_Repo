@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Fri 31 Dec 2021 14:09:45 UTC",
+  "Build Date": "Fri 31 Dec 2021 14:09:45 GMT",
   "Conflicts With": "None",
   "Depends On": "bash",
   "Description": "A CLI system information tool written in BASH that supports displaying images.",

@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Mon 14 Dec 2020 21:33:33 UTC",
+  "Build Date": "Mon 14 Dec 2020 21:33:33 GMT",
   "Conflicts With": [
     "nerd-fonts-git",
     "nerd-fonts-complete",

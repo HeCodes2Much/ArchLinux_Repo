@@ -19,7 +19,7 @@ pacman -Si *therepoclub/colorgrab*
 <b>Download Size</b>   : 207.55 KiB
 <b>Installed Size</b>  : 577.07 KiB
 <b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 13 Jan 2021 15:13:45 UTC
+<b>Build Date</b>      : Wed 13 Jan 2021 15:13:45 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

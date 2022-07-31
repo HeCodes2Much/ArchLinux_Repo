@@ -22,7 +22,7 @@ pacman -Si *therepoclub/themix-icons-papirus-git*
 <b>Download Size</b>   : 30.68 MiB
 <b>Installed Size</b>  : 102.80 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 09 Sep 2021 19:02:31 UTC
+<b>Build Date</b>      : Thu 09 Sep 2021 20:02:31 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

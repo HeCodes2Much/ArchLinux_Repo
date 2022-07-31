@@ -19,7 +19,7 @@ pacman -Si *therepoclub/nerd-fonts-hack*
 <b>Download Size</b>   : 6.35 MiB
 <b>Installed Size</b>  : 13.10 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 28 Dec 2021 13:50:32 UTC
+<b>Build Date</b>      : Tue 28 Dec 2021 13:50:32 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sat 06 Nov 2021 18:15:34 UTC",
+  "Build Date": "Sat 06 Nov 2021 18:15:34 GMT",
   "Conflicts With": "None",
   "Depends On": [
     "curl",

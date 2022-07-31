@@ -19,7 +19,7 @@ pacman -Si *therepoclub/i3lock-color*
 <b>Download Size</b>   : 67.71 KiB
 <b>Installed Size</b>  : 122.66 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 01 Aug 2021 09:26:04 UTC
+<b>Build Date</b>      : Sun 01 Aug 2021 10:26:04 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

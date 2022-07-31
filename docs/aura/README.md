@@ -19,7 +19,7 @@ pacman -Si *therepoclub/aura*
 <b>Download Size</b>   : 2.18 MiB
 <b>Installed Size</b>  : 8.99 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 01 Sep 2021 17:07:50 UTC
+<b>Build Date</b>      : Wed 01 Sep 2021 18:07:50 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -30,7 +30,7 @@ pacman -Si *therepoclub/themix-gui-git*
 <b>Download Size</b>   : 246.02 KiB
 <b>Installed Size</b>  : 1013.19 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 08 Oct 2021 17:58:58 UTC
+<b>Build Date</b>      : Fri 08 Oct 2021 18:58:58 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

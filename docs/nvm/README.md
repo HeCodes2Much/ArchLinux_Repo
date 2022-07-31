@@ -19,7 +19,7 @@ pacman -Si *therepoclub/nvm*
 <b>Download Size</b>   : 51.59 KiB
 <b>Installed Size</b>  : 140.07 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 10 Mar 2022 19:41:27 UTC
+<b>Build Date</b>      : Thu 10 Mar 2022 19:41:27 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

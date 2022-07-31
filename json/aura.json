@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Wed 01 Sep 2021 17:07:50 UTC",
+  "Build Date": "Wed 01 Sep 2021 18:07:50 BST",
   "Conflicts With": [
     "aura-bin",
     "aura-git"

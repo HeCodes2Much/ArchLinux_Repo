@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Fri 29 Jul 2022 16:47:19 UTC",
+  "Build Date": "Sun 31 Jul 2022 18:24:01 BST",
   "Conflicts With": "dmenu",
   "Depends On": [
     "python",
@@ -8,9 +8,9 @@
     "libxft"
   ],
   "Description": "dmenu like menu with the Dracula theme",
-  "Download Size": "42.09 KiB",
+  "Download Size": "46.48 KiB",
   "Groups": "therepoclub",
-  "Installed Size": "147.78 KiB",
+  "Installed Size": "148.46 KiB",
   "Licenses": "MIT",
   "Name": "repomenu",
   "Optional Deps": {
@@ -29,5 +29,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "2021.08.25-1"
+  "Version": "2022.07.31-1"
 }

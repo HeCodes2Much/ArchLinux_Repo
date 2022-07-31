@@ -19,7 +19,7 @@ pacman -Si *therepoclub/themix-plugin-base16-git*
 <b>Download Size</b>   : 164.94 KiB
 <b>Installed Size</b>  : 600.47 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 19 Mar 2022 11:38:33 UTC
+<b>Build Date</b>      : Sat 19 Mar 2022 11:38:33 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Wed 13 Jan 2021 15:13:45 UTC",
+  "Build Date": "Wed 13 Jan 2021 15:13:45 GMT",
   "Conflicts With": "None",
   "Depends On": [
     "wxgtk2",

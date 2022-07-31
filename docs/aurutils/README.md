@@ -23,7 +23,7 @@ pacman -Si *therepoclub/aurutils*
 <b>Download Size</b>   : 98.67 KiB
 <b>Installed Size</b>  : 155.83 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 19 Jul 2022 17:04:24 UTC
+<b>Build Date</b>      : Tue 19 Jul 2022 18:04:24 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

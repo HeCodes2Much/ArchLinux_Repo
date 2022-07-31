@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Tue 24 Aug 2021 09:37:21 UTC",
+  "Build Date": "Tue 24 Aug 2021 10:37:21 BST",
   "Conflicts With": "None",
   "Depends On": "pyside6",
   "Description": "Logout screen for QT using QT5 and pyside2",

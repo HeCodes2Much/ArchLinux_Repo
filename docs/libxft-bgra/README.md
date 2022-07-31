@@ -19,7 +19,7 @@ pacman -Si *therepoclub/libxft-bgra*
 <b>Download Size</b>   : 73.47 KiB
 <b>Installed Size</b>  : 118.10 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 29 Oct 2021 12:15:31 UTC
+<b>Build Date</b>      : Fri 29 Oct 2021 13:15:31 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

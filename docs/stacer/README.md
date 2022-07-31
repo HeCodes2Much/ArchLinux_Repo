@@ -19,7 +19,7 @@ pacman -Si *therepoclub/stacer*
 <b>Download Size</b>   : 919.32 KiB
 <b>Installed Size</b>  : 1961.83 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 15 Aug 2021 13:40:51 UTC
+<b>Build Date</b>      : Sun 15 Aug 2021 14:40:51 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

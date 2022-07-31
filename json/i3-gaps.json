@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Tue 28 Dec 2021 14:15:22 UTC",
+  "Build Date": "Tue 28 Dec 2021 14:15:22 GMT",
   "Conflicts With": "i3-wm",
   "Depends On": [
     "xcb-util-keysyms",

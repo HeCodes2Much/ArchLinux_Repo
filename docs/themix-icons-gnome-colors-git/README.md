@@ -24,7 +24,7 @@ pacman -Si *therepoclub/themix-icons-gnome-colors-git*
 <b>Download Size</b>   : 2.51 MiB
 <b>Installed Size</b>  : 12.32 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 09 Sep 2021 19:01:56 UTC
+<b>Build Date</b>      : Thu 09 Sep 2021 20:01:56 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

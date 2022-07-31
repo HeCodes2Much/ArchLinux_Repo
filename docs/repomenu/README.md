@@ -4,8 +4,8 @@ pacman -Si *therepoclub/repomenu*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : therepoclub
-<b>Name</b>            : <a href="../../x86_64/repomenu-2021.08.25-1-any.pkg.tar.zst">repomenu</a>
-<b>Version</b>         : 2021.08.25-1
+<b>Name</b>            : <a href="../../x86_64/repomenu-2022.07.31-1-any.pkg.tar.zst">repomenu</a>
+<b>Version</b>         : 2022.07.31-1
 <b>Description</b>     : dmenu like menu with the Dracula theme
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/The-Repo-Club/repomenu
@@ -22,10 +22,10 @@ pacman -Si *therepoclub/repomenu*
                   ttf-remixicon: font used by default
 <b>Conflicts With</b>  : dmenu
 <b>Replaces</b>        : dmenu
-<b>Download Size</b>   : 42.09 KiB
-<b>Installed Size</b>  : 147.78 KiB
+<b>Download Size</b>   : 46.48 KiB
+<b>Installed Size</b>  : 148.46 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 29 Jul 2022 16:47:19 UTC
+<b>Build Date</b>      : Sun 31 Jul 2022 18:24:01 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

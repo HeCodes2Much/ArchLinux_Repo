@@ -19,7 +19,7 @@ pacman -Si *therepoclub/ttf-remixicon*
 <b>Download Size</b>   : 189.33 KiB
 <b>Installed Size</b>  : 393.61 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 14 Apr 2021 19:49:02 UTC
+<b>Build Date</b>      : Wed 14 Apr 2021 20:49:02 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

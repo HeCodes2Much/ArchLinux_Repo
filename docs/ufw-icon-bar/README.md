@@ -19,7 +19,7 @@ pacman -Si *therepoclub/ufw-icon-bar*
 <b>Download Size</b>   : 17.36 KiB
 <b>Installed Size</b>  : 2.36 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 08 Nov 2021 23:41:33 UTC
+<b>Build Date</b>      : Mon 08 Nov 2021 23:41:33 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -19,7 +19,7 @@ pacman -Si *therepoclub/libart-lgpl*
 <b>Download Size</b>   : 83.87 KiB
 <b>Installed Size</b>  : 177.93 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 23 May 2021 14:16:04 UTC
+<b>Build Date</b>      : Sun 23 May 2021 15:16:04 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
