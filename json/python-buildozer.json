@@ -1,0 +1,35 @@
+{
+  "Architecture": "any",
+  "Build Date": "Sun 07 Aug 2022 14:21:41 BST",
+  "Conflicts With": "buildozer",
+  "Depends On": [
+    "python",
+    "python-colorama",
+    "python-pexpect",
+    "python-virtualenv",
+    "python-sh"
+  ],
+  "Description": "Generic Python packager for Android / iOS and Desktop",
+  "Download Size": "142.87 KiB",
+  "Groups": "None",
+  "Installed Size": "561.60 KiB",
+  "Licenses": "MIT",
+  "Name": "python-buildozer",
+  "Optional Deps": {
+    "python-paramiko": "remote builds"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": [
+    "buildozer",
+    "python-buildozer"
+  ],
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/kivy/buildozer",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1.4.0-1"
+}

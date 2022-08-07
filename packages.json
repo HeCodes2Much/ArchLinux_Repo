@@ -61,6 +61,7 @@
     "pkgbrowser",
     "proctl",
     "protonup-git",
+    "python-buildozer",
     "python-gputil",
     "python-kivymd",
     "qt-logout",
