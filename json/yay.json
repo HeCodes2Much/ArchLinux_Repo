@@ -1,0 +1,29 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Tue 16 Aug 2022 15:55:00 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "pacman>5",
+    "git"
+  ],
+  "Description": "Yet another yogurt. Pacman wrapper and AUR helper written in go.",
+  "Download Size": "2.93 MiB",
+  "Groups": "None",
+  "Installed Size": "7.28 MiB",
+  "Licenses": "GPL3",
+  "Name": "yay",
+  "Optional Deps": {
+    "doas": "privilege elevation"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/Jguer/yay",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "11.3.0-1"
+}

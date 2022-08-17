@@ -1,0 +1,31 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Wed 17 Aug 2022 06:56:10 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "libcap",
+    "readline",
+    "acl",
+    "file"
+  ],
+  "Description": "The command line file manager",
+  "Download Size": "454.93 KiB",
+  "Groups": "None",
+  "Installed Size": "1020.70 KiB",
+  "Licenses": "GPL2",
+  "Name": "clifm",
+  "Optional Deps": {
+    "udisks2": "(un)mount storage devices"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "clifm",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/leo-arch/clifm",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1.6-1"
+}
