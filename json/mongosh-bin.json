@@ -1,0 +1,24 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Wed 24 Aug 2022 22:05:56 BST",
+  "Conflicts With": "None",
+  "Depends On": "krb5",
+  "Description": "An interactive shell to connect with MongoDB with syntax highlighting, autocomplete, contextual help and error messages.",
+  "Download Size": "47.49 MiB",
+  "Groups": "None",
+  "Installed Size": "177.71 MiB",
+  "Licenses": "Apache",
+  "Name": "mongosh-bin",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "therepoclub",
+  "URL": "https://github.com/mongodb-js/mongosh.git",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1.5.4-1"
+}

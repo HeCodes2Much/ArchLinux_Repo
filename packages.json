@@ -42,6 +42,8 @@
     "lovesay",
     "minecraft-launcher",
     "mkinitcpio-firmware",
+    "mongodb-bin",
+    "mongosh-bin",
     "multimonitorlock",
     "multimonitorlock-gui",
     "nbteditor",
