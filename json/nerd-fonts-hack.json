@@ -1,17 +1,17 @@
 {
   "Architecture": "any",
-  "Build Date": "Tue 28 Dec 2021 13:50:32 GMT",
+  "Build Date": "Sun 28 Aug 2022 11:24:31 BST",
   "Conflicts With": "None",
   "Depends On": "None",
   "Description": "Patched font Hack from nerd-fonts library",
-  "Download Size": "6.35 MiB",
+  "Download Size": "4.78 MiB",
   "Groups": "None",
-  "Installed Size": "13.10 MiB",
+  "Installed Size": "9.39 MiB",
   "Licenses": "MIT",
   "Name": "nerd-fonts-hack",
   "Optional Deps": "None",
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
-  "Provides": "ttf-font-nerd=2.1.0",
+  "Provides": "ttf-font-nerd=2.2.1",
   "Replaces": "None",
   "Repository": "therepoclub",
   "URL": "https://github.com/ryanoasis/nerd-fonts",
@@ -20,5 +20,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "2.1.0-4"
+  "Version": "2.2.1-1"
 }
