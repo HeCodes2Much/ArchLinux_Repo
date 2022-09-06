@@ -1,12 +1,12 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 22 Aug 2021 13:27:27 BST",
+  "Build Date": "Tue 06 Sep 2022 16:50:36 BST",
   "Conflicts With": "None",
   "Depends On": "None",
   "Description": "TheRepoClub keyring",
-  "Download Size": "17.17 KiB",
+  "Download Size": "10.49 KiB",
   "Groups": "therepoclub",
-  "Installed Size": "3.11 KiB",
+  "Installed Size": "0.00 KiB",
   "Licenses": "GPL3",
   "Name": "therepoclub-keyring",
   "Optional Deps": "None",
@@ -20,5 +20,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "2021.08.22-1"
+  "Version": "2022.09.06-1"
 }

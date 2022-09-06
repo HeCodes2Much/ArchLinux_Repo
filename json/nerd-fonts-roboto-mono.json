@@ -1,15 +1,15 @@
 {
   "Architecture": "any",
-  "Build Date": "Thu 17 Jun 2021 16:48:40 BST",
+  "Build Date": "Thu 01 Sep 2022 18:59:52 BST",
   "Conflicts With": [
     "nerd-fonts-git",
     "nerd-fonts-complete"
   ],
   "Depends On": "None",
   "Description": "Patched font Roboto Mono from the nerd-fonts library",
-  "Download Size": "6.01 MiB",
+  "Download Size": "8.71 MiB",
   "Groups": "nerd-fonts",
-  "Installed Size": "18.14 MiB",
+  "Installed Size": "19.85 MiB",
   "Licenses": "MIT",
   "Name": "nerd-fonts-roboto-mono",
   "Optional Deps": "None",
@@ -23,5 +23,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "2.1.0-2"
+  "Version": "2.2.1-1"
 }
