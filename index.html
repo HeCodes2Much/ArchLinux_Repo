@@ -96,6 +96,10 @@
       this.echo('[linuxrepos]')
       this.echo('SigLevel = Required DatabaseOptional')
       this.echo('Server = https://arch.linuxrepos.org/$arch/')
+      this.echo('')
+      this.echo('[linuxrepos-git]')
+      this.echo('SigLevel = Optional TrustAll')
+      this.echo('Server = https://github.com/The-Repo-Club/arch.linuxrepos.org/releases/download/linuxrepos-git')
 
     },
     credits: function() {
