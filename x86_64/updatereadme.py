@@ -171,7 +171,7 @@ multiline_addrepo = (
     f"\nAppend to */etc/pacman.conf*:\n```\n[linuxrepos]\nSigLevel = Required DatabaseOptional\nServer = https://arch.linuxrepos.org/$arch/\n```"
     f"\nTo check signature, add my key:\n"
     f"```\nsudo pacman-key --keyserver hkp://pgp.net.nz --recv-key 75A38DC684F1A0B808918BCEE30EC2FBFB05C44F\nsudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BCEE30EC2FBFB05C44F\n```"
-    f"\nYou may also want to \nAppend to */etc/pacman.conf*:\n```\n[linuxrepos-git]\nSigLevel = Optional TrustAll\nServer = https://github.com/The-Repo-Club/arch.linuxrepos.org/releases/download/linuxrepos-git\n```"
+    f"\nYou may also want to \nAppend to */etc/pacman.conf*:\n```\n[linuxrepos-git]\nSigLevel = Optional TrustAll\nServer = https://github.com/The-Repo-Club/arch.linuxrepos.org/releases/download/$repo/\n```"
 )
 
 readme.write(multiline_addrepo)

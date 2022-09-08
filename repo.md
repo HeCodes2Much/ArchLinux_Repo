@@ -151,9 +151,16 @@ To check signature, add my key:
 sudo pacman-key --keyserver hkp://pgp.net.nz --recv-key 75A38DC684F1A0B808918BCEE30EC2FBFB05C44F
 sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BCEE30EC2FBFB05C44F
 ```
+You may also want to 
+Append to */etc/pacman.conf*:
+```
+[linuxrepos-git]
+SigLevel = Optional TrustAll
+Server = https://github.com/The-Repo-Club/arch.linuxrepos.org/releases/download/$repo/
+```
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Thu 8th, Sep 2022 at 02:34:37PM
+*   Last updated on: Thu 8th, Sep 2022 at 03:11:03PM
