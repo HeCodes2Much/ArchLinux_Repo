@@ -1,0 +1,52 @@
+name: Make Repository
+
+on:
+  push:
+    branches:
+      - master
+      - main
+      - debug
+  schedule:
+    - cron: "* */12 * * *"
+
+jobs:
+  build_repository:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Get current time and date
+      id: date
+      run: echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M')"
+
+    - name: Build Packages
+      uses: Archaholic/build-aur-packages@v1
+      with:
+        packages: >
+          visual-studio-code-bin
+          android-studio
+          jdk-android-studio
+          mkinitcpio-colors-git
+          xampp
+
+    - name: List generated Files
+      run: ls -1 > ${{ github.workspace }}/files.txt
+
+    - name: Remove the current data from the release
+      uses: Archaholic/action-delete-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: linuxrepos-git
+
+    - name: Upload Files to Release
+      uses: softprops/action-gh-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: linuxrepos-git
+        name: arch.linuxrepos.org build ${{ github.run_number }} from ${{ steps.date.outputs.date }}
+        body: arch.linuxrepos.org build ${{ github.run_number }} from ${{ steps.date.outputs.date }}
+        files: |
+          ${{ github.workspace }}/*
+        draft: false
+        prerelease: false
