@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/themix-icons-numix-git*
+pacman -Si *linuxrepos/themix-icons-numix-git*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/themix-icons-numix-git-21.04.14.r6.gaac8347f2-1-x86_64.pkg.tar.zst">themix-icons-numix-git</a>
 <b>Version</b>         : 21.04.14.r6.gaac8347f2-1
 <b>Description</b>     : Numix icons plugin for Themix GUI designer
@@ -25,6 +25,6 @@ pacman -Si *therepoclub/themix-icons-numix-git*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/themix-icons-numix-git*
+pacman -S *linuxrepos/themix-icons-numix-git*

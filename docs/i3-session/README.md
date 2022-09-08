@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/i3-session*
+pacman -Si *linuxrepos/i3-session*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/i3-session-2021.01.01-1-any.pkg.tar.zst">i3-session</a>
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : Remembers what's running in your i3 workspaces by saving a session file
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/i3-session*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/i3-session*
+pacman -S *linuxrepos/i3-session*

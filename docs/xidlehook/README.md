@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/xidlehook*
+pacman -Si *linuxrepos/xidlehook*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/xidlehook-0.10.0-1-x86_64.pkg.tar.zst">xidlehook</a>
 <b>Version</b>         : 0.10.0-1
 <b>Description</b>     : xautolock rewrite in Rust, with a few extra features
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/xidlehook*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/xidlehook*
+pacman -S *linuxrepos/xidlehook*

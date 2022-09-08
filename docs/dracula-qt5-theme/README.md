@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/dracula-qt5-theme*
+pacman -Si *linuxrepos/dracula-qt5-theme*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/dracula-qt5-theme-2021.10.20-1-any.pkg.tar.zst">dracula-qt5-theme</a>
 <b>Version</b>         : 2021.10.20-1
 <b>Description</b>     : This theme provides support for QT5.
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/dracula-qt5-theme*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/dracula-qt5-theme*
+pacman -S *linuxrepos/dracula-qt5-theme*

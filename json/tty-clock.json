@@ -13,7 +13,7 @@
   "Packager": "TheCynicalTeam <wayne6324@gmail.com>",
   "Provides": "None",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "http://github.com/xorg62/tty-clock",
   "Validated By": [
     "MD5 Sum",

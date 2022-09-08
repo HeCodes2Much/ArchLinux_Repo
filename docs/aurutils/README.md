@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/aurutils*
+pacman -Si *linuxrepos/aurutils*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/aurutils-10b-1-any.pkg.tar.zst">aurutils</a>
 <b>Version</b>         : 10b-1
 <b>Description</b>     : helper tools for the arch user repository
@@ -27,6 +27,6 @@ pacman -Si *therepoclub/aurutils*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/aurutils*
+pacman -S *linuxrepos/aurutils*

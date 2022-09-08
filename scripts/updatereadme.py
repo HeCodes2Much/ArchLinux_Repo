@@ -6,7 +6,6 @@ import json
 import zstandard
 from parse_pacman import parse_pacman
 
-
 def filebrowser(ext=""):
     "Returns files with an extension"
     return [file for file in glob.glob(f"../x86_64/*{ext}")]
@@ -18,6 +17,7 @@ files.sort()
 
 
 def get_file_name(file):
+    global name
     head = "head -n5"
     awk = "awk '{$1=$2=\"\"; print $0}'"
 
@@ -37,6 +37,8 @@ def get_file_name(file):
                     name = str(output[0].decode()).strip()
     except UnicodeDecodeError:
         pass
+    except UnboundLocalError:
+        pass
 
     if not name:
         get_file_name(file)
@@ -45,6 +47,7 @@ def get_file_name(file):
 
 
 def get_file_version(file):
+    global version
     head = "head -n5"
     awk = "awk '{$1=$2=\"\"; print $0}'"
     try:
@@ -63,6 +66,8 @@ def get_file_version(file):
                     version = str(output[0].decode()).strip()
     except UnicodeDecodeError:
         pass
+    except UnboundLocalError:
+        pass
 
     if not version:
         get_file_version(file)
@@ -71,7 +76,7 @@ def get_file_version(file):
 
 
 def get_file_info(file, name):
-    command = f"pacman -Si therepoclub/{name}"
+    command = f"pacman -Si linuxrepos/{name}"
     process = subprocess.Popen(command,
                                stdout=subprocess.PIPE,
                                stderr=None,
@@ -144,15 +149,15 @@ for file in files:
     if not os.path.exists(os.path.dirname(file_name)):
         os.makedirs(os.path.dirname(file_name))
     readme = open(file_name, 'w+')
-    readme.write(f"# Check therepoclub for download\n")
-    readme.write(f"\npacman -Si *therepoclub/{name}*\n")
+    readme.write(f"# Check linuxrepos for download\n")
+    readme.write(f"\npacman -Si *linuxrepos/{name}*\n")
     highlight = '<div class="highlight"><pre class="highlight"><text>'
     readme.write(f"\n{highlight}\n")
     readme.write(f"{info}")
     text = '</text></pre></div>'
     readme.write(f"\n{text}\n")
-    readme.write(f"\n## How to install from therepoclub\n")
-    readme.write(f"\npacman -S *therepoclub/{name}*\n")
+    readme.write(f"\n## How to install from linuxrepos\n")
+    readme.write(f"\npacman -S *linuxrepos/{name}*\n")
     readme.close()
 
 if os.path.exists(os.path.dirname('../docs/None/README.md')):

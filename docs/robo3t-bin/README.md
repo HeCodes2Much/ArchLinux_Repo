@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/robo3t-bin*
+pacman -Si *linuxrepos/robo3t-bin*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/robo3t-bin-1.4.4-1-x86_64.pkg.tar.zst">robo3t-bin</a>
 <b>Version</b>         : 1.4.4-1
 <b>Description</b>     : Shell-centric MongoDB management tool
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/robo3t-bin*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/robo3t-bin*
+pacman -S *linuxrepos/robo3t-bin*

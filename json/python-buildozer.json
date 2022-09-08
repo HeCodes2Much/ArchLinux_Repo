@@ -24,7 +24,7 @@
     "python-buildozer"
   ],
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://github.com/kivy/buildozer",
   "Validated By": [
     "MD5 Sum",

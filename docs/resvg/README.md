@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/resvg*
+pacman -Si *linuxrepos/resvg*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/resvg-0.20.0-3-x86_64.pkg.tar.zst">resvg</a>
 <b>Version</b>         : 0.20.0-3
 <b>Description</b>     : SVG rendering library and CLI
@@ -25,6 +25,6 @@ pacman -Si *therepoclub/resvg*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/resvg*
+pacman -S *linuxrepos/resvg*

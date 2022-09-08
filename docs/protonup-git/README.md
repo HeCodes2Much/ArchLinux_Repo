@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/protonup-git*
+pacman -Si *linuxrepos/protonup-git*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/protonup-git-0.1.4.r5.g14f8fae-1-any.pkg.tar.zst">protonup-git</a>
 <b>Version</b>         : 0.1.4.r5.g14f8fae-1
 <b>Description</b>     : Install and Update Proton-GE
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/protonup-git*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/protonup-git*
+pacman -S *linuxrepos/protonup-git*

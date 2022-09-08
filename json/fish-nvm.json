@@ -13,7 +13,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "fish-nvm=2.2.11",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://github.com/jorgebucaran/nvm.fish",
   "Validated By": [
     "MD5 Sum",

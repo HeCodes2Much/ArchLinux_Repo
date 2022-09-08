@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/lib32-libxft-bgra*
+pacman -Si *linuxrepos/lib32-libxft-bgra*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/lib32-libxft-bgra-2.3.4.r.-1-x86_64.pkg.tar.zst">lib32-libxft-bgra</a>
 <b>Version</b>         : 2.3.4.r.-1
 <b>Description</b>     : libXft with BGRA glyph (color emoji) rendering & scaling patches by Maxime Coste
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/lib32-libxft-bgra*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/lib32-libxft-bgra*
+pacman -S *linuxrepos/lib32-libxft-bgra*

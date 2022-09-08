@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/python-kivymd*
+pacman -Si *linuxrepos/python-kivymd*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/python-kivymd-0.104.2-1-any.pkg.tar.zst">python-kivymd</a>
 <b>Version</b>         : 0.104.2-1
 <b>Description</b>     : KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications.
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/python-kivymd*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/python-kivymd*
+pacman -S *linuxrepos/python-kivymd*

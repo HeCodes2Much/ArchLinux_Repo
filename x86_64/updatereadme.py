@@ -44,18 +44,18 @@ readme = open('../README.md', 'w')
 installme = open(home + '/.config/package-list', 'w')
 data = []
 readme.write(
-    f"# <img src='favicon.svg' width='64' height='64'> The Repo Club's Arch Repo <img src='favicon.svg' width='64' height='64'>\n"
+    f"# <img src='favicon.svg' width='64' height='64'> Arch Linux Repo <img src='favicon.svg' width='64' height='64'>\n"
 )
 badges = f"\n<p align='center'>\n\
   <img src='https://img.shields.io/badge/Maintained-Yes-green?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/last-commit/The-Repo-Club/Arch.TheRepo.Club?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/repo-size/The-Repo-Club/Arch.TheRepo.Club?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/last-commit/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/repo-size/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
   <img src='https://img.shields.io/static/v1?label=Packages&message={pkgcount}&colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/license/The-Repo-Club/Arch.TheRepo.Club?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/issues/The-Repo-Club/Arch.TheRepo.Club?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/stars/The-Repo-Club/Arch.TheRepo.Club?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/forks/The-Repo-Club/Arch.TheRepo.Club?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/commit-activity/m/The-Repo-Club/Arch.TheRepo.Club?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/license/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/issues/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/stars/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/forks/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/commit-activity/m/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
 </p>\n"
 
 readme.write(badges)
@@ -63,6 +63,7 @@ readme.write(f"\n## Software\n")
 
 
 def get_file_name(file):
+    global name
     head = "head -n5"
     awk = "awk '{$1=$2=\"\"; print $0}'"
 
@@ -82,6 +83,8 @@ def get_file_name(file):
                     name = str(output[0].decode()).strip()
     except UnicodeDecodeError:
         pass
+    except UnboundLocalError:
+        pass
 
     if not name:
         get_file_name(file)
@@ -90,6 +93,7 @@ def get_file_name(file):
 
 
 def get_file_version(file):
+    global version
     head = "head -n5"
     awk = "awk '{$1=$2=\"\"; print $0}'"
     try:
@@ -107,6 +111,8 @@ def get_file_version(file):
                     output = process.communicate()
                     version = str(output[0].decode()).strip()
     except UnicodeDecodeError:
+        pass
+    except UnboundLocalError:
         pass
 
     if not version:
@@ -145,7 +151,7 @@ for file in files:
         f"File Updated: Name ({name}), Version ({version}) Size {size} Date {date}"
     )
 
-    userpac = "<p> <span class='red'>[</span> <span class='yellow'>arch</span><span class='green'>@</span><span class='purple'>therepo.club</span> <span class='red'>~]</span> <br> <span class='green'>pacman</span> <span class='orange'>-Si</span>"
+    userpac = "<p> <span class='red'>[</span> <span class='yellow'>arch</span><span class='green'>@</span><span class='purple'>linuxrepos.org</span> <span class='red'>~]</span> <br> <span class='green'>pacman</span> <span class='orange'>-Si</span>"
     pacgrep = "<span class='purple'>|</span> <span class='green'>grep</span> <span class='yellow'>'Name\|Version\|Installed\|Build'</span> <span class='purple'>|</span> <span class='green'>awk</span> <span class='orange'>-F</span><span class='yellow'>':' '{print $2}'<span> <span class='purple'>|</span> <span class='green'>sed</span> <span class='yellow'>':a;N;$!ba;s/\\n/ |/g'</span><br>"
 
     readme.write(
@@ -159,10 +165,10 @@ multiline_addrepo = (
     f"\n## Add my repo\n"
     f"* **Maintainer:** [The-Repo-Club](https://aur.archlinux.org/account/The-Repo-Club/)\n"
     f"* **Description:**  A repository with some AUR packages that the team uses\n"
-    f"* **Upstream page:** https://arch.therepo.club/\n"
+    f"* **Upstream page:** https://arch.linuxrepos.org/\n"
     f"* **Key-ID:** 75A3 8DC6 84F1 A0B8 0891  8BCE E30E C2FB FB05 C44F \n"
     f"* **Fingerprint:** [download](http://pgp.net.nz:11371/pks/lookup?op=vindex&fingerprint=on&search=0xE30EC2FBFB05C44F)\n"
-    f"\nAppend to */etc/pacman.conf*:\n```\n[therepoclub]\nSigLevel = Required DatabaseOptional\nServer = https://arch.therepo.club/$arch/\n```"
+    f"\nAppend to */etc/pacman.conf*:\n```\n[linuxrepos]\nSigLevel = Required DatabaseOptional\nServer = https://arch.linuxrepos.org/$arch/\n```"
     f"\nTo check signature, add my key:\n"
     f"```\nsudo pacman-key --keyserver hkp://pgp.net.nz --recv-key 75A38DC684F1A0B808918BCEE30EC2FBFB05C44F\nsudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BCEE30EC2FBFB05C44F\n```"
 )

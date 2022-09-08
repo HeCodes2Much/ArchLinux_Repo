@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/win-shot*
+pacman -Si *linuxrepos/win-shot*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/win-shot-2022.07.31-1-any.pkg.tar.zst">win-shot</a>
 <b>Version</b>         : 2022.07.31-1
 <b>Description</b>     : simple screenshot script using imagemagick
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/win-shot*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/win-shot*
+pacman -S *linuxrepos/win-shot*

@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/auracle*
+pacman -Si *linuxrepos/auracle*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/auracle-r366.8739929-1-x86_64.pkg.tar.zst">auracle</a>
 <b>Version</b>         : r366.8739929-1
 <b>Description</b>     : A flexible client for the AUR
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/auracle*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/auracle*
+pacman -S *linuxrepos/auracle*

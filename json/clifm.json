@@ -20,7 +20,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "clifm",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://github.com/leo-arch/clifm",
   "Validated By": [
     "MD5 Sum",

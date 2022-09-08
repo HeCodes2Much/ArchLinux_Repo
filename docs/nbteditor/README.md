@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/nbteditor*
+pacman -Si *linuxrepos/nbteditor*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/nbteditor-1.3-1-x86_64.pkg.tar.zst">nbteditor</a>
 <b>Version</b>         : 1.3-1
 <b>Description</b>     : Editor for Minecraft NBT and schematic files
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/nbteditor*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/nbteditor*
+pacman -S *linuxrepos/nbteditor*

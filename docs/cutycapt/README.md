@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/cutycapt*
+pacman -Si *linuxrepos/cutycapt*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/cutycapt-2021.04.04-1-any.pkg.tar.zst">cutycapt</a>
 <b>Version</b>         : 2021.04.04-1
 <b>Description</b>     : A Qt and WebKit based command-line utility that captures WebKit's rendering of a web page.
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/cutycapt*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/cutycapt*
+pacman -S *linuxrepos/cutycapt*

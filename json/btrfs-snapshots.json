@@ -16,7 +16,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "btrfs-snapshots",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://github.com/The-Repo-Club/btrfs-snapshots",
   "Validated By": [
     "MD5 Sum",

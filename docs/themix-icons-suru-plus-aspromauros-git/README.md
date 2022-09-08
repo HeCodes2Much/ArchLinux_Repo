@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/themix-icons-suru-plus-aspromauros-git*
+pacman -Si *linuxrepos/themix-icons-suru-plus-aspromauros-git*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/themix-icons-suru-plus-aspromauros-git-3.0.r0.gd43a8ec4-1-x86_64.pkg.tar.zst">themix-icons-suru-plus-aspromauros-git</a>
 <b>Version</b>         : 3.0.r0.gd43a8ec4-1
 <b>Description</b>     : Suru++ Aspromauros icons plugin for Themix GUI designer
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/themix-icons-suru-plus-aspromauros-git*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/themix-icons-suru-plus-aspromauros-git*
+pacman -S *linuxrepos/themix-icons-suru-plus-aspromauros-git*

@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/python-buildozer*
+pacman -Si *linuxrepos/python-buildozer*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/python-buildozer-1.4.0-1-any.pkg.tar.zst">python-buildozer</a>
 <b>Version</b>         : 1.4.0-1
 <b>Description</b>     : Generic Python packager for Android / iOS and Desktop
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/python-buildozer*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/python-buildozer*
+pacman -S *linuxrepos/python-buildozer*

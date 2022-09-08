@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/anymeal*
+pacman -Si *linuxrepos/anymeal*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/anymeal-1.13-1-x86_64.pkg.tar.zst">anymeal</a>
 <b>Version</b>         : 1.13-1
 <b>Description</b>     : A recipe database software
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/anymeal*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/anymeal*
+pacman -S *linuxrepos/anymeal*

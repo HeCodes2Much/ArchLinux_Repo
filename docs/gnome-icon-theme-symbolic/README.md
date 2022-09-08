@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/gnome-icon-theme-symbolic*
+pacman -Si *linuxrepos/gnome-icon-theme-symbolic*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/gnome-icon-theme-symbolic-3.12.0-6-any.pkg.tar.zst">gnome-icon-theme-symbolic</a>
 <b>Version</b>         : 3.12.0-6
 <b>Description</b>     : GNOME icon theme, symbolic icons
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/gnome-icon-theme-symbolic*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/gnome-icon-theme-symbolic*
+pacman -S *linuxrepos/gnome-icon-theme-symbolic*

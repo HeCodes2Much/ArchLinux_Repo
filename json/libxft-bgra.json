@@ -1,29 +1,27 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Fri 29 Oct 2021 13:15:31 BST",
+  "Build Date": "Thu 08 Sep 2022 12:14:39 BST",
   "Conflicts With": "libxft",
   "Depends On": [
     "fontconfig",
-    "libxrender",
-    "curl",
-    "xorg-util-macros"
+    "libxrender"
   ],
-  "Description": "libXft with BGRA glyph (color emoji) rendering & scaling patches by Maxime Coste",
-  "Download Size": "73.47 KiB",
-  "Groups": "modified",
-  "Installed Size": "118.10 KiB",
+  "Description": "X FreeType library with support for BGRA glyphs and scaling.",
+  "Download Size": "78.67 KiB",
+  "Groups": "None",
+  "Installed Size": "130.80 KiB",
   "Licenses": "custom",
   "Name": "libxft-bgra",
   "Optional Deps": "None",
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "libxft",
   "Replaces": "None",
-  "Repository": "therepoclub",
-  "URL": "https://gitlab.freedesktop.org/xorg/lib/libxft.git",
+  "Repository": "linuxrepos",
+  "URL": "https://xorg.freedesktop.org",
   "Validated By": [
     "MD5 Sum",
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "2.3.4.r113.98b121f-1"
+  "Version": "2.3.5-1"
 }

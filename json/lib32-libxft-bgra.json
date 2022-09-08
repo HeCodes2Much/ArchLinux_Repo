@@ -16,7 +16,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "lib32-libxft",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://xorg.freedesktop.org/",
   "Validated By": [
     "MD5 Sum",

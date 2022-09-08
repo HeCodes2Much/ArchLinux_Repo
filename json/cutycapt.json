@@ -17,7 +17,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "cutycapt",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://github.com/The-Repo-Club/cutycapt",
   "Validated By": [
     "MD5 Sum",

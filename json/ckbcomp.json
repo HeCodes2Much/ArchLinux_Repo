@@ -13,7 +13,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "None",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "http://anonscm.debian.org/cgit/d-i/console-setup.git/",
   "Validated By": [
     "MD5 Sum",

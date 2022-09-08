@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/sdbus-cpp*
+pacman -Si *linuxrepos/sdbus-cpp*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/sdbus-cpp-1.1.0-2-x86_64.pkg.tar.zst">sdbus-cpp</a>
 <b>Version</b>         : 1.1.0-2
 <b>Description</b>     : sdbus-c++ is a high-level C++ D-Bus library for Linux designed to provide expressive, easy-to-use API in modern C++
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/sdbus-cpp*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/sdbus-cpp*
+pacman -S *linuxrepos/sdbus-cpp*

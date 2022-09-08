@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/i3-gaps*
+pacman -Si *linuxrepos/i3-gaps*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/i3-gaps-4.20.1-3-x86_64.pkg.tar.zst">i3-gaps</a>
 <b>Version</b>         : 4.20.1-3
 <b>Description</b>     : A fork of i3wm tiling window manager with more features, including gaps
@@ -28,6 +28,6 @@ pacman -Si *therepoclub/i3-gaps*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/i3-gaps*
+pacman -S *linuxrepos/i3-gaps*

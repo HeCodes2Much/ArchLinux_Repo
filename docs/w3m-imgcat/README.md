@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/w3m-imgcat*
+pacman -Si *linuxrepos/w3m-imgcat*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/w3m-imgcat-0.1-2-any.pkg.tar.zst">w3m-imgcat</a>
 <b>Version</b>         : 0.1-2
 <b>Description</b>     : A simple script to print images to stdout
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/w3m-imgcat*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/w3m-imgcat*
+pacman -S *linuxrepos/w3m-imgcat*

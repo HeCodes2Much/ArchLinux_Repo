@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/nerd-fonts-iosevka*
+pacman -Si *linuxrepos/nerd-fonts-iosevka*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/nerd-fonts-iosevka-2.1.0-2-any.pkg.tar.zst">nerd-fonts-iosevka</a>
 <b>Version</b>         : 2.1.0-2
 <b>Description</b>     : Patched Iosevka font from the nerd-fonts library
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/nerd-fonts-iosevka*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/nerd-fonts-iosevka*
+pacman -S *linuxrepos/nerd-fonts-iosevka*

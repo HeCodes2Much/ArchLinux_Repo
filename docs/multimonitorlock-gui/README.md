@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/multimonitorlock-gui*
+pacman -Si *linuxrepos/multimonitorlock-gui*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/multimonitorlock-gui-2021.08.20-1-any.pkg.tar.zst">multimonitorlock-gui</a>
 <b>Version</b>         : 2021.08.20-1
 <b>Description</b>     : GUI for multimonitorlock to set the background using GTK3
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/multimonitorlock-gui*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/multimonitorlock-gui*
+pacman -S *linuxrepos/multimonitorlock-gui*

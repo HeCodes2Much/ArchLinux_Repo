@@ -24,7 +24,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "touchpad-indicator",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://github.com/atareao/Touchpad-Indicator",
   "Validated By": [
     "MD5 Sum",

@@ -13,7 +13,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "xmenu",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://github.com/The-Repo-Club/xmenu",
   "Validated By": [
     "MD5 Sum",

@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/gamehub*
+pacman -Si *linuxrepos/gamehub*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/gamehub-0.16.0.1-1-x86_64.pkg.tar.zst">gamehub</a>
 <b>Version</b>         : 0.16.0.1-1
 <b>Description</b>     : Games manager, downloader, library that supports GOG, Steam and Humble Bundle
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/gamehub*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/gamehub*
+pacman -S *linuxrepos/gamehub*

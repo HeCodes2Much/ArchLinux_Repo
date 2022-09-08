@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/tbsm*
+pacman -Si *linuxrepos/tbsm*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/tbsm-2022.01.23-1-any.pkg.tar.zst">tbsm</a>
 <b>Version</b>         : 2022.01.23-1
 <b>Description</b>     : Terminal Based Session Manager
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/tbsm*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/tbsm*
+pacman -S *linuxrepos/tbsm*

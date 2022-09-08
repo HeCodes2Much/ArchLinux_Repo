@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/timeshift-autosnap*
+pacman -Si *linuxrepos/timeshift-autosnap*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/timeshift-autosnap-0.9-1-any.pkg.tar.zst">timeshift-autosnap</a>
 <b>Version</b>         : 0.9-1
 <b>Description</b>     : Timeshift auto-snapshot script which runs before package upgrade using Pacman hook.
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/timeshift-autosnap*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/timeshift-autosnap*
+pacman -S *linuxrepos/timeshift-autosnap*

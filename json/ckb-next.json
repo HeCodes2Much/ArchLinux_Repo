@@ -28,7 +28,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "ckb-next",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://github.com/ckb-next/ckb-next",
   "Validated By": [
     "MD5 Sum",

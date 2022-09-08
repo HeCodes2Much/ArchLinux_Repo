@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/i3lock-color*
+pacman -Si *linuxrepos/i3lock-color*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/i3lock-color-2.13.c.4-1-x86_64.pkg.tar.zst">i3lock-color</a>
 <b>Version</b>         : 2.13.c.4-1
 <b>Description</b>     : The world's most popular non-default computer lockscreen.
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/i3lock-color*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/i3lock-color*
+pacman -S *linuxrepos/i3lock-color*

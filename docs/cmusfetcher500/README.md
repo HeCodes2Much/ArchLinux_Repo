@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/cmusfetcher500*
+pacman -Si *linuxrepos/cmusfetcher500*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/cmusfetcher500-2021.12.28-1-any.pkg.tar.zst">cmusfetcher500</a>
 <b>Version</b>         : 2021.12.28-1
 <b>Description</b>     : A simple tool for fetching an image and sound from cmus
@@ -24,6 +24,6 @@ pacman -Si *therepoclub/cmusfetcher500*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/cmusfetcher500*
+pacman -S *linuxrepos/cmusfetcher500*

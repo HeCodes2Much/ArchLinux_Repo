@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/xroot*
+pacman -Si *linuxrepos/xroot*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/xroot-2022.01.30-1-any.pkg.tar.zst">xroot</a>
 <b>Version</b>         : 2022.01.30-1
 <b>Description</b>     : click on root window and run a command .
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/xroot*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/xroot*
+pacman -S *linuxrepos/xroot*

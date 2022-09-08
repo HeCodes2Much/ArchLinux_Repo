@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/siji*
+pacman -Si *linuxrepos/siji*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/siji-2021.07.03-1-any.pkg.tar.zst">siji</a>
 <b>Version</b>         : 2021.07.03-1
 <b>Description</b>     : Iconic bitmap font based on stlarch with additional glyphs
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/siji*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/siji*
+pacman -S *linuxrepos/siji*

@@ -24,7 +24,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "mongodb=6.0.1",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://www.mongodb.com/",
   "Validated By": [
     "MD5 Sum",

@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/themix-icons-suru-plus-git*
+pacman -Si *linuxrepos/themix-icons-suru-plus-git*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/themix-icons-suru-plus-git-30.0.r2.g9bd895f32-1-x86_64.pkg.tar.zst">themix-icons-suru-plus-git</a>
 <b>Version</b>         : 30.0.r2.g9bd895f32-1
 <b>Description</b>     : Suru++ icons plugin for Themix GUI designer
@@ -26,6 +26,6 @@ pacman -Si *therepoclub/themix-icons-suru-plus-git*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/themix-icons-suru-plus-git*
+pacman -S *linuxrepos/themix-icons-suru-plus-git*

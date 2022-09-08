@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/qt-logout*
+pacman -Si *linuxrepos/qt-logout*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/qt-logout-2021.08.24-1-any.pkg.tar.zst">qt-logout</a>
 <b>Version</b>         : 2021.08.24-1
 <b>Description</b>     : Logout screen for QT using QT5 and pyside2
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/qt-logout*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/qt-logout*
+pacman -S *linuxrepos/qt-logout*

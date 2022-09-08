@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/multimonitorlock*
+pacman -Si *linuxrepos/multimonitorlock*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/multimonitorlock-2021.08.20-1-any.pkg.tar.zst">multimonitorlock</a>
 <b>Version</b>         : 2021.08.20-1
 <b>Description</b>     : A simple lock script for i3lock-color
@@ -24,6 +24,6 @@ pacman -Si *therepoclub/multimonitorlock*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/multimonitorlock*
+pacman -S *linuxrepos/multimonitorlock*

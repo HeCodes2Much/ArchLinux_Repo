@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/themix-icons-gnome-colors-git*
+pacman -Si *linuxrepos/themix-icons-gnome-colors-git*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/themix-icons-gnome-colors-git-5.5.5.r0.gcd8b05a-2-x86_64.pkg.tar.zst">themix-icons-gnome-colors-git</a>
 <b>Version</b>         : 5.5.5.r0.gcd8b05a-2
 <b>Description</b>     : Gnome-Colors icons plugin for Themix GUI designer
@@ -28,6 +28,6 @@ pacman -Si *therepoclub/themix-icons-gnome-colors-git*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/themix-icons-gnome-colors-git*
+pacman -S *linuxrepos/themix-icons-gnome-colors-git*

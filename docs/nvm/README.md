@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/nvm*
+pacman -Si *linuxrepos/nvm*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/nvm-0.39.1-1-any.pkg.tar.zst">nvm</a>
 <b>Version</b>         : 0.39.1-1
 <b>Description</b>     : Node <b>Version</b> Manager - Simple bash script to manage multiple active node.js versions
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/nvm*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/nvm*
+pacman -S *linuxrepos/nvm*

@@ -15,7 +15,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "None",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://metacpan.org/release/OS-CheckUpdates-AUR",
   "Validated By": [
     "MD5 Sum",

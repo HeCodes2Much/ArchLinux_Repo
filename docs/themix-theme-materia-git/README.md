@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/themix-theme-materia-git*
+pacman -Si *linuxrepos/themix-theme-materia-git*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/themix-theme-materia-git-20210322.r49.g76cac96c-1-x86_64.pkg.tar.zst">themix-theme-materia-git</a>
 <b>Version</b>         : 20210322.r49.g76cac96c-1
 <b>Description</b>     : Materia theme plugin (GTK2, GTK3, GTK4, Cinnamon, GNOME, Metacity, Unity, Xfwm) for Themix GUI designer. Have a hack for HiDPI in GTK2.
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/themix-theme-materia-git*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/themix-theme-materia-git*
+pacman -S *linuxrepos/themix-theme-materia-git*

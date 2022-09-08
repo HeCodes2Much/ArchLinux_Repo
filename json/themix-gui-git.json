@@ -23,7 +23,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "themix-gui",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://github.com/themix-project/oomox",
   "Validated By": [
     "MD5 Sum",

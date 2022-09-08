@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/fish-nvm*
+pacman -Si *linuxrepos/fish-nvm*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/fish-nvm-2.2.11-1-x86_64.pkg.tar.zst">fish-nvm</a>
 <b>Version</b>         : 2.2.11-1
 <b>Description</b>     : Node.js version manager lovingly made for Fish
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/fish-nvm*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/fish-nvm*
+pacman -S *linuxrepos/fish-nvm*

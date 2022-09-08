@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/nerd-fonts-roboto-mono*
+pacman -Si *linuxrepos/nerd-fonts-roboto-mono*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/nerd-fonts-roboto-mono-2.2.1-1-any.pkg.tar.zst">nerd-fonts-roboto-mono</a>
 <b>Version</b>         : 2.2.1-1
 <b>Description</b>     : Patched font Roboto Mono from the nerd-fonts library
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/nerd-fonts-roboto-mono*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/nerd-fonts-roboto-mono*
+pacman -S *linuxrepos/nerd-fonts-roboto-mono*

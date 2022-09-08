@@ -26,7 +26,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "themix-icons-gnome-colors",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://github.com/themix-project/gnome-colors-icon-theme",
   "Validated By": [
     "MD5 Sum",

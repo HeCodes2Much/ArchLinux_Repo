@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/i3-swallow*
+pacman -Si *linuxrepos/i3-swallow*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/i3-swallow-2021.01.01-2-any.pkg.tar.zst">i3-swallow</a>
 <b>Version</b>         : 2021.01.01-2
 <b>Description</b>     : Swallow a terminal window after a blocking application is run in i3
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/i3-swallow*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/i3-swallow*
+pacman -S *linuxrepos/i3-swallow*

@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/yaru-icon-theme*
+pacman -Si *linuxrepos/yaru-icon-theme*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/yaru-icon-theme-22.04.4-1-any.pkg.tar.zst">yaru-icon-theme</a>
 <b>Version</b>         : 22.04.4-1
 <b>Description</b>     : Yaru default ubuntu icon theme
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/yaru-icon-theme*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/yaru-icon-theme*
+pacman -S *linuxrepos/yaru-icon-theme*

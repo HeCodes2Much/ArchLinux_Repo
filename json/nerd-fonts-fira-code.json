@@ -17,7 +17,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "nerd-fonts-fira-code",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://github.com/ryanoasis/nerd-fonts",
   "Validated By": [
     "MD5 Sum",

@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/minecraft-launcher*
+pacman -Si *linuxrepos/minecraft-launcher*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/minecraft-launcher-1:1.0.1221-1-x86_64.pkg.tar.zst">minecraft-launcher</a>
 <b>Version</b>         : 1:1.0.1221-1
 <b>Description</b>     : Official Minecraft Launcher
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/minecraft-launcher*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/minecraft-launcher*
+pacman -S *linuxrepos/minecraft-launcher*

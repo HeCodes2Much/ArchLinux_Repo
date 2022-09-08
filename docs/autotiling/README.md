@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/autotiling*
+pacman -Si *linuxrepos/autotiling*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/autotiling-1.6-3-x86_64.pkg.tar.zst">autotiling</a>
 <b>Version</b>         : 1.6-3
 <b>Description</b>     : Script for sway and i3 to automatically switch the horizontal / vertical window split orientation
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/autotiling*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/autotiling*
+pacman -S *linuxrepos/autotiling*

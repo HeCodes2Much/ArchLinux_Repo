@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/dracula-icons*
+pacman -Si *linuxrepos/dracula-icons*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/dracula-icons-2021.10.20-1-any.pkg.tar.zst">dracula-icons</a>
 <b>Version</b>         : 2021.10.20-1
 <b>Description</b>     : This provides support dracula for icons.
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/dracula-icons*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/dracula-icons*
+pacman -S *linuxrepos/dracula-icons*

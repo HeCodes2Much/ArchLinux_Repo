@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/upd72020x-fw*
+pacman -Si *linuxrepos/upd72020x-fw*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/upd72020x-fw-20200826-3-any.pkg.tar.zst">upd72020x-fw</a>
 <b>Version</b>         : 20200826-3
 <b>Description</b>     : Renesas uPD720201 / uPD720202 USB 3.0 chipsets firmware
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/upd72020x-fw*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/upd72020x-fw*
+pacman -S *linuxrepos/upd72020x-fw*

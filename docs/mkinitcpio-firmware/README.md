@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/mkinitcpio-firmware*
+pacman -Si *linuxrepos/mkinitcpio-firmware*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/mkinitcpio-firmware-1.3.0-2-any.pkg.tar.zst">mkinitcpio-firmware</a>
 <b>Version</b>         : 1.3.0-2
 <b>Description</b>     : Optional firmware for the default linux kernel to get rid of the annoying 'WARNING: Possibly missing firmware for module:' messages
@@ -24,6 +24,6 @@ pacman -Si *therepoclub/mkinitcpio-firmware*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/mkinitcpio-firmware*
+pacman -S *linuxrepos/mkinitcpio-firmware*

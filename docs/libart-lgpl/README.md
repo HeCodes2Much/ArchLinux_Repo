@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/libart-lgpl*
+pacman -Si *linuxrepos/libart-lgpl*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/libart-lgpl-2.3.21-5-x86_64.pkg.tar.zst">libart-lgpl</a>
 <b>Version</b>         : 2.3.21-5
 <b>Description</b>     : A library for high-performance 2D graphics
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/libart-lgpl*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/libart-lgpl*
+pacman -S *linuxrepos/libart-lgpl*

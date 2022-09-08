@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/recycle-cli*
+pacman -Si *linuxrepos/recycle-cli*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/recycle-cli-2021.01.01-1-any.pkg.tar.zst">recycle-cli</a>
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : A recycle bin cli in python 3
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/recycle-cli*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/recycle-cli*
+pacman -S *linuxrepos/recycle-cli*

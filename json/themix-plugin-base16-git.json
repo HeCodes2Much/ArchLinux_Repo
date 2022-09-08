@@ -21,7 +21,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "themix-plugin-base16",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://github.com/themix-project/themix-plugin-base16",
   "Validated By": [
     "MD5 Sum",

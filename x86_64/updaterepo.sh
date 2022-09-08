@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Repo update script using repo-add, rsync, and git
-# written by TheRepoClub for arch.therepo.club.
+# written by linuxrepos for arch.linuxrepos.org.
 
 readonly RPATH="$(cd "$(dirname "$0")" || exit ; pwd -P)"
 readonly ARCHDIR="$(basename "$RPATH")"
@@ -15,14 +15,14 @@ fi
 
 commit_repo() {
     cd "$REPO_PATH/$ARCHDIR" || return
-    rm -f therepoclub.*
-    repo-add --verify --sign therepoclub.db.tar.gz ./*.pkg.tar.zst
-    rm -f therepoclub.db therepoclub.db.sig
-    cp -f therepoclub.db.tar.gz therepoclub.db
-    cp -f therepoclub.db.tar.gz.sig therepoclub.db.sig
-    rm -f therepoclub.files therepoclub.files.sig
-    cp -f therepoclub.files.tar.gz therepoclub.files
-    cp -f therepoclub.files.tar.gz.sig therepoclub.files.sig
+    rm -f linuxrepos.*
+    repo-add --verify --sign linuxrepos.db.tar.gz ./*.pkg.tar.zst
+    rm -f linuxrepos.db linuxrepos.db.sig
+    cp -f linuxrepos.db.tar.gz linuxrepos.db
+    cp -f linuxrepos.db.tar.gz.sig linuxrepos.db.sig
+    rm -f linuxrepos.files linuxrepos.files.sig
+    cp -f linuxrepos.files.tar.gz linuxrepos.files
+    cp -f linuxrepos.files.tar.gz.sig linuxrepos.files.sig
 }
 
 commit_git() {

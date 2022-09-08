@@ -44,7 +44,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "minecraft-launcher-beta",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://mojang.com/",
   "Validated By": [
     "MD5 Sum",

@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/wd719x-firmware*
+pacman -Si *linuxrepos/wd719x-firmware*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/wd719x-firmware-1-7-any.pkg.tar.zst">wd719x-firmware</a>
 <b>Version</b>         : 1-7
 <b>Description</b>     : Driver for Western Digital WD7193, WD7197 and WD7296 SCSI cards
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/wd719x-firmware*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/wd719x-firmware*
+pacman -S *linuxrepos/wd719x-firmware*

@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/btrfs-snapshots*
+pacman -Si *linuxrepos/btrfs-snapshots*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/btrfs-snapshots-2022.07.31-1-any.pkg.tar.zst">btrfs-snapshots</a>
 <b>Version</b>         : 2022.07.31-1
 <b>Description</b>     : addons for repomenu
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/btrfs-snapshots*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/btrfs-snapshots*
+pacman -S *linuxrepos/btrfs-snapshots*

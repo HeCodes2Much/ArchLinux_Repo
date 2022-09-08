@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/touchpad-indicator*
+pacman -Si *linuxrepos/touchpad-indicator*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/touchpad-indicator-2021.01.17-3-any.pkg.tar.zst">touchpad-indicator</a>
 <b>Version</b>         : 2021.01.17-3
 <b>Description</b>     : An indicator for the touchpad
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/touchpad-indicator*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/touchpad-indicator*
+pacman -S *linuxrepos/touchpad-indicator*

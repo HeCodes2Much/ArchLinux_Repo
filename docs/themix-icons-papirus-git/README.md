@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/themix-icons-papirus-git*
+pacman -Si *linuxrepos/themix-icons-papirus-git*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/themix-icons-papirus-git-20210901.r13.gbcd070b032-1-x86_64.pkg.tar.zst">themix-icons-papirus-git</a>
 <b>Version</b>         : 20210901.r13.gbcd070b032-1
 <b>Description</b>     : Papirus icons plugin for Themix GUI designer
@@ -26,6 +26,6 @@ pacman -Si *therepoclub/themix-icons-papirus-git*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/themix-icons-papirus-git*
+pacman -S *linuxrepos/themix-icons-papirus-git*

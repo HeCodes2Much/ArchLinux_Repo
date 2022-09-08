@@ -17,7 +17,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "auracle",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://github.com/falconindy/auracle.git",
   "Validated By": [
     "MD5 Sum",

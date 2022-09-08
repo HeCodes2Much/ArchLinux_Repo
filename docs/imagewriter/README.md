@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/imagewriter*
+pacman -Si *linuxrepos/imagewriter*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/imagewriter-1.10.1432200249.1d253d9.2.13-1-x86_64.pkg.tar.zst">imagewriter</a>
 <b>Version</b>         : 1.10.1432200249.1d253d9.2.13-1
 <b>Description</b>     : A graphical utility for writing raw disk images & hybrid isos to USB keys
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/imagewriter*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/imagewriter*
+pacman -S *linuxrepos/imagewriter*

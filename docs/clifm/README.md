@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/clifm*
+pacman -Si *linuxrepos/clifm*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/clifm-1.7-1-x86_64.pkg.tar.zst">clifm</a>
 <b>Version</b>         : 1.7-1
 <b>Description</b>     : The command line file manager
@@ -29,6 +29,6 @@ pacman -Si *therepoclub/clifm*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/clifm*
+pacman -S *linuxrepos/clifm*

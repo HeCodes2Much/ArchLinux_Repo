@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/xcursor-breeze*
+pacman -Si *linuxrepos/xcursor-breeze*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/xcursor-breeze-1:5.21.1-1-any.pkg.tar.zst">xcursor-breeze</a>
 <b>Version</b>         : 1:5.21.1-1
 <b>Description</b>     : Breeze cursor theme (KDE Plasma 5). This package is for usage in non-KDE Plasma desktops.
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/xcursor-breeze*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/xcursor-breeze*
+pacman -S *linuxrepos/xcursor-breeze*

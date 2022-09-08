@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/sddm-endeavour*
+pacman -Si *linuxrepos/sddm-endeavour*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/sddm-endeavour-2021.07.05-1-any.pkg.tar.zst">sddm-endeavour</a>
 <b>Version</b>         : 2021.07.05-1
 <b>Description</b>     : Endeavour Dracula Theme for SDDM
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/sddm-endeavour*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/sddm-endeavour*
+pacman -S *linuxrepos/sddm-endeavour*

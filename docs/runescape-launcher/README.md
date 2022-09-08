@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/runescape-launcher*
+pacman -Si *linuxrepos/runescape-launcher*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/runescape-launcher-2.2.10-1-x86_64.pkg.tar.zst">runescape-launcher</a>
 <b>Version</b>         : 2.2.10-1
 <b>Description</b>     : RuneScape Game Client (NXT)
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/runescape-launcher*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/runescape-launcher*
+pacman -S *linuxrepos/runescape-launcher*

@@ -22,7 +22,7 @@
     "dmenu"
   ],
   "Replaces": "dmenu",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://github.com/The-Repo-Club/repomenu",
   "Validated By": [
     "MD5 Sum",

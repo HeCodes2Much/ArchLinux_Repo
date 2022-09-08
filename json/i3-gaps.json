@@ -26,7 +26,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "i3-wm",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://github.com/Airblader/i3",
   "Validated By": [
     "MD5 Sum",

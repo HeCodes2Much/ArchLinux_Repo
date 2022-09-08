@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/yay*
+pacman -Si *linuxrepos/yay*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/yay-11.3.0-1-x86_64.pkg.tar.zst">yay</a>
 <b>Version</b>         : 11.3.0-1
 <b>Description</b>     : Yet another yogurt. Pacman wrapper and AUR helper written in go.
@@ -24,6 +24,6 @@ pacman -Si *therepoclub/yay*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/yay*
+pacman -S *linuxrepos/yay*

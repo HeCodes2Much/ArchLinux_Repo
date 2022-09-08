@@ -17,7 +17,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "code-features",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://github.com/microsoft/vscode",
   "Validated By": [
     "MD5 Sum",

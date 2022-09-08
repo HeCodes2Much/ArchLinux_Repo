@@ -27,7 +27,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "None",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://aur.archlinux.org/packages/mkinitcpio-firmware",
   "Validated By": [
     "MD5 Sum",

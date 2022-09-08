@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/ckbcomp*
+pacman -Si *linuxrepos/ckbcomp*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/ckbcomp-1.208-1-any.pkg.tar.zst">ckbcomp</a>
 <b>Version</b>         : 1.208-1
 <b>Description</b>     : Compile a XKB keyboard description to a keymap suitable for loadkeys or kbdcontrol
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/ckbcomp*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/ckbcomp*
+pacman -S *linuxrepos/ckbcomp*

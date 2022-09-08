@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/themix-gui-git*
+pacman -Si *linuxrepos/themix-gui-git*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/themix-gui-git-1.14.r6.g8a24a42a-1-x86_64.pkg.tar.zst">themix-gui-git</a>
 <b>Version</b>         : 1.14.r6.g8a24a42a-1
 <b>Description</b>     : Plugin-based theme designer GUI for environments (like GTK2, GTK3, Cinnamon, GNOME, MATE, Openbox, Xfwm), icons and terminal palettes.
@@ -34,6 +34,6 @@ pacman -Si *therepoclub/themix-gui-git*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/themix-gui-git*
+pacman -S *linuxrepos/themix-gui-git*

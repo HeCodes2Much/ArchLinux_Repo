@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/colorgrab*
+pacman -Si *linuxrepos/colorgrab*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/colorgrab-0.3-2-x86_64.pkg.tar.zst">colorgrab</a>
 <b>Version</b>         : 0.3-2
 <b>Description</b>     : A cross-platform color picker.
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/colorgrab*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/colorgrab*
+pacman -S *linuxrepos/colorgrab*

@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/themix-plugin-base16-git*
+pacman -Si *linuxrepos/themix-plugin-base16-git*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/themix-plugin-base16-git-1.3.1.r1.g2744898-1-x86_64.pkg.tar.zst">themix-plugin-base16-git</a>
 <b>Version</b>         : 1.3.1.r1.g2744898-1
 <b>Description</b>     : Import and export plugin for Themix GUI designer to use color palettes from Base16 project
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/themix-plugin-base16-git*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/themix-plugin-base16-git*
+pacman -S *linuxrepos/themix-plugin-base16-git*

@@ -16,7 +16,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "autotiling",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://github.com/nwg-piotr/autotiling",
   "Validated By": [
     "MD5 Sum",

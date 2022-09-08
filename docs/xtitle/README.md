@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/xtitle*
+pacman -Si *linuxrepos/xtitle*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/xtitle-20190826-1-x86_64.pkg.tar.zst">xtitle</a>
 <b>Version</b>         : 20190826-1
 <b>Description</b>     : Outputs X window titles
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/xtitle*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/xtitle*
+pacman -S *linuxrepos/xtitle*

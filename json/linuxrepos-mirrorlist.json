@@ -1,0 +1,24 @@
+{
+  "Architecture": "any",
+  "Build Date": "Thu 08 Sep 2022 12:10:18 BST",
+  "Conflicts With": "None",
+  "Depends On": "None",
+  "Description": "linuxrepos mirrorlist",
+  "Download Size": "10.45 KiB",
+  "Groups": "linuxrepos",
+  "Installed Size": "0.04 KiB",
+  "Licenses": "GPL3",
+  "Name": "linuxrepos-mirrorlist",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/ArchAUR/linuxrepos-mirrorlist",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2022.09.06-1"
+}

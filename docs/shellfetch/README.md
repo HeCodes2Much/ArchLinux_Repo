@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/shellfetch*
+pacman -Si *linuxrepos/shellfetch*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/shellfetch-2022.02.19-1-any.pkg.tar.zst">shellfetch</a>
 <b>Version</b>         : 2022.02.19-1
 <b>Description</b>     : Shell System Information Fetcher
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/shellfetch*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/shellfetch*
+pacman -S *linuxrepos/shellfetch*

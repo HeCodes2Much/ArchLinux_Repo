@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/tty-clock*
+pacman -Si *linuxrepos/tty-clock*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/tty-clock-2.3-1-x86_64.pkg.tar.zst">tty-clock</a>
 <b>Version</b>         : 2.3-1
 <b>Description</b>     : Analog clock in ncurses.
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/tty-clock*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/tty-clock*
+pacman -S *linuxrepos/tty-clock*

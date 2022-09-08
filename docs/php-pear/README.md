@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/php-pear*
+pacman -Si *linuxrepos/php-pear*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/php-pear-1:1.10.21-2-any.pkg.tar.zst">php-pear</a>
 <b>Version</b>         : 1:1.10.21-2
 <b>Description</b>     : PHP Extension and Application <b>Repository</b>
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/php-pear*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/php-pear*
+pacman -S *linuxrepos/php-pear*

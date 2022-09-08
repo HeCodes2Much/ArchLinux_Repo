@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/ttf-material-design-icons*
+pacman -Si *linuxrepos/ttf-material-design-icons*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/ttf-material-design-icons-4.0.0-1-any.pkg.tar.zst">ttf-material-design-icons</a>
 <b>Version</b>         : 4.0.0-1
 <b>Description</b>     : Material Design icons by Google
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/ttf-material-design-icons*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/ttf-material-design-icons*
+pacman -S *linuxrepos/ttf-material-design-icons*

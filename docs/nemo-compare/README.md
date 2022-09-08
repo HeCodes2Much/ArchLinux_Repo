@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/nemo-compare*
+pacman -Si *linuxrepos/nemo-compare*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/nemo-compare-5.4.1-1-x86_64.pkg.tar.zst">nemo-compare</a>
 <b>Version</b>         : 5.4.1-1
 <b>Description</b>     : Context menu comparison extension for Nemo file manager
@@ -27,6 +27,6 @@ pacman -Si *therepoclub/nemo-compare*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/nemo-compare*
+pacman -S *linuxrepos/nemo-compare*

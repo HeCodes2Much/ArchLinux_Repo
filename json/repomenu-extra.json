@@ -18,7 +18,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "repomenu-extra",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://github.com/The-Repo-Club/repomenu-extra",
   "Validated By": [
     "MD5 Sum",

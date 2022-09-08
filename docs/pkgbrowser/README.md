@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/pkgbrowser*
+pacman -Si *linuxrepos/pkgbrowser*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/pkgbrowser-0.27-1-x86_64.pkg.tar.zst">pkgbrowser</a>
 <b>Version</b>         : 0.27-1
 <b>Description</b>     : A utility for browsing pacman databases and the AUR
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/pkgbrowser*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/pkgbrowser*
+pacman -S *linuxrepos/pkgbrowser*

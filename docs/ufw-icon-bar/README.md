@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/ufw-icon-bar*
+pacman -Si *linuxrepos/ufw-icon-bar*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/ufw-icon-bar-1:r15.gbf67a93-1-any.pkg.tar.zst">ufw-icon-bar</a>
 <b>Version</b>         : 1:r15.gbf67a93-1
 <b>Description</b>     : System tray icon for ufw
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/ufw-icon-bar*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/ufw-icon-bar*
+pacman -S *linuxrepos/ufw-icon-bar*

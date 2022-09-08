@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/lovesay*
+pacman -Si *linuxrepos/lovesay*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/lovesay-2022.02.18-1-any.pkg.tar.zst">lovesay</a>
 <b>Version</b>         : 2022.02.18-1
 <b>Description</b>     : Simple system info fetching tool
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/lovesay*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/lovesay*
+pacman -S *linuxrepos/lovesay*

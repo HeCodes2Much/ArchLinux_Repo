@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/pacmanity*
+pacman -Si *linuxrepos/pacmanity*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/pacmanity-2021.11.14-1-x86_64.pkg.tar.zst">pacmanity</a>
 <b>Version</b>         : 2021.11.14-1
 <b>Description</b>     : Keeps a list of installed packages in a Gist at your GitHub account
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/pacmanity*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/pacmanity*
+pacman -S *linuxrepos/pacmanity*

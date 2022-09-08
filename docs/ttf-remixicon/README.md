@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/ttf-remixicon*
+pacman -Si *linuxrepos/ttf-remixicon*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/ttf-remixicon-2.5.0-1-any.pkg.tar.zst">ttf-remixicon</a>
 <b>Version</b>         : 2.5.0-1
 <b>Description</b>     : Open source neutral style icon system
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/ttf-remixicon*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/ttf-remixicon*
+pacman -S *linuxrepos/ttf-remixicon*

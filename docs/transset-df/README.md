@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/transset-df*
+pacman -Si *linuxrepos/transset-df*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/transset-df-6-8-x86_64.pkg.tar.zst">transset-df</a>
 <b>Version</b>         : 6-8
 <b>Description</b>     : A patched version of X.Org's transset with added functionality.
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/transset-df*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/transset-df*
+pacman -S *linuxrepos/transset-df*

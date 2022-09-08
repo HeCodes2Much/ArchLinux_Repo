@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/nerd-fonts-fira-code*
+pacman -Si *linuxrepos/nerd-fonts-fira-code*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/nerd-fonts-fira-code-2.2.1-3-any.pkg.tar.zst">nerd-fonts-fira-code</a>
 <b>Version</b>         : 2.2.1-3
 <b>Description</b>     : Patched font Fira (Fura) Code from the nerd-fonts library
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/nerd-fonts-fira-code*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/nerd-fonts-fira-code*
+pacman -S *linuxrepos/nerd-fonts-fira-code*

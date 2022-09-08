@@ -22,7 +22,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "themix-icons-papirus",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/",
   "Validated By": [
     "MD5 Sum",

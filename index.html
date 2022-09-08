@@ -5,7 +5,7 @@
   <script src="assets/js/jquery.terminal.js"></script>
   <link rel="stylesheet" href="assets/css/terminal.css"/>
   <link rel="stylesheet" href="assets/css/jquery.terminal.css"/>
-  <title>The Repo Club's Arch Repo</title>
+  <title>Arch Linux Repo</title>
 </head>
 <body>
   <script>
@@ -14,7 +14,7 @@
   }
 
   var allRepos = [];
-  $.getJSON( "https://arch.therepo.club/packages.json", function( data ) {
+  $.getJSON( "https://arch.linuxrepos.org/packages.json", function( data ) {
     $.each( data, function( key, val ) {
       allRepos.push( val );
     });
@@ -28,7 +28,7 @@
         for(var key in allRepos){
           value = allRepos[key]
           if(value.search(keyword) > -1 ) {
-            this.echo('[[b;#ff59f9;]TheReloClub]/'+ value);
+            this.echo('[[b;#ff59f9;]linuxrepos]/'+ value);
             count++
           }
         }
@@ -41,12 +41,12 @@
         for(var key in allRepos){
           value = allRepos[key]
           if(value.search(keyword) > -1 ) {
-            fetch('https://arch.therepo.club/json/' + value + '.json')
+            fetch('https://arch.linuxrepos.org/json/' + value + '.json')
               .then(response => response.json())
               .then(data => {
                 // do something with your data
                 console.log(data)
-                this.echo('[[b;#ff59f9;]TheReloClub]/'+ data['Name']);
+                this.echo('[[b;#ff59f9;]linuxrepos]/'+ data['Name']);
                 this.echo('   [[b;#e5e9f0;]Repository]: '+ data['Repository']);
                 this.echo('   [[b;#e5e9f0;]Version]: '+ data['Version']);
                 this.echo('   [[b;#e5e9f0;]Description]: '+ data['Description']);
@@ -93,9 +93,9 @@
     },
     repo: function(prem, keyword) {
       this.echo('[[b;;]Paste the text below into your /etc/pacman.conf file]')
-      this.echo('[therepoclub]')
+      this.echo('[linuxrepos]')
       this.echo('SigLevel = Required DatabaseOptional')
-      this.echo('Server = https://arch.therepo.club/$arch/')
+      this.echo('Server = https://arch.linuxrepos.org/$arch/')
 
     },
     credits: function() {
@@ -121,7 +121,7 @@
     checkArity: false,
     completion: true,
     greetings: '[[;#ffff59;]The Repo Club\'s Arch Repo]\n',
-    prompt: '[[;#ff5959;]\[][[b;#ffff59;]arch][[;#59ff59;]@][[b;#9059ff;]therepo.club] [[;#59fff9;]~][[;#ff5959;]\\]] '
+    prompt: '[[;#ff5959;]\[][[b;#ffff59;]arch][[;#59ff59;]@][[b;#9059ff;]linuxrepos.org] [[;#59fff9;]~][[;#ff5959;]\\]] '
   });
   </script>
   <noscript>

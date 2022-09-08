@@ -23,7 +23,7 @@
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "themix-icons-numix",
   "Replaces": "None",
-  "Repository": "therepoclub",
+  "Repository": "linuxrepos",
   "URL": "https://github.com/numixproject/numix-icon-theme",
   "Validated By": [
     "MD5 Sum",

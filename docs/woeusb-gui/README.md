@@ -1,9 +1,9 @@
-# Check therepoclub for download
+# Check linuxrepos for download
 
-pacman -Si *therepoclub/woeusb-gui*
+pacman -Si *linuxrepos/woeusb-gui*
 
 <div class="highlight"><pre class="highlight"><text>
-<b>Repository</b>      : therepoclub
+<b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/woeusb-gui-3.3.1-1-x86_64.pkg.tar.zst">woeusb-gui</a>
 <b>Version</b>         : 3.3.1-1
 <b>Description</b>     : A Linux program to create Windows USB stick installer from a Windows DVD or an image
@@ -23,6 +23,6 @@ pacman -Si *therepoclub/woeusb-gui*
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
-## How to install from therepoclub
+## How to install from linuxrepos
 
-pacman -S *therepoclub/woeusb-gui*
+pacman -S *linuxrepos/woeusb-gui*
