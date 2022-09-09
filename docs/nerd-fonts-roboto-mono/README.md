@@ -16,10 +16,10 @@ pacman -Si *linuxrepos/nerd-fonts-roboto-mono*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : nerd-fonts-git  nerd-fonts-complete
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 8.61 MiB
-<b>Installed Size</b>  : 19.85 MiB
+<b>Download Size</b>   : 9.71 MiB
+<b>Installed Size</b>  : 20.04 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 09 Sep 2022 12:39:12 BST
+<b>Build Date</b>      : Fri 09 Sep 2022 12:53:44 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
