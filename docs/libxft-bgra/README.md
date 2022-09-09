@@ -4,7 +4,7 @@ pacman -Si *linuxrepos/libxft-bgra*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/linuxrepos-keyring-2022.09.06-1-any.pkg.tar.zst">libxft-bgra</a>
+<b>Name</b>            : <a href="../../x86_64/libxft-bgra-2.3.5-1-x86_64.pkg.tar.zst">libxft-bgra</a>
 <b>Version</b>         : 2.3.5-1
 <b>Description</b>     : X FreeType library with support for BGRA glyphs and scaling.
 <b>Architecture</b>    : x86_64

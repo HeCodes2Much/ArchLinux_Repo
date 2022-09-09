@@ -92,6 +92,8 @@
       pacman_key: function(prem, keyword) {
         this.echo('sudo pacman-key --keyserver hkp://pgp.net.nz --recv-key 75A38DC684F1A0B808918BCEE30EC2FBFB05C44F')
         this.echo('sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BCEE30EC2FBFB05C44F')
+        this.echo('')
+        this.echo('You may also want to run [[i;#81a1c1;]pacman -S linuxrepos-keyring linuxrepos-mirrorlist] to get the full list of updated.')
       },
       repo: function(prem, keyword) {
         this.echo('[[b;;]Paste the text below into your /etc/pacman.conf file]')
