@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Thu 01 Sep 2022 18:59:55 BST",
+  "Build Date": "Fri 09 Sep 2022 12:35:12 BST",
   "Conflicts With": [
     "nerd-fonts-git",
     "nerd-fonts-complete",
@@ -8,9 +8,9 @@
   ],
   "Depends On": "fontconfig",
   "Description": "Patched font Fira (Fura) Code from the nerd-fonts library",
-  "Download Size": "7.11 MiB",
+  "Download Size": "7.15 MiB",
   "Groups": "nerd-fonts",
-  "Installed Size": "14.03 MiB",
+  "Installed Size": "14.14 MiB",
   "Licenses": "MIT",
   "Name": "nerd-fonts-fira-code",
   "Optional Deps": "None",
@@ -24,5 +24,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "2.2.1-3"
+  "Version": "2.2.2-1"
 }

@@ -4,8 +4,8 @@ pacman -Si *linuxrepos/nerd-fonts-roboto-mono*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/nerd-fonts-roboto-mono-2.2.1-1-any.pkg.tar.zst">nerd-fonts-roboto-mono</a>
-<b>Version</b>         : 2.2.1-1
+<b>Name</b>            : <a href="../../x86_64/nerd-fonts-roboto-mono-2.2.2-1-any.pkg.tar.zst">nerd-fonts-roboto-mono</a>
+<b>Version</b>         : 2.2.2-1
 <b>Description</b>     : Patched font Roboto Mono from the nerd-fonts library
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/ryanoasis/nerd-fonts
@@ -16,10 +16,10 @@ pacman -Si *linuxrepos/nerd-fonts-roboto-mono*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : nerd-fonts-git  nerd-fonts-complete
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 8.71 MiB
+<b>Download Size</b>   : 8.61 MiB
 <b>Installed Size</b>  : 19.85 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 01 Sep 2022 18:59:52 BST
+<b>Build Date</b>      : Fri 09 Sep 2022 12:39:12 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
