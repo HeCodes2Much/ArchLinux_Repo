@@ -29,11 +29,9 @@ jobs:
           xampp
           paru
           yay
-          ventoy-bin
           polymc
           minecraft-launcher
           downgrade
-          nerd-fonts-complete
 
     - name: List generated Files
       run: ls -1 > ${{ github.workspace }}/files.txt
