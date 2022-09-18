@@ -23,8 +23,6 @@ jobs:
       with:
         packages: >
           visual-studio-code-bin
-          android-studio
-          jdk-android-studio
           mkinitcpio-colors-git
           xampp
           paru
