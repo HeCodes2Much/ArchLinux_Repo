@@ -29,8 +29,6 @@ jobs:
             polymc
             minecraft-launcher
             downgrade
-            python2
-            python2-fuse
             python-pyfuse3
 
       - name: List generated Files
