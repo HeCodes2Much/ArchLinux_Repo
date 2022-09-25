@@ -4,8 +4,8 @@ pacman -Si *linuxrepos/i3-gaps*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/i3-gaps-4.20.1-3-x86_64.pkg.tar.zst">i3-gaps</a>
-<b>Version</b>         : 4.20.1-3
+<b>Name</b>            : <a href="../../x86_64/i3-gaps-4.21-1-x86_64.pkg.tar.zst">i3-gaps</a>
+<b>Version</b>         : 4.21-1
 <b>Description</b>     : A fork of i3wm tiling window manager with more features, including gaps
 <b>Architecture</b>    : x86_64
 <b>URL</b>             : https://github.com/Airblader/i3
@@ -21,10 +21,10 @@ pacman -Si *linuxrepos/i3-gaps*
                   perl-anyevent-i3: For i3-save-tree
 <b>Conflicts With</b>  : i3-wm
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 1031.51 KiB
-<b>Installed Size</b>  : 2064.44 KiB
+<b>Download Size</b>   : 1053.85 KiB
+<b>Installed Size</b>  : 2155.21 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 28 Dec 2021 14:15:22 GMT
+<b>Build Date</b>      : Wed 21 Sep 2022 20:39:38 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

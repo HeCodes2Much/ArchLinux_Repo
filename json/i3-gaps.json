@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Tue 28 Dec 2021 14:15:22 GMT",
+  "Build Date": "Wed 21 Sep 2022 20:39:38 BST",
   "Conflicts With": "i3-wm",
   "Depends On": [
     "xcb-util-keysyms",
@@ -15,9 +15,9 @@
     "libxkbcommon-x11"
   ],
   "Description": "A fork of i3wm tiling window manager with more features, including gaps",
-  "Download Size": "1031.51 KiB",
+  "Download Size": "1053.85 KiB",
   "Groups": "i3",
-  "Installed Size": "2064.44 KiB",
+  "Installed Size": "2155.21 KiB",
   "Licenses": "BSD",
   "Name": "i3-gaps",
   "Optional Deps": {
@@ -33,5 +33,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "4.20.1-3"
+  "Version": "4.21-1"
 }
