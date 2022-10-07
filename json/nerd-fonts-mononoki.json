@@ -1,16 +1,16 @@
 {
   "Architecture": "any",
-  "Build Date": "Wed 16 Dec 2020 11:44:56 GMT",
+  "Build Date": "Fri 07 Oct 2022 11:33:31 BST",
   "Conflicts With": "None",
   "Depends On": "None",
   "Description": "Patched font Mononoki from nerd-fonts library",
-  "Download Size": "2.22 MiB",
+  "Download Size": "1713.53 KiB",
   "Groups": "None",
-  "Installed Size": "6.63 MiB",
+  "Installed Size": "7553.61 KiB",
   "Licenses": "MIT",
   "Name": "nerd-fonts-mononoki",
   "Optional Deps": "None",
-  "Packager": "TheCynicalTeam <wayne6324@gmail.com>",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "None",
   "Replaces": "None",
   "Repository": "linuxrepos",
@@ -20,5 +20,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "2.1.0-2"
+  "Version": "2.2.2-1"
 }
