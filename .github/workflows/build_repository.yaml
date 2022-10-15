@@ -25,6 +25,7 @@ jobs:
             mkinitcpio-colors-git
             xampp
             paru
+            xboxdrv
             yay
             polymc
             minecraft-launcher
