@@ -23,6 +23,7 @@ jobs:
           packages: >
             visual-studio-code-bin
             mkinitcpio-colors-git
+            lemonbar-xft-git
             xampp
             paru
             yay
