@@ -23,7 +23,6 @@ jobs:
           packages: >
             visual-studio-code-bin
             mkinitcpio-colors-git
-            lemonbar-xft-git
             xampp
             paru
             yay
@@ -32,7 +31,6 @@ jobs:
             downgrade
             python-pyfuse3
             lapce-git
-            sublime-text-4
 
       - name: List generated Files
         run: ls -1 > ${{ github.workspace }}/files.txt
