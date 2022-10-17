@@ -1,0 +1,29 @@
+{
+  "Architecture": "any",
+  "Build Date": "Mon 17 Oct 2022 19:07:51 BST",
+  "Conflicts With": "qtile-extras",
+  "Depends On": [
+    "python",
+    "qtile"
+  ],
+  "Description": "Unofficial mods for qtile. Tagged release to match stable qtile releases.",
+  "Download Size": "562.70 KiB",
+  "Groups": "None",
+  "Installed Size": "1631.46 KiB",
+  "Licenses": "MIT",
+  "Name": "qtile-extras",
+  "Optional Deps": {
+    "python-dbus-next": "various widgets"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "qtile-extras",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/elparaguayo/qtile-extras.git",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "0.22.1-1"
+}
