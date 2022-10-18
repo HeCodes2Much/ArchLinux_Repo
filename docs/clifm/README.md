@@ -4,8 +4,8 @@ pacman -Si *linuxrepos/clifm*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/clifm-1.7-1-x86_64.pkg.tar.zst">clifm</a>
-<b>Version</b>         : 1.7-1
+<b>Name</b>            : <a href="../../x86_64/clifm-1.8-1-x86_64.pkg.tar.zst">clifm</a>
+<b>Version</b>         : 1.8-1
 <b>Description</b>     : The command line file manager
 <b>Architecture</b>    : x86_64
 <b>URL</b>             : https://github.com/leo-arch/clifm
@@ -18,14 +18,15 @@ pacman -Si *linuxrepos/clifm*
                   p7zip: ISO 9660 support
                   cdrtools: ISO 9660 support
                   fzf: fzf mode for TAB completion
+                  smenu: smenu mode for TAB completion
                   udevil: (un)mount storage devices
                   udisks2: (un)mount storage devices
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 477.28 KiB
-<b>Installed Size</b>  : 1060.86 KiB
+<b>Download Size</b>   : 502.79 KiB
+<b>Installed Size</b>  : 1143.46 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 24 Aug 2022 23:38:04 BST
+<b>Build Date</b>      : Tue 18 Oct 2022 19:49:34 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

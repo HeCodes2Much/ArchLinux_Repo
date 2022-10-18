@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Wed 24 Aug 2022 23:38:04 BST",
+  "Build Date": "Tue 18 Oct 2022 19:49:34 BST",
   "Conflicts With": "None",
   "Depends On": [
     "libcap",
@@ -9,9 +9,9 @@
     "file"
   ],
   "Description": "The command line file manager",
-  "Download Size": "477.28 KiB",
+  "Download Size": "502.79 KiB",
   "Groups": "None",
-  "Installed Size": "1060.86 KiB",
+  "Installed Size": "1143.46 KiB",
   "Licenses": "GPL2",
   "Name": "clifm",
   "Optional Deps": {
@@ -27,5 +27,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "1.7-1"
+  "Version": "1.8-1"
 }
