@@ -23,7 +23,6 @@ jobs:
           packages: >
             visual-studio-code-bin
             mkinitcpio-colors-git
-            xampp
             paru
             yay
             devour
