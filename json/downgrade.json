@@ -1,0 +1,29 @@
+{
+  "Architecture": "any",
+  "Build Date": "Tue 25 Oct 2022 06:56:02 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "pacman-contrib",
+    "fzf"
+  ],
+  "Description": "Bash script for downgrading one or more packages to a version in your cache or the A.L.A.",
+  "Download Size": "36.60 KiB",
+  "Groups": "None",
+  "Installed Size": "75.12 KiB",
+  "Licenses": "GPL",
+  "Name": "downgrade",
+  "Optional Deps": {
+    "sudo": "for installation via sudo"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/archlinux-downgrade/downgrade",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "11.2.1-1"
+}

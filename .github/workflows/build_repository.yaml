@@ -23,11 +23,8 @@ jobs:
           packages: >
             visual-studio-code-bin
             mkinitcpio-colors-git
-            paru
-            yay
-            devour
             minecraft-launcher
-            downgrade
+            xampp
             python-pyfuse3
             lapce-git
 

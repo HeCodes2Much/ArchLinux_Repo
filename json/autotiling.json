@@ -1,15 +1,15 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Tue 23 Aug 2022 16:19:32 BST",
+  "Build Date": "Tue 25 Oct 2022 06:52:59 BST",
   "Conflicts With": [
     "autotiling",
     "autotiling-git"
   ],
   "Depends On": "python-i3ipc",
   "Description": "Script for sway and i3 to automatically switch the horizontal / vertical window split orientation",
-  "Download Size": "18.13 KiB",
+  "Download Size": "20.29 KiB",
   "Groups": "None",
-  "Installed Size": "18.50 KiB",
+  "Installed Size": "18.63 KiB",
   "Licenses": "GPL3",
   "Name": "autotiling",
   "Optional Deps": "None",
@@ -23,5 +23,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "1.6-3"
+  "Version": "1.7-1"
 }

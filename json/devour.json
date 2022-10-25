@@ -1,0 +1,24 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Thu 20 Oct 2022 05:32:43 BST",
+  "Conflicts With": "devour",
+  "Depends On": "libx11",
+  "Description": "Window Manager agnostic swallowing feature for terminal emulators",
+  "Download Size": "14.94 KiB",
+  "Groups": "None",
+  "Installed Size": "13.97 KiB",
+  "Licenses": "GPL3",
+  "Name": "devour",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "devour",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/salman-abedin/devour",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "12-2"
+}

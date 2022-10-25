@@ -17,6 +17,8 @@
     "cmusfetcher500",
     "colorgrab",
     "cutycapt",
+    "devour",
+    "downgrade",
     "dracula-gtk-theme",
     "dracula-icons",
     "dracula-qt5-theme",
@@ -57,6 +59,7 @@
     "nerd-fonts-source-code-pro",
     "nvm",
     "pacmanity",
+    "paru",
     "pcurses",
     "perl-checkupdates-aur",
     "perl-www-aur",
@@ -118,5 +121,6 @@
     "yaru-session",
     "yaru-sound-theme",
     "yaru-unity-theme",
-    "yaru-xfwm4-theme"
+    "yaru-xfwm4-theme",
+    "yay"
 ]

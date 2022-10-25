@@ -1,13 +1,13 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Sun 14 Nov 2021 12:03:26 GMT",
+  "Build Date": "Sun 23 Oct 2022 14:11:31 BST",
   "Conflicts With": "None",
   "Depends On": [
     "pacman>=6.0",
     "gist>=4.5.0"
   ],
   "Description": "Keeps a list of installed packages in a Gist at your GitHub account",
-  "Download Size": "31.07 KiB",
+  "Download Size": "27.51 KiB",
   "Groups": "None",
   "Installed Size": "37.56 KiB",
   "Licenses": "GPL",
