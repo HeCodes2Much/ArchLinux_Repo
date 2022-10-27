@@ -24,6 +24,7 @@ jobs:
             visual-studio-code-bin
             mkinitcpio-colors-git
             minecraft-launcher
+            polybar-git
             xampp
             python-pyfuse3
             lapce-git

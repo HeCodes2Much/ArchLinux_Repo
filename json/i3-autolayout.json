@@ -1,0 +1,27 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Thu 27 Oct 2022 06:49:33 BST",
+  "Conflicts With": "None",
+  "Depends On": "None",
+  "Description": "None",
+  "Download Size": "844.60 KiB",
+  "Groups": "None",
+  "Installed Size": "2098.48 KiB",
+  "Licenses": [
+    "Apache",
+    "MIT"
+  ],
+  "Name": "i3-autolayout",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/BiagioFesta/i3-autolayout",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "0.2.3-1"
+}
