@@ -1,0 +1,35 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Thu 27 Oct 2022 21:32:37 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "java-runtime>=8",
+    "fuse",
+    "glib2",
+    "libxslt",
+    "libxss",
+    "xcb-util-keysyms",
+    "xdg-utils",
+    "nss"
+  ],
+  "Description": "Manage all your JetBrains Projects and Tools",
+  "Download Size": "65.23 MiB",
+  "Groups": "None",
+  "Installed Size": "65.37 MiB",
+  "Licenses": "custom:jetbrains",
+  "Name": "jetbrains-toolbox",
+  "Optional Deps": {
+    "xdg-utils": "open URLs"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://www.jetbrains.com/toolbox/",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1.26.4.13374-1"
+}

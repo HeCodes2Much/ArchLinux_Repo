@@ -27,8 +27,6 @@ jobs:
             prismlauncher
             polybar-git
             xampp
-            libdxvk
-            lib32-libdxvk
             python-pyfuse3
             lapce-git
 

@@ -6,7 +6,7 @@ pacman -Si *linuxrepos/i3-autolayout*
 <b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/i3-autolayout-0.2.3-1-x86_64.pkg.tar.zst">i3-autolayout</a>
 <b>Version</b>         : 0.2.3-1
-<b>Description</b>     : None
+<b>Description</b>     : Service to automatically managing i3 window manager layout
 <b>Architecture</b>    : x86_64
 <b>URL</b>             : https://github.com/BiagioFesta/i3-autolayout
 <b>Licenses</b>        : Apache  MIT
@@ -16,10 +16,10 @@ pacman -Si *linuxrepos/i3-autolayout*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 844.60 KiB
+<b>Download Size</b>   : 844.70 KiB
 <b>Installed Size</b>  : 2098.48 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 27 Oct 2022 06:49:33 BST
+<b>Build Date</b>      : Thu 27 Oct 2022 21:17:35 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
