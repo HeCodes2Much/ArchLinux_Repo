@@ -11,11 +11,7 @@ from datetime import datetime as dt
 
 
 def suffix(d):
-    return 'th' if 11 <= d <= 13 else {
-        1: 'st',
-        2: 'nd',
-        3: 'rd'
-    }.get(d % 10, 'th')
+    return 'th' if 11 <= d <= 13 else {1: 'st', 2: 'nd', 3: 'rd'}.get(d % 10, 'th')
 
 
 def custom_strftime(format, t):
@@ -43,11 +39,10 @@ home = os.path.expanduser("~")
 readme = open('../README.md', 'w')
 installme = open(home + '/.config/package-list', 'w')
 data = []
-readme.write(
-    f"# <img src='favicon.svg' width='64' height='64'> Arch Linux Repo <img src='favicon.svg' width='64' height='64'>\n"
-)
+readme.write(f"# <img src='favicon.svg' width='64' height='64'> Arch Linux Repo <img src='favicon.svg' width='64' height='64'>\n")
 badges = f"\n<p align='center'>\n\
   <img src='https://img.shields.io/badge/Maintained-Yes-green?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/workflow/status/The-Repo-Club/arch.linuxrepos.org/Make%20Repository/main?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
   <img src='https://img.shields.io/static/v1?label=Packages&message={pkgcount}&colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
@@ -75,10 +70,7 @@ def get_file_name(file):
             for line in text_stream:
                 if line.startswith('pkgname'):
                     command = f"echo '{line}' | {head} | grep -I pkgname | {awk} | sed -n 1p"
-                    process = subprocess.Popen(command,
-                                               stdout=subprocess.PIPE,
-                                               stderr=None,
-                                               shell=True)
+                    process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=None, shell=True)
                     output = process.communicate()
                     name = str(output[0].decode()).strip()
     except UnicodeDecodeError:
@@ -104,10 +96,7 @@ def get_file_version(file):
             for line in text_stream:
                 if line.startswith('pkgver'):
                     command = f"echo '{line}' | {head} | grep -I pkgver | {awk} | sed -n 1p"
-                    process = subprocess.Popen(command,
-                                               stdout=subprocess.PIPE,
-                                               stderr=None,
-                                               shell=True)
+                    process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=None, shell=True)
                     output = process.communicate()
                     version = str(output[0].decode()).strip()
     except UnicodeDecodeError:
@@ -147,9 +136,7 @@ for file in files:
     size = str(get_file_size(file))
     date = str(get_file_date(file))
 
-    print(
-        f"File Updated: Name ({name}), Version ({version}) Size {size} Date {date}"
-    )
+    print(f"File Updated: Name ({name}), Version ({version}) Size {size} Date {date}")
 
     userpac = "<p> <span class='red'>[</span> <span class='yellow'>arch</span><span class='green'>@</span><span class='purple'>linuxrepos.org</span> <span class='red'>~]</span> <br> <span class='green'>pacman</span> <span class='orange'>-Si</span>"
     pacgrep = "<span class='purple'>|</span> <span class='green'>grep</span> <span class='yellow'>'Name\|Version\|Installed\|Build'</span> <span class='purple'>|</span> <span class='green'>awk</span> <span class='orange'>-F</span><span class='yellow'>':' '{print $2}'<span> <span class='purple'>|</span> <span class='green'>sed</span> <span class='yellow'>':a;N;$!ba;s/\\n/ |/g'</span><br>"
@@ -176,11 +163,10 @@ multiline_addrepo = (
 
 readme.write(multiline_addrepo)
 
-multiline_showsupport = (
-    f"\n## Show your support\n"
-    f"\nGive a ⭐️ if this project helped you!\n"
-    f"\nThis README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)\n"
-    f"*   Last updated on: {datetime}\n")
+multiline_showsupport = (f"\n## Show your support\n"
+                         f"\nGive a ⭐️ if this project helped you!\n"
+                         f"\nThis README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)\n"
+                         f"*   Last updated on: {datetime}\n")
 
 readme.write(multiline_showsupport)
 
