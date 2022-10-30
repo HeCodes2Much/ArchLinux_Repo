@@ -13,6 +13,8 @@
   "Licenses": "MIT",
   "Name": "proctl",
   "Optional Deps": {
+    "fzf": "-pick-license, -pick-language, -new-template flags",
+    "git": "generating default config automatically",
     "ncurses": "for the colors"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",

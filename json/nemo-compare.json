@@ -13,7 +13,11 @@
   "Licenses": "GPL3",
   "Name": "nemo-compare",
   "Optional Deps": {
-    "kdiff3": "Alternate comparison backend"
+    "diffuse": "Alternate comparison backend",
+    "fldiff": "Additional comparison options (preferred diff, three-way, multi-compare)",
+    "kdiff3": "Alternate comparison backend",
+    "kompare": "Additional comparison options (preferred diff, three-way, multi-compare)",
+    "meld": "Install at least one file comparison program"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "None",

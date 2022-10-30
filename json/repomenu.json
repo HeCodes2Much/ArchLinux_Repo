@@ -14,6 +14,12 @@
   "Licenses": "MIT",
   "Name": "repomenu",
   "Optional Deps": {
+    "adobe-source-code-pro-fonts": "font used by default",
+    "nerd-fonts-fira-code": "font used by default",
+    "repo-exec": "exec for repomenu",
+    "repomenu-extra": "Extra script that repomenu can use",
+    "siji": "font used by default",
+    "ttf-material-design-icons": "font used by default",
     "ttf-remixicon": "font used by default"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",

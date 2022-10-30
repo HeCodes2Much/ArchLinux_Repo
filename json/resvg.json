@@ -10,7 +10,9 @@
   "Licenses": "MPL2",
   "Name": "resvg",
   "Optional Deps": {
-    "kio": "For the dolphin thumbnailer"
+    "cairo": "For the cairo backend",
+    "kio": "For the dolphin thumbnailer",
+    "qt5-base": "For the Qt backend"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "None",

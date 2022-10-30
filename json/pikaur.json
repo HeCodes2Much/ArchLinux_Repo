@@ -13,7 +13,9 @@
   "Licenses": "GPL3",
   "Name": "pikaur",
   "Optional Deps": {
-    "python-defusedxml": "wrap Arch news replies"
+    "asp": "for ABS support in -G/--getpkgbuild operation",
+    "python-defusedxml": "wrap Arch news replies",
+    "python-pysocks": "for socks5 proxy support"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "pikaur",

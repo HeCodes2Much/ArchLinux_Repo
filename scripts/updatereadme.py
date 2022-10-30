@@ -7,6 +7,7 @@ import shutil
 import zstandard
 from parse_pacman import parse_pacman
 
+
 def deletefile(folder):
     for filename in os.listdir(folder):
         file_path = os.path.join(folder, filename)
@@ -17,6 +18,7 @@ def deletefile(folder):
                 shutil.rmtree(file_path)
         except Exception as e:
             print('Failed to delete %s. Reason: %s' % (file_path, e))
+
 
 def filebrowser(ext=""):
     "Returns files with an extension"
@@ -41,10 +43,7 @@ def get_file_name(file):
             for line in text_stream:
                 if line.startswith('pkgname'):
                     command = f"echo '{line}' | {head} | grep -I pkgname | {awk} | sed -n 1p"
-                    process = subprocess.Popen(command,
-                                               stdout=subprocess.PIPE,
-                                               stderr=None,
-                                               shell=True)
+                    process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=None, shell=True)
                     output = process.communicate()
                     name = str(output[0].decode()).strip()
     except UnicodeDecodeError:
@@ -70,10 +69,7 @@ def get_file_version(file):
             for line in text_stream:
                 if line.startswith('pkgver'):
                     command = f"echo '{line}' | {head} | grep -I pkgver | {awk} | sed -n 1p"
-                    process = subprocess.Popen(command,
-                                               stdout=subprocess.PIPE,
-                                               stderr=None,
-                                               shell=True)
+                    process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=None, shell=True)
                     output = process.communicate()
                     version = str(output[0].decode()).strip()
     except UnicodeDecodeError:
@@ -89,10 +85,7 @@ def get_file_version(file):
 
 def get_file_info(file, name):
     command = f"pacman -Si linuxrepos/{name}"
-    process = subprocess.Popen(command,
-                               stdout=subprocess.PIPE,
-                               stderr=None,
-                               shell=True)
+    process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=None, shell=True)
     output = process.communicate()
     link = f'<a href="../{file}">{name}</a>'
     fileInfo = str(output[0].decode())\
@@ -116,30 +109,7 @@ def get_file_info(file, name):
     .replace("Build Date","<b>Build Date</b>").strip()\
     .replace("Validated By","<b>Validated By</b>").strip()
 
-    res = {}
-    k = ""
-    for l in output[0].decode().splitlines():
-        if len(l) == 0: continue
-        if l[0] != ' ':
-            r = l.split(':')
-        else:
-            r = []
-            r.append(k)
-            r.extend(l.split(':'))
-        if len(r) == 2:
-            vr = r[1].strip().split("  ")
-            if len(vr) == 1: vr = vr[0]
-        else:
-            if r[2][0] != ' ':
-                vr = ':'.join(r[1:]).strip().split("  ")
-                if len(vr) == 1: vr = vr[0]
-            else:
-                v = r[2].strip().split("  ")
-                if len(v) == 1: v = v[0]
-                vr = {}
-                vr[r[1].strip()] = v
-        k = r[0].strip()
-        res[k] = vr
+    res = parse_pacman(output[0].decode())
 
     output = json.dumps(res, sort_keys=True, indent=2)
     with open(f"../json/{name}.json", 'w') as outfile:

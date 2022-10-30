@@ -10,6 +10,7 @@
   "Licenses": "GPL3",
   "Name": "cmusfetcher500",
   "Optional Deps": {
+    "cava": "Display Music Lines",
     "feh": "Display Images"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",

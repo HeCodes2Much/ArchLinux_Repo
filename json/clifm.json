@@ -15,6 +15,13 @@
   "Licenses": "GPL2",
   "Name": "clifm",
   "Optional Deps": {
+    "archivemount": "Archives mount",
+    "atool": "Archives/compression support",
+    "cdrtools": "ISO 9660 support",
+    "fzf": "fzf mode for TAB completion",
+    "p7zip": "ISO 9660 support",
+    "smenu": "smenu mode for TAB completion",
+    "udevil": "(un)mount storage devices",
     "udisks2": "(un)mount storage devices"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",

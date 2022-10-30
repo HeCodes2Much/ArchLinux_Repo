@@ -15,7 +15,11 @@
   "Licenses": "custom:ISC",
   "Name": "aurutils",
   "Optional Deps": {
-    "ninja": "aur-sync ninja support"
+    "bash-completion": "bash completion",
+    "devtools": "aur-chroot",
+    "ninja": "aur-sync ninja support",
+    "vifm": "default pager",
+    "zsh": "zsh completion"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "None",

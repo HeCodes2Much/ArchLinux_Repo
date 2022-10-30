@@ -13,6 +13,8 @@
   "Licenses": "GPL3",
   "Name": "paru",
   "Optional Deps": {
+    "asp": "downloading repo pkgbuilds",
+    "bat": "colored pkgbuild printing",
     "devtools": "build in chroot"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",

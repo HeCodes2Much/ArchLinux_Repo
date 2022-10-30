@@ -13,7 +13,9 @@
   "Licenses": "MIT",
   "Name": "qtile-extras",
   "Optional Deps": {
-    "python-dbus-next": "various widgets"
+    "python-dbus-next": "various widgets",
+    "python-iwlib": "wifi icon widget",
+    "python-requests": "various widgets"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "qtile-extras",

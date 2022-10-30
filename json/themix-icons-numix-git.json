@@ -18,7 +18,9 @@
   "Licenses": "GPL3",
   "Name": "themix-icons-numix-git",
   "Optional Deps": {
-    "gnome-icon-theme-symbolic": "fallback icons"
+    "gnome-icon-theme": "fallback icons",
+    "gnome-icon-theme-symbolic": "fallback icons",
+    "themix-gui": "GUI"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "themix-icons-numix",

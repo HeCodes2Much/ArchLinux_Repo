@@ -10,6 +10,16 @@
   "Licenses": "MIT",
   "Name": "bfetch",
   "Optional Deps": {
+    "catimg": "Display Images",
+    "chafa": "Image to text support",
+    "feh": "Wallpaper Display",
+    "imagemagick": "Image cropping / Thumbnail creation / Take a screenshot",
+    "jp2a": "Display Images",
+    "libcaca": "Display Images",
+    "nitrogen": "Wallpaper Display",
+    "w3m": "Display Images",
+    "xorg-xdpyinfo": "Resolution detection [Single Monitor]",
+    "xorg-xprop": "Desktop Environment and Window Manager",
     "xorg-xrandr": "Resolution detection [Multi Monitor + Refresh rates]"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",

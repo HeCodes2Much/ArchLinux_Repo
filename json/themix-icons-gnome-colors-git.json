@@ -21,7 +21,12 @@
   "Licenses": "GPL3",
   "Name": "themix-icons-gnome-colors-git",
   "Optional Deps": {
-    "oxygen-icons": "fallback icons"
+    "adwaita-icon-theme": "fallback icons",
+    "breeze-icons": "fallback icons",
+    "gnome-icon-theme": "fallback icons",
+    "gnome-icon-theme-symbolic": "fallback icons",
+    "oxygen-icons": "fallback icons",
+    "themix-gui": "GUI"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "themix-icons-gnome-colors",

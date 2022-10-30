@@ -22,7 +22,8 @@
   "Licenses": "GPL",
   "Name": "mkinitcpio-firmware",
   "Optional Deps": {
-    "linux": "default linux preset"
+    "linux": "default linux preset",
+    "mkinitcpio": "build the initramfs"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "None",

@@ -21,6 +21,7 @@
   "Licenses": "GPL3",
   "Name": "multimonitorlock",
   "Optional Deps": {
+    "feh": "Allows setting wallpaper",
     "multimonitorlock-gui": "Allows the background to be changed"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",

@@ -14,7 +14,8 @@
   "Licenses": "BSD",
   "Name": "ansiweather",
   "Optional Deps": {
-    "inetutils": "support for downloading with ftp"
+    "inetutils": "support for downloading with ftp",
+    "wget": "support for downloading with wget"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "ansiweather",

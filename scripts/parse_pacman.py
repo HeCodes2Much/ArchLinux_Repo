@@ -16,8 +16,6 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 """
 
-import json
-
 def parse_pacman(src):
     res = {}
 
@@ -44,8 +42,12 @@ def parse_pacman(src):
                 vr[r[1].strip()] = v
         k = r[0].strip()
         if k in res:
-            res[k][list(vr.keys())[0]] = list(vr.values())[0]
+            if hasattr(vr, 'values'):
+                res[k][list(vr.keys())[0]] = list(vr.values())[0]
+            elif hasattr(vr, 'keys'):
+                res[k] = list(vr.keys())[0]
+            else:
+                res[k] = vr
         else:
             res[k] = vr
     return res
-

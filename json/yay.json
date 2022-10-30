@@ -13,7 +13,8 @@
   "Licenses": "GPL3",
   "Name": "yay",
   "Optional Deps": {
-    "doas": "privilege elevation"
+    "doas": "privilege elevation",
+    "sudo": "privilege elevation"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "None",
