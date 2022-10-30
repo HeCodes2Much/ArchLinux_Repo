@@ -3,8 +3,20 @@ import subprocess
 import os
 import io
 import json
+import shutil
 import zstandard
 from parse_pacman import parse_pacman
+
+def deletefile(folder):
+    for filename in os.listdir(folder):
+        file_path = os.path.join(folder, filename)
+        try:
+            if os.path.isfile(file_path) or os.path.islink(file_path):
+                os.unlink(file_path)
+            elif os.path.isdir(file_path):
+                shutil.rmtree(file_path)
+        except Exception as e:
+            print('Failed to delete %s. Reason: %s' % (file_path, e))
 
 def filebrowser(ext=""):
     "Returns files with an extension"
@@ -139,6 +151,9 @@ def get_file_info(file, name):
         return fileInfo
 
 
+deletefile(f"../docs/")
+deletefile(f"../json/")
+
 for file in files:
     name = str(get_file_name(file))
     version = str(get_file_version(file))
@@ -159,7 +174,3 @@ for file in files:
     readme.write(f"\n## How to install from linuxrepos\n")
     readme.write(f"\npacman -S *linuxrepos/{name}*\n")
     readme.close()
-
-if os.path.exists(os.path.dirname('../docs/None/README.md')):
-    os.remove('../docs/None/README.md')
-    os.rmdir(os.path.dirname('../docs/None/README.md'))

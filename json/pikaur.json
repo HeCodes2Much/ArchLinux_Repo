@@ -1,0 +1,29 @@
+{
+  "Architecture": "any",
+  "Build Date": "Thu 27 Oct 2022 22:09:53 BST",
+  "Conflicts With": "pikaur-git",
+  "Depends On": [
+    "pyalpm",
+    "git"
+  ],
+  "Description": "AUR helper which asks all questions before installing/building. Inspired by pacaur, yaourt and yay.",
+  "Download Size": "282.17 KiB",
+  "Groups": "None",
+  "Installed Size": "1112.96 KiB",
+  "Licenses": "GPL3",
+  "Name": "pikaur",
+  "Optional Deps": {
+    "python-defusedxml": "wrap Arch news replies"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "pikaur",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/actionless/pikaur",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1.13.2-1"
+}
