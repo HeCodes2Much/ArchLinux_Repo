@@ -4,8 +4,8 @@ pacman -Si *linuxrepos/imagewriter*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/imagewriter-1.10.1432200249.1d253d9.2.13-1-x86_64.pkg.tar.zst">imagewriter</a>
-<b>Version</b>         : 1.10.1432200249.1d253d9.2.13-1
+<b>Name</b>            : <a href="../../x86_64/imagewriter-1.10.1432200249.1d253d9.2.14-1-x86_64.pkg.tar.zst">imagewriter</a>
+<b>Version</b>         : 1.10.1432200249.1d253d9.2.14-1
 <b>Description</b>     : A graphical utility for writing raw disk images & hybrid isos to USB keys
 <b>Architecture</b>    : x86_64
 <b>URL</b>             : https://github.com/openSUSE/imagewriter
@@ -16,10 +16,10 @@ pacman -Si *linuxrepos/imagewriter*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 120.33 KiB
+<b>Download Size</b>   : 116.28 KiB
 <b>Installed Size</b>  : 177.48 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 25 Jun 2022 18:59:17 BST
+<b>Build Date</b>      : Tue 08 Nov 2022 15:57:55 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/python-gputil*
 <b>Installed Size</b>  : 38.48 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Wed 15 Dec 2021 18:39:34 GMT
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : MD5 Sum  SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos
