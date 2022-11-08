@@ -1,12 +1,12 @@
 {
   "Architecture": "any",
-  "Build Date": "Wed 15 Dec 2021 18:39:34 GMT",
+  "Build Date": "Tue 08 Nov 2022 16:02:55 GMT",
   "Conflicts With": "None",
   "Depends On": "python",
-  "Description": "A Python module for getting the GPU status from NVIDA GPUs using nvidia-smi",
-  "Download Size": "28.39 KiB",
+  "Description": "Fetches GPU status from NVIDIA GPUs using nvidia-smi",
+  "Download Size": "31.39 KiB",
   "Groups": "None",
-  "Installed Size": "38.48 KiB",
+  "Installed Size": "61.42 KiB",
   "Licenses": "MIT",
   "Name": "python-gputil",
   "Optional Deps": "None",
@@ -17,7 +17,8 @@
   "URL": "https://github.com/anderskm/gputil",
   "Validated By": [
     "MD5 Sum",
-    "SHA-256 Sum"
+    "SHA-256 Sum",
+    "Signature"
   ],
-  "Version": "1.4.0-3"
+  "Version": "1.4.0-4"
 }
