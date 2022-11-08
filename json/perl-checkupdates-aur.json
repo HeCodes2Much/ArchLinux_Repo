@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 30 May 2021 13:26:01 BST",
+  "Build Date": "Sun 06 Nov 2022 19:32:49 GMT",
   "Conflicts With": "None",
   "Depends On": [
     "perl-www-aur",
@@ -8,7 +8,7 @@
     "perl-try-tiny"
   ],
   "Description": "checkupdates for aur",
-  "Download Size": "24.09 KiB",
+  "Download Size": "24.57 KiB",
   "Groups": "None",
   "Installed Size": "13.39 KiB",
   "Licenses": "Artistic2.0",

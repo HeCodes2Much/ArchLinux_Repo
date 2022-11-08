@@ -4,8 +4,8 @@ pacman -Si *linuxrepos/qtile-extras*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/qtile-extras-0.22.1-1-any.pkg.tar.zst">qtile-extras</a>
-<b>Version</b>         : 0.22.1-1
+<b>Name</b>            : <a href="../../x86_64/qtile-extras-0.22.1-2-any.pkg.tar.zst">qtile-extras</a>
+<b>Version</b>         : 0.22.1-2
 <b>Description</b>     : Unofficial mods for qtile. Tagged release to match stable qtile releases.
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/elparaguayo/qtile-extras.git
@@ -18,10 +18,10 @@ pacman -Si *linuxrepos/qtile-extras*
                   python-dbus-next: various widgets
 <b>Conflicts With</b>  : qtile-extras
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 562.70 KiB
-<b>Installed Size</b>  : 1631.46 KiB
+<b>Download Size</b>   : 475.66 KiB
+<b>Installed Size</b>  : 1276.85 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 17 Oct 2022 19:07:51 BST
+<b>Build Date</b>      : Sat 05 Nov 2022 17:23:51 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
