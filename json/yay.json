@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Tue 25 Oct 2022 06:56:19 BST",
+  "Build Date": "Wed 30 Nov 2022 17:02:25 GMT",
   "Conflicts With": "None",
   "Depends On": [
     "pacman>5",
@@ -9,7 +9,7 @@
   "Description": "Yet another yogurt. Pacman wrapper and AUR helper written in go.",
   "Download Size": "2.93 MiB",
   "Groups": "None",
-  "Installed Size": "7.28 MiB",
+  "Installed Size": "7.29 MiB",
   "Licenses": "GPL3",
   "Name": "yay",
   "Optional Deps": {
@@ -26,5 +26,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "11.3.0-1"
+  "Version": "11.3.1-1"
 }
