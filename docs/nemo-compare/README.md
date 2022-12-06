@@ -4,8 +4,8 @@ pacman -Si *linuxrepos/nemo-compare*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/nemo-compare-5.4.1-1-x86_64.pkg.tar.zst">nemo-compare</a>
-<b>Version</b>         : 5.4.1-1
+<b>Name</b>            : <a href="../../x86_64/nemo-compare-5.6.0-1-x86_64.pkg.tar.zst">nemo-compare</a>
+<b>Version</b>         : 5.6.0-1
 <b>Description</b>     : Context menu comparison extension for Nemo file manager
 <b>Architecture</b>    : x86_64
 <b>URL</b>             : https://github.com/linuxmint/nemo-extensions
@@ -20,10 +20,10 @@ pacman -Si *linuxrepos/nemo-compare*
                   kdiff3: Alternate comparison backend
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 23.37 KiB
-<b>Installed Size</b>  : 18.11 KiB
+<b>Download Size</b>   : 19.21 KiB
+<b>Installed Size</b>  : 18.08 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 24 Jul 2022 18:42:50 BST
+<b>Build Date</b>      : Tue 06 Dec 2022 07:46:43 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
