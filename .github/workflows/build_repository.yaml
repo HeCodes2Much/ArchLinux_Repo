@@ -7,7 +7,7 @@ on:
       - main
       - debug
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "59 * * * *"
 
 jobs:
   build_repository:
