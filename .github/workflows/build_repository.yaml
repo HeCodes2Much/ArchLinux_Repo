@@ -27,7 +27,6 @@ jobs:
             prismlauncher
             polybar-git
             xampp
-            python-pyfuse3
             lapce-git
 
       - name: List generated Files
