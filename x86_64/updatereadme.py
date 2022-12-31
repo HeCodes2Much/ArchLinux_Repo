@@ -42,7 +42,7 @@ data = []
 readme.write(f"# <img src='favicon.svg' width='64' height='64'> Arch Linux Repo <img src='favicon.svg' width='64' height='64'>\n")
 badges = f"\n<p align='center'>\n\
   <img src='https://img.shields.io/badge/Maintained-Yes-green?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/workflow/status/The-Repo-Club/arch.linuxrepos.org/Make%20Repository/main?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/actions/workflow/status/the-repo-club/arch.linuxrepos.org/build_repository.yaml?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
   <img src='https://img.shields.io/static/v1?label=Packages&message={pkgcount}&colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
