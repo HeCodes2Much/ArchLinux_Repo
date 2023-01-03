@@ -1,10 +1,10 @@
 {
   "Architecture": "any",
-  "Build Date": "Sat 24 Dec 2022 12:20:04 GMT",
+  "Build Date": "Sat 24 Dec 2022 12:21:23 GMT",
   "Conflicts With": "None",
   "Depends On": "None",
   "Description": "Aspeed VGA module from the IPMI",
-  "Download Size": "21.37 KiB",
+  "Download Size": "21.39 KiB",
   "Groups": "None",
   "Installed Size": "25.73 KiB",
   "Licenses": "custom",

@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sat 24 Dec 2022 12:20:18 GMT",
+  "Build Date": "Sat 24 Dec 2022 12:21:37 GMT",
   "Conflicts With": "None",
   "Depends On": [
     "linux-firmware",
@@ -17,7 +17,7 @@
   "Description": {
     "Optional firmware for the default linux kernel to get rid of the annoying 'WARNING": "Possibly missing firmware for module"
   },
-  "Download Size": "13.89 KiB",
+  "Download Size": "13.91 KiB",
   "Groups": "None",
   "Installed Size": "0.23 KiB",
   "Licenses": "GPL",
