@@ -25,6 +25,7 @@ jobs:
             mkinitcpio-colors-git
             minecraft-launcher
             prismlauncher
+            gamehub
             polybar-git
             xampp
             lapce-git
