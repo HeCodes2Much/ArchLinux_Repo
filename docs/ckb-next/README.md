@@ -16,10 +16,10 @@ pacman -Si *linuxrepos/ckb-next*
 <b>Optional Deps</b>   : libpulse
 <b>Conflicts With</b>  : ckb-git  ckb-git-latest  ckb-next-git
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 1494.96 KiB
-<b>Installed Size</b>  : 3197.09 KiB
+<b>Download Size</b>   : 1493.76 KiB
+<b>Installed Size</b>  : 3197.82 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 25 Jun 2022 18:56:03 BST
+<b>Build Date</b>      : Mon 23 Jan 2023 07:20:32 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
