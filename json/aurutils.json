@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Tue 19 Jul 2022 18:04:24 BST",
+  "Build Date": "Sun 05 Mar 2023 16:05:45 GMT",
   "Conflicts With": "None",
   "Depends On": [
     "git",
@@ -9,15 +9,19 @@
     "curl"
   ],
   "Description": "helper tools for the arch user repository",
-  "Download Size": "98.67 KiB",
+  "Download Size": "109.87 KiB",
   "Groups": "None",
-  "Installed Size": "155.83 KiB",
+  "Installed Size": "187.25 KiB",
   "Licenses": "custom:ISC",
   "Name": "aurutils",
   "Optional Deps": {
     "bash-completion": "bash completion",
+    "bat": "view-delta example script",
     "devtools": "aur-chroot",
+    "git-delta": "view-delta example script",
     "ninja": "aur-sync ninja support",
+    "perl-json-xs": "faster JSON serialization",
+    "setconf": "aur-build --rebuild",
     "vifm": "default pager",
     "zsh": "zsh completion"
   },
@@ -31,5 +35,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "10b-1"
+  "Version": "11-1"
 }
