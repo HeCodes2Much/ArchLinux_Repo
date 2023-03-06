@@ -19,6 +19,8 @@ jobs:
 
       - name: Build Packages
         uses: Archaholic/build-aur-packages@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           packages: >
             visual-studio-code-bin
