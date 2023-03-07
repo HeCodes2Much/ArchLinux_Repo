@@ -107,4 +107,4 @@ home = ["HTML", "RSS"]
 
 
 [permalinks]
-posts = "/post/:year/:month/:day/:slug"
+posts = "/posts/:year/:month/:day/:slug"
