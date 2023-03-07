@@ -1,0 +1,85 @@
+<div id="intro" class="box">
+	<h2>A simple, Arch Linux Repo</h2>
+	<p>You've reached the website for <b>LinuxRepos</b> arch linux repo.</p>
+</div>
+
+{{ if .Site.Params.home.recent_packages }}
+<div id="news">
+	<h3>
+		<a href="/packages/" title="Browse the package archives">Latest Packages</a>
+		<span class="arrow"></span>
+	</h3>
+
+	{{ range where .Site.RegularPages "Type" "packages" | first 10 }}
+	<article class="article article-type-post" itemscope="" itemprop="blogPost">
+		<div class="article-inner">
+			{{ partial "article_header" . }}
+			<div class="article-entry" itemprop="articleBody">
+				<p>{{ .Summary }}</p>
+			</div>
+		</div>
+	</article>
+	{{ end }}
+</div>
+{{ end }}
+
+{{ if .Site.Params.home.recent_posts }}
+<div id="news">
+	<h3>
+		<a href="/posts/" title="Browse the post archives">Latest Posts</a>
+		<span class="arrow"></span>
+	</h3>
+
+    <div class="rss-icon">
+        <a href="{{ .Site.BaseURL }}/index.xml"><i class="fa fa-rss-square fa-lg"></i></a>
+    </div>
+
+	{{ range where .Site.RegularPages "Type" "posts" | first 5 }}
+	<article class="article article-type-post" itemscope="" itemprop="blogPost">
+		<div class="article-inner">
+			{{ partial "article_header" . }}
+			<div class="article-entry" itemprop="articleBody">
+				<p>{{ .Summary }} ...</p>
+			</div>
+		</div>
+	</article>
+	{{ end }}
+</div>
+{{ end }}
+
+{{ $posts := where .Site.RegularPages "Type" "posts" }}
+{{ $numPosts := len $posts }}
+
+{{ if and (.Site.Params.home.old_posts) (gt $numPosts 5) }}
+<div id="news">
+	<h3>
+		<a href="/posts/" title="Browse the post archives">Old Posts</a>
+		<span class="arrow"></span>
+	</h3>
+
+	{{ range after 5 ($posts | first 10) }}
+	<article class="article article-type-post" itemscope="" itemprop="blogPost">
+		<div class="article-inner">
+			{{ partial "article_header" . }}
+		</div>
+	</article>
+	{{ end }}
+</div>
+{{ end }}
+
+{{ if .Site.Params.home.support }}
+<div id="news">
+	<h3>
+		<a>Support</a>
+		<span class="arrow"></span>
+	</h3>
+
+    <h4>Discussion</h4>
+
+	<div class="article-content">
+        <p>
+            General discussion regarding the Arch User Repository (AUR) and Trusted User structure takes place on <a href="https://lists.archlinux.org/mailman3/lists/aur-general.lists.archlinux.org/">aur-general</a>. For discussion relating to the development of the AUR web interface, use the <a href="https://lists.archlinux.org/mailman3/lists/aur-dev.lists.archlinux.org/">aur-dev</a> mailing list.
+        </p>
+    </div>
+</div>
+{{ end }}

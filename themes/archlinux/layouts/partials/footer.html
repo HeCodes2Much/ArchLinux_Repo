@@ -1,0 +1,15 @@
+<div id="footer">
+    <p>
+	    Copyright &copy; April 2020 - {{now.Format "January 2006"}} <i class="fa fa-github"></i> <a href="https://github.com/The-Repo-Club">The-Repo-Club</a>, Mr Wayne Wesley. All rights reserved worldwide.
+    </p>
+    <p>
+        Any trademarks, service marks, product names or named features are used only for reference
+        <br>
+        with permission and assumed to be the property of their respective owners.
+    </p>
+    {{if .Site.Params.copyright }}
+    <p>
+        {{ with .Site.Params.copyright }}{{ . | markdownify}}{{ end }}
+    </p>
+    {{ end }}
+</div>

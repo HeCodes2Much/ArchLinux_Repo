@@ -1,0 +1,34 @@
+---
+title: "nerd-fonts-iosevka"
+date: "2020-09-02"
+summary: "Patched Iosevka font from the nerd-fonts library"
+---
+
+# Check linuxrepos for download
+
+pacman -Si *linuxrepos/nerd-fonts-iosevka*
+{{< rawhtml >}}
+<pre class="highlight">
+<b>Repository</b>      : linuxrepos
+<b>Name</b>            : <a href="../../static/x86_64/nerd-fonts-iosevka-2.1.0-2-any.pkg.tar.zst">nerd-fonts-iosevka</a>
+<b>Version</b>         : 2.1.0-2
+<b>Description</b>     : Patched Iosevka font from the nerd-fonts library
+<b>Architecture</b>    : any
+<b>URL</b>             : https://github.com/ryanoasis/nerd-fonts
+<b>Licenses</b>        : MIT
+<b>Groups</b>          : None
+<b>Provides</b>        : None
+<b>Depends On</b>      : fontconfig  xorg-mkfontdir  xorg-mkfontscale
+<b>Optional Deps</b>   : None
+<b>Conflicts With</b>  : nerd-fonts-git  nerd-fonts-complete
+<b>Replaces</b>        : None
+<b>Download Size</b>   : 42.64 MiB
+<b>Installed Size</b>  : 103.13 MiB
+<b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
+<b>Build Date</b>      : Wed 02 Sep 2020 15:07:24 BST
+<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+</pre>
+{{< /rawhtml >}}
+## How to install from linuxrepos
+
+pacman -S *linuxrepos/nerd-fonts-iosevka*

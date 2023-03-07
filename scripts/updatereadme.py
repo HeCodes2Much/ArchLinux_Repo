@@ -6,6 +6,7 @@ import json
 import shutil
 import zstandard
 from parse_pacman import parse_pacman
+from datetime import datetime
 
 
 def deletefile(folder):
@@ -22,7 +23,7 @@ def deletefile(folder):
 
 def filebrowser(ext=""):
     "Returns files with an extension"
-    return [file for file in glob.glob(f"../x86_64/*{ext}")]
+    return [file for file in glob.glob(f"../static/x86_64/*{ext}")]
 
 
 files = filebrowser(".pkg.tar.zst")
@@ -112,35 +113,88 @@ def get_file_info(file, name):
     res = parse_pacman(output[0].decode())
 
     output = json.dumps(res, sort_keys=True, indent=2)
-    with open(f"../json/{name}.json", 'w') as outfile:
+    with open(f"../static/json/{name}.json", 'w') as outfile:
         outfile.write(output)
 
-    if not version:
+    if not fileInfo:
         get_file_info(file, name)
     else:
         return fileInfo
 
 
-deletefile(f"../docs/")
-deletefile(f"../json/")
+def get_build_date(file):
+    global date
+    head = "head -n5"
+    awk = "awk '{$1=$2=\"\"; print $0}'"
+    try:
+        with open(file, 'rb') as fh:
+            dctx = zstandard.ZstdDecompressor(max_window_size=2147483648)
+            stream_reader = dctx.stream_reader(fh)
+            text_stream = io.TextIOWrapper(stream_reader, encoding='utf-8')
+            for line in text_stream:
+                if line.startswith('builddate'):
+                    command = f"echo '{line}' | {head} | grep -I builddate | {awk} | sed -n 1p"
+                    process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=None, shell=True)
+                    output = process.communicate()
+                    date = int(str(output[0].decode()).strip())
+    except UnicodeDecodeError:
+        pass
+    except UnboundLocalError:
+        pass
+
+    if not date:
+        get_build_date(file)
+    else:
+        # Converting timestamp to DateTime object
+        datetime_object = datetime.fromtimestamp(date).strftime('%Y-%m-%d')
+        return datetime_object
+
+
+def get_build_info(file, name):
+    global test
+    command = f"pacman -Si linuxrepos/{name} | grep 'Description'"
+    process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=None, shell=True)
+    output = process.communicate()
+    fileInfo = str(output[0].decode())\
+        .replace("Description     : ","").strip()
+
+    if not fileInfo:
+        get_build_info(file, name)
+    else:
+        return fileInfo
+
+
+deletefile(f"../content/packages/")
+deletefile(f"../static/json/")
 
 for file in files:
     name = str(get_file_name(file))
     version = str(get_file_version(file))
     info = str(get_file_info(file, name))
+    build = str(get_build_date(file))
+    summary = str(get_build_info(file, name))
+
+    header = f"""---
+title: \"{name}\"
+date: \"{build}\"
+summary: \"{summary}\"
+---"""
 
     print(f"File Updated: Name ({name}), Version ({version})")
-    file_name = f'../docs/{name}/README.md'
+    file_name = f'../content/packages/{name}.md'
     if not os.path.exists(os.path.dirname(file_name)):
         os.makedirs(os.path.dirname(file_name))
     readme = open(file_name, 'w+')
+    readme.write(f"{header}\n\n")
     readme.write(f"# Check linuxrepos for download\n")
     readme.write(f"\npacman -Si *linuxrepos/{name}*\n")
-    highlight = '<div class="highlight"><pre class="highlight"><text>'
+    readme.write("{{< rawhtml >}}")
+    highlight = '<pre class="highlight">'
     readme.write(f"\n{highlight}\n")
     readme.write(f"{info}")
-    text = '</text></pre></div>'
+    text = '</pre>'
     readme.write(f"\n{text}\n")
+    readme.write("{{< /rawhtml >}}")
     readme.write(f"\n## How to install from linuxrepos\n")
     readme.write(f"\npacman -S *linuxrepos/{name}*\n")
     readme.close()

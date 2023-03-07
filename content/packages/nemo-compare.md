@@ -1,0 +1,38 @@
+---
+title: "nemo-compare"
+date: "2022-12-06"
+summary: "Context menu comparison extension for Nemo file manager"
+---
+
+# Check linuxrepos for download
+
+pacman -Si *linuxrepos/nemo-compare*
+{{< rawhtml >}}
+<pre class="highlight">
+<b>Repository</b>      : linuxrepos
+<b>Name</b>            : <a href="../../static/x86_64/nemo-compare-5.6.0-1-x86_64.pkg.tar.zst">nemo-compare</a>
+<b>Version</b>         : 5.6.0-1
+<b>Description</b>     : Context menu comparison extension for Nemo file manager
+<b>Architecture</b>    : x86_64
+<b>URL</b>             : https://github.com/linuxmint/nemo-extensions
+<b>Licenses</b>        : GPL3
+<b>Groups</b>          : nemo-extensions
+<b>Provides</b>        : None
+<b>Depends On</b>      : nemo-python>=3.9.0  python-gobject
+<b>Optional Deps</b>   : meld: Install at least one file comparison program
+                  kompare: Additional comparison options (preferred diff, three-way, multi-compare)
+                  fldiff: Additional comparison options (preferred diff, three-way, multi-compare)
+                  diffuse: Alternate comparison backend
+                  kdiff3: Alternate comparison backend
+<b>Conflicts With</b>  : None
+<b>Replaces</b>        : None
+<b>Download Size</b>   : 19.21 KiB
+<b>Installed Size</b>  : 18.08 KiB
+<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
+<b>Build Date</b>      : Tue 06 Dec 2022 07:46:43 GMT
+<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+</pre>
+{{< /rawhtml >}}
+## How to install from linuxrepos
+
+pacman -S *linuxrepos/nemo-compare*

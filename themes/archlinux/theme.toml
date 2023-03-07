@@ -1,0 +1,18 @@
+name = "arch"
+license = "MIT"
+licenselink = "//github.com/The-Repo-Club/arch.linuxrepos.org/blob/main/LICENSE"
+description = "The blog theme you may fall in love with, coming to Hugo. "
+homepage = "//github.com/The-Repo-Club/arch.linuxrepos.org"
+tags = ["syntax highlighting", "maxthjax", "rss", "gallery", "widgets", "google analytics", "useful shortcodes", "responsive", "bootstrap", "font awesome", "archlinux", "hotkeys"]
+features = ["syntax highlighting", "maxthjax", "rss", "gallery", "widgets", "google analytics", "useful shortcodes", "responsive", "bootstrap", "font awesome", "archlinux", "hotkeys"]
+min_version = 0.15
+
+[author]
+  name = "The-Repo-Club"
+  homepage = "//github.com/The-Repo-Club"
+
+# If reference an existing theme
+[original]
+  name = "Digitalcraftsman"
+  homepage = "//github.com/digitalcraftsman"
+  repo = "//github.com/digitalcraftsman/hugo-icarus-theme"

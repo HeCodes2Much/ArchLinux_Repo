@@ -1,0 +1,7 @@
+<header class="article-header">
+	<h4 class="article-title" itemprop="name">
+		<a href="{{ .Permalink }}" class="permalink">{{ .Title }}</a>
+	</h4>
+	<time datetime="{{ .Date }}" class="timestamp" itemprop="datePublished">{{ .Date.Format .Site.Params.date_format }}</time>
+	<div class="article-meta"></div>
+</header>

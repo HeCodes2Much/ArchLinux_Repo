@@ -1,0 +1,14 @@
+<div id="archnavbar" class="anb-home">
+	<div id="archnavbarlogo">
+		<h1><a href="/" title="Return to the main page">Arch Linux</a></h1>
+	</div>
+	<div id="archnavbarmenu">
+		<ul id="archnavbarlist">
+			{{ range .Site.Menus.main }}
+			<li class="anb-{{ .Name }}"><a href="{{ .URL }}" title="{{ .Title  }}">{{ .Name }}</a></li>
+			{{ end }} {{ range .Site.Menus.second }}
+			<li class="anb-{{ .Name }}"><a href="{{ .URL }}" title="{{ .Title  }}">{{ .Name }}</a></li>
+			{{ end }}
+		</ul>
+	</div>
+</div>

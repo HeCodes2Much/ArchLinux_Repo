@@ -1,0 +1,33 @@
+{{ $posts := where .Site.RegularPages "Type" "posts" }}
+{{ $packages := where .Site.RegularPages "Type" "packages" }}
+{{ $numPosts := len $posts }}
+{{ $numPackages := len $packages }}
+
+{{ if .Site.Params.widgets.recent_articles }}
+<div id="pkg-updates" class="widget box">
+    {{ if gt $numPosts 1 }}
+    <h3 class="widget-title">{{with .Site.Data.l10n.widgets.recent_articles.title}}{{.}}{{end}} Posts <span class="more">(<a href="/posts/?sort=-last_update" title="Browse all of the latest packages">more</a>)</span></h3>
+    <div class="rss-icon">
+        <a href="{{ .Site.BaseURL }}/index.xml"><i class="fa fa-rss-square fa-lg"></i></a>
+    </div>
+    <ul class="recent-list">
+        {{ range $posts | first 3 }}
+            <li>
+                <a href="{{ .Permalink }}" class="move">{{ .Title }}</a>
+            </li>
+        {{ end }}
+    </ul>
+    {{ end }}
+
+    {{ if gt $numPackages 1 }}
+    <h3 class="widget-title">{{with .Site.Data.l10n.widgets.recent_articles.title}}{{.}}{{end}} Packages <span class="more">(<a href="/packages/?sort=-last_update" title="Browse all of the latest packages">more</a>)</span></h3>
+    <ul class="recent-list">
+        {{ range $packages | first 10 }}
+            <li>
+                <a href="{{ .Permalink }}" class="move">{{ .Title }}</a>
+            </li>
+        {{ end }}
+    </ul>
+    {{ end }}
+</div>
+{{ end }}

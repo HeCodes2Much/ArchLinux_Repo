@@ -1,0 +1,37 @@
+{{ partial "head" . }}
+
+{{ partial "header" . }}
+
+<div id="content">
+    <div id="archdev-navbar">
+    </div>
+    <div id="content-left-wrapper">
+        <section id="main">
+            <section class="archives-wrap">
+                <div class="archive-category-wrap">
+                    <span class="archive-category">{{ .Title }}</span>
+                </div>
+                <div class="archives">
+                    {{ $paginator := .Paginate .Data.Pages }}
+                    {{ range $paginator.Pages }}
+                        <article class="article article-type-post" itemscope="" itemprop="blogPost">
+                            <div class="article-inner">
+                                {{ partial "article_header" . }}
+                                <div class="article-entry" itemprop="articleBody">
+                                    <p>{{ .Summary }} ...</p>
+                                </div>
+                            </div>
+                        </article>
+                    {{ end }}
+                </div>
+            </section>
+            {{ partial "pagination" . }}
+        </section>
+    </div>
+    <div id="content-right">
+        {{ partial "sidebar" . }}
+    </div>
+    {{ partial "footer" . }}
+</div>
+</body>
+</html>
