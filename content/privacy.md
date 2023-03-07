@@ -1,6 +1,5 @@
 ---
 title: "Privacy Policy"
-type: "posts"
 ---
 
 This privacy policy covers how this blog treats personal information
