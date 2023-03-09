@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/aura*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/aura-3.2.5-1-x86_64.pkg.tar.zst">aura</a>
+<b>Name</b>            : <a href="../../x86_64/aura-3.2.5-1-x86_64.pkg.tar.zst">aura</a>
 <b>Version</b>         : 3.2.5-1
 <b>Description</b>     : A secure package manager for Arch Linux and the AUR
 <b>Architecture</b>    : x86_64

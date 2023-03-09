@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/multimonitorlock-gui*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/multimonitorlock-gui-2021.08.20-1-any.pkg.tar.zst">multimonitorlock-gui</a>
+<b>Name</b>            : <a href="../../x86_64/multimonitorlock-gui-2021.08.20-1-any.pkg.tar.zst">multimonitorlock-gui</a>
 <b>Version</b>         : 2021.08.20-1
 <b>Description</b>     : GUI for multimonitorlock to set the background using GTK3
 <b>Architecture</b>    : any

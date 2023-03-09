@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/multimonitorlock*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/multimonitorlock-2021.08.20-1-any.pkg.tar.zst">multimonitorlock</a>
+<b>Name</b>            : <a href="../../x86_64/multimonitorlock-2021.08.20-1-any.pkg.tar.zst">multimonitorlock</a>
 <b>Version</b>         : 2021.08.20-1
 <b>Description</b>     : A simple lock script for i3lock-color
 <b>Architecture</b>    : any

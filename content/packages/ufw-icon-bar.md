@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/ufw-icon-bar*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/ufw-icon-bar-1:r15.gbf67a93-1-any.pkg.tar.zst">ufw-icon-bar</a>
+<b>Name</b>            : <a href="../../x86_64/ufw-icon-bar-1:r15.gbf67a93-1-any.pkg.tar.zst">ufw-icon-bar</a>
 <b>Version</b>         : 1:r15.gbf67a93-1
 <b>Description</b>     : System tray icon for ufw
 <b>Architecture</b>    : any

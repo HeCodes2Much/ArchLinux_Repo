@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/auracle*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/auracle-r366.8739929-1-x86_64.pkg.tar.zst">auracle</a>
+<b>Name</b>            : <a href="../../x86_64/auracle-r366.8739929-1-x86_64.pkg.tar.zst">auracle</a>
 <b>Version</b>         : r366.8739929-1
 <b>Description</b>     : A flexible client for the AUR
 <b>Architecture</b>    : x86_64

@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/xtitle*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/xtitle-20190826-1-x86_64.pkg.tar.zst">xtitle</a>
+<b>Name</b>            : <a href="../../x86_64/xtitle-20190826-1-x86_64.pkg.tar.zst">xtitle</a>
 <b>Version</b>         : 20190826-1
 <b>Description</b>     : Outputs X window titles
 <b>Architecture</b>    : x86_64

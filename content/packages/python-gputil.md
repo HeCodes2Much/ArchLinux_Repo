@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/python-gputil*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/python-gputil-1.4.0-4-any.pkg.tar.zst">python-gputil</a>
+<b>Name</b>            : <a href="../../x86_64/python-gputil-1.4.0-4-any.pkg.tar.zst">python-gputil</a>
 <b>Version</b>         : 1.4.0-4
 <b>Description</b>     : Fetches GPU status from NVIDIA GPUs using nvidia-smi
 <b>Architecture</b>    : any

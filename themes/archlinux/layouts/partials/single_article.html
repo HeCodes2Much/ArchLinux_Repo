@@ -9,6 +9,11 @@
             <div class="article-entry" itemprop="articleBody">
                 {{ .Content }}
             </div>
+            {{if .Site.Params.disclaimer }}
+            <p>
+                {{ with .Site.Params.disclaimer }}{{ . | markdownify}}{{ end }}
+            </p>
+            {{ end }}
 
             {{ partial "article_footer" . }}
         </div>

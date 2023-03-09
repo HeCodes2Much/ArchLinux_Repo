@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/tty-clock*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/tty-clock-2.3-1-x86_64.pkg.tar.zst">tty-clock</a>
+<b>Name</b>            : <a href="../../x86_64/tty-clock-2.3-1-x86_64.pkg.tar.zst">tty-clock</a>
 <b>Version</b>         : 2.3-1
 <b>Description</b>     : Analog clock in ncurses.
 <b>Architecture</b>    : x86_64

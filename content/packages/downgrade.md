@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/downgrade*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/downgrade-11.2.1-1-any.pkg.tar.zst">downgrade</a>
+<b>Name</b>            : <a href="../../x86_64/downgrade-11.2.1-1-any.pkg.tar.zst">downgrade</a>
 <b>Version</b>         : 11.2.1-1
 <b>Description</b>     : Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
 <b>Architecture</b>    : any

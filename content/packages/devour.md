@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/devour*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/devour-12-2-x86_64.pkg.tar.zst">devour</a>
+<b>Name</b>            : <a href="../../x86_64/devour-12-2-x86_64.pkg.tar.zst">devour</a>
 <b>Version</b>         : 12-2
 <b>Description</b>     : Window Manager agnostic swallowing feature for terminal emulators
 <b>Architecture</b>    : x86_64

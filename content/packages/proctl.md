@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/proctl*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/proctl-2022.02.21-1-any.pkg.tar.zst">proctl</a>
+<b>Name</b>            : <a href="../../x86_64/proctl-2022.02.21-1-any.pkg.tar.zst">proctl</a>
 <b>Version</b>         : 2022.02.21-1
 <b>Description</b>     : Github Project Manager
 <b>Architecture</b>    : any

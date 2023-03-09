@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/checkupdates+aur*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/checkupdates+aur-1-3-any.pkg.tar.zst">checkupdates+aur</a>
+<b>Name</b>            : <a href="../../x86_64/checkupdates+aur-1-3-any.pkg.tar.zst">checkupdates+aur</a>
 <b>Version</b>         : 1-3
 <b>Description</b>     : combines checkupdates and checkupdates-aur with separator as argument
 <b>Architecture</b>    : any

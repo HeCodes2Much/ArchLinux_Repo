@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/bspwm-cheat*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/bspwm-cheat-2022.01.23-1-any.pkg.tar.zst">bspwm-cheat</a>
+<b>Name</b>            : <a href="../../x86_64/bspwm-cheat-2022.01.23-1-any.pkg.tar.zst">bspwm-cheat</a>
 <b>Version</b>         : 2022.01.23-1
 <b>Description</b>     : cheat sheet for bspwm
 <b>Architecture</b>    : any
