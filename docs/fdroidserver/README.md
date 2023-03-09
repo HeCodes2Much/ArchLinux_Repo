@@ -4,7 +4,7 @@ pacman -Si *linuxrepos/fdroidserver*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/fdroidserver-1:2.2.0-1-any.pkg.tar.zst">fdroidserver</a>
+<b>Name</b>            : <a href="../../x86_64/fdroidserver-1:2.2.1-1-any.pkg.tar.zst">fdroidserver</a>
 <b>Version</b>         : 1:2.2.0-1
 <b>Description</b>     : F-Droid repository management tools
 <b>Architecture</b>    : any

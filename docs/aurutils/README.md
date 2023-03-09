@@ -4,7 +4,7 @@ pacman -Si *linuxrepos/aurutils*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/aurutils-11-1-any.pkg.tar.zst">aurutils</a>
+<b>Name</b>            : <a href="../../x86_64/aurutils-12.1-1-any.pkg.tar.zst">aurutils</a>
 <b>Version</b>         : 11-1
 <b>Description</b>     : helper tools for the arch user repository
 <b>Architecture</b>    : any
