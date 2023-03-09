@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/transset-df*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/transset-df-6-8-x86_64.pkg.tar.zst">transset-df</a>
+<b>Name</b>            : <a href="../../x86_64/transset-df-6-8-x86_64.pkg.tar.zst">transset-df</a>
 <b>Version</b>         : 6-8
 <b>Description</b>     : A patched version of X.Org's transset with added functionality.
 <b>Architecture</b>    : x86_64

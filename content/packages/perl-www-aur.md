@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/perl-www-aur*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/perl-www-aur-0.22-3-any.pkg.tar.zst">perl-www-aur</a>
+<b>Name</b>            : <a href="../../x86_64/perl-www-aur-0.22-3-any.pkg.tar.zst">perl-www-aur</a>
 <b>Version</b>         : 0.22-3
 <b>Description</b>     : API for the Archlinux User <b>Repository</b> website.
 <b>Architecture</b>    : any

@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/ckbcomp*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/ckbcomp-1.208-1-any.pkg.tar.zst">ckbcomp</a>
+<b>Name</b>            : <a href="../../x86_64/ckbcomp-1.208-1-any.pkg.tar.zst">ckbcomp</a>
 <b>Version</b>         : 1.208-1
 <b>Description</b>     : Compile a XKB keyboard description to a keymap suitable for loadkeys or kbdcontrol
 <b>Architecture</b>    : any

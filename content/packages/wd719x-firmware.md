@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/wd719x-firmware*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/wd719x-firmware-1-7-any.pkg.tar.zst">wd719x-firmware</a>
+<b>Name</b>            : <a href="../../x86_64/wd719x-firmware-1-7-any.pkg.tar.zst">wd719x-firmware</a>
 <b>Version</b>         : 1-7
 <b>Description</b>     : Driver for Western Digital WD7193, WD7197 and WD7296 SCSI cards
 <b>Architecture</b>    : any

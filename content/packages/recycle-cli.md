@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/recycle-cli*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/recycle-cli-2021.01.01-1-any.pkg.tar.zst">recycle-cli</a>
+<b>Name</b>            : <a href="../../x86_64/recycle-cli-2021.01.01-1-any.pkg.tar.zst">recycle-cli</a>
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : A recycle bin cli in python 3
 <b>Architecture</b>    : any

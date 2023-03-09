@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/upd72020x-fw*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/upd72020x-fw-1:1.0.0-1-any.pkg.tar.zst">upd72020x-fw</a>
+<b>Name</b>            : <a href="../../x86_64/upd72020x-fw-1:1.0.0-1-any.pkg.tar.zst">upd72020x-fw</a>
 <b>Version</b>         : 1:1.0.0-1
 <b>Description</b>     : Renesas uPD720201 / uPD720202 USB 3.0 chipsets firmware
 <b>Architecture</b>    : any

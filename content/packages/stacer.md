@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/stacer*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/stacer-1.1.0-1-x86_64.pkg.tar.zst">stacer</a>
+<b>Name</b>            : <a href="../../x86_64/stacer-1.1.0-1-x86_64.pkg.tar.zst">stacer</a>
 <b>Version</b>         : 1.1.0-1
 <b>Description</b>     : Ubuntu System Optimizer
 <b>Architecture</b>    : x86_64

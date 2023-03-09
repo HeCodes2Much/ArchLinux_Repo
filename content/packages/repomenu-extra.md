@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/repomenu-extra*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/repomenu-extra-2022.07.31-1-any.pkg.tar.zst">repomenu-extra</a>
+<b>Name</b>            : <a href="../../x86_64/repomenu-extra-2022.07.31-1-any.pkg.tar.zst">repomenu-extra</a>
 <b>Version</b>         : 2022.07.31-1
 <b>Description</b>     : addons for repomenu
 <b>Architecture</b>    : any

@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/nerd-fonts-hack*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/nerd-fonts-hack-2.2.2-1-any.pkg.tar.zst">nerd-fonts-hack</a>
+<b>Name</b>            : <a href="../../x86_64/nerd-fonts-hack-2.2.2-1-any.pkg.tar.zst">nerd-fonts-hack</a>
 <b>Version</b>         : 2.2.2-1
 <b>Description</b>     : Patched font Hack from nerd-fonts library
 <b>Architecture</b>    : any

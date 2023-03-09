@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/touchpad-indicator*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/touchpad-indicator-2021.01.17-3-any.pkg.tar.zst">touchpad-indicator</a>
+<b>Name</b>            : <a href="../../x86_64/touchpad-indicator-2021.01.17-3-any.pkg.tar.zst">touchpad-indicator</a>
 <b>Version</b>         : 2021.01.17-3
 <b>Description</b>     : An indicator for the touchpad
 <b>Architecture</b>    : any

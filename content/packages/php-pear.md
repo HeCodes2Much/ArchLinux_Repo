@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/php-pear*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/php-pear-1:1.10.21-2-any.pkg.tar.zst">php-pear</a>
+<b>Name</b>            : <a href="../../x86_64/php-pear-1:1.10.21-2-any.pkg.tar.zst">php-pear</a>
 <b>Version</b>         : 1:1.10.21-2
 <b>Description</b>     : PHP Extension and Application <b>Repository</b>
 <b>Architecture</b>    : any

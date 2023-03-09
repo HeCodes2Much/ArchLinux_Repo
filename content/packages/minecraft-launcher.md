@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/minecraft-launcher*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/minecraft-launcher-1:1.0.1221-1-x86_64.pkg.tar.zst">minecraft-launcher</a>
+<b>Name</b>            : <a href="../../x86_64/minecraft-launcher-1:1.0.1221-1-x86_64.pkg.tar.zst">minecraft-launcher</a>
 <b>Version</b>         : 1:1.0.1221-1
 <b>Description</b>     : Official Minecraft Launcher
 <b>Architecture</b>    : x86_64

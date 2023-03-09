@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/xmenu*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/xmenu-2021.12.01-1-any.pkg.tar.zst">xmenu</a>
+<b>Name</b>            : <a href="../../x86_64/xmenu-2021.12.01-1-any.pkg.tar.zst">xmenu</a>
 <b>Version</b>         : 2021.12.01-1
 <b>Description</b>     : A menu utility for X.
 <b>Architecture</b>    : any

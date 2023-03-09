@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/resvg*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/resvg-0.20.0-3-x86_64.pkg.tar.zst">resvg</a>
+<b>Name</b>            : <a href="../../x86_64/resvg-0.20.0-3-x86_64.pkg.tar.zst">resvg</a>
 <b>Version</b>         : 0.20.0-3
 <b>Description</b>     : SVG rendering library and CLI
 <b>Architecture</b>    : x86_64

@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/imagewriter*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/imagewriter-1.10.1432200249.1d253d9.2.14-1-x86_64.pkg.tar.zst">imagewriter</a>
+<b>Name</b>            : <a href="../../x86_64/imagewriter-1.10.1432200249.1d253d9.2.14-1-x86_64.pkg.tar.zst">imagewriter</a>
 <b>Version</b>         : 1.10.1432200249.1d253d9.2.14-1
 <b>Description</b>     : A graphical utility for writing raw disk images & hybrid isos to USB keys
 <b>Architecture</b>    : x86_64

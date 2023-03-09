@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/sdbus-cpp*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/sdbus-cpp-1.1.0-2-x86_64.pkg.tar.zst">sdbus-cpp</a>
+<b>Name</b>            : <a href="../../x86_64/sdbus-cpp-1.1.0-2-x86_64.pkg.tar.zst">sdbus-cpp</a>
 <b>Version</b>         : 1.1.0-2
 <b>Description</b>     : sdbus-c++ is a high-level C++ D-Bus library for Linux designed to provide expressive, easy-to-use API in modern C++
 <b>Architecture</b>    : x86_64

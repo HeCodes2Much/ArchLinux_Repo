@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/repowm*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/repowm-2022.07.17-1-x86_64.pkg.tar.zst">repowm</a>
+<b>Name</b>            : <a href="../../x86_64/repowm-2022.07.17-1-x86_64.pkg.tar.zst">repowm</a>
 <b>Version</b>         : 2022.07.17-1
 <b>Description</b>     : A dynamic window manager for X
 <b>Architecture</b>    : x86_64

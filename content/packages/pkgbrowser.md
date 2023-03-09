@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/pkgbrowser*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/pkgbrowser-0.27-1-x86_64.pkg.tar.zst">pkgbrowser</a>
+<b>Name</b>            : <a href="../../x86_64/pkgbrowser-0.27-1-x86_64.pkg.tar.zst">pkgbrowser</a>
 <b>Version</b>         : 0.27-1
 <b>Description</b>     : A utility for browsing pacman databases and the AUR
 <b>Architecture</b>    : x86_64

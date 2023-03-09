@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/mkinitcpio-firmware*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/mkinitcpio-firmware-1.4.0-1-any.pkg.tar.zst">mkinitcpio-firmware</a>
+<b>Name</b>            : <a href="../../x86_64/mkinitcpio-firmware-1.4.0-1-any.pkg.tar.zst">mkinitcpio-firmware</a>
 <b>Version</b>         : 1.4.0-1
 <b>Description</b>     : Optional firmware for the default linux kernel to get rid of the annoying 'WARNING: Possibly missing firmware for module:' messages
 <b>Architecture</b>    : any

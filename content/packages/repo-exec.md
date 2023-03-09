@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/repo-exec*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/repo-exec-2022.07.17-1-any.pkg.tar.zst">repo-exec</a>
+<b>Name</b>            : <a href="../../x86_64/repo-exec-2022.07.17-1-any.pkg.tar.zst">repo-exec</a>
 <b>Version</b>         : 2022.07.17-1
 <b>Description</b>     : Exec for repowm and repomenu
 <b>Architecture</b>    : any

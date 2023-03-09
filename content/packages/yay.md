@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/yay*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/yay-11.3.2-1-x86_64.pkg.tar.zst">yay</a>
+<b>Name</b>            : <a href="../../x86_64/yay-11.3.2-1-x86_64.pkg.tar.zst">yay</a>
 <b>Version</b>         : 11.3.2-1
 <b>Description</b>     : Yet another yogurt. Pacman wrapper and AUR helper written in go.
 <b>Architecture</b>    : x86_64

@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/qtile-extras*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../static/x86_64/qtile-extras-0.22.1-2-any.pkg.tar.zst">qtile-extras</a>
+<b>Name</b>            : <a href="../../x86_64/qtile-extras-0.22.1-2-any.pkg.tar.zst">qtile-extras</a>
 <b>Version</b>         : 0.22.1-2
 <b>Description</b>     : Unofficial mods for qtile. Tagged release to match stable qtile releases.
 <b>Architecture</b>    : any
