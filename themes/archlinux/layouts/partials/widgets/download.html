@@ -1,24 +1,21 @@
 {{ if .Site.Params.widgets.downloads }}
-<div class="widget-wrap">
-    <div class="widget-download">
-<div class="btn-group">
-<a href="#">
-  <button type="button" class="btn btn-default" aria-haspopup="true" aria-expanded="false"><i class="fa fa-cloud-download"></i> {{with .Site.Data.l10n.widgets.download.title}}{{.}}{{end}}</button>
-</a>
-</div>
-<div class="btn-group">
-  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
- <i class="fa fa-question-circle"></i> {{with .Site.Data.l10n.widgets.help.title}}{{.}}{{end}} <span class="caret"></span>
-
-  </button>
-  <ul class="dropdown-menu">
-    <li><a href="#">Installation guide</a></li>
-    <li><a href="#">Beginners guide</a></li>
-    <li><a href="#">FAQ</a></li>
-    <li role="separator" class="divider"></li>
-    <li><a href="#">Download</a></li>
-  </ul>
-</div>
-</div>
+<div class="widget widget-wrap">
+	<div class="widget-download">
+		<div class="btn-group">
+			<a href="#">
+				<button type="button" class="btn btn-default" aria-haspopup="true" aria-expanded="false"><i class="fa fa-cloud-download"></i> {{with .Site.Data.l10n.widgets.download.title}}{{.}}{{end}}</button>
+			</a>
+		</div>
+		<div class="btn-group">
+			<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-question-circle"></i> {{with .Site.Data.l10n.widgets.help.title}}{{.}}{{end}} <span class="caret"></span></button>
+			<ul class="dropdown-menu">
+				<li><a href="#">Installation guide</a></li>
+				<li><a href="#">Beginners guide</a></li>
+				<li><a href="#">FAQ</a></li>
+				<li role="separator" class="divider"></li>
+				<li><a href="#">Download</a></li>
+			</ul>
+		</div>
+	</div>
 </div>
 {{ end }}

@@ -94,7 +94,7 @@ downloads = false
 recent_articles = true
 search = true
 tags = false
-tag_cloud = true
+tag_cloud = false
 
 [params.home]
 old_posts = true

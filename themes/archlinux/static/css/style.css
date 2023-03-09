@@ -173,7 +173,7 @@ h5 {
 	width: 300px;
 	margin-left: -300px;
 }
-div.box {
+.box {
 	margin-bottom: 1.5em;
 	padding: 0.65em;
 	background: #ecf2f5;
@@ -521,7 +521,7 @@ h3 span.arrow {
 	margin: 0.5em 0 0.5em 1em;
 	padding: 0;
 }
-div.widget {
+.widget {
 	margin-bottom: 1.5em;
 }
 #rss-feeds .rss {
