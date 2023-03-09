@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/dracula-qt6-theme*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/dracula-qt6-theme-2021.10.20-1-any.pkg.tar.zst">dracula-qt6-theme</a>
+<b>Name</b>            : <a href="../../static/x86_64/dracula-qt6-theme-2021.10.20-1-any.pkg.tar.zst">dracula-qt6-theme</a>
 <b>Version</b>         : 2021.10.20-1
 <b>Description</b>     : This theme provides support for QT6.
 <b>Architecture</b>    : any

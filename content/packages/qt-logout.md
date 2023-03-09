@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/qt-logout*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/qt-logout-2021.08.24-1-any.pkg.tar.zst">qt-logout</a>
+<b>Name</b>            : <a href="../../static/x86_64/qt-logout-2021.08.24-1-any.pkg.tar.zst">qt-logout</a>
 <b>Version</b>         : 2021.08.24-1
 <b>Description</b>     : Logout screen for QT using QT5 and pyside2
 <b>Architecture</b>    : any

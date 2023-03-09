@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/xwingridselect*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/xwingridselect-2021.04.06-1-x86_64.pkg.tar.zst">xwingridselect</a>
+<b>Name</b>            : <a href="../../static/x86_64/xwingridselect-2021.04.06-1-x86_64.pkg.tar.zst">xwingridselect</a>
 <b>Version</b>         : 2021.04.06-1
 <b>Description</b>     : X11 window switcher with fancy look
 <b>Architecture</b>    : x86_64

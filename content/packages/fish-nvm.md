@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/fish-nvm*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/fish-nvm-2.2.11-1-x86_64.pkg.tar.zst">fish-nvm</a>
+<b>Name</b>            : <a href="../../static/x86_64/fish-nvm-2.2.11-1-x86_64.pkg.tar.zst">fish-nvm</a>
 <b>Version</b>         : 2.2.11-1
 <b>Description</b>     : Node.js version manager lovingly made for Fish
 <b>Architecture</b>    : x86_64

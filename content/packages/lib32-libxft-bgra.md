@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/lib32-libxft-bgra*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/lib32-libxft-bgra-2.3.4.r.-1-x86_64.pkg.tar.zst">lib32-libxft-bgra</a>
+<b>Name</b>            : <a href="../../static/x86_64/lib32-libxft-bgra-2.3.4.r.-1-x86_64.pkg.tar.zst">lib32-libxft-bgra</a>
 <b>Version</b>         : 2.3.4.r.-1
 <b>Description</b>     : libXft with BGRA glyph (color emoji) rendering & scaling patches by Maxime Coste
 <b>Architecture</b>    : x86_64

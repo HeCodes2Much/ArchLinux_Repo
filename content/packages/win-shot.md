@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/win-shot*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/win-shot-2022.07.31-1-any.pkg.tar.zst">win-shot</a>
+<b>Name</b>            : <a href="../../static/x86_64/win-shot-2022.07.31-1-any.pkg.tar.zst">win-shot</a>
 <b>Version</b>         : 2022.07.31-1
 <b>Description</b>     : simple screenshot script using imagemagick
 <b>Architecture</b>    : any

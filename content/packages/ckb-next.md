@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/ckb-next*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/ckb-next-0.5.0-2-x86_64.pkg.tar.zst">ckb-next</a>
+<b>Name</b>            : <a href="../../static/x86_64/ckb-next-0.5.0-2-x86_64.pkg.tar.zst">ckb-next</a>
 <b>Version</b>         : 0.5.0-2
 <b>Description</b>     : Corsair Keyboard and Mouse Input Driver, release version
 <b>Architecture</b>    : x86_64

@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/neovim-symlinks*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/neovim-symlinks-5-1-any.pkg.tar.zst">neovim-symlinks</a>
+<b>Name</b>            : <a href="../../static/x86_64/neovim-symlinks-5-1-any.pkg.tar.zst">neovim-symlinks</a>
 <b>Version</b>         : 5-1
 <b>Description</b>     : Runs neovim if vi or vim is called
 <b>Architecture</b>    : any

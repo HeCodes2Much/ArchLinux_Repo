@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/linux-wifi-hotspot*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/linux-wifi-hotspot-4.4.0-1-x86_64.pkg.tar.zst">linux-wifi-hotspot</a>
+<b>Name</b>            : <a href="../../static/x86_64/linux-wifi-hotspot-4.4.0-1-x86_64.pkg.tar.zst">linux-wifi-hotspot</a>
 <b>Version</b>         : 4.4.0-1
 <b>Description</b>     : Feature-rich wifi hotspot creator
 <b>Architecture</b>    : x86_64

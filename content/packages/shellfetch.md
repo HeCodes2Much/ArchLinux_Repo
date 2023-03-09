@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/shellfetch*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/shellfetch-2022.09.19-1-any.pkg.tar.zst">shellfetch</a>
+<b>Name</b>            : <a href="../../static/x86_64/shellfetch-2022.09.19-1-any.pkg.tar.zst">shellfetch</a>
 <b>Version</b>         : 2022.09.19-1
 <b>Description</b>     : Shell System Information Fetcher
 <b>Architecture</b>    : any

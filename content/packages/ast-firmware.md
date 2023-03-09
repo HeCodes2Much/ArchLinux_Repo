@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/ast-firmware*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/ast-firmware-501-1-any.pkg.tar.zst">ast-firmware</a>
+<b>Name</b>            : <a href="../../static/x86_64/ast-firmware-501-1-any.pkg.tar.zst">ast-firmware</a>
 <b>Version</b>         : 501-1
 <b>Description</b>     : Aspeed VGA module from the IPMI
 <b>Architecture</b>    : any

@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/i3lock-color*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/i3lock-color-2.13.c.4-1-x86_64.pkg.tar.zst">i3lock-color</a>
+<b>Name</b>            : <a href="../../static/x86_64/i3lock-color-2.13.c.4-1-x86_64.pkg.tar.zst">i3lock-color</a>
 <b>Version</b>         : 2.13.c.4-1
 <b>Description</b>     : The world's most popular non-default computer lockscreen.
 <b>Architecture</b>    : x86_64

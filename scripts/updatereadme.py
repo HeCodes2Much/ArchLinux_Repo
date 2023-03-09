@@ -88,7 +88,6 @@ def get_file_info(file, name):
     command = f"pacman -Si linuxrepos/{name}"
     process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=None, shell=True)
     output = process.communicate()
-    file = file.replace("static/", "")
     link = f'<a href="../{file}">{name}</a>'
     fileInfo = str(output[0].decode())\
     .replace("Repository","<b>Repository</b>").strip()\

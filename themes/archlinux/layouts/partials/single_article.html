@@ -1,29 +1,17 @@
-<div id="content-all">
+<div id="content-left">
     <article>
-        <div class="itemprop" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
-            <meta itemprop="name" content="Robin Candau">
-        </div>
-        <div class="itemprop" itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
-            <meta itemprop="name" content="Arch Linux">
-        </div>
-
-        {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
-        <img src="{{ .Site.BaseURL }}{{ .Params.banner }}" class="article-banner">
-        {{ end }}
-
-        <p class="article-info">{{ partial "article_header" . }}</p>
-
-        <div class="article-content" itemprop="articleBody">
-            {{ .Content }}
-
-            {{if .Site.Params.disclaimer }}
-            <p>
-                {{ with .Site.Params.disclaimer }}{{ . | markdownify}}{{ end }}
-            </p>
+        <div class="article-inner">
+            {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
+            <img src="{{ .Site.BaseURL }}{{ .Params.banner }}" class="article-banner">
             {{ end }}
-        </div>
 
-        {{ partial "article_footer" . }}
+            {{ partial "article_header" . }}
+            <div class="article-entry" itemprop="articleBody">
+                {{ .Content }}
+            </div>
+
+            {{ partial "article_footer" . }}
+        </div>
 
         {{ partial "prev_next_post" . }}
     </article>

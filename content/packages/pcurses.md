@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/pcurses*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/pcurses-5-5-x86_64.pkg.tar.zst">pcurses</a>
+<b>Name</b>            : <a href="../../static/x86_64/pcurses-5-5-x86_64.pkg.tar.zst">pcurses</a>
 <b>Version</b>         : 5-5
 <b>Description</b>     : A curses package management tool using libalpm
 <b>Architecture</b>    : x86_64

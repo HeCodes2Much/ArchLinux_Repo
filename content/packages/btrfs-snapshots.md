@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/btrfs-snapshots*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/btrfs-snapshots-2022.07.31-1-any.pkg.tar.zst">btrfs-snapshots</a>
+<b>Name</b>            : <a href="../../static/x86_64/btrfs-snapshots-2022.07.31-1-any.pkg.tar.zst">btrfs-snapshots</a>
 <b>Version</b>         : 2022.07.31-1
 <b>Description</b>     : addons for repomenu
 <b>Architecture</b>    : any

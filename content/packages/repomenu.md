@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/repomenu*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/repomenu-2022.07.31-1-any.pkg.tar.zst">repomenu</a>
+<b>Name</b>            : <a href="../../static/x86_64/repomenu-2022.07.31-1-any.pkg.tar.zst">repomenu</a>
 <b>Version</b>         : 2022.07.31-1
 <b>Description</b>     : dmenu like menu with the Dracula theme
 <b>Architecture</b>    : any

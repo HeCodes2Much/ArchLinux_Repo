@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/nerd-fonts-iosevka*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/nerd-fonts-iosevka-2.1.0-2-any.pkg.tar.zst">nerd-fonts-iosevka</a>
+<b>Name</b>            : <a href="../../static/x86_64/nerd-fonts-iosevka-2.1.0-2-any.pkg.tar.zst">nerd-fonts-iosevka</a>
 <b>Version</b>         : 2.1.0-2
 <b>Description</b>     : Patched Iosevka font from the nerd-fonts library
 <b>Architecture</b>    : any

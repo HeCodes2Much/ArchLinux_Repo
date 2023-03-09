@@ -65,11 +65,9 @@ weight = 2
 
 [params]
 # Tell me who you're
-author = "Wayne Wesley"
 location = ""
 site_description = ""
 copyright  = "Powered by [Hugo](//gohugo.io). Theme by [linuxrepos.org](https://github.com/The-Repo-Club/arch.linuxrepos.org)."
-disclaimer = "_Disclaimer: This is a personal weblog. The opinions expressed here represent my own and not those of any entity in which I have been, am now, or will be affiliated._"
 
 date_format = "2 Jan, 2006"
 

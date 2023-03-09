@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/checkupdates-aur*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/checkupdates-aur-0.04-1-any.pkg.tar.zst">checkupdates-aur</a>
+<b>Name</b>            : <a href="../../static/x86_64/checkupdates-aur-0.04-1-any.pkg.tar.zst">checkupdates-aur</a>
 <b>Version</b>         : 0.04-1
 <b>Description</b>     : checkupdates for aur
 <b>Architecture</b>    : any

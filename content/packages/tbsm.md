@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/tbsm*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/tbsm-2022.01.23-1-any.pkg.tar.zst">tbsm</a>
+<b>Name</b>            : <a href="../../static/x86_64/tbsm-2022.01.23-1-any.pkg.tar.zst">tbsm</a>
 <b>Version</b>         : 2022.01.23-1
 <b>Description</b>     : Terminal Based Session Manager
 <b>Architecture</b>    : any

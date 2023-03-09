@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/robo3t-bin*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/robo3t-bin-1.4.4-1-x86_64.pkg.tar.zst">robo3t-bin</a>
+<b>Name</b>            : <a href="../../static/x86_64/robo3t-bin-1.4.4-1-x86_64.pkg.tar.zst">robo3t-bin</a>
 <b>Version</b>         : 1.4.4-1
 <b>Description</b>     : Shell-centric MongoDB management tool
 <b>Architecture</b>    : x86_64

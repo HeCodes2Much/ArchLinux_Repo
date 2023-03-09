@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/ttf-remixicon*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/ttf-remixicon-2.5.0-1-any.pkg.tar.zst">ttf-remixicon</a>
+<b>Name</b>            : <a href="../../static/x86_64/ttf-remixicon-2.5.0-1-any.pkg.tar.zst">ttf-remixicon</a>
 <b>Version</b>         : 2.5.0-1
 <b>Description</b>     : Open source neutral style icon system
 <b>Architecture</b>    : any

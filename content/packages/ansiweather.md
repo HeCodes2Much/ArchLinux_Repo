@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/ansiweather*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/ansiweather-1.18.0-1-any.pkg.tar.zst">ansiweather</a>
+<b>Name</b>            : <a href="../../static/x86_64/ansiweather-1.18.0-1-any.pkg.tar.zst">ansiweather</a>
 <b>Version</b>         : 1.18.0-1
 <b>Description</b>     : A Shell script for displaying the current weather conditions in your terminal, with support for ANSI colors and Unicode symbols.
 <b>Architecture</b>    : any

@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/pacmanity*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/pacmanity-2021.11.14-1-x86_64.pkg.tar.zst">pacmanity</a>
+<b>Name</b>            : <a href="../../static/x86_64/pacmanity-2021.11.14-1-x86_64.pkg.tar.zst">pacmanity</a>
 <b>Version</b>         : 2021.11.14-1
 <b>Description</b>     : Keeps a list of installed packages in a Gist at your GitHub account
 <b>Architecture</b>    : x86_64

@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/husky-hooks*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/husky-hooks-2022.10.03-1-any.pkg.tar.zst">husky-hooks</a>
+<b>Name</b>            : <a href="../../static/x86_64/husky-hooks-2022.10.03-1-any.pkg.tar.zst">husky-hooks</a>
 <b>Version</b>         : 2022.10.03-1
 <b>Description</b>     : HuskyLinux pacman hooks
 <b>Architecture</b>    : any

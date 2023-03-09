@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/libart-lgpl*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/libart-lgpl-2.3.21-5-x86_64.pkg.tar.zst">libart-lgpl</a>
+<b>Name</b>            : <a href="../../static/x86_64/libart-lgpl-2.3.21-5-x86_64.pkg.tar.zst">libart-lgpl</a>
 <b>Version</b>         : 2.3.21-5
 <b>Description</b>     : A library for high-performance 2D graphics
 <b>Architecture</b>    : x86_64

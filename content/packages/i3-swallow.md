@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/i3-swallow*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/i3-swallow-2021.01.01-2-any.pkg.tar.zst">i3-swallow</a>
+<b>Name</b>            : <a href="../../static/x86_64/i3-swallow-2021.01.01-2-any.pkg.tar.zst">i3-swallow</a>
 <b>Version</b>         : 2021.01.01-2
 <b>Description</b>     : Swallow a terminal window after a blocking application is run in i3
 <b>Architecture</b>    : any

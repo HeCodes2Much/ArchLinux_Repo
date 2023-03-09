@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/linuxrepos-mirrorlist*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/linuxrepos-mirrorlist-2022.09.09-1-any.pkg.tar.zst">linuxrepos-mirrorlist</a>
+<b>Name</b>            : <a href="../../static/x86_64/linuxrepos-mirrorlist-2022.09.09-1-any.pkg.tar.zst">linuxrepos-mirrorlist</a>
 <b>Version</b>         : 2022.09.09-1
 <b>Description</b>     : linuxrepos mirrorlist
 <b>Architecture</b>    : any

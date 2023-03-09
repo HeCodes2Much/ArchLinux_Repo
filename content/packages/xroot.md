@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/xroot*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/xroot-2022.01.30-1-any.pkg.tar.zst">xroot</a>
+<b>Name</b>            : <a href="../../static/x86_64/xroot-2022.01.30-1-any.pkg.tar.zst">xroot</a>
 <b>Version</b>         : 2022.01.30-1
 <b>Description</b>     : click on root window and run a command .
 <b>Architecture</b>    : any

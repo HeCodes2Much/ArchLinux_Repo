@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/cmusfetcher500*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/cmusfetcher500-2021.12.28-1-any.pkg.tar.zst">cmusfetcher500</a>
+<b>Name</b>            : <a href="../../static/x86_64/cmusfetcher500-2021.12.28-1-any.pkg.tar.zst">cmusfetcher500</a>
 <b>Version</b>         : 2021.12.28-1
 <b>Description</b>     : A simple tool for fetching an image and sound from cmus
 <b>Architecture</b>    : any

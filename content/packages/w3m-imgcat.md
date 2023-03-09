@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/w3m-imgcat*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/w3m-imgcat-0.1-2-any.pkg.tar.zst">w3m-imgcat</a>
+<b>Name</b>            : <a href="../../static/x86_64/w3m-imgcat-0.1-2-any.pkg.tar.zst">w3m-imgcat</a>
 <b>Version</b>         : 0.1-2
 <b>Description</b>     : A simple script to print images to stdout
 <b>Architecture</b>    : any

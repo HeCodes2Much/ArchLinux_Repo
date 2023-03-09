@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/siji*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/siji-2021.07.03-1-any.pkg.tar.zst">siji</a>
+<b>Name</b>            : <a href="../../static/x86_64/siji-2021.07.03-1-any.pkg.tar.zst">siji</a>
 <b>Version</b>         : 2021.07.03-1
 <b>Description</b>     : Iconic bitmap font based on stlarch with additional glyphs
 <b>Architecture</b>    : any

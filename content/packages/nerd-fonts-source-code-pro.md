@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/nerd-fonts-source-code-pro*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/nerd-fonts-source-code-pro-2.1.0-2-any.pkg.tar.zst">nerd-fonts-source-code-pro</a>
+<b>Name</b>            : <a href="../../static/x86_64/nerd-fonts-source-code-pro-2.1.0-2-any.pkg.tar.zst">nerd-fonts-source-code-pro</a>
 <b>Version</b>         : 2.1.0-2
 <b>Description</b>     : Patched font SourceCodePro from nerd-fonts library
 <b>Architecture</b>    : any

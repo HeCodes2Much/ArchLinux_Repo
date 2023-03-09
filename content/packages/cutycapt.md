@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/cutycapt*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/cutycapt-2021.04.04-1-any.pkg.tar.zst">cutycapt</a>
+<b>Name</b>            : <a href="../../static/x86_64/cutycapt-2021.04.04-1-any.pkg.tar.zst">cutycapt</a>
 <b>Version</b>         : 2021.04.04-1
 <b>Description</b>     : A Qt and WebKit based command-line utility that captures WebKit's rendering of a web page.
 <b>Architecture</b>    : any

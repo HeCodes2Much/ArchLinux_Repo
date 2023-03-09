@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/nbteditor*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/nbteditor-1.3-1-x86_64.pkg.tar.zst">nbteditor</a>
+<b>Name</b>            : <a href="../../static/x86_64/nbteditor-1.3-1-x86_64.pkg.tar.zst">nbteditor</a>
 <b>Version</b>         : 1.3-1
 <b>Description</b>     : Editor for Minecraft NBT and schematic files
 <b>Architecture</b>    : x86_64

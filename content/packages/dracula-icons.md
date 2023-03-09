@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/dracula-icons*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/dracula-icons-2021.10.20-1-any.pkg.tar.zst">dracula-icons</a>
+<b>Name</b>            : <a href="../../static/x86_64/dracula-icons-2021.10.20-1-any.pkg.tar.zst">dracula-icons</a>
 <b>Version</b>         : 2021.10.20-1
 <b>Description</b>     : This provides support dracula for icons.
 <b>Architecture</b>    : any

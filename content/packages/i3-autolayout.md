@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/i3-autolayout*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/i3-autolayout-0.2.3-1-x86_64.pkg.tar.zst">i3-autolayout</a>
+<b>Name</b>            : <a href="../../static/x86_64/i3-autolayout-0.2.3-1-x86_64.pkg.tar.zst">i3-autolayout</a>
 <b>Version</b>         : 0.2.3-1
 <b>Description</b>     : Service to automatically managing i3 window manager layout
 <b>Architecture</b>    : x86_64

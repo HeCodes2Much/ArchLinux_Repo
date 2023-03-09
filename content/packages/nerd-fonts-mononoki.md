@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/nerd-fonts-mononoki*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/nerd-fonts-mononoki-2.2.2-2-any.pkg.tar.zst">nerd-fonts-mononoki</a>
+<b>Name</b>            : <a href="../../static/x86_64/nerd-fonts-mononoki-2.2.2-2-any.pkg.tar.zst">nerd-fonts-mononoki</a>
 <b>Version</b>         : 2.2.2-2
 <b>Description</b>     : Patched font Mononoki from nerd-fonts library
 <b>Architecture</b>    : any

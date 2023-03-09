@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/aic94xx-firmware*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/aic94xx-firmware-30-9-any.pkg.tar.zst">aic94xx-firmware</a>
+<b>Name</b>            : <a href="../../static/x86_64/aic94xx-firmware-30-9-any.pkg.tar.zst">aic94xx-firmware</a>
 <b>Version</b>         : 30-9
 <b>Description</b>     : Adaptec SAS 44300, 48300, 58300 Sequencer Firmware for AIC94xx driver
 <b>Architecture</b>    : any

@@ -10,7 +10,7 @@ pacman -Si *linuxrepos/i3-cheat*
 {{< rawhtml >}}
 <pre class="highlight">
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/i3-cheat-2022.01.23-1-any.pkg.tar.zst">i3-cheat</a>
+<b>Name</b>            : <a href="../../static/x86_64/i3-cheat-2022.01.23-1-any.pkg.tar.zst">i3-cheat</a>
 <b>Version</b>         : 2022.01.23-1
 <b>Description</b>     : cheat sheet for i3wm
 <b>Architecture</b>    : any
