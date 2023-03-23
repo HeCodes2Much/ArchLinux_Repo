@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Wed 22 Feb 2023 15:06:09 GMT",
+  "Build Date": "Thu 09 Mar 2023 17:20:58 GMT",
   "Conflicts With": "None",
   "Depends On": [
     "python",
@@ -19,9 +19,9 @@
     "python-qrcode"
   ],
   "Description": "F-Droid repository management tools",
-  "Download Size": "686.53 KiB",
+  "Download Size": "654.38 KiB",
   "Groups": "None",
-  "Installed Size": "3084.53 KiB",
+  "Installed Size": "2875.38 KiB",
   "Licenses": "GPL3",
   "Name": "fdroidserver",
   "Optional Deps": {
@@ -52,5 +52,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "1:2.2.0-1"
+  "Version": "1:2.2.1-1"
 }

@@ -5,7 +5,7 @@ pacman -Si *linuxrepos/fdroidserver*
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/fdroidserver-1:2.2.1-1-any.pkg.tar.zst">fdroidserver</a>
-<b>Version</b>         : 1:2.2.0-1
+<b>Version</b>         : 1:2.2.1-1
 <b>Description</b>     : F-Droid repository management tools
 <b>Architecture</b>    : any
 <b>URL</b>             : https://gitlab.com/fdroid/fdroidserver
@@ -31,10 +31,10 @@ pacman -Si *linuxrepos/fdroidserver*
                   wordpress: Web repository plugin
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 686.53 KiB
-<b>Installed Size</b>  : 3084.53 KiB
+<b>Download Size</b>   : 654.38 KiB
+<b>Installed Size</b>  : 2875.38 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 22 Feb 2023 15:06:09 GMT
+<b>Build Date</b>      : Thu 09 Mar 2023 17:20:58 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
