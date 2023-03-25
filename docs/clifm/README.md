@@ -4,8 +4,8 @@ pacman -Si *linuxrepos/clifm*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/clifm-1.10-1-x86_64.pkg.tar.zst">clifm</a>
-<b>Version</b>         : 1.10-1
+<b>Name</b>            : <a href="../../x86_64/clifm-1.11-1-x86_64.pkg.tar.zst">clifm</a>
+<b>Version</b>         : 1.11-1
 <b>Description</b>     : The command line file manager
 <b>Architecture</b>    : x86_64
 <b>URL</b>             : https://github.com/leo-arch/clifm
@@ -23,10 +23,10 @@ pacman -Si *linuxrepos/clifm*
                   udisks2: (un)mount storage devices
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 539.81 KiB
-<b>Installed Size</b>  : 1232.22 KiB
+<b>Download Size</b>   : 559.36 KiB
+<b>Installed Size</b>  : 1289.47 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 04 Feb 2023 20:07:58 GMT
+<b>Build Date</b>      : Sat 25 Mar 2023 17:28:29 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

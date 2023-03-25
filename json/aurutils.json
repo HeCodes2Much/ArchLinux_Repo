@@ -1,16 +1,15 @@
 {
   "Architecture": "any",
-  "Build Date": "Thu 23 Mar 2023 19:01:26 GMT",
+  "Build Date": "Sat 25 Mar 2023 17:28:44 GMT",
   "Conflicts With": "None",
   "Depends On": [
     "git",
-    "jq",
     "pacutils",
     "curl",
     "perl"
   ],
   "Description": "helper tools for the arch user repository",
-  "Download Size": "112.71 KiB",
+  "Download Size": "112.75 KiB",
   "Groups": "None",
   "Installed Size": "196.87 KiB",
   "Licenses": "custom:ISC",
@@ -36,5 +35,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "13-1"
+  "Version": "13-2"
 }
