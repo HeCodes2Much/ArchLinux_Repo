@@ -1,15 +1,15 @@
 {
   "Architecture": "any",
-  "Build Date": "Tue 25 Oct 2022 06:56:02 BST",
+  "Build Date": "Thu 06 Apr 2023 18:46:06 BST",
   "Conflicts With": "None",
   "Depends On": [
     "pacman-contrib",
     "fzf"
   ],
   "Description": "Bash script for downgrading one or more packages to a version in your cache or the A.L.A.",
-  "Download Size": "36.60 KiB",
+  "Download Size": "39.02 KiB",
   "Groups": "None",
-  "Installed Size": "75.12 KiB",
+  "Installed Size": "76.35 KiB",
   "Licenses": "GPL",
   "Name": "downgrade",
   "Optional Deps": {
@@ -25,5 +25,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "11.2.1-1"
+  "Version": "11.3.0-1"
 }
