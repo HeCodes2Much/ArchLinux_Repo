@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Thu 09 Mar 2023 17:20:58 GMT",
+  "Build Date": "Tue 11 Apr 2023 20:38:59 BST",
   "Conflicts With": "None",
   "Depends On": [
     "python",
@@ -19,7 +19,7 @@
     "python-qrcode"
   ],
   "Description": "F-Droid repository management tools",
-  "Download Size": "654.38 KiB",
+  "Download Size": "654.53 KiB",
   "Groups": "None",
   "Installed Size": "2875.38 KiB",
   "Licenses": "GPL3",

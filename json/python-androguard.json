@@ -1,0 +1,37 @@
+{
+  "Architecture": "any",
+  "Build Date": "Tue 11 Apr 2023 20:38:46 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "python",
+    "python-setuptools",
+    "ipython",
+    "python-future",
+    "python-networkx",
+    "python-pygments",
+    "python-lxml",
+    "python-colorama",
+    "python-matplotlib",
+    "python-asn1crypto",
+    "python-click",
+    "python-pydot"
+  ],
+  "Description": "Python framework for Android application analysis.",
+  "Download Size": "859.38 KiB",
+  "Groups": "None",
+  "Installed Size": "7914.38 KiB",
+  "Licenses": "Apache",
+  "Name": "python-androguard",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/androguard/androguard/",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "3.3.5-3"
+}
