@@ -1,0 +1,26 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Tue 18 Apr 2023 21:17:00 BST",
+  "Conflicts With": "python-ly",
+  "Depends On": "pam",
+  "Description": "TUI display manager",
+  "Download Size": "51.05 KiB",
+  "Groups": "None",
+  "Installed Size": "101.20 KiB",
+  "Licenses": "custom:WTFPL",
+  "Name": "ly",
+  "Optional Deps": {
+    "xorg-xauth": "for X server sessions"
+  },
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/fairyglade/ly",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "0.5.3-3"
+}
