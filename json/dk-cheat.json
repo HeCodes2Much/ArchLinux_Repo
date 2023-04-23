@@ -1,13 +1,16 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 23 Apr 2023 20:53:41 BST",
-  "Conflicts With": "None",
+  "Build Date": "Sun 23 Apr 2023 21:24:06 BST",
+  "Conflicts With": [
+    "i3-cheat",
+    "bspwm-cheat"
+  ],
   "Depends On": [
     "gtk3",
     "dk"
   ],
   "Description": "cheat sheet for dkwm",
-  "Download Size": "18.27 KiB",
+  "Download Size": "18.30 KiB",
   "Groups": "linuxrepos",
   "Installed Size": "12.55 KiB",
   "Licenses": "GPL3",
