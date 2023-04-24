@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 23 Apr 2023 21:24:06 BST",
+  "Build Date": "Mon 24 Apr 2023 18:18:22 BST",
   "Conflicts With": [
     "i3-cheat",
     "bspwm-cheat"
@@ -10,9 +10,9 @@
     "dk"
   ],
   "Description": "cheat sheet for dkwm",
-  "Download Size": "18.30 KiB",
+  "Download Size": "18.28 KiB",
   "Groups": "linuxrepos",
-  "Installed Size": "12.55 KiB",
+  "Installed Size": "12.93 KiB",
   "Licenses": "GPL3",
   "Name": "dk-cheat",
   "Optional Deps": "None",
@@ -26,5 +26,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "2023.04.23-1"
+  "Version": "2023.04.24-1"
 }

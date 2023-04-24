@@ -4,8 +4,8 @@ pacman -Si *linuxrepos/i3-cheat*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/i3-cheat-2023.04.23-1-any.pkg.tar.zst">i3-cheat</a>
-<b>Version</b>         : 2023.04.23-1
+<b>Name</b>            : <a href="../../x86_64/i3-cheat-2023.04.24-1-any.pkg.tar.zst">i3-cheat</a>
+<b>Version</b>         : 2023.04.24-1
 <b>Description</b>     : cheat sheet for i3wm
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/The-Repo-Club/wm-cheat
@@ -16,10 +16,10 @@ pacman -Si *linuxrepos/i3-cheat*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : dk-cheat  bspwm-cheat
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 18.30 KiB
-<b>Installed Size</b>  : 12.55 KiB
+<b>Download Size</b>   : 18.29 KiB
+<b>Installed Size</b>  : 12.93 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 23 Apr 2023 21:24:16 BST
+<b>Build Date</b>      : Mon 24 Apr 2023 18:18:13 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
