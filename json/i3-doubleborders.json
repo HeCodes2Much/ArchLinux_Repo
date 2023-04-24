@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Mon 20 Feb 2023 12:29:11 GMT",
+  "Build Date": "Mon 24 Apr 2023 18:37:54 BST",
   "Conflicts With": "i3-wm",
   "Depends On": [
     "libev",
@@ -14,7 +14,7 @@
     "yajl"
   ],
   "Description": "Improved dynamic tiling window manager",
-  "Download Size": "1165.05 KiB",
+  "Download Size": "1165.46 KiB",
   "Groups": "i3",
   "Installed Size": "2375.29 KiB",
   "Licenses": "BSD",
@@ -43,5 +43,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "4.22-1"
+  "Version": "4.22-2"
 }
