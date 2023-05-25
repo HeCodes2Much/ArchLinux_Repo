@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Sun 05 Mar 2023 16:00:22 GMT",
+  "Build Date": "Thu 25 May 2023 22:21:48 BST",
   "Conflicts With": "None",
   "Depends On": [
     "java-runtime>=8",
@@ -13,9 +13,9 @@
     "nss"
   ],
   "Description": "Manage all your JetBrains Projects and Tools",
-  "Download Size": "66.74 MiB",
+  "Download Size": "66.97 MiB",
   "Groups": "None",
-  "Installed Size": "66.88 MiB",
+  "Installed Size": "67.10 MiB",
   "Licenses": "custom:jetbrains",
   "Name": "jetbrains-toolbox",
   "Optional Deps": {
@@ -31,5 +31,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "1.27.3.14493-1"
+  "Version": "1.28.1.15219-1"
 }

@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sat 08 Apr 2023 20:42:10 BST",
+  "Build Date": "Thu 25 May 2023 22:19:09 BST",
   "Conflicts With": "None",
   "Depends On": [
     "git",
@@ -9,9 +9,9 @@
     "perl"
   ],
   "Description": "helper tools for the arch user repository",
-  "Download Size": "112.83 KiB",
+  "Download Size": "114.44 KiB",
   "Groups": "None",
-  "Installed Size": "196.95 KiB",
+  "Installed Size": "200.09 KiB",
   "Licenses": "custom:ISC",
   "Name": "aurutils",
   "Optional Deps": {
@@ -35,5 +35,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "13.2-1"
+  "Version": "15.2-1"
 }
