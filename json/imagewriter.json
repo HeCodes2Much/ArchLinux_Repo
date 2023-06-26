@@ -1,15 +1,15 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Thu 23 Mar 2023 08:51:25 GMT",
+  "Build Date": "Mon 26 Jun 2023 19:58:31 BST",
   "Conflicts With": "None",
   "Depends On": [
     "qt5-base",
     "udisks2"
   ],
   "Description": "A graphical utility for writing raw disk images & hybrid isos to USB keys",
-  "Download Size": "117.56 KiB",
+  "Download Size": "118.06 KiB",
   "Groups": "None",
-  "Installed Size": "177.48 KiB",
+  "Installed Size": "181.48 KiB",
   "Licenses": "GPL2",
   "Name": "imagewriter",
   "Optional Deps": "None",
@@ -23,5 +23,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "1.10.1432200249.1d253d9.2.15-1"
+  "Version": "1.10.1432200249.1d253d9.2.16-1"
 }

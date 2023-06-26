@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Thu 06 Apr 2023 18:46:35 BST",
+  "Build Date": "Mon 26 Jun 2023 19:55:25 BST",
   "Conflicts With": [
     "ckb-git",
     "ckb-git-latest",
@@ -19,9 +19,9 @@
     "python-pyqt5"
   ],
   "Description": "Corsair Keyboard and Mouse Input Driver, release version",
-  "Download Size": "1490.79 KiB",
+  "Download Size": "1570.62 KiB",
   "Groups": "None",
-  "Installed Size": "3197.71 KiB",
+  "Installed Size": "3382.32 KiB",
   "Licenses": "GPL2",
   "Name": "ckb-next",
   "Optional Deps": "libpulse",
@@ -35,5 +35,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "0.5.0-3"
+  "Version": "0.6.0-1"
 }

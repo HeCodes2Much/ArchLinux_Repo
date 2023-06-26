@@ -1,17 +1,19 @@
 {
   "Architecture": "any",
-  "Build Date": "Thu 25 May 2023 22:19:09 BST",
+  "Build Date": "Mon 26 Jun 2023 19:54:56 BST",
   "Conflicts With": "None",
   "Depends On": [
     "git",
     "pacutils",
     "curl",
-    "perl"
+    "perl",
+    "perl-json-xs",
+    "bash"
   ],
   "Description": "helper tools for the arch user repository",
-  "Download Size": "114.44 KiB",
+  "Download Size": "119.12 KiB",
   "Groups": "None",
-  "Installed Size": "200.09 KiB",
+  "Installed Size": "213.87 KiB",
   "Licenses": "custom:ISC",
   "Name": "aurutils",
   "Optional Deps": {
@@ -20,8 +22,7 @@
     "devtools": "aur-chroot",
     "git-delta": "view-delta example script",
     "ninja": "aur-sync ninja support",
-    "perl-json-xs": "faster JSON serialization",
-    "setconf": "sync-rebuild example script",
+    "python-srcinfo": "sync-rebuild example script",
     "vifm": "default pager",
     "zsh": "zsh completion"
   },
@@ -35,5 +36,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "15.2-1"
+  "Version": "17-1"
 }

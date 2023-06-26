@@ -1,13 +1,13 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Tue 06 Dec 2022 07:46:43 GMT",
+  "Build Date": "Mon 26 Jun 2023 19:55:16 BST",
   "Conflicts With": "None",
   "Depends On": [
     "nemo-python>=3.9.0",
     "python-gobject"
   ],
   "Description": "Context menu comparison extension for Nemo file manager",
-  "Download Size": "19.21 KiB",
+  "Download Size": "20.00 KiB",
   "Groups": "nemo-extensions",
   "Installed Size": "18.08 KiB",
   "Licenses": "GPL3",
@@ -29,5 +29,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "5.6.0-1"
+  "Version": "5.8.0-1"
 }

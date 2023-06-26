@@ -4,8 +4,8 @@ pacman -Si *linuxrepos/ckb-next*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/ckb-next-0.5.0-3-x86_64.pkg.tar.zst">ckb-next</a>
-<b>Version</b>         : 0.5.0-3
+<b>Name</b>            : <a href="../../x86_64/ckb-next-0.6.0-1-x86_64.pkg.tar.zst">ckb-next</a>
+<b>Version</b>         : 0.6.0-1
 <b>Description</b>     : Corsair Keyboard and Mouse Input Driver, release version
 <b>Architecture</b>    : x86_64
 <b>URL</b>             : https://github.com/ckb-next/ckb-next
@@ -16,10 +16,10 @@ pacman -Si *linuxrepos/ckb-next*
 <b>Optional Deps</b>   : libpulse
 <b>Conflicts With</b>  : ckb-git  ckb-git-latest  ckb-next-git
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 1490.79 KiB
-<b>Installed Size</b>  : 3197.71 KiB
+<b>Download Size</b>   : 1570.62 KiB
+<b>Installed Size</b>  : 3382.32 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 06 Apr 2023 18:46:35 BST
+<b>Build Date</b>      : Mon 26 Jun 2023 19:55:25 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

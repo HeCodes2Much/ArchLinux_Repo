@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Tue 18 Apr 2023 21:00:18 BST",
+  "Build Date": "Mon 26 Jun 2023 19:55:08 BST",
   "Conflicts With": "None",
   "Depends On": [
     "xcb-proto",
@@ -30,5 +30,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "1.8-1"
+  "Version": "1.9-1"
 }

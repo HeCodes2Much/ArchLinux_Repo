@@ -31,10 +31,10 @@ pacman -Si *linuxrepos/fdroidserver*
                   wordpress: Web repository plugin
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 654.53 KiB
-<b>Installed Size</b>  : 2875.38 KiB
+<b>Download Size</b>   : 800.01 KiB
+<b>Installed Size</b>  : 3818.96 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 11 Apr 2023 20:38:59 BST
+<b>Build Date</b>      : Mon 26 Jun 2023 18:35:28 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

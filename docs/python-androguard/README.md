@@ -16,10 +16,10 @@ pacman -Si *linuxrepos/python-androguard*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 859.38 KiB
-<b>Installed Size</b>  : 7914.38 KiB
+<b>Download Size</b>   : 1051.42 KiB
+<b>Installed Size</b>  : 9556.26 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 11 Apr 2023 20:38:46 BST
+<b>Build Date</b>      : Mon 26 Jun 2023 18:44:51 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Tue 11 Apr 2023 20:38:46 BST",
+  "Build Date": "Mon 26 Jun 2023 18:44:51 BST",
   "Conflicts With": "None",
   "Depends On": [
     "python",
@@ -17,9 +17,9 @@
     "python-pydot"
   ],
   "Description": "Python framework for Android application analysis.",
-  "Download Size": "859.38 KiB",
+  "Download Size": "1051.42 KiB",
   "Groups": "None",
-  "Installed Size": "7914.38 KiB",
+  "Installed Size": "9556.26 KiB",
   "Licenses": "Apache",
   "Name": "python-androguard",
   "Optional Deps": "None",
