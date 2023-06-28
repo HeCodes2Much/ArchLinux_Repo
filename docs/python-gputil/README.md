@@ -16,10 +16,10 @@ pacman -Si *linuxrepos/python-gputil*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 31.39 KiB
-<b>Installed Size</b>  : 61.42 KiB
+<b>Download Size</b>   : 36.17 KiB
+<b>Installed Size</b>  : 80.67 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 08 Nov 2022 16:02:55 GMT
+<b>Build Date</b>      : Tue 27 Jun 2023 10:02:30 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

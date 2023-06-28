@@ -4,8 +4,8 @@ pacman -Si *linuxrepos/aurutils*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/aurutils-17-1-any.pkg.tar.zst">aurutils</a>
-<b>Version</b>         : 17-1
+<b>Name</b>            : <a href="../../x86_64/aurutils-17.1b-1-any.pkg.tar.zst">aurutils</a>
+<b>Version</b>         : 17.1b-1
 <b>Description</b>     : helper tools for the arch user repository
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/AladW/aurutils
@@ -23,10 +23,10 @@ pacman -Si *linuxrepos/aurutils*
                   python-srcinfo: sync-rebuild example script
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 119.12 KiB
-<b>Installed Size</b>  : 213.87 KiB
+<b>Download Size</b>   : 119.19 KiB
+<b>Installed Size</b>  : 214.44 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 26 Jun 2023 19:54:56 BST
+<b>Build Date</b>      : Wed 28 Jun 2023 19:02:33 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
