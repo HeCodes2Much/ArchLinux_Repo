@@ -61,6 +61,7 @@
     "python-androguard",
     "python-gputil",
     "qt-logout",
+    "qt5-webkit",
     "qtile-extras",
     "recycle-cli",
     "repo-exec",
