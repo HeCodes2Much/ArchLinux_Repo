@@ -1,0 +1,24 @@
+{
+  "Architecture": "any",
+  "Build Date": "Fri 30 Jun 2023 21:33:44 BST",
+  "Conflicts With": "None",
+  "Depends On": "None",
+  "Description": "A script to enable/disable battery conservation mode in Lenovo Ideapad laptops.",
+  "Download Size": "14.79 KiB",
+  "Groups": "None",
+  "Installed Size": "2.19 KiB",
+  "Licenses": "GPL3",
+  "Name": "ideapad-cm",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/archlinux-jerry/ideapad-conservation-mode",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "0.1.1-1"
+}
