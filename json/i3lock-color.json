@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Sun 01 Aug 2021 10:26:04 BST",
+  "Build Date": "Sat 29 Jul 2023 15:40:00 BST",
   "Conflicts With": [
     "i3lock",
     "i3lock-color-git"
@@ -16,9 +16,9 @@
     "pkgconf"
   ],
   "Description": "The world's most popular non-default computer lockscreen.",
-  "Download Size": "67.71 KiB",
+  "Download Size": "77.44 KiB",
   "Groups": "None",
-  "Installed Size": "122.66 KiB",
+  "Installed Size": "146.05 KiB",
   "Licenses": "MIT",
   "Name": "i3lock-color",
   "Optional Deps": "None",
@@ -35,5 +35,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "2.13.c.4-1"
+  "Version": "2.13.c.5-1"
 }
