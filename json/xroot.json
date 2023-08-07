@@ -1,12 +1,12 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 30 Jan 2022 15:49:56 GMT",
+  "Build Date": "Mon 07 Aug 2023 22:07:54 BST",
   "Conflicts With": "None",
   "Depends On": "libx11",
   "Description": "click on root window and run a command .",
-  "Download Size": "19.51 KiB",
-  "Groups": "therepoclub",
-  "Installed Size": "14.49 KiB",
+  "Download Size": "18.40 KiB",
+  "Groups": "linuxrepos",
+  "Installed Size": "14.80 KiB",
   "Licenses": "MIT",
   "Name": "xroot",
   "Optional Deps": "None",
@@ -20,5 +20,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "2022.01.30-1"
+  "Version": "2023.08.07-1"
 }

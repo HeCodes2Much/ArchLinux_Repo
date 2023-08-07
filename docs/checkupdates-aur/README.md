@@ -16,10 +16,10 @@ pacman -Si *linuxrepos/checkupdates-aur*
 <b>Optional Deps</b>   : perl-smart-comments: for debug perpose only
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 14.87 KiB
+<b>Download Size</b>   : 16.48 KiB
 <b>Installed Size</b>  : 3.60 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 06 Nov 2022 19:32:49 GMT
+<b>Build Date</b>      : Mon 07 Aug 2023 22:14:40 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

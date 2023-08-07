@@ -18,10 +18,10 @@ pacman -Si *linuxrepos/qtile-extras*
                   python-dbus-next: various widgets
 <b>Conflicts With</b>  : qtile-extras
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 475.66 KiB
-<b>Installed Size</b>  : 1276.85 KiB
+<b>Download Size</b>   : 529.63 KiB
+<b>Installed Size</b>  : 1453.42 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 05 Nov 2022 17:23:51 GMT
+<b>Build Date</b>      : Mon 07 Aug 2023 15:28:41 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

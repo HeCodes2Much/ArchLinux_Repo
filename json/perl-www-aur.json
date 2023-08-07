@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 06 Nov 2022 19:33:18 GMT",
+  "Build Date": "Mon 07 Aug 2023 22:14:11 BST",
   "Conflicts With": "None",
   "Depends On": [
     "perl-http-cookies>=0",
@@ -10,9 +10,9 @@
     "perl-libwww>=0"
   ],
   "Description": "API for the Archlinux User Repository website.",
-  "Download Size": "59.60 KiB",
+  "Download Size": "58.58 KiB",
   "Groups": "None",
-  "Installed Size": "77.56 KiB",
+  "Installed Size": "75.01 KiB",
   "Licenses": [
     "PerlArtistic",
     "GPL"

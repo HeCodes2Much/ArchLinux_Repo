@@ -1,15 +1,15 @@
 {
   "Architecture": "any",
-  "Build Date": "Sat 05 Nov 2022 17:23:51 GMT",
+  "Build Date": "Mon 07 Aug 2023 15:28:41 BST",
   "Conflicts With": "qtile-extras",
   "Depends On": [
     "python",
     "qtile"
   ],
   "Description": "Unofficial mods for qtile. Tagged release to match stable qtile releases.",
-  "Download Size": "475.66 KiB",
+  "Download Size": "529.63 KiB",
   "Groups": "None",
-  "Installed Size": "1276.85 KiB",
+  "Installed Size": "1453.42 KiB",
   "Licenses": "MIT",
   "Name": "qtile-extras",
   "Optional Deps": {
