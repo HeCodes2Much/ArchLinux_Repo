@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sat 06 Nov 2021 18:15:34 GMT",
+  "Build Date": "Thu 10 Aug 2023 20:06:14 BST",
   "Conflicts With": "None",
   "Depends On": [
     "curl",
@@ -8,13 +8,12 @@
     "bc"
   ],
   "Description": "A Shell script for displaying the current weather conditions in your terminal, with support for ANSI colors and Unicode symbols.",
-  "Download Size": "22.61 KiB",
+  "Download Size": "20.74 KiB",
   "Groups": "None",
-  "Installed Size": "13.36 KiB",
+  "Installed Size": "13.38 KiB",
   "Licenses": "BSD",
   "Name": "ansiweather",
   "Optional Deps": {
-    "inetutils": "support for downloading with ftp",
     "wget": "support for downloading with wget"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
@@ -27,5 +26,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "1.18.0-1"
+  "Version": "1.19.0-2"
 }
