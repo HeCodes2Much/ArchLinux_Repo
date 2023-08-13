@@ -1,9 +1,8 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Thu 10 Aug 2023 20:06:42 BST",
+  "Build Date": "Sun 13 Aug 2023 11:53:49 BST",
   "Conflicts With": "None",
   "Depends On": [
-    "java-runtime>=8",
     "fuse",
     "glib2",
     "libxslt",
@@ -31,5 +30,5 @@
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "2.0.1.16621-1"
+  "Version": "2.0.2.16660-1"
 }
