@@ -1,0 +1,32 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Wed 16 Aug 2023 03:01:21 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "gcc-libs",
+    "glibc",
+    "libgl",
+    "libvdpau",
+    "libx11",
+    "libva.so=2-64",
+    "libva-x11.so=2-64"
+  ],
+  "Description": "VDPAU driver with OpenGL/VAAPI backend",
+  "Download Size": "114.82 KiB",
+  "Groups": "None",
+  "Installed Size": "326.04 KiB",
+  "Licenses": "LGPL3",
+  "Name": "libvdpau-va-gl",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/i-rinat/libvdpau-va-gl",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "0.4.2-3"
+}
