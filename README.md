@@ -2,7 +2,7 @@
 
 <p align='center'>
   <img src='https://img.shields.io/badge/Maintained-Yes-green?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-  <img src='https://img.shields.io/github/actions/workflow/status/the-repo-club/arch.linuxrepos.org/build_repository.yaml?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+  <img src='https://img.shields.io/github/actions/workflow/status/the-repo-club/arch.linuxrepos.org/pages/pages-build-deployment?colorA=434c5e&colorB=ff59f9&style=flat-square'>
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=Packages&message=73&colorA=434c5e&colorB=ff59f9&style=flat-square'>
@@ -118,4 +118,4 @@ Server = https://github.com/The-Repo-Club/arch.linuxrepos.org/releases/download/
 Give a ⭐️ if this project helped you!
 
 This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
-*   Last updated on: Sat 19th, Aug 2023 at 11:15:15AM
+*   Last updated on: Sat 19th, Aug 2023 at 11:23:57AM

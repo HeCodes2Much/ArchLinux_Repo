@@ -11,14 +11,14 @@ from datetime import datetime as dt
 
 
 def suffix(d):
-    return 'th' if 11 <= d <= 13 else {1: 'st', 2: 'nd', 3: 'rd'}.get(d % 10, 'th')
+    return "th" if 11 <= d <= 13 else {1: "st", 2: "nd", 3: "rd"}.get(d % 10, "th")
 
 
 def custom_strftime(format, t):
-    return t.strftime(format).replace('{d}', str(t.day) + suffix(t.day))
+    return t.strftime(format).replace("{d}", str(t.day) + suffix(t.day))
 
 
-datetime = custom_strftime('%a {d}, %b %Y at %I:%M:%S%p', dt.now())
+datetime = custom_strftime("%a {d}, %b %Y at %I:%M:%S%p", dt.now())
 
 
 def filebrowser(ext=""):
@@ -36,13 +36,15 @@ for file in files:
 print(f"There are {pkgcount} packages to be uploaded!\n")
 
 home = os.path.expanduser("~")
-readme = open('../README.md', 'w')
-installme = open(home + '/.config/package-list', 'w')
+readme = open("../README.md", "w")
+installme = open(home + "/.config/package-list", "w")
 data = []
-readme.write(f"# <img src='favicon.svg' width='64' height='64'> Arch Linux Repo <img src='favicon.svg' width='64' height='64'>\n")
+readme.write(
+    f"# <img src='favicon.svg' width='64' height='64'> Arch Linux Repo <img src='favicon.svg' width='64' height='64'>\n"
+)
 badges = f"\n<p align='center'>\n\
   <img src='https://img.shields.io/badge/Maintained-Yes-green?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/actions/workflow/status/the-repo-club/arch.linuxrepos.org/build_repository.yaml?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/actions/workflow/status/the-repo-club/arch.linuxrepos.org/pages/pages-build-deployment?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
   <img src='https://img.shields.io/github/last-commit/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
   <img src='https://img.shields.io/github/repo-size/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
   <img src='https://img.shields.io/static/v1?label=Packages&message={pkgcount}&colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
@@ -63,14 +65,18 @@ def get_file_name(file):
     awk = "awk '{$1=$2=\"\"; print $0}'"
 
     try:
-        with open(file, 'rb') as fh:
+        with open(file, "rb") as fh:
             dctx = zstandard.ZstdDecompressor(max_window_size=2147483648)
             stream_reader = dctx.stream_reader(fh)
-            text_stream = io.TextIOWrapper(stream_reader, encoding='utf-8')
+            text_stream = io.TextIOWrapper(stream_reader, encoding="utf-8")
             for line in text_stream:
-                if line.startswith('pkgname'):
-                    command = f"echo '{line}' | {head} | grep -I pkgname | {awk} | sed -n 1p"
-                    process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=None, shell=True)
+                if line.startswith("pkgname"):
+                    command = (
+                        f"echo '{line}' | {head} | grep -I pkgname | {awk} | sed -n 1p"
+                    )
+                    process = subprocess.Popen(
+                        command, stdout=subprocess.PIPE, stderr=None, shell=True
+                    )
                     output = process.communicate()
                     name = str(output[0].decode()).strip()
     except UnicodeDecodeError:
@@ -89,14 +95,18 @@ def get_file_version(file):
     head = "head -n5"
     awk = "awk '{$1=$2=\"\"; print $0}'"
     try:
-        with open(file, 'rb') as fh:
+        with open(file, "rb") as fh:
             dctx = zstandard.ZstdDecompressor(max_window_size=2147483648)
             stream_reader = dctx.stream_reader(fh)
-            text_stream = io.TextIOWrapper(stream_reader, encoding='utf-8')
+            text_stream = io.TextIOWrapper(stream_reader, encoding="utf-8")
             for line in text_stream:
-                if line.startswith('pkgver'):
-                    command = f"echo '{line}' | {head} | grep -I pkgver | {awk} | sed -n 1p"
-                    process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=None, shell=True)
+                if line.startswith("pkgver"):
+                    command = (
+                        f"echo '{line}' | {head} | grep -I pkgver | {awk} | sed -n 1p"
+                    )
+                    process = subprocess.Popen(
+                        command, stdout=subprocess.PIPE, stderr=None, shell=True
+                    )
                     output = process.communicate()
                     version = str(output[0].decode()).strip()
     except UnicodeDecodeError:
@@ -112,7 +122,7 @@ def get_file_version(file):
 
 def get_file_date(file):
     file_date = os.path.getmtime(file)
-    return str(time.strftime('%H:%M:%S %d-%m-%Y', time.localtime(file_date)))
+    return str(time.strftime("%H:%M:%S %d-%m-%Y", time.localtime(file_date)))
 
 
 def convert_size(size_bytes):
@@ -163,16 +173,18 @@ multiline_addrepo = (
 
 readme.write(multiline_addrepo)
 
-multiline_showsupport = (f"\n## Show your support\n"
-                         f"\nGive a ⭐️ if this project helped you!\n"
-                         f"\nThis README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)\n"
-                         f"*   Last updated on: {datetime}\n")
+multiline_showsupport = (
+    f"\n## Show your support\n"
+    f"\nGive a ⭐️ if this project helped you!\n"
+    f"\nThis README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)\n"
+    f"*   Last updated on: {datetime}\n"
+)
 
 readme.write(multiline_showsupport)
 
 readme.close()
-shutil.copyfile('../README.md', '../repo.md')
+shutil.copyfile("../README.md", "../repo.md")
 
 json_string = json.dumps(data, indent=4)
-with open('../packages.json', 'w') as outfile:
+with open("../packages.json", "w") as outfile:
     outfile.write(json_string)
