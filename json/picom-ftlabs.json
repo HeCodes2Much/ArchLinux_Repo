@@ -1,34 +1,34 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Mon 21 Aug 2023 21:05:11 BST",
+  "Build Date": "Mon 21 Aug 2023 22:20:47 BST",
   "Conflicts With": [
     "compton",
     "compton-git",
-    "picom",
-    "picom-git"
+    "picom"
   ],
   "Depends On": [
-    "libconfig",
+    "libgl",
     "libev",
-    "libxdg-basedir",
     "pcre",
-    "pixman",
-    "xcb-util-image",
-    "xcb-util-renderutil",
-    "libglvnd",
     "libx11",
+    "xcb-util-renderutil",
     "libxcb",
-    "libdbus"
+    "xcb-util-image",
+    "libxext",
+    "pixman",
+    "libconfig",
+    "libdbus",
+    "hicolor-icon-theme"
   ],
-  "Description": "Smooth animations picom fork, published by allusive, coded by pijulius",
-  "Download Size": "199.78 KiB",
+  "Description": "picom fork by FT-Labs including animations (git-version)",
+  "Download Size": "239.70 KiB",
   "Groups": "None",
-  "Installed Size": "409.32 KiB",
+  "Installed Size": "488.37 KiB",
   "Licenses": [
     "MIT",
     "MPL2"
   ],
-  "Name": "picom-allusive",
+  "Name": "picom-ftlabs",
   "Optional Deps": {
     "dbus": "To control picom via D-Bus",
     "python": "For picom-convgen.py",
@@ -39,16 +39,15 @@
   "Provides": [
     "compton",
     "compton-git",
-    "picom",
-    "picom-git"
+    "picom"
   ],
-  "Replaces": "None",
+  "Replaces": "compton-git",
   "Repository": "linuxrepos",
-  "URL": "https://github.com/allusive-dev/picom-allusive",
+  "URL": "https://github.com/FT-Labs/picom",
   "Validated By": [
     "MD5 Sum",
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "0.1-5"
+  "Version": "2023.08.16-1"
 }
