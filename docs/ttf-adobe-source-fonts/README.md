@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/ttf-adobe-source-fonts*
 <b>Download Size</b>   : 8.13 MiB
 <b>Installed Size</b>  : 24.16 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 13 Aug 2023 11:52:25 BST
+<b>Build Date</b>      : Sun 13 Aug 2023 10:52:25 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

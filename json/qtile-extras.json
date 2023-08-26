@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Mon 07 Aug 2023 15:28:41 BST",
+  "Build Date": "Mon 07 Aug 2023 14:28:41 UTC",
   "Conflicts With": "qtile-extras",
   "Depends On": [
     "python",

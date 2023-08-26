@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Thu 08 Sep 2022 12:14:39 BST",
+  "Build Date": "Thu 08 Sep 2022 11:14:39 UTC",
   "Conflicts With": "libxft",
   "Depends On": [
     "fontconfig",

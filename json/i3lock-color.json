@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Sat 29 Jul 2023 15:40:00 BST",
+  "Build Date": "Sat 29 Jul 2023 14:40:00 UTC",
   "Conflicts With": [
     "i3lock",
     "i3lock-color-git"

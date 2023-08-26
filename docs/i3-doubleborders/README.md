@@ -26,7 +26,7 @@ pacman -Si *linuxrepos/i3-doubleborders*
 <b>Download Size</b>   : 1165.46 KiB
 <b>Installed Size</b>  : 2375.29 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 24 Apr 2023 18:37:54 BST
+<b>Build Date</b>      : Mon 24 Apr 2023 17:37:54 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Mon 21 Aug 2023 10:38:57 BST",
+  "Build Date": "Mon 21 Aug 2023 09:38:57 UTC",
   "Conflicts With": "None",
   "Depends On": [
     "libx11",

@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Tue 06 Dec 2022 17:04:23 GMT",
+  "Build Date": "Tue 06 Dec 2022 17:04:23 UTC",
   "Conflicts With": [
     "wihotspot",
     "create_ap"

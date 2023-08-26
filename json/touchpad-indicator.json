@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Tue 09 Feb 2021 14:14:26 GMT",
+  "Build Date": "Tue 09 Feb 2021 14:14:26 UTC",
   "Conflicts With": "touchpad-indicator",
   "Depends On": [
     "gdk-pixbuf2",

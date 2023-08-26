@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Sun 06 Feb 2022 14:25:34 GMT",
+  "Build Date": "Sun 06 Feb 2022 14:25:34 UTC",
   "Conflicts With": "None",
   "Depends On": "gdk-pixbuf2",
   "Description": "SVG rendering library and CLI",

@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/yay*
 <b>Download Size</b>   : 3.57 MiB
 <b>Installed Size</b>  : 9.08 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 02 Aug 2023 08:53:41 BST
+<b>Build Date</b>      : Wed 02 Aug 2023 07:53:41 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

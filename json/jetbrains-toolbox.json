@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Sun 13 Aug 2023 11:53:49 BST",
+  "Build Date": "Sun 13 Aug 2023 10:53:49 UTC",
   "Conflicts With": "None",
   "Depends On": [
     "fuse",

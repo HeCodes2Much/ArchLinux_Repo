@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Mon 26 Jun 2023 19:58:31 BST",
+  "Build Date": "Mon 26 Jun 2023 18:58:31 UTC",
   "Conflicts With": "None",
   "Depends On": [
     "qt5-base",

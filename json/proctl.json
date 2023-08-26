@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Mon 21 Feb 2022 16:15:43 GMT",
+  "Build Date": "Mon 21 Feb 2022 16:15:43 UTC",
   "Conflicts With": "None",
   "Depends On": [
     "bash",

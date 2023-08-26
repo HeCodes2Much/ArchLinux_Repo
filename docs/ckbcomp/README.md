@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/ckbcomp*
 <b>Download Size</b>   : 48.53 KiB
 <b>Installed Size</b>  : 146.32 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 23 Jun 2022 15:32:50 BST
+<b>Build Date</b>      : Thu 23 Jun 2022 14:32:50 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

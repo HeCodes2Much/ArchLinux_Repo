@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Thu 23 Jun 2022 15:32:50 BST",
+  "Build Date": "Thu 23 Jun 2022 14:32:50 UTC",
   "Conflicts With": "None",
   "Depends On": "perl",
   "Description": "Compile a XKB keyboard description to a keymap suitable for loadkeys or kbdcontrol",

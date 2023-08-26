@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/jetbrains-toolbox*
 <b>Download Size</b>   : 66.47 MiB
 <b>Installed Size</b>  : 66.60 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 13 Aug 2023 11:53:49 BST
+<b>Build Date</b>      : Sun 13 Aug 2023 10:53:49 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

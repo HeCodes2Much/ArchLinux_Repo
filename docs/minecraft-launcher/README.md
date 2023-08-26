@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/minecraft-launcher*
 <b>Download Size</b>   : 623.05 KiB
 <b>Installed Size</b>  : 1646.02 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 24 Jul 2022 18:42:34 BST
+<b>Build Date</b>      : Sun 24 Jul 2022 17:42:34 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

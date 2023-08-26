@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/siji*
 <b>Download Size</b>   : 52.13 KiB
 <b>Installed Size</b>  : 166.97 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 03 Jul 2021 18:45:45 BST
+<b>Build Date</b>      : Sat 03 Jul 2021 17:45:45 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

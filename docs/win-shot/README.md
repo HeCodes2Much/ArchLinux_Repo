@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/win-shot*
 <b>Download Size</b>   : 10.46 KiB
 <b>Installed Size</b>  : 2.42 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 31 Jul 2022 18:30:42 BST
+<b>Build Date</b>      : Sun 31 Jul 2022 17:30:42 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

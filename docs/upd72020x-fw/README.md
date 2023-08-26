@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/upd72020x-fw*
 <b>Download Size</b>   : 32.13 KiB
 <b>Installed Size</b>  : 44.87 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 19 Feb 2023 14:04:03 GMT
+<b>Build Date</b>      : Sun 19 Feb 2023 14:04:03 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -23,7 +23,7 @@ pacman -Si *linuxrepos/nemo-compare*
 <b>Download Size</b>   : 20.00 KiB
 <b>Installed Size</b>  : 18.08 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 26 Jun 2023 19:55:16 BST
+<b>Build Date</b>      : Mon 26 Jun 2023 18:55:16 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

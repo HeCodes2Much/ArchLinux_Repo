@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Mon 18 Jul 2022 19:12:37 BST",
+  "Build Date": "Mon 18 Jul 2022 18:12:37 UTC",
   "Conflicts With": "None",
   "Depends On": "php",
   "Description": "PHP Extension and Application Repository",
