@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Mon 07 Aug 2023 21:14:40 UTC",
+  "Build Date": "Mon 07 Aug 2023 22:14:40 BST",
   "Conflicts With": "None",
   "Depends On": [
     "perl-www-aur",

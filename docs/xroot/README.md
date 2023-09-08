@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/xroot*
 <b>Download Size</b>   : 18.40 KiB
 <b>Installed Size</b>  : 14.80 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 07 Aug 2023 21:07:54 UTC
+<b>Build Date</b>      : Mon 07 Aug 2023 22:07:54 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

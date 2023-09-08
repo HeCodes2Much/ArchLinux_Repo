@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/linuxrepos-mirrorlist*
 <b>Download Size</b>   : 10.46 KiB
 <b>Installed Size</b>  : 0.04 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 09 Sep 2022 12:44:26 UTC
+<b>Build Date</b>      : Fri 09 Sep 2022 13:44:26 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

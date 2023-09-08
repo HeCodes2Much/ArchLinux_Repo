@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/perl-www-aur*
 <b>Download Size</b>   : 58.58 KiB
 <b>Installed Size</b>  : 75.01 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 07 Aug 2023 21:14:11 UTC
+<b>Build Date</b>      : Mon 07 Aug 2023 22:14:11 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

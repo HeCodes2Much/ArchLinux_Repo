@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Tue 09 Feb 2021 14:16:19 UTC",
+  "Build Date": "Tue 09 Feb 2021 14:16:19 GMT",
   "Conflicts With": "None",
   "Depends On": "checkupdates-aur",
   "Description": "combines checkupdates and checkupdates-aur with separator as argument",

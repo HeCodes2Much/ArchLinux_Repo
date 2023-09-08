@@ -1,0 +1,24 @@
+{
+  "Architecture": "any",
+  "Build Date": "Wed 30 Aug 2023 20:17:56 BST",
+  "Conflicts With": "python-xcffib",
+  "Depends On": "python-cffi",
+  "Description": "CFFI-based drop-in replacement for xcb",
+  "Download Size": "323.68 KiB",
+  "Groups": "None",
+  "Installed Size": "3576.26 KiB",
+  "Licenses": "APACHE2",
+  "Name": "python-xcffib",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "python-xcffib",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/tych0/xcffif/",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "1.4.0-1"
+}

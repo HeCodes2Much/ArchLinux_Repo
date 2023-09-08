@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Tue 24 Aug 2021 18:07:44 UTC",
+  "Build Date": "Tue 24 Aug 2021 19:07:44 BST",
   "Conflicts With": "None",
   "Depends On": [
     "qt5-base",

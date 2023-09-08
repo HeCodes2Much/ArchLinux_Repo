@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/linuxrepos-keyring*
 <b>Download Size</b>   : 10.58 KiB
 <b>Installed Size</b>  : 0.00 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 09 Sep 2022 12:43:33 UTC
+<b>Build Date</b>      : Fri 09 Sep 2022 13:43:33 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

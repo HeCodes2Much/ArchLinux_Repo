@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/ast-firmware*
 <b>Download Size</b>   : 21.39 KiB
 <b>Installed Size</b>  : 25.73 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 24 Dec 2022 12:21:23 UTC
+<b>Build Date</b>      : Sat 24 Dec 2022 12:21:23 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

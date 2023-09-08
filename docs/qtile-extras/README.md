@@ -21,7 +21,7 @@ pacman -Si *linuxrepos/qtile-extras*
 <b>Download Size</b>   : 529.63 KiB
 <b>Installed Size</b>  : 1453.42 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 07 Aug 2023 14:28:41 UTC
+<b>Build Date</b>      : Mon 07 Aug 2023 15:28:41 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

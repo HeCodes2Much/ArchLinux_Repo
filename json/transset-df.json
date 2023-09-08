@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Tue 26 Apr 2022 13:11:35 UTC",
+  "Build Date": "Tue 26 Apr 2022 14:11:35 BST",
   "Conflicts With": "None",
   "Depends On": [
     "libxcomposite",

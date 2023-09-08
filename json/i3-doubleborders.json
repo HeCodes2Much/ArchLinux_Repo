@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Mon 24 Apr 2023 17:37:54 UTC",
+  "Build Date": "Mon 24 Apr 2023 18:37:54 BST",
   "Conflicts With": "i3-wm",
   "Depends On": [
     "libev",

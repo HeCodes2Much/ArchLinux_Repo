@@ -22,7 +22,7 @@ pacman -Si *linuxrepos/repowm*
 <b>Download Size</b>   : 64.34 KiB
 <b>Installed Size</b>  : 103.44 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 06 Aug 2023 11:53:42 UTC
+<b>Build Date</b>      : Sun 06 Aug 2023 12:53:42 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

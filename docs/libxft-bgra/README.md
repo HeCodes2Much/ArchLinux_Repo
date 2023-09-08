@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/libxft-bgra*
 <b>Download Size</b>   : 78.67 KiB
 <b>Installed Size</b>  : 130.80 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 08 Sep 2022 11:14:39 UTC
+<b>Build Date</b>      : Thu 08 Sep 2022 12:14:39 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

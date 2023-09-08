@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/ideapad-cm*
 <b>Download Size</b>   : 14.79 KiB
 <b>Installed Size</b>  : 2.19 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 30 Jun 2023 20:33:44 UTC
+<b>Build Date</b>      : Fri 30 Jun 2023 21:33:44 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

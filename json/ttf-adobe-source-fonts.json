@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 13 Aug 2023 10:52:25 UTC",
+  "Build Date": "Sun 13 Aug 2023 11:52:25 BST",
   "Conflicts With": "ttf-sourcesanspro",
   "Depends On": "None",
   "Description": "TTF versions of Adobe's Source fonts (includes Source Sans, Source Serif, and Source Code Pro).",

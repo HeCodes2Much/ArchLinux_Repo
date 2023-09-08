@@ -4,8 +4,8 @@ pacman -Si *linuxrepos/upd72020x-fw*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/upd72020x-fw-1:1.0.0-1-any.pkg.tar.zst">upd72020x-fw</a>
-<b>Version</b>         : 1:1.0.0-1
+<b>Name</b>            : <a href="../../x86_64/upd72020x-fw-1:1.0.0-2-any.pkg.tar.zst">upd72020x-fw</a>
+<b>Version</b>         : 1:1.0.0-2
 <b>Description</b>     : Renesas uPD720201 / uPD720202 USB 3.0 chipsets firmware
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/denisandroid/uPD72020x-Firmware
@@ -16,10 +16,10 @@ pacman -Si *linuxrepos/upd72020x-fw*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 32.13 KiB
+<b>Download Size</b>   : 31.61 KiB
 <b>Installed Size</b>  : 44.87 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 19 Feb 2023 14:04:03 UTC
+<b>Build Date</b>      : Fri 08 Sep 2023 20:39:10 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

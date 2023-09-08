@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Sun 23 May 2021 14:16:04 UTC",
+  "Build Date": "Sun 23 May 2021 15:16:04 BST",
   "Conflicts With": "None",
   "Depends On": "None",
   "Description": "A library for high-performance 2D graphics",

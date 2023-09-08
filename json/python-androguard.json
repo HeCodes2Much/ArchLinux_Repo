@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Mon 26 Jun 2023 17:44:51 UTC",
+  "Build Date": "Mon 26 Jun 2023 18:44:51 BST",
   "Conflicts With": "None",
   "Depends On": [
     "python",

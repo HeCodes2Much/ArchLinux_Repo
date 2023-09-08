@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/husky-hooks*
 <b>Download Size</b>   : 13.84 KiB
 <b>Installed Size</b>  : 4.04 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 03 Oct 2022 04:59:42 UTC
+<b>Build Date</b>      : Mon 03 Oct 2022 05:59:42 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sat 19 Aug 2023 10:12:14 UTC",
+  "Build Date": "Sat 19 Aug 2023 11:12:14 BST",
   "Conflicts With": "pikaur-git",
   "Depends On": [
     "pyalpm",

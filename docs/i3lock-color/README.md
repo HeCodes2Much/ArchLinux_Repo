@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/i3lock-color*
 <b>Download Size</b>   : 77.44 KiB
 <b>Installed Size</b>  : 146.05 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 29 Jul 2023 14:40:00 UTC
+<b>Build Date</b>      : Sat 29 Jul 2023 15:40:00 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
