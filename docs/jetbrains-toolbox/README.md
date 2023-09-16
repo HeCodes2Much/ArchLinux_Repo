@@ -4,8 +4,8 @@ pacman -Si *linuxrepos/jetbrains-toolbox*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/jetbrains-toolbox-2.0.3.17006-1-x86_64.pkg.tar.zst">jetbrains-toolbox</a>
-<b>Version</b>         : 2.0.3.17006-1
+<b>Name</b>            : <a href="../../x86_64/jetbrains-toolbox-2.0.4.17212-1-x86_64.pkg.tar.zst">jetbrains-toolbox</a>
+<b>Version</b>         : 2.0.4.17212-1
 <b>Description</b>     : Manage all your JetBrains Projects and Tools
 <b>Architecture</b>    : x86_64
 <b>URL</b>             : https://www.jetbrains.com/toolbox/
@@ -16,10 +16,10 @@ pacman -Si *linuxrepos/jetbrains-toolbox*
 <b>Optional Deps</b>   : xdg-utils: open <b>URL</b>s
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 66.51 MiB
-<b>Installed Size</b>  : 66.62 MiB
+<b>Download Size</b>   : 66.50 MiB
+<b>Installed Size</b>  : 66.64 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 08 Sep 2023 20:41:19 BST
+<b>Build Date</b>      : Mon 18 Sep 2023 17:55:12 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

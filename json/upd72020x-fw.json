@@ -1,10 +1,10 @@
 {
   "Architecture": "any",
-  "Build Date": "Fri 08 Sep 2023 20:39:10 BST",
+  "Build Date": "Sat 16 Sep 2023 01:18:29 BST",
   "Conflicts With": "None",
   "Depends On": "None",
   "Description": "Renesas uPD720201 / uPD720202 USB 3.0 chipsets firmware",
-  "Download Size": "31.61 KiB",
+  "Download Size": "31.57 KiB",
   "Groups": "None",
   "Installed Size": "44.87 KiB",
   "Licenses": "custom",

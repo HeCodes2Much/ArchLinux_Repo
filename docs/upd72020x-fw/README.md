@@ -16,10 +16,10 @@ pacman -Si *linuxrepos/upd72020x-fw*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 31.61 KiB
+<b>Download Size</b>   : 31.57 KiB
 <b>Installed Size</b>  : 44.87 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 08 Sep 2023 20:39:10 BST
+<b>Build Date</b>      : Sat 16 Sep 2023 01:18:29 BST
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
