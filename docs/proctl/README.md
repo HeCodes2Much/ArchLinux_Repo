@@ -8,7 +8,7 @@ pacman -Si *linuxrepos/proctl*
 <b>Version</b>         : 2022.02.21-1
 <b>Description</b>     : Github Project Manager
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/The-Repo-Club/proctl
+<b>URL</b>             : https://github.com/HeCodes2Much/proctl
 <b>Licenses</b>        : MIT
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : None

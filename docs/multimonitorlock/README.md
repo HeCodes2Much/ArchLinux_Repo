@@ -8,7 +8,7 @@ pacman -Si *linuxrepos/multimonitorlock*
 <b>Version</b>         : 2021.08.20-1
 <b>Description</b>     : A simple lock script for i3lock-color
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/The-Repo-Club/multimonitorlock
+<b>URL</b>             : https://github.com/HeCodes2Much/multimonitorlock
 <b>Licenses</b>        : GPL3
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : None

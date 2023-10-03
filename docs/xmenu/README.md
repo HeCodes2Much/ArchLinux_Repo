@@ -8,7 +8,7 @@ pacman -Si *linuxrepos/xmenu*
 <b>Version</b>         : 2021.12.01-1
 <b>Description</b>     : A menu utility for X.
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/The-Repo-Club/xmenu
+<b>URL</b>             : https://github.com/HeCodes2Much/xmenu
 <b>Licenses</b>        : MIT
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : xmenu

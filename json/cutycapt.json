@@ -1,28 +1,20 @@
 {
-  "Architecture": "any",
-  "Build Date": "Tue 24 Aug 2021 19:07:44 BST",
-  "Conflicts With": "None",
-  "Depends On": [
-    "qt5-base",
-    "qt5-svg",
-    "qt5-webkit"
-  ],
-  "Description": "A Qt and WebKit based command-line utility that captures WebKit's rendering of a web page.",
-  "Download Size": "40.42 KiB",
-  "Groups": "therepoclub",
-  "Installed Size": "70.46 KiB",
-  "Licenses": "GPL3",
-  "Name": "cutycapt",
-  "Optional Deps": "None",
-  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
-  "Provides": "cutycapt",
-  "Replaces": "None",
-  "Repository": "linuxrepos",
-  "URL": "https://github.com/The-Repo-Club/cutycapt",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
-  "Version": "2021.04.04-1"
+	"Architecture": "any",
+	"Build Date": "Tue 24 Aug 2021 19:07:44 BST",
+	"Conflicts With": "None",
+	"Depends On": ["qt5-base", "qt5-svg", "qt5-webkit"],
+	"Description": "A Qt and WebKit based command-line utility that captures WebKit's rendering of a web page.",
+	"Download Size": "40.42 KiB",
+	"Groups": "therepoclub",
+	"Installed Size": "70.46 KiB",
+	"Licenses": "GPL3",
+	"Name": "cutycapt",
+	"Optional Deps": "None",
+	"Packager": "Wayne Wesley <wayne6324@gmail.com>",
+	"Provides": "cutycapt",
+	"Replaces": "None",
+	"Repository": "linuxrepos",
+	"URL": "https://github.com/HeCodes2Much/cutycapt",
+	"Validated By": ["MD5 Sum", "SHA-256 Sum", "Signature"],
+	"Version": "2021.04.04-1"
 }

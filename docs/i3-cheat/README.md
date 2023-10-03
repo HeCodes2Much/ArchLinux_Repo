@@ -8,7 +8,7 @@ pacman -Si *linuxrepos/i3-cheat*
 <b>Version</b>         : 2023.04.24-1
 <b>Description</b>     : cheat sheet for i3wm
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/The-Repo-Club/wm-cheat
+<b>URL</b>             : https://github.com/HeCodes2Much/wm-cheat
 <b>Licenses</b>        : GPL3
 <b>Groups</b>          : linuxrepos
 <b>Provides</b>        : None

@@ -1,34 +1,25 @@
 {
-  "Architecture": "x86_64",
-  "Build Date": "Sun 06 Aug 2023 12:53:42 BST",
-  "Conflicts With": "None",
-  "Depends On": [
-    "libx11",
-    "libxinerama",
-    "libxft",
-    "freetype2"
-  ],
-  "Description": "A dynamic window manager for X",
-  "Download Size": "64.34 KiB",
-  "Groups": "linuxrepos",
-  "Installed Size": "103.44 KiB",
-  "Licenses": "MIT",
-  "Name": "repowm",
-  "Optional Deps": {
-    "repo-exec": "exec for repowm",
-    "rofi": "for the menu scripts",
-    "siji": "font used by default",
-    "ttf-hack-nerd": "font used by default"
-  },
-  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
-  "Provides": "None",
-  "Replaces": "None",
-  "Repository": "linuxrepos",
-  "URL": "https://github.com/The-Repo-Club/repowm",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
-  "Version": "2023.08.06-1"
+	"Architecture": "x86_64",
+	"Build Date": "Sun 06 Aug 2023 12:53:42 BST",
+	"Conflicts With": "None",
+	"Depends On": ["libx11", "libxinerama", "libxft", "freetype2"],
+	"Description": "A dynamic window manager for X",
+	"Download Size": "64.34 KiB",
+	"Groups": "linuxrepos",
+	"Installed Size": "103.44 KiB",
+	"Licenses": "MIT",
+	"Name": "repowm",
+	"Optional Deps": {
+		"repo-exec": "exec for repowm",
+		"rofi": "for the menu scripts",
+		"siji": "font used by default",
+		"ttf-hack-nerd": "font used by default"
+	},
+	"Packager": "Wayne Wesley <wayne6324@gmail.com>",
+	"Provides": "None",
+	"Replaces": "None",
+	"Repository": "linuxrepos",
+	"URL": "https://github.com/HeCodes2Much/repowm",
+	"Validated By": ["MD5 Sum", "SHA-256 Sum", "Signature"],
+	"Version": "2023.08.06-1"
 }

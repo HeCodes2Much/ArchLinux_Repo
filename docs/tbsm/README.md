@@ -8,7 +8,7 @@ pacman -Si *linuxrepos/tbsm*
 <b>Version</b>         : 2022.01.23-1
 <b>Description</b>     : Terminal Based Session Manager
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/The-Repo-Club/tbsm
+<b>URL</b>             : https://github.com/HeCodes2Much/tbsm
 <b>Licenses</b>        : GPL3
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : None

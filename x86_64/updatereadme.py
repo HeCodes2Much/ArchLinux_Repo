@@ -44,15 +44,15 @@ readme.write(
 )
 badges = f"\n<p align='center'>\n\
   <img src='https://img.shields.io/badge/Maintained-Yes-green?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/actions/workflow/status/the-repo-club/arch.linuxrepos.org/pages/pages-build-deployment?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/last-commit/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/repo-size/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/actions/workflow/status/HeCodes2Much/arch.linuxrepos.org/pages/pages-build-deployment?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/last-commit/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/repo-size/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
   <img src='https://img.shields.io/static/v1?label=Packages&message={pkgcount}&colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/license/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/issues/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/stars/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/forks/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
-  <img src='https://img.shields.io/github/commit-activity/m/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/license/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/issues/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/stars/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/forks/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
+  <img src='https://img.shields.io/github/commit-activity/m/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>\n\
 </p>\n"
 
 readme.write(badges)
@@ -160,7 +160,7 @@ for file in files:
 
 multiline_addrepo = (
     f"\n## Add my repo\n"
-    f"* **Maintainer:** [The-Repo-Club](https://aur.archlinux.org/account/The-Repo-Club/)\n"
+    f"* **Maintainer:** [HeCodes2Much](https://aur.archlinux.org/account/HeCodes2Much/)\n"
     f"* **Description:**  A repository with some AUR packages that the team uses\n"
     f"* **Upstream page:** https://arch.linuxrepos.org/\n"
     f"* **Key-ID:** 75A3 8DC6 84F1 A0B8 0891  8BCE E30E C2FB FB05 C44F \n"
@@ -168,7 +168,7 @@ multiline_addrepo = (
     f"\nAppend to */etc/pacman.conf*:\n```\n[linuxrepos]\nSigLevel = Required DatabaseOptional\nServer = https://arch.linuxrepos.org/$arch/\n```"
     f"\nTo check signature, add my key:\n"
     f"```\nsudo pacman-key --keyserver hkp://pgp.net.nz --recv-key 75A38DC684F1A0B808918BCEE30EC2FBFB05C44F\nsudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BCEE30EC2FBFB05C44F\n```"
-    # f"\nYou may also want to \nAppend to */etc/pacman.conf*:\n```\n[linuxrepos-git]\nSigLevel = Optional TrustAll\nServer = https://github.com/The-Repo-Club/arch.linuxrepos.org/releases/download/$repo/\n```"
+    # f"\nYou may also want to \nAppend to */etc/pacman.conf*:\n```\n[linuxrepos-git]\nSigLevel = Optional TrustAll\nServer = https://github.com/HeCodes2Much/arch.linuxrepos.org/releases/download/$repo/\n```"
 )
 
 readme.write(multiline_addrepo)
@@ -176,7 +176,7 @@ readme.write(multiline_addrepo)
 multiline_showsupport = (
     f"\n## Show your support\n"
     f"\nGive a ⭐️ if this project helped you!\n"
-    f"\nThis README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)\n"
+    f"\nThis README was generated with ❤️ by [HeCodes2Much](https://github.com/HeCodes2Much/)\n"
     f"*   Last updated on: {datetime}\n"
 )
 

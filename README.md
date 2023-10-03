@@ -2,15 +2,15 @@
 
 <p align='center'>
   <img src='https://img.shields.io/badge/Maintained-Yes-green?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-  <img src='https://img.shields.io/github/actions/workflow/status/the-repo-club/arch.linuxrepos.org/pages/pages-build-deployment?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-  <img src='https://img.shields.io/github/last-commit/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-  <img src='https://img.shields.io/github/repo-size/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+  <img src='https://img.shields.io/github/actions/workflow/status/HeCodes2Much/arch.linuxrepos.org/pages/pages-build-deployment?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+  <img src='https://img.shields.io/github/last-commit/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+  <img src='https://img.shields.io/github/repo-size/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=Packages&message=77&colorA=434c5e&colorB=ff59f9&style=flat-square'>
-  <img src='https://img.shields.io/github/license/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-  <img src='https://img.shields.io/github/issues/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-  <img src='https://img.shields.io/github/stars/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-  <img src='https://img.shields.io/github/forks/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-  <img src='https://img.shields.io/github/commit-activity/m/The-Repo-Club/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+  <img src='https://img.shields.io/github/license/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+  <img src='https://img.shields.io/github/issues/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+  <img src='https://img.shields.io/github/stars/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+  <img src='https://img.shields.io/github/forks/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+  <img src='https://img.shields.io/github/commit-activity/m/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
 </p>
 
 ## Software
@@ -93,7 +93,7 @@
 <p> <span class='red'>[</span> <span class='yellow'>arch</span><span class='green'>@</span><span class='purple'>linuxrepos.org</span> <span class='red'>~]</span> <br> <span class='green'>pacman</span> <span class='orange'>-Si</span> <span class='foreground'><a href='docs/youtube-dl'>youtube-dl</a></span> <span class='purple'>|</span> <span class='green'>grep</span> <span class='yellow'>'Name\|Version\|Installed\|Build'</span> <span class='purple'>|</span> <span class='green'>awk</span> <span class='orange'>-F</span><span class='yellow'>':' '{print $2}'<span> <span class='purple'>|</span> <span class='green'>sed</span> <span class='yellow'>':a;N;$!ba;s/\n/ |/g'</span><br> <span class='foreground'><a href='docs/youtube-dl'>youtube-dl 	|	 2021.12.17-2 	|	 3.99 MB 	|	 20:40:15 16-09-2023</a></span> </p>
 
 ## Add my repo
-* **Maintainer:** [The-Repo-Club](https://aur.archlinux.org/account/The-Repo-Club/)
+* **Maintainer:** [HeCodes2Much](https://aur.archlinux.org/account/HeCodes2Much/)
 * **Description:**  A repository with some AUR packages that the team uses
 * **Upstream page:** https://arch.linuxrepos.org/
 * **Key-ID:** 75A3 8DC6 84F1 A0B8 0891  8BCE E30E C2FB FB05 C44F 
@@ -114,5 +114,5 @@ sudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BC
 
 Give a ⭐️ if this project helped you!
 
-This README was generated with ❤️ by [The-Repo-Club](https://github.com/The-Repo-Club/)
+This README was generated with ❤️ by [HeCodes2Much](https://github.com/HeCodes2Much/)
 *   Last updated on: Fri 22nd, Sep 2023 at 11:04:29PM
