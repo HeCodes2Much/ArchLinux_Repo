@@ -1,20 +1,30 @@
 {
-	"Architecture": "any",
-	"Build Date": "Mon 24 Apr 2023 18:18:13 BST",
-	"Conflicts With": ["dk-cheat", "bspwm-cheat"],
-	"Depends On": ["gtk3", "i3-wm"],
-	"Description": "cheat sheet for i3wm",
-	"Download Size": "18.29 KiB",
-	"Groups": "linuxrepos",
-	"Installed Size": "12.93 KiB",
-	"Licenses": "GPL3",
-	"Name": "i3-cheat",
-	"Optional Deps": "None",
-	"Packager": "Wayne Wesley <wayne6324@gmail.com>",
-	"Provides": "None",
-	"Replaces": "None",
-	"Repository": "linuxrepos",
-	"URL": "https://github.com/HeCodes2Much/wm-cheat",
-	"Validated By": ["MD5 Sum", "SHA-256 Sum", "Signature"],
-	"Version": "2023.04.24-1"
+  "Architecture": "any",
+  "Build Date": "Mon 24 Apr 2023 18:18:13 BST",
+  "Conflicts With": [
+    "dk-cheat",
+    "bspwm-cheat"
+  ],
+  "Depends On": [
+    "gtk3",
+    "i3-wm"
+  ],
+  "Description": "cheat sheet for i3wm",
+  "Download Size": "18.29 KiB",
+  "Groups": "linuxrepos",
+  "Installed Size": "12.93 KiB",
+  "Licenses": "GPL3",
+  "Name": "i3-cheat",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/The-Repo-Club/wm-cheat",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2023.04.24-1"
 }

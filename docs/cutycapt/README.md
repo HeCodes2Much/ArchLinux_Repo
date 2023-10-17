@@ -8,7 +8,7 @@ pacman -Si *linuxrepos/cutycapt*
 <b>Version</b>         : 2021.04.04-1
 <b>Description</b>     : A Qt and WebKit based command-line utility that captures WebKit's rendering of a web page.
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/HeCodes2Much/cutycapt
+<b>URL</b>             : https://github.com/The-Repo-Club/cutycapt
 <b>Licenses</b>        : GPL3
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : cutycapt

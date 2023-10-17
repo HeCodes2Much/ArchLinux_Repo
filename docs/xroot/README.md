@@ -8,7 +8,7 @@ pacman -Si *linuxrepos/xroot*
 <b>Version</b>         : 2023.08.07-1
 <b>Description</b>     : click on root window and run a command .
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/HeCodes2Much/xroot
+<b>URL</b>             : https://github.com/The-Repo-Club/xroot
 <b>Licenses</b>        : MIT
 <b>Groups</b>          : linuxrepos
 <b>Provides</b>        : xroot

@@ -8,7 +8,7 @@ pacman -Si *linuxrepos/win-shot*
 <b>Version</b>         : 2022.07.31-1
 <b>Description</b>     : simple screenshot script using imagemagick
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/HeCodes2Much/win-shot
+<b>URL</b>             : https://github.com/The-Repo-Club/win-shot
 <b>Licenses</b>        : GPL3
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : None

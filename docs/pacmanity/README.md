@@ -8,7 +8,7 @@ pacman -Si *linuxrepos/pacmanity*
 <b>Version</b>         : 2021.11.14-1
 <b>Description</b>     : Keeps a list of installed packages in a Gist at your GitHub account
 <b>Architecture</b>    : x86_64
-<b>URL</b>             : https://github.com/HeCodes2Much/pacmanity
+<b>URL</b>             : https://github.com/The-Repo-Club/pacmanity
 <b>Licenses</b>        : GPL
 <b>Groups</b>          : None
 <b>Provides</b>        : None

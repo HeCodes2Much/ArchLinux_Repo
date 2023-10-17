@@ -8,7 +8,7 @@ pacman -Si *linuxrepos/i3-swallow*
 <b>Version</b>         : 2021.01.01-2
 <b>Description</b>     : Swallow a terminal window after a blocking application is run in i3
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/HeCodes2Much/i3-swallow
+<b>URL</b>             : https://github.com/The-Repo-Club/i3-swallow
 <b>Licenses</b>        : CC BY-NC-SA 4.0
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : None

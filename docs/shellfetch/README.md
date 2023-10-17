@@ -8,7 +8,7 @@ pacman -Si *linuxrepos/shellfetch*
 <b>Version</b>         : 2023.07.29-1
 <b>Description</b>     : Shell System Information Fetcher
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/HeCodes2Much/shellfetch
+<b>URL</b>             : https://github.com/The-Repo-Club/shellfetch
 <b>Licenses</b>        : MIT
 <b>Groups</b>          : linuxrepos
 <b>Provides</b>        : None

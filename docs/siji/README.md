@@ -8,7 +8,7 @@ pacman -Si *linuxrepos/siji*
 <b>Version</b>         : 2021.07.03-1
 <b>Description</b>     : Iconic bitmap font based on stlarch with additional glyphs
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/HeCodes2Much/siji
+<b>URL</b>             : https://github.com/The-Repo-Club/siji
 <b>Licenses</b>        : GPLv2
 <b>Groups</b>          : None
 <b>Provides</b>        : None

@@ -1,20 +1,30 @@
 {
-	"Architecture": "any",
-	"Build Date": "Tue 09 Feb 2021 14:03:11 GMT",
-	"Conflicts With": "None",
-	"Depends On": ["python2-xdg", "perl-anyevent-i3", "python-i3-py", "i3-wm", "xorg-xprop"],
-	"Description": "Remembers what's running in your i3 workspaces by saving a session file",
-	"Download Size": "15.82 KiB",
-	"Groups": "therepoclub",
-	"Installed Size": "2.51 KiB",
-	"Licenses": "CC BY-NC-SA 4.0",
-	"Name": "i3-session",
-	"Optional Deps": "None",
-	"Packager": "Wayne Wesley <wayne6324@gmail.com>",
-	"Provides": "None",
-	"Replaces": "None",
-	"Repository": "linuxrepos",
-	"URL": "https://github.com/HeCodes2Much/i3-session",
-	"Validated By": ["MD5 Sum", "SHA-256 Sum", "Signature"],
-	"Version": "2021.01.01-1"
+  "Architecture": "any",
+  "Build Date": "Tue 09 Feb 2021 14:03:11 GMT",
+  "Conflicts With": "None",
+  "Depends On": [
+    "python2-xdg",
+    "perl-anyevent-i3",
+    "python-i3-py",
+    "i3-wm",
+    "xorg-xprop"
+  ],
+  "Description": "Remembers what's running in your i3 workspaces by saving a session file",
+  "Download Size": "15.82 KiB",
+  "Groups": "therepoclub",
+  "Installed Size": "2.51 KiB",
+  "Licenses": "CC BY-NC-SA 4.0",
+  "Name": "i3-session",
+  "Optional Deps": "None",
+  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/The-Repo-Club/i3-session",
+  "Validated By": [
+    "MD5 Sum",
+    "SHA-256 Sum",
+    "Signature"
+  ],
+  "Version": "2021.01.01-1"
 }

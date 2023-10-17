@@ -8,7 +8,7 @@ pacman -Si *linuxrepos/dracula-qt5-theme*
 <b>Version</b>         : 2021.10.20-1
 <b>Description</b>     : This theme provides support for QT5.
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/HeCodes2Much/themix-Dracula
+<b>URL</b>             : https://github.com/The-Repo-Club/themix-Dracula
 <b>Licenses</b>        : GPL
 <b>Groups</b>          : None
 <b>Provides</b>        : None

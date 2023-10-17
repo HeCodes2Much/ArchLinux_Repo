@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Thu 03 Aug 2023 21:15:07 BST",
+  "Build Date": "Tue 17 Oct 2023 16:44:55 BST",
   "Conflicts With": "None",
   "Depends On": [
     "pacman>=4.1",
@@ -10,9 +10,9 @@
     "python-pyqt5"
   ],
   "Description": "A utility for browsing pacman databases and the AUR",
-  "Download Size": "264.12 KiB",
+  "Download Size": "247.62 KiB",
   "Groups": "None",
-  "Installed Size": "796.52 KiB",
+  "Installed Size": "753.95 KiB",
   "Licenses": "GPL2",
   "Name": "pkgbrowser",
   "Optional Deps": "None",
@@ -20,11 +20,11 @@
   "Provides": "None",
   "Replaces": "None",
   "Repository": "linuxrepos",
-  "URL": "https://osdn.net/projects/pkgbrowser",
+  "URL": "https://codeberg.org/kachelaqa/pkgbrowser",
   "Validated By": [
     "MD5 Sum",
     "SHA-256 Sum",
     "Signature"
   ],
-  "Version": "0.28-1"
+  "Version": "0.28-2"
 }

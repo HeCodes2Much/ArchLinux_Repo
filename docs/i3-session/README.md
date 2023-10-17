@@ -8,7 +8,7 @@ pacman -Si *linuxrepos/i3-session*
 <b>Version</b>         : 2021.01.01-1
 <b>Description</b>     : Remembers what's running in your i3 workspaces by saving a session file
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/HeCodes2Much/i3-session
+<b>URL</b>             : https://github.com/The-Repo-Club/i3-session
 <b>Licenses</b>        : CC BY-NC-SA 4.0
 <b>Groups</b>          : therepoclub
 <b>Provides</b>        : None

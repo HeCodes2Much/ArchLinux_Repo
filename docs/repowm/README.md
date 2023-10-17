@@ -8,7 +8,7 @@ pacman -Si *linuxrepos/repowm*
 <b>Version</b>         : 2023.08.06-1
 <b>Description</b>     : A dynamic window manager for X
 <b>Architecture</b>    : x86_64
-<b>URL</b>             : https://github.com/HeCodes2Much/repowm
+<b>URL</b>             : https://github.com/The-Repo-Club/repowm
 <b>Licenses</b>        : MIT
 <b>Groups</b>          : linuxrepos
 <b>Provides</b>        : None

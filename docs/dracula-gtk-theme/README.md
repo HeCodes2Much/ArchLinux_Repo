@@ -8,7 +8,7 @@ pacman -Si *linuxrepos/dracula-gtk-theme*
 <b>Version</b>         : 2021.10.20-1
 <b>Description</b>     : This theme provides support for GTK-3 and GTK-2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc. Also provides support for KDE plasma.
 <b>Architecture</b>    : any
-<b>URL</b>             : https://github.com/HeCodes2Much/themix-Dracula
+<b>URL</b>             : https://github.com/The-Repo-Club/themix-Dracula
 <b>Licenses</b>        : GPL
 <b>Groups</b>          : None
 <b>Provides</b>        : None
