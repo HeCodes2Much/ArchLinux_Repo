@@ -4,8 +4,8 @@ pacman -Si *linuxrepos/yay*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/yay-12.1.3-1-x86_64.pkg.tar.zst">yay</a>
-<b>Version</b>         : 12.1.3-1
+<b>Name</b>            : <a href="../../x86_64/yay-12.2.0-1-x86_64.pkg.tar.zst">yay</a>
+<b>Version</b>         : 12.2.0-1
 <b>Description</b>     : Yet another yogurt. Pacman wrapper and AUR helper written in go.
 <b>Architecture</b>    : x86_64
 <b>URL</b>             : https://github.com/Jguer/yay
@@ -18,9 +18,9 @@ pacman -Si *linuxrepos/yay*
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
 <b>Download Size</b>   : 3.58 MiB
-<b>Installed Size</b>  : 9.12 MiB
+<b>Installed Size</b>  : 9.11 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 16 Sep 2023 01:18:26 BST
+<b>Build Date</b>      : Fri 01 Dec 2023 15:40:30 GMT
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 
