@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Fri 01 Dec 2023 15:40:30 GMT",
+  "Build Date": "Fri 01 Dec 2023 15:40:30 UTC",
   "Conflicts With": "None",
   "Depends On": [
     "pacman>5",

@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 17 Jul 2022 15:07:40 BST",
+  "Build Date": "Sun 17 Jul 2022 14:07:40 UTC",
   "Conflicts With": "None",
   "Depends On": "imlib2",
   "Description": "A menu utility for X.",

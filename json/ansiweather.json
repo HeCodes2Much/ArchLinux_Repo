@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Thu 10 Aug 2023 20:06:14 BST",
+  "Build Date": "Thu 10 Aug 2023 19:06:14 UTC",
   "Conflicts With": "None",
   "Depends On": [
     "curl",

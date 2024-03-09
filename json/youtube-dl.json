@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sat 16 Sep 2023 20:39:55 BST",
+  "Build Date": "Sat 16 Sep 2023 19:39:55 UTC",
   "Conflicts With": "None",
   "Depends On": "python",
   "Description": "A command-line program to download videos from YouTube.com and a few more sites",

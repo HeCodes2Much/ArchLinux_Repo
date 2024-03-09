@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Fri 20 Aug 2021 15:30:05 BST",
+  "Build Date": "Fri 20 Aug 2021 14:30:05 UTC",
   "Conflicts With": [
     "multilockscreen-git",
     "betterlockscreen",

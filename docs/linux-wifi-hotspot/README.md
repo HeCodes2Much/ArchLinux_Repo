@@ -21,7 +21,7 @@ pacman -Si *linuxrepos/linux-wifi-hotspot*
 <b>Download Size</b>   : 105.45 KiB
 <b>Installed Size</b>  : 202.80 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 06 Dec 2022 17:04:23 GMT
+<b>Build Date</b>      : Tue 06 Dec 2022 17:04:23 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

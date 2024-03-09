@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Sun 24 Jul 2022 18:42:34 BST",
+  "Build Date": "Sun 24 Jul 2022 17:42:34 UTC",
   "Conflicts With": "minecraft-launcher-beta",
   "Depends On": [
     "alsa-lib",

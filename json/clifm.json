@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Wed 24 Jan 2024 11:08:09 GMT",
+  "Build Date": "Wed 24 Jan 2024 11:08:09 UTC",
   "Conflicts With": "None",
   "Depends On": [
     "libcap",

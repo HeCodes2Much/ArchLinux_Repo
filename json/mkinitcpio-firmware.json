@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sat 24 Dec 2022 12:21:37 GMT",
+  "Build Date": "Sat 24 Dec 2022 12:21:37 UTC",
   "Conflicts With": "None",
   "Depends On": [
     "linux-firmware",

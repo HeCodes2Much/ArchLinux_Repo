@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/python-cairocffi*
 <b>Download Size</b>   : 170.49 KiB
 <b>Installed Size</b>  : 1121.68 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 30 Aug 2023 20:17:10 BST
+<b>Build Date</b>      : Wed 30 Aug 2023 19:17:10 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

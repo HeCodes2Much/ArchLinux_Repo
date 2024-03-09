@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Wed 30 Aug 2023 20:17:10 BST",
+  "Build Date": "Wed 30 Aug 2023 19:17:10 UTC",
   "Conflicts With": "python-cairocffi",
   "Depends On": "python-cffi",
   "Description": "CFFI-based drop-in replacement for Pycairo",

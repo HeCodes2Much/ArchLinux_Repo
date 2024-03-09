@@ -26,7 +26,7 @@ pacman -Si *linuxrepos/clifm*
 <b>Download Size</b>   : 587.44 KiB
 <b>Installed Size</b>  : 1369.42 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 24 Jan 2024 11:08:09 GMT
+<b>Build Date</b>      : Wed 24 Jan 2024 11:08:09 UTC
 <b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
 </text></pre></div>
 

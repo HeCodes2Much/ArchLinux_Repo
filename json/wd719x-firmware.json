@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Wed 06 Jul 2022 06:59:56 BST",
+  "Build Date": "Wed 06 Jul 2022 05:59:56 UTC",
   "Conflicts With": "None",
   "Depends On": "None",
   "Description": "Driver for Western Digital WD7193, WD7197 and WD7296 SCSI cards",

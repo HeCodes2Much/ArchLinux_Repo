@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Tue 09 Feb 2021 14:03:22 GMT",
+  "Build Date": "Tue 09 Feb 2021 14:03:22 UTC",
   "Conflicts With": "i3-swallow-git",
   "Depends On": [
     "xdo",

@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Fri 30 Jun 2023 21:33:44 BST",
+  "Build Date": "Fri 30 Jun 2023 20:33:44 UTC",
   "Conflicts With": "None",
   "Depends On": "None",
   "Description": "A script to enable/disable battery conservation mode in Lenovo Ideapad laptops.",
