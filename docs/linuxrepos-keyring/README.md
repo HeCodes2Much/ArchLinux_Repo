@@ -4,7 +4,7 @@ pacman -Si *linuxrepos/linuxrepos-keyring*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/linuxrepos-keyring-2022.09.09-1-any.pkg.tar.zst">linuxrepos-keyring</a>
+<b>Name</b>            : <a href="../../x86_64/linuxrepos-keyring-2023.09.09-1-any.pkg.tar.zst">linuxrepos-keyring</a>
 <b>Version</b>         : 2022.09.09-1
 <b>Description</b>     : linuxrepos keyring
 <b>Architecture</b>    : any
