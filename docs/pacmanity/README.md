@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/pacmanity*
 <b>Installed Size</b>  : 37.56 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Sun 23 Oct 2022 13:11:31 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

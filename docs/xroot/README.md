@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/xroot*
 <b>Installed Size</b>  : 14.80 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Mon 07 Aug 2023 21:07:54 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

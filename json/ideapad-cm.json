@@ -15,10 +15,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://github.com/archlinux-jerry/ideapad-conservation-mode",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "0.1.1-1"
 }

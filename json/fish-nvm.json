@@ -15,10 +15,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://github.com/jorgebucaran/nvm.fish",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "2.2.11-1"
 }

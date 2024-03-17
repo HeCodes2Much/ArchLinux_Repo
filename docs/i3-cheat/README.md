@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/i3-cheat*
 <b>Installed Size</b>  : 12.93 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Mon 24 Apr 2023 17:18:13 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

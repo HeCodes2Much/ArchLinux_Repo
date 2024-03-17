@@ -33,10 +33,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://github.com/lakinduakash/linux-wifi-hotspot",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "4.4.0-1"
 }

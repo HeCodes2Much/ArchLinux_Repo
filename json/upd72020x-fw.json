@@ -15,10 +15,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://github.com/denisandroid/uPD72020x-Firmware",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "1:1.0.0-2"
 }

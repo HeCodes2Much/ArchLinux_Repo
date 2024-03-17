@@ -20,10 +20,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://github.com/archlinux-downgrade/downgrade",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "11.3.0-1"
 }

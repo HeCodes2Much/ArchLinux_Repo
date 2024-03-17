@@ -31,10 +31,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://github.com/AladW/aurutils",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "17.3-1"
 }

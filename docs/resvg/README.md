@@ -22,7 +22,7 @@ pacman -Si *linuxrepos/resvg*
 <b>Installed Size</b>  : 9.99 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Sun 06 Feb 2022 14:25:34 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

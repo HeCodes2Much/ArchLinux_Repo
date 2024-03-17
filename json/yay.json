@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Sat 09 Mar 2024 12:54:15 UTC",
+  "Build Date": "Sat 16 Mar 2024 13:58:23 UTC",
   "Conflicts With": "None",
   "Depends On": [
     "pacman>5",
@@ -21,10 +21,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://github.com/Jguer/yay",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
-  "Version": "12.3.1-1"
+  "Validated By": "SHA-256 Sum",
+  "Version": "12.3.3-3"
 }

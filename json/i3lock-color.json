@@ -30,10 +30,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://github.com/Raymo111/i3lock-color",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "2.13.c.5-1"
 }

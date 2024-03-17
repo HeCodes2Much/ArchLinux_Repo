@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/downgrade*
 <b>Installed Size</b>  : 76.35 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Thu 06 Apr 2023 17:46:06 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

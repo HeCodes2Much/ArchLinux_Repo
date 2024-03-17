@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/ttf-remixicon*
 <b>Installed Size</b>  : 393.61 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Wed 14 Apr 2021 19:49:02 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

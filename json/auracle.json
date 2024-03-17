@@ -19,10 +19,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://github.com/falconindy/auracle",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "2020.09.05-5"
 }

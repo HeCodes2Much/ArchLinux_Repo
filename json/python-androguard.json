@@ -28,10 +28,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://github.com/androguard/androguard/",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "3.3.5-3"
 }

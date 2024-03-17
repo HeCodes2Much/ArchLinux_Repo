@@ -21,10 +21,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://gitlab.com/dalto.8/eos-systemd-boot",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "1.5-1"
 }

@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/pkgbrowser*
 <b>Installed Size</b>  : 753.95 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Tue 17 Oct 2023 15:44:55 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

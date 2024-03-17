@@ -22,10 +22,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://github.com/The-Repo-Club/win-shot",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "2022.07.31-1"
 }

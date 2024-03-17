@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/pacman-hook-kernel-install*
 <b>Installed Size</b>  : 1.93 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Sun 27 Aug 2023 16:25:35 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

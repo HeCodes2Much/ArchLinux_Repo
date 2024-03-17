@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/wd719x-firmware*
 <b>Installed Size</b>  : 14.50 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Wed 06 Jul 2022 05:59:56 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

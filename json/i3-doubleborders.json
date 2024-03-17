@@ -38,10 +38,6 @@
   ],
   "Repository": "linuxrepos",
   "URL": "https://i3wm.org",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "4.22-2"
 }

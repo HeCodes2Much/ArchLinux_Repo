@@ -21,7 +21,7 @@ pacman -Si *linuxrepos/multimonitorlock*
 <b>Installed Size</b>  : 63.12 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Fri 20 Aug 2021 14:30:05 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

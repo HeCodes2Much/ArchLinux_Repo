@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/i3-swallow*
 <b>Installed Size</b>  : 36.46 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Tue 09 Feb 2021 14:03:22 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

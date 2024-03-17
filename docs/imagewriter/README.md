@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/imagewriter*
 <b>Installed Size</b>  : 181.48 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Fri 01 Dec 2023 15:40:43 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

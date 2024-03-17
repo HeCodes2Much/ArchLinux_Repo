@@ -17,10 +17,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://metacpan.org/release/OS-CheckUpdates-AUR",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "0.04-1"
 }

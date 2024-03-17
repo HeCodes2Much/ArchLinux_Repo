@@ -19,10 +19,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://github.com/RazrFalcon/resvg",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "0.20.0-3"
 }

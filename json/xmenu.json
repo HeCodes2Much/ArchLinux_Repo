@@ -15,10 +15,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://github.com/The-Repo-Club/xmenu",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "2021.12.01-1"
 }

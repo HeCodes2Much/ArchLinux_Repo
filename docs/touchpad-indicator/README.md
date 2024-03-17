@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/touchpad-indicator*
 <b>Installed Size</b>  : 1182.74 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Tue 09 Feb 2021 14:14:26 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

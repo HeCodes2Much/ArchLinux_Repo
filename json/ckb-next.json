@@ -30,10 +30,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://github.com/ckb-next/ckb-next",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "0.6.0-1"
 }

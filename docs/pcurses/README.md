@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/pcurses*
 <b>Installed Size</b>  : 850.81 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Mon 18 Jul 2022 18:12:13 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

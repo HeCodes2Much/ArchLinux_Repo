@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/nerd-fonts-iosevka*
 <b>Installed Size</b>  : 103.13 MiB
 <b>Packager</b>        : TheCynicalTeam <wayne6324@gmail.com>
 <b>Build Date</b>      : Wed 02 Sep 2020 14:07:24 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

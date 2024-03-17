@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/dracula-qt6-theme*
 <b>Installed Size</b>  : 0.73 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Wed 20 Oct 2021 13:35:37 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

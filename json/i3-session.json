@@ -21,10 +21,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://github.com/The-Repo-Club/i3-session",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "2021.01.01-1"
 }

@@ -19,10 +19,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://forchheimer.se/transset-df/",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "6-8"
 }

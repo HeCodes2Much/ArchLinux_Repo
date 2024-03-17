@@ -19,10 +19,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://wedesoft.github.io/anymeal",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "1.13-1"
 }

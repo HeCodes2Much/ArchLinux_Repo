@@ -23,7 +23,7 @@ pacman -Si *linuxrepos/youtube-dl*
 <b>Installed Size</b>  : 18.03 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Sat 16 Sep 2023 19:39:55 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

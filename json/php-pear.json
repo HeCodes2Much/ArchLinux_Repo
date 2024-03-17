@@ -15,10 +15,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://pear.php.net/package/pearweb_phars/",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "1:1.10.21-2"
 }

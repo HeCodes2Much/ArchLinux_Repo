@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/python-xcffib*
 <b>Installed Size</b>  : 3576.26 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Wed 30 Aug 2023 19:17:56 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

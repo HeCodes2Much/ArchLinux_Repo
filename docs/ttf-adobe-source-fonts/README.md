@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/ttf-adobe-source-fonts*
 <b>Installed Size</b>  : 24.16 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Sun 13 Aug 2023 10:52:25 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

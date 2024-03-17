@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/transset-df*
 <b>Installed Size</b>  : 26.94 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Tue 26 Apr 2022 13:11:35 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

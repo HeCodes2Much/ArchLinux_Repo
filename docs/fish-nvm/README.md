@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/fish-nvm*
 <b>Installed Size</b>  : 17.57 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
 <b>Build Date</b>      : Fri 08 Jul 2022 21:44:18 UTC
-<b>Validated By</b>    : MD5 Sum  SHA-256 Sum  Signature
+<b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
 ## How to install from linuxrepos

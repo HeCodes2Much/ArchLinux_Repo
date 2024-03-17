@@ -20,10 +20,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://github.com/juanmafont/ufwIconbar",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "1:r15.gbf67a93-1"
 }

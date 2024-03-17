@@ -25,10 +25,6 @@
   "Replaces": "None",
   "Repository": "linuxrepos",
   "URL": "https://github.com/The-Repo-Club/repowm",
-  "Validated By": [
-    "MD5 Sum",
-    "SHA-256 Sum",
-    "Signature"
-  ],
+  "Validated By": "SHA-256 Sum",
   "Version": "2023.08.06-1"
 }
