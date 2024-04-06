@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/imagewriter*
 <b>Download Size</b>   : 118.74 KiB
 <b>Installed Size</b>  : 181.48 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 01 Dec 2023 15:40:43 UTC
+<b>Build Date</b>      : Fri 01 Dec 2023 15:40:43 GMT
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/downgrade*
 <b>Download Size</b>   : 39.02 KiB
 <b>Installed Size</b>  : 76.35 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 06 Apr 2023 17:46:06 UTC
+<b>Build Date</b>      : Thu 06 Apr 2023 18:46:06 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

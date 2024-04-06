@@ -4,7 +4,7 @@ pacman -Si *linuxrepos/i3-doubleborders*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/i3-doubleborders-4.22-2-x86_64.pkg.tar.zst">i3-doubleborders</a>
+<b>Name</b>            : <a href="../../x86_64/i3-doubleborders-4.23-1-x86_64.pkg.tar.zst">i3-doubleborders</a>
 <b>Version</b>         : 4.22-2
 <b>Description</b>     : Improved dynamic tiling window manager
 <b>Architecture</b>    : x86_64
@@ -26,7 +26,7 @@ pacman -Si *linuxrepos/i3-doubleborders*
 <b>Download Size</b>   : 1165.46 KiB
 <b>Installed Size</b>  : 2375.29 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 24 Apr 2023 17:37:54 UTC
+<b>Build Date</b>      : Mon 24 Apr 2023 18:37:54 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

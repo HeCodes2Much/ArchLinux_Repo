@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/ansiweather*
 <b>Download Size</b>   : 20.74 KiB
 <b>Installed Size</b>  : 13.38 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 10 Aug 2023 19:06:14 UTC
+<b>Build Date</b>      : Thu 10 Aug 2023 20:06:14 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

@@ -22,7 +22,7 @@ pacman -Si *linuxrepos/youtube-dl*
 <b>Download Size</b>   : 3.99 MiB
 <b>Installed Size</b>  : 18.03 MiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 16 Sep 2023 19:39:55 UTC
+<b>Build Date</b>      : Sat 16 Sep 2023 20:39:55 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/php-pear*
 <b>Download Size</b>   : 360.52 KiB
 <b>Installed Size</b>  : 1874.85 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 18 Jul 2022 18:12:37 UTC
+<b>Build Date</b>      : Mon 18 Jul 2022 19:12:37 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

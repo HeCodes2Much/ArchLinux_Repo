@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Tue 27 Jun 2023 09:02:30 UTC",
+  "Build Date": "Tue 27 Jun 2023 10:02:30 BST",
   "Conflicts With": "None",
   "Depends On": "python",
   "Description": "Fetches GPU status from NVIDIA GPUs using nvidia-smi",

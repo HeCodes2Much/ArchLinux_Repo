@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Thu 27 Oct 2022 20:17:35 UTC",
+  "Build Date": "Thu 27 Oct 2022 21:17:35 BST",
   "Conflicts With": "None",
   "Depends On": "None",
   "Description": "Service to automatically managing i3 window manager layout",

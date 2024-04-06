@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/w3m-imgcat*
 <b>Download Size</b>   : 12.62 KiB
 <b>Installed Size</b>  : 1.80 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 08 May 2021 09:50:44 UTC
+<b>Build Date</b>      : Sat 08 May 2021 10:50:44 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

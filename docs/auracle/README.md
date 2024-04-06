@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/auracle*
 <b>Download Size</b>   : 465.75 KiB
 <b>Installed Size</b>  : 1011.08 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 26 Jun 2023 18:59:03 UTC
+<b>Build Date</b>      : Mon 26 Jun 2023 19:59:03 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

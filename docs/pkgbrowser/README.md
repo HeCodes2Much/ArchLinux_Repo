@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/pkgbrowser*
 <b>Download Size</b>   : 247.62 KiB
 <b>Installed Size</b>  : 753.95 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 17 Oct 2023 15:44:55 UTC
+<b>Build Date</b>      : Tue 17 Oct 2023 16:44:55 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Mon 26 Jun 2023 18:55:25 UTC",
+  "Build Date": "Mon 26 Jun 2023 19:55:25 BST",
   "Conflicts With": [
     "ckb-git",
     "ckb-git-latest",

@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Mon 08 Nov 2021 23:41:33 UTC",
+  "Build Date": "Mon 08 Nov 2021 23:41:33 GMT",
   "Conflicts With": "None",
   "Depends On": [
     "yad",

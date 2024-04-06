@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/multimonitorlock*
 <b>Download Size</b>   : 35.23 KiB
 <b>Installed Size</b>  : 63.12 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Fri 20 Aug 2021 14:30:05 UTC
+<b>Build Date</b>      : Fri 20 Aug 2021 15:30:05 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

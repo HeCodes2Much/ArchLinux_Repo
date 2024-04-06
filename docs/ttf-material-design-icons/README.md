@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/ttf-material-design-icons*
 <b>Download Size</b>   : 134.26 KiB
 <b>Installed Size</b>  : 234.62 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 17 Oct 2021 15:36:51 UTC
+<b>Build Date</b>      : Sun 17 Oct 2021 16:36:51 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

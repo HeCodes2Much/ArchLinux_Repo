@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Thu 06 Apr 2023 17:46:06 UTC",
+  "Build Date": "Thu 06 Apr 2023 18:46:06 BST",
   "Conflicts With": "None",
   "Depends On": [
     "pacman-contrib",

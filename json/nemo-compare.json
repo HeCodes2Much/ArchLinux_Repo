@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Sun 24 Dec 2023 15:56:22 UTC",
+  "Build Date": "Sun 24 Dec 2023 15:56:22 GMT",
   "Conflicts With": "None",
   "Depends On": [
     "nemo-python>=3.9.0",

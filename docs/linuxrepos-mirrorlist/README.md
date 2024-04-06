@@ -4,7 +4,7 @@ pacman -Si *linuxrepos/linuxrepos-mirrorlist*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/linuxrepos-mirrorlist-2023.09.09-1-any.pkg.tar.zst">linuxrepos-mirrorlist</a>
+<b>Name</b>            : <a href="../../x86_64/linuxrepos-mirrorlist-2024.04.04-1-any.pkg.tar.zst">linuxrepos-mirrorlist</a>
 <b>Version</b>         : 2023.09.09-1
 <b>Description</b>     : linuxrepos mirrorlist
 <b>Architecture</b>    : any
@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/linuxrepos-mirrorlist*
 <b>Download Size</b>   : 10.83 KiB
 <b>Installed Size</b>  : 0.04 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 09 Mar 2024 13:00:59 UTC
+<b>Build Date</b>      : Sat 09 Mar 2024 13:00:59 GMT
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

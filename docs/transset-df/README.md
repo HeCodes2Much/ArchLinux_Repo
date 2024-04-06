@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/transset-df*
 <b>Download Size</b>   : 25.06 KiB
 <b>Installed Size</b>  : 26.94 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 26 Apr 2022 13:11:35 UTC
+<b>Build Date</b>      : Tue 26 Apr 2022 14:11:35 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

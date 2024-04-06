@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Tue 08 Feb 2022 16:47:16 UTC",
+  "Build Date": "Tue 08 Feb 2022 16:47:16 GMT",
   "Conflicts With": "None",
   "Depends On": "bash",
   "Description": "Terminal Based Session Manager",

@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/ckb-next*
 <b>Download Size</b>   : 1570.62 KiB
 <b>Installed Size</b>  : 3382.32 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 26 Jun 2023 18:55:25 UTC
+<b>Build Date</b>      : Mon 26 Jun 2023 19:55:25 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

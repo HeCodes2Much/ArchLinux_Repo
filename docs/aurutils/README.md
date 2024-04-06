@@ -26,7 +26,7 @@ pacman -Si *linuxrepos/aurutils*
 <b>Download Size</b>   : 119.75 KiB
 <b>Installed Size</b>  : 214.49 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 03 Aug 2023 17:29:40 UTC
+<b>Build Date</b>      : Thu 03 Aug 2023 18:29:40 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

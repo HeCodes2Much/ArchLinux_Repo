@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Sun 23 Jan 2022 14:52:44 UTC",
+  "Build Date": "Sun 23 Jan 2022 14:52:44 GMT",
   "Conflicts With": "sdbus-cpp-git",
   "Depends On": [
     "systemd-libs",

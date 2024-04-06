@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/kernel-install-mkinitcpio*
 <b>Download Size</b>   : 14.24 KiB
 <b>Installed Size</b>  : 18.13 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 26 Aug 2023 17:01:38 UTC
+<b>Build Date</b>      : Sat 26 Aug 2023 18:01:38 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

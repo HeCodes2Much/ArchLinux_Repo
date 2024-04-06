@@ -19,7 +19,7 @@ pacman -Si *linuxrepos/tty-clock*
 <b>Download Size</b>   : 25.71 KiB
 <b>Installed Size</b>  : 28.78 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 25 May 2023 21:19:14 UTC
+<b>Build Date</b>      : Thu 25 May 2023 22:19:14 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

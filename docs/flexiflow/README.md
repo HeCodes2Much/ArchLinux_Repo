@@ -20,7 +20,7 @@ pacman -Si *linuxrepos/flexiflow*
 <b>Download Size</b>   : 62.00 KiB
 <b>Installed Size</b>  : 103.76 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 21 Aug 2023 09:38:57 UTC
+<b>Build Date</b>      : Mon 21 Aug 2023 10:38:57 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
