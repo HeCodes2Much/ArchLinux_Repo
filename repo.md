@@ -2,15 +2,15 @@
 
 <p align='center'>
   <img src='https://img.shields.io/badge/Maintained-Yes-green?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-  <img src='https://img.shields.io/github/actions/workflow/status/HeCodes2Much/arch.linuxrepos.org/pages/pages-build-deployment?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-  <img src='https://img.shields.io/github/last-commit/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-  <img src='https://img.shields.io/github/repo-size/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+  <img src='https://img.shields.io/github/actions/workflow/status/HeCodes2Much/archlinux.repo.063240.xyz/pages/pages-build-deployment?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+  <img src='https://img.shields.io/github/last-commit/HeCodes2Much/archlinux.repo.063240.xyz?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+  <img src='https://img.shields.io/github/repo-size/HeCodes2Much/archlinux.repo.063240.xyz?colorA=434c5e&colorB=ff59f9&style=flat-square'>
   <img src='https://img.shields.io/static/v1?label=Packages&message=75&colorA=434c5e&colorB=ff59f9&style=flat-square'>
-  <img src='https://img.shields.io/github/license/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-  <img src='https://img.shields.io/github/issues/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-  <img src='https://img.shields.io/github/stars/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-  <img src='https://img.shields.io/github/forks/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-  <img src='https://img.shields.io/github/commit-activity/m/HeCodes2Much/arch.linuxrepos.org?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+  <img src='https://img.shields.io/github/license/HeCodes2Much/archlinux.repo.063240.xyz?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+  <img src='https://img.shields.io/github/issues/HeCodes2Much/archlinux.repo.063240.xyz?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+  <img src='https://img.shields.io/github/stars/HeCodes2Much/archlinux.repo.063240.xyz?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+  <img src='https://img.shields.io/github/forks/HeCodes2Much/archlinux.repo.063240.xyz?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+  <img src='https://img.shields.io/github/commit-activity/m/HeCodes2Much/archlinux.repo.063240.xyz?colorA=434c5e&colorB=ff59f9&style=flat-square'>
 </p>
 
 ## Software
@@ -93,7 +93,7 @@
 ## Add my repo
 * **Maintainer:** [HeCodes2Much](https://aur.archlinux.org/account/HeCodes2Much/)
 * **Description:**  A repository with some AUR packages that the team uses
-* **Upstream page:** https://arch.linuxrepos.org/
+* **Upstream page:** https://archlinux.repo.063240.xyz/
 * **Key-ID:** 75A3 8DC6 84F1 A0B8 0891  8BCE E30E C2FB FB05 C44F 
 * **Fingerprint:** [download](http://pgp.net.nz:11371/pks/lookup?op=vindex&fingerprint=on&search=0xE30EC2FBFB05C44F)
 
@@ -101,7 +101,7 @@ Append to */etc/pacman.conf*:
 ```
 [linuxrepos]
 SigLevel = Required DatabaseOptional
-Server = https://arch.linuxrepos.org/$arch/
+Server = https://archlinux.repo.063240.xyz/$arch/
 ```
 To check signature, add my key:
 ```

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Repo update script using repo-add, rsync, and git
-# written by linuxrepos for arch.linuxrepos.org.
+# written by linuxrepos for archlinux.repo.063240.xyz.
 
 readonly RPATH="$(cd "$(dirname "$0")" || exit ; pwd -P)"
 readonly ARCHDIR="$(basename "$RPATH")"
