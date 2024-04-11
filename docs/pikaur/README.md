@@ -4,7 +4,7 @@ pacman -Si *linuxrepos/pikaur*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/pikaur-1.18.4-1-any.pkg.tar.zst">pikaur</a>
+<b>Name</b>            : <a href="../../x86_64/pikaur-1.19-1-any.pkg.tar.zst">pikaur</a>
 <b>Version</b>         : 1.18.4-1
 <b>Description</b>     : AUR helper which asks all questions before installing/building. Inspired by pacaur, yaourt and yay.
 <b>Architecture</b>    : any

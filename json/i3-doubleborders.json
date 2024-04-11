@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Mon 24 Apr 2023 18:37:54 BST",
+  "Build Date": "Fri 29 Mar 2024 10:16:27 GMT",
   "Conflicts With": "i3-wm",
   "Depends On": [
     "libev",
@@ -14,9 +14,9 @@
     "yajl"
   ],
   "Description": "Improved dynamic tiling window manager",
-  "Download Size": "1165.46 KiB",
+  "Download Size": "1157.50 KiB",
   "Groups": "i3",
-  "Installed Size": "2375.29 KiB",
+  "Installed Size": "2439.32 KiB",
   "Licenses": "BSD",
   "Name": "i3-doubleborders",
   "Optional Deps": {
@@ -39,5 +39,5 @@
   "Repository": "linuxrepos",
   "URL": "https://i3wm.org",
   "Validated By": "SHA-256 Sum",
-  "Version": "4.22-2"
+  "Version": "4.23-1"
 }
