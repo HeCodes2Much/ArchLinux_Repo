@@ -1,24 +1,24 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Mon 26 Jun 2023 19:59:03 BST",
-  "Conflicts With": "None",
+  "Build Date": "Tue 16 Apr 2024 14:39:03 BST",
+  "Conflicts With": "auracle-git",
   "Depends On": [
     "pacman",
     "libcurl.so=4-64",
     "libsystemd"
   ],
   "Description": "A flexible client for the AUR",
-  "Download Size": "465.75 KiB",
+  "Download Size": "739.76 KiB",
   "Groups": "None",
-  "Installed Size": "1011.08 KiB",
+  "Installed Size": "2030.72 KiB",
   "Licenses": "MIT",
   "Name": "auracle",
   "Optional Deps": "None",
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
-  "Provides": "None",
+  "Provides": "auracle",
   "Replaces": "None",
   "Repository": "linuxrepos",
-  "URL": "https://github.com/falconindy/auracle",
+  "URL": "https://github.com/inglor/auracle.git",
   "Validated By": "SHA-256 Sum",
-  "Version": "2020.09.05-5"
+  "Version": "2023.05.17-1"
 }
