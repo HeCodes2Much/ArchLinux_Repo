@@ -5,7 +5,7 @@ pacman -Si *linuxrepos/pikaur*
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
 <b>Name</b>            : <a href="../../x86_64/pikaur-1.19-1-any.pkg.tar.zst">pikaur</a>
-<b>Version</b>         : 1.18.4-1
+<b>Version</b>         : 1.19-1
 <b>Description</b>     : AUR helper which asks all questions before installing/building. Inspired by pacaur, yaourt and yay.
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/actionless/pikaur
@@ -16,12 +16,13 @@ pacman -Si *linuxrepos/pikaur*
 <b>Optional Deps</b>   : devtools: for Arch Pkgs support in -G/--getpkgbuild operation
                   python-pysocks: for socks5 proxy support
                   python-defusedxml: securely wrap Arch news replies
+                  pacman-contrib: to use in pacman hook/systemd timer for cleaning up pikaur cache
 <b>Conflicts With</b>  : pikaur-git
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 410.34 KiB
-<b>Installed Size</b>  : 1860.98 KiB
+<b>Download Size</b>   : 415.81 KiB
+<b>Installed Size</b>  : 1888.35 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 09 Mar 2024 12:54:28 GMT
+<b>Build Date</b>      : Thu 11 Apr 2024 16:34:19 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

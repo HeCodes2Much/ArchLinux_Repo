@@ -4,7 +4,7 @@ pacman -Si *linuxrepos/auracle*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/auracle-2020.09.05-5-x86_64.pkg.tar.zst">auracle</a>
+<b>Name</b>            : <a href="../../x86_64/auracle-2023.05.17-1-x86_64.pkg.tar.zst">auracle</a>
 <b>Version</b>         : 2020.09.05-5
 <b>Description</b>     : A flexible client for the AUR
 <b>Architecture</b>    : x86_64
