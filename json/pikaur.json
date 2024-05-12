@@ -1,13 +1,13 @@
 {
   "Architecture": "any",
-  "Build Date": "Tue 30 Apr 2024 09:02:18 BST",
+  "Build Date": "Tue 30 Apr 2024 09:04:02 BST",
   "Conflicts With": "pikaur-git",
   "Depends On": [
     "pyalpm",
     "git"
   ],
   "Description": "AUR helper which asks all questions before installing/building. Inspired by pacaur, yaourt and yay.",
-  "Download Size": "401.67 KiB",
+  "Download Size": "401.59 KiB",
   "Groups": "None",
   "Installed Size": "1730.61 KiB",
   "Licenses": "GPL3",

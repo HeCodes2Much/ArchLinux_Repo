@@ -19,10 +19,10 @@ pacman -Si *linuxrepos/pikaur*
                   pacman-contrib: to use in pacman hook/systemd timer for cleaning up pikaur cache
 <b>Conflicts With</b>  : pikaur-git
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 401.67 KiB
+<b>Download Size</b>   : 401.59 KiB
 <b>Installed Size</b>  : 1730.61 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 30 Apr 2024 09:02:18 BST
+<b>Build Date</b>      : Tue 30 Apr 2024 09:04:02 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
