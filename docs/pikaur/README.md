@@ -4,8 +4,8 @@ pacman -Si *linuxrepos/pikaur*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/pikaur-1.20-1-any.pkg.tar.zst">pikaur</a>
-<b>Version</b>         : 1.20-1
+<b>Name</b>            : <a href="../../x86_64/pikaur-1.21-1-any.pkg.tar.zst">pikaur</a>
+<b>Version</b>         : 1.21-1
 <b>Description</b>     : AUR helper which asks all questions before installing/building. Inspired by pacaur, yaourt and yay.
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/actionless/pikaur
@@ -19,10 +19,10 @@ pacman -Si *linuxrepos/pikaur*
                   pacman-contrib: to use in pacman hook/systemd timer for cleaning up pikaur cache
 <b>Conflicts With</b>  : pikaur-git
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 401.59 KiB
-<b>Installed Size</b>  : 1730.61 KiB
+<b>Download Size</b>   : 406.98 KiB
+<b>Installed Size</b>  : 1751.47 KiB
 <b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 30 Apr 2024 09:04:02 BST
+<b>Build Date</b>      : Tue 21 May 2024 16:03:11 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
