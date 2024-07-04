@@ -1,45 +1,22 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Sun 24 Jul 2022 18:42:34 BST",
+  "Build Date": "Thu 04 Jul 2024 14:25:09 BST",
   "Conflicts With": "minecraft-launcher-beta",
   "Depends On": [
-    "alsa-lib",
-    "at-spi2-atk",
-    "at-spi2-core",
-    "atk",
-    "dbus",
-    "expat",
-    "gcc-libs",
-    "gdk-pixbuf2",
-    "glib2",
-    "glibc",
     "gtk3",
-    "libcups",
-    "libdrm",
-    "libx11",
-    "libxcb",
-    "libxcomposite",
-    "libxdamage",
-    "libxext",
-    "libxfixes",
-    "libxrandr",
-    "mesa",
-    "nspr",
-    "nss",
-    "pango",
-    "util-linux-libs",
+    "gcc-libs",
     "zlib",
-    "java-runtime",
-    "xorg-xrandr"
+    "libgpg-error"
   ],
   "Description": "Official Minecraft Launcher",
-  "Download Size": "623.05 KiB",
+  "Download Size": "620.97 KiB",
   "Groups": "None",
   "Installed Size": "1646.02 KiB",
-  "Licenses": "All rights reserved",
+  "Licenses": "custom",
   "Name": "minecraft-launcher",
   "Optional Deps": {
-    "flite": "narrator support"
+    "flite": "narrator support",
+    "org.freedesktop.secrets": "persistent login support"
   },
   "Packager": "Wayne Wesley <wayne6324@gmail.com>",
   "Provides": "minecraft-launcher-beta",
@@ -47,5 +24,5 @@
   "Repository": "linuxrepos",
   "URL": "https://mojang.com/",
   "Validated By": "SHA-256 Sum",
-  "Version": "1:1.0.1221-1"
+  "Version": "1:1.0.1221-3"
 }
