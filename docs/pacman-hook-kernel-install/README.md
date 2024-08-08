@@ -4,7 +4,7 @@ pacman -Si *linuxrepos/pacman-hook-kernel-install*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/pacman-hook-kernel-install-0.12.1-1-any.pkg.tar.zst">pacman-hook-kernel-install</a>
+<b>Name</b>            : <a href="../../x86_64/pacman-hook-kernel-install-0.13.0-1-any.pkg.tar.zst">pacman-hook-kernel-install</a>
 <b>Version</b>         : 0.12.1-1
 <b>Description</b>     : Pacman hooks for kernel-install.
 <b>Architecture</b>    : any

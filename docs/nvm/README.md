@@ -4,7 +4,7 @@ pacman -Si *linuxrepos/nvm*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/nvm-0.39.7-1-any.pkg.tar.zst">nvm</a>
+<b>Name</b>            : <a href="../../x86_64/nvm-0.40.0-1-any.pkg.tar.zst">nvm</a>
 <b>Version</b>         : 0.39.7-1
 <b>Description</b>     : Node <b>Version</b> Manager - Simple bash script to manage multiple active node.js versions
 <b>Architecture</b>    : any
