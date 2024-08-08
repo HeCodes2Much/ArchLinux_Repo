@@ -1,15 +1,15 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 27 Aug 2023 17:25:35 BST",
+  "Build Date": "Thu 08 Aug 2024 20:13:58 BST",
   "Conflicts With": "None",
   "Depends On": [
     "bash",
     "systemd"
   ],
   "Description": "Pacman hooks for kernel-install.",
-  "Download Size": "13.65 KiB",
+  "Download Size": "12.08 KiB",
   "Groups": "None",
-  "Installed Size": "1.93 KiB",
+  "Installed Size": "1.98 KiB",
   "Licenses": "GPL",
   "Name": "pacman-hook-kernel-install",
   "Optional Deps": "None",
@@ -19,5 +19,5 @@
   "Repository": "linuxrepos",
   "URL": "https://man.archlinux.org/man/kernel-install.8",
   "Validated By": "SHA-256 Sum",
-  "Version": "0.12.1-1"
+  "Version": "0.13.0-1"
 }
