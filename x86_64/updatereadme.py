@@ -149,7 +149,8 @@ for file in files:
     print(f"File Updated: Name ({name}), Version ({version}) Size {size} Date {date}")
 
     userpac = "<p> <span class='red'>[</span> <span class='yellow'>arch</span><span class='green'>@</span><span class='purple'>linuxrepos.org</span> <span class='red'>~]</span> <br> <span class='green'>pacman</span> <span class='orange'>-Si</span>"
-    pacgrep = "<span class='purple'>|</span> <span class='green'>grep</span> <span class='yellow'>'Name\|Version\|Installed\|Build'</span> <span class='purple'>|</span> <span class='green'>awk</span> <span class='orange'>-F</span><span class='yellow'>':' '{print $2}'<span> <span class='purple'>|</span> <span class='green'>sed</span> <span class='yellow'>':a;N;$!ba;s/\\n/ |/g'</span><br>"
+    pacgrep = r"<span class='purple'>|</span> <span class='green'>grep</span> <span class='yellow'>'Name\|Version\|Installed\|Build'</span> <span class='purple'>|</span> <span class='green'>awk</span> <span class='orange'>-F</span><span class='yellow'>':' '{print $2}'<span> <span class='purple'>|</span> <span class='green'>sed</span> <span class='yellow'>':a;N;$!ba;s/\\n/ |/g'</span><br>"
+
 
     readme.write(
         f"{userpac} <span class='foreground'><a href='docs/{name}'>{name}</a></span> {pacgrep} <span class='foreground'><a href='docs/{name}'>{name} \t|\t {version} \t|\t {size} \t|\t {date}</a></span> </p>\n"
