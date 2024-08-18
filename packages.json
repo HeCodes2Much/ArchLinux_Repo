@@ -7,6 +7,8 @@
     "aurutils",
     "ckb-next",
     "mkinitcpio-firmware",
+    "pikaur",
+    "supergfxctl",
     "upd72020x-fw",
     "wd719x-firmware",
     "yay"
