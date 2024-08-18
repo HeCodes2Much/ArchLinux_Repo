@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sat 24 Dec 2022 12:21:37 GMT",
+  "Build Date": "Sun 18 Aug 2024 20:15:02 BST",
   "Conflicts With": "None",
   "Depends On": [
     "linux-firmware",
@@ -17,7 +17,7 @@
   "Description": {
     "Optional firmware for the default linux kernel to get rid of the annoying 'WARNING": "Possibly missing firmware for module"
   },
-  "Download Size": "13.91 KiB",
+  "Download Size": "8.27 KiB",
   "Groups": "None",
   "Installed Size": "0.23 KiB",
   "Licenses": "GPL",
@@ -26,7 +26,7 @@
     "linux": "default linux preset",
     "mkinitcpio": "build the initramfs"
   },
-  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Packager": "HeCodes2Much <wayne6324@gmail.com>",
   "Provides": "None",
   "Replaces": "None",
   "Repository": "linuxrepos",

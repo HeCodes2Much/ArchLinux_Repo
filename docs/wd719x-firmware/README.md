@@ -16,10 +16,10 @@ pacman -Si *linuxrepos/wd719x-firmware*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 25.98 KiB
+<b>Download Size</b>   : 16.48 KiB
 <b>Installed Size</b>  : 14.50 KiB
-<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Wed 06 Jul 2022 06:59:56 BST
+<b>Packager</b>        : HeCodes2Much <wayne6324@gmail.com>
+<b>Build Date</b>      : Sun 18 Aug 2024 20:17:57 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

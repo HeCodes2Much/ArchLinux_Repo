@@ -17,10 +17,10 @@ pacman -Si *linuxrepos/yay*
                   doas: privilege elevation
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 3.64 MiB
-<b>Installed Size</b>  : 9.32 MiB
-<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 11 Apr 2024 16:34:29 BST
+<b>Download Size</b>   : 3.79 MiB
+<b>Installed Size</b>  : 9.74 MiB
+<b>Packager</b>        : HeCodes2Much <wayne6324@gmail.com>
+<b>Build Date</b>      : Sun 18 Aug 2024 20:02:26 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

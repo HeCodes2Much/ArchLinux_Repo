@@ -23,10 +23,10 @@ pacman -Si *linuxrepos/aurutils*
                   python-srcinfo: sync-rebuild example script
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 120.73 KiB
+<b>Download Size</b>   : 117.35 KiB
 <b>Installed Size</b>  : 229.48 KiB
-<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 08 Aug 2024 20:14:43 BST
+<b>Packager</b>        : HeCodes2Much <wayne6324@gmail.com>
+<b>Build Date</b>      : Sun 18 Aug 2024 20:21:00 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

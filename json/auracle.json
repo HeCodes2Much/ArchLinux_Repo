@@ -1,6 +1,6 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Tue 16 Apr 2024 14:39:03 BST",
+  "Build Date": "Sun 18 Aug 2024 20:41:39 BST",
   "Conflicts With": "auracle-git",
   "Depends On": [
     "pacman",
@@ -8,13 +8,13 @@
     "libsystemd"
   ],
   "Description": "A flexible client for the AUR",
-  "Download Size": "739.76 KiB",
+  "Download Size": "747.89 KiB",
   "Groups": "None",
-  "Installed Size": "2030.72 KiB",
+  "Installed Size": "2065.15 KiB",
   "Licenses": "MIT",
   "Name": "auracle",
   "Optional Deps": "None",
-  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Packager": "HeCodes2Much <wayne6324@gmail.com>",
   "Provides": "auracle",
   "Replaces": "None",
   "Repository": "linuxrepos",

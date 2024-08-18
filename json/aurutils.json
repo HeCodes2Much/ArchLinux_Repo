@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Thu 08 Aug 2024 20:14:43 BST",
+  "Build Date": "Sun 18 Aug 2024 20:21:00 BST",
   "Conflicts With": "None",
   "Depends On": [
     "git",
@@ -11,7 +11,7 @@
     "bash"
   ],
   "Description": "helper tools for the arch user repository",
-  "Download Size": "120.73 KiB",
+  "Download Size": "117.35 KiB",
   "Groups": "None",
   "Installed Size": "229.48 KiB",
   "Licenses": "ISC",
@@ -26,7 +26,7 @@
     "vifm": "default pager",
     "zsh": "zsh completion"
   },
-  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Packager": "HeCodes2Much <wayne6324@gmail.com>",
   "Provides": "None",
   "Replaces": "None",
   "Repository": "linuxrepos",

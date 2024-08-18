@@ -16,10 +16,10 @@ pacman -Si *linuxrepos/aic94xx-firmware*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 37.70 KiB
+<b>Download Size</b>   : 30.99 KiB
 <b>Installed Size</b>  : 30.03 KiB
-<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 24 Jul 2023 19:28:26 BST
+<b>Packager</b>        : HeCodes2Much <wayne6324@gmail.com>
+<b>Build Date</b>      : Sun 18 Aug 2024 20:09:47 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

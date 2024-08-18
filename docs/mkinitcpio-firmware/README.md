@@ -17,10 +17,10 @@ pacman -Si *linuxrepos/mkinitcpio-firmware*
                   linux: default linux preset
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 13.91 KiB
+<b>Download Size</b>   : 8.27 KiB
 <b>Installed Size</b>  : 0.23 KiB
-<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Sat 24 Dec 2022 12:21:37 GMT
+<b>Packager</b>        : HeCodes2Much <wayne6324@gmail.com>
+<b>Build Date</b>      : Sun 18 Aug 2024 20:15:02 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

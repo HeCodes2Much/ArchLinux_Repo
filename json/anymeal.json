@@ -1,24 +1,23 @@
 {
   "Architecture": "x86_64",
-  "Build Date": "Tue 09 Feb 2021 13:55:29 GMT",
-  "Conflicts With": "None",
+  "Build Date": "Sun 18 Aug 2024 20:19:29 BST",
+  "Conflicts With": "anymeal-git",
   "Depends On": [
-    "hicolor-icon-theme",
-    "recode",
-    "qt5-webkit"
+    "sqlite",
+    "qt5-base"
   ],
-  "Description": "A recipe database software",
-  "Download Size": "396.89 KiB",
+  "Description": "Recipe management software. Supports MealMaster recipes, import, export, search, display, edit, and printing them.",
+  "Download Size": "459.17 KiB",
   "Groups": "None",
-  "Installed Size": "649.92 KiB",
+  "Installed Size": "854.10 KiB",
   "Licenses": "GPL3",
   "Name": "anymeal",
   "Optional Deps": "None",
-  "Packager": "Wayne Wesley <wayne6324@gmail.com>",
+  "Packager": "HeCodes2Much <wayne6324@gmail.com>",
   "Provides": "None",
   "Replaces": "None",
   "Repository": "linuxrepos",
-  "URL": "https://wedesoft.github.io/anymeal",
+  "URL": "https://github.com/wedesoft/anymeal",
   "Validated By": "SHA-256 Sum",
-  "Version": "1.13-1"
+  "Version": "1.32-1"
 }

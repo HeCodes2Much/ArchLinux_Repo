@@ -16,10 +16,10 @@ pacman -Si *linuxrepos/ansiweather*
 <b>Optional Deps</b>   : wget: support for downloading with wget
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 20.74 KiB
+<b>Download Size</b>   : 14.14 KiB
 <b>Installed Size</b>  : 13.38 KiB
-<b>Packager</b>        : Wayne Wesley <wayne6324@gmail.com>
-<b>Build Date</b>      : Thu 10 Aug 2023 20:06:14 BST
+<b>Packager</b>        : HeCodes2Much <wayne6324@gmail.com>
+<b>Build Date</b>      : Sun 18 Aug 2024 20:09:27 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
