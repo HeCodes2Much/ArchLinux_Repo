@@ -164,11 +164,11 @@ multiline_addrepo = (
     f"* **Maintainer:** [HeCodes2Much](https://aur.archlinux.org/account/HeCodes2Much/)\n"
     f"* **Description:**  A repository with some AUR packages that the team uses\n"
     f"* **Upstream page:** https://archlinux.repo.063240.xyz/\n"
-    f"* **Key-ID:** C66F 5102 6A39 40EA 1BD2 835C 772B 2F0F 09B0 1DBE \n"
-    f"* **Fingerprint:** [download](http://keys.openpgp.org:11371/pks/lookup?op=vindex&fingerprint=on&search=0xE30EC2FBFB05C44F)\n"
+    f"* **Key-ID:** 75A3 8DC6 84F1 A0B8 0891  8BCE E30E C2FB FB05 C44F \n"
+    f"* **Fingerprint:** [download](http://pgp.net.nz:11371/pks/lookup?op=vindex&fingerprint=on&search=0xE30EC2FBFB05C44F)\n"
     f"\nAppend to */etc/pacman.conf*:\n```\n[linuxrepos]\nSigLevel = Required DatabaseOptional\nServer = https://archlinux.repo.063240.xyz/$arch/\n```"
     f"\nTo check signature, add my key:\n"
-    f"```\nsudo pacman-key --keyserver hkp://keys.openpgp.org --recv-key C66F51026A3940EA1BD2835C772B2F0F09B01DBE\nsudo pacman-key --keyserver hkp://keys.openpgp.org --lsign-key C66F51026A3940EA1BD2835C772B2F0F09B01DBE\n```"
+    f"```\nsudo pacman-key --keyserver hkp://pgp.net.nz --recv-key 75A38DC684F1A0B808918BCEE30EC2FBFB05C44F\nsudo pacman-key --keyserver hkp://pgp.net.nz --lsign-key 75A38DC684F1A0B808918BCEE30EC2FBFB05C44F\n```"
     # f"\nYou may also want to \nAppend to */etc/pacman.conf*:\n```\n[linuxrepos-git]\nSigLevel = Optional TrustAll\nServer = https://github.com/HeCodes2Much/archlinux.repo.063240.xyz/releases/download/$repo/\n```"
 )
 
