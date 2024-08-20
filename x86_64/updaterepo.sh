@@ -28,7 +28,8 @@ commit_repo() {
 commit_git() {
     if [[ -e $HOME/.gitconfig ]]; then
         cd "$REPO_PATH" || return
-        git commit -S -a -m "Repo update $(date +%d/%m/%Y_%H:%M:%S_%Z)"
+        git add -u
+        git commit -S -m "Repo update $(date +%d/%m/%Y_%H:%M:%S_%Z)"
         git push origin main
     else
         echo
