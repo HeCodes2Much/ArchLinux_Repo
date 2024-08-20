@@ -1,0 +1,20 @@
+{
+  "Architecture": "any",
+  "Build Date": "Tue 20 Aug 2024 19:19:26 BST",
+  "Conflicts With": "None",
+  "Depends On": "libx11",
+  "Description": "click on root window and run a command .",
+  "Download Size": "12.59 KiB",
+  "Groups": "linuxrepos",
+  "Installed Size": "14.80 KiB",
+  "Licenses": "MIT",
+  "Name": "xroot",
+  "Optional Deps": "None",
+  "Packager": "HeCodes2Much <wayne6324@gmail.com>",
+  "Provides": "xroot",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/HeCodes2Much/xroot",
+  "Validated By": "SHA-256 Sum",
+  "Version": "2023.08.07-1"
+}

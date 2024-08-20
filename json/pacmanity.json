@@ -1,0 +1,23 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Tue 20 Aug 2024 19:25:09 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "pacman>=6.0",
+    "gist>=4.5.0"
+  ],
+  "Description": "Keeps a list of installed packages in a Gist at your GitHub account",
+  "Download Size": "23.65 KiB",
+  "Groups": "None",
+  "Installed Size": "37.56 KiB",
+  "Licenses": "GPL",
+  "Name": "pacmanity",
+  "Optional Deps": "None",
+  "Packager": "HeCodes2Much <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/HeCodes2Much/pacmanity",
+  "Validated By": "SHA-256 Sum",
+  "Version": "2021.11.14-1"
+}

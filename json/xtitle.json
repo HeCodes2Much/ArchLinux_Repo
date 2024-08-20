@@ -1,0 +1,24 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Tue 20 Aug 2024 19:17:59 BST",
+  "Conflicts With": "xtitle-git",
+  "Depends On": [
+    "libxcb",
+    "xcb-util-wm",
+    "xcb-util"
+  ],
+  "Description": "Outputs X window titles",
+  "Download Size": "14.24 KiB",
+  "Groups": "None",
+  "Installed Size": "17.84 KiB",
+  "Licenses": "Unlicense",
+  "Name": "xtitle",
+  "Optional Deps": "None",
+  "Packager": "HeCodes2Much <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/baskerville/xtitle",
+  "Validated By": "SHA-256 Sum",
+  "Version": "0.4.4-2"
+}

@@ -1,0 +1,26 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Tue 20 Aug 2024 19:15:58 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "pacman>=4.1",
+    "pacman<6.2",
+    "python>=3.2",
+    "python<3.13",
+    "python-pyqt5"
+  ],
+  "Description": "A utility for browsing pacman databases and the AUR",
+  "Download Size": "253.36 KiB",
+  "Groups": "None",
+  "Installed Size": "781.09 KiB",
+  "Licenses": "GPL2",
+  "Name": "pkgbrowser",
+  "Optional Deps": "None",
+  "Packager": "HeCodes2Much <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://codeberg.org/kachelaqa/pkgbrowser",
+  "Validated By": "SHA-256 Sum",
+  "Version": "0.28.1-2"
+}

@@ -1,0 +1,23 @@
+{
+  "Architecture": "any",
+  "Build Date": "Tue 20 Aug 2024 19:33:26 BST",
+  "Conflicts With": "None",
+  "Depends On": "bash",
+  "Description": "A simple tool for fetching an image and sound from cmus",
+  "Download Size": "23.16 KiB",
+  "Groups": "linuxrepos",
+  "Installed Size": "37.59 KiB",
+  "Licenses": "GPL3",
+  "Name": "cmusfetcher500",
+  "Optional Deps": {
+    "cava": "Display Music Lines",
+    "feh": "Display Images"
+  },
+  "Packager": "HeCodes2Much <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/HeCodes2Much/cmusfetcher500",
+  "Validated By": "SHA-256 Sum",
+  "Version": "2021.12.28-1"
+}

@@ -1,0 +1,31 @@
+{
+  "Architecture": "any",
+  "Build Date": "Tue 20 Aug 2024 19:15:55 BST",
+  "Conflicts With": "touchpad-indicator",
+  "Depends On": [
+    "gtk3",
+    "libappindicator-gtk3",
+    "libnotify",
+    "lsb-release",
+    "librsvg",
+    "python-xlib",
+    "python-pyudev",
+    "python-dbus",
+    "python-evdev",
+    "xorg-xinput"
+  ],
+  "Description": "An indicator for the touchpad",
+  "Download Size": "437.50 KiB",
+  "Groups": "None",
+  "Installed Size": "1189.89 KiB",
+  "Licenses": "GPL-3.0-or-later",
+  "Name": "touchpad-indicator-git",
+  "Optional Deps": "None",
+  "Packager": "HeCodes2Much <wayne6324@gmail.com>",
+  "Provides": "touchpad-indicator",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/atareao/Touchpad-Indicator",
+  "Validated By": "SHA-256 Sum",
+  "Version": "2.2.3.ubuntu20.04.0.r137.86064c7-1"
+}

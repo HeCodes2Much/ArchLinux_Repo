@@ -18,10 +18,10 @@ pacman -Si *linuxrepos/proctl*
                   ncurses: for the colors
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 15.41 KiB
+<b>Download Size</b>   : 15.70 KiB
 <b>Installed Size</b>  : 21.74 KiB
 <b>Packager</b>        : HeCodes2Much <wayne6324@gmail.com>
-<b>Build Date</b>      : Mon 19 Aug 2024 16:47:43 BST
+<b>Build Date</b>      : Tue 20 Aug 2024 19:24:50 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

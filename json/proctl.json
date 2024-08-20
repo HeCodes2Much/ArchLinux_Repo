@@ -1,13 +1,13 @@
 {
   "Architecture": "any",
-  "Build Date": "Mon 19 Aug 2024 16:47:43 BST",
+  "Build Date": "Tue 20 Aug 2024 19:24:50 BST",
   "Conflicts With": "None",
   "Depends On": [
     "bash",
     "coreutils"
   ],
   "Description": "Github Project Manager",
-  "Download Size": "15.41 KiB",
+  "Download Size": "15.70 KiB",
   "Groups": "therepoclub",
   "Installed Size": "21.74 KiB",
   "Licenses": "MIT",

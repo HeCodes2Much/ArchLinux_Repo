@@ -1,0 +1,24 @@
+{
+  "Architecture": "any",
+  "Build Date": "Tue 20 Aug 2024 19:24:34 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "coreutils",
+    "gettext",
+    "python>=3.4"
+  ],
+  "Description": "A recycle bin cli in python 3",
+  "Download Size": "10.68 KiB",
+  "Groups": "linuxrepos",
+  "Installed Size": "6.12 KiB",
+  "Licenses": "CC BY-NC-SA 4.0",
+  "Name": "recycle-cli",
+  "Optional Deps": "None",
+  "Packager": "HeCodes2Much <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/HeCodes2Much/recycle-cli/",
+  "Validated By": "SHA-256 Sum",
+  "Version": "2021.01.01-1"
+}

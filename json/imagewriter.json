@@ -1,0 +1,24 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Tue 20 Aug 2024 19:11:57 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "hicolor-icon-theme",
+    "qt5-base",
+    "udisks2"
+  ],
+  "Description": "A graphical utility for writing raw disk images & hybrid isos to USB keys",
+  "Download Size": "113.67 KiB",
+  "Groups": "None",
+  "Installed Size": "181.48 KiB",
+  "Licenses": "GPL-2.0-or-later",
+  "Name": "imagewriter",
+  "Optional Deps": "None",
+  "Packager": "HeCodes2Much <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/openSUSE/imagewriter",
+  "Validated By": "SHA-256 Sum",
+  "Version": "1.10.1432200249.1d253d9.2.20-1"
+}

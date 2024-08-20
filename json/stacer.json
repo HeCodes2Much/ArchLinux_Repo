@@ -1,0 +1,24 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Tue 20 Aug 2024 19:21:49 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "qt5-charts",
+    "qt5-svg",
+    "hicolor-icon-theme"
+  ],
+  "Description": "Ubuntu System Optimizer",
+  "Download Size": "897.61 KiB",
+  "Groups": "None",
+  "Installed Size": "1877.86 KiB",
+  "Licenses": "GPL3",
+  "Name": "stacer",
+  "Optional Deps": "None",
+  "Packager": "HeCodes2Much <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/oguzhaninan/Stacer",
+  "Validated By": "SHA-256 Sum",
+  "Version": "1.1.0-1"
+}

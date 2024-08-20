@@ -1,0 +1,23 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Tue 20 Aug 2024 19:17:54 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "glibc",
+    "ncurses"
+  ],
+  "Description": "Digital clock in ncurses",
+  "Download Size": "19.84 KiB",
+  "Groups": "None",
+  "Installed Size": "28.78 KiB",
+  "Licenses": "BSD",
+  "Name": "tty-clock",
+  "Optional Deps": "None",
+  "Packager": "HeCodes2Much <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/xorg62/tty-clock",
+  "Validated By": "SHA-256 Sum",
+  "Version": "2.3-2"
+}

@@ -1,0 +1,27 @@
+{
+  "Architecture": "any",
+  "Build Date": "Tue 20 Aug 2024 19:20:05 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "libnotify",
+    "imagemagick",
+    "xdg-user-dirs",
+    "xdotool"
+  ],
+  "Description": "simple screenshot script using imagemagick",
+  "Download Size": "9.52 KiB",
+  "Groups": "linuxrepos",
+  "Installed Size": "2.42 KiB",
+  "Licenses": "GPL3",
+  "Name": "win-shot",
+  "Optional Deps": {
+    "xclip": "Allow screenshots to be saved to clipboard"
+  },
+  "Packager": "HeCodes2Much <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/HeCodes2Much/win-shot",
+  "Validated By": "SHA-256 Sum",
+  "Version": "2022.07.31-1"
+}
