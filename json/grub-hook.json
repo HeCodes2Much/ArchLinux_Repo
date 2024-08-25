@@ -1,0 +1,20 @@
+{
+  "Architecture": "any",
+  "Build Date": "Sun 25 Aug 2024 17:40:10 BST",
+  "Conflicts With": "None",
+  "Depends On": "grub",
+  "Description": "Pacman hook to update GRUB after a kernel update",
+  "Download Size": "12.33 KiB",
+  "Groups": "None",
+  "Installed Size": "0.25 KiB",
+  "Licenses": "GPL",
+  "Name": "grub-hook",
+  "Optional Deps": "None",
+  "Packager": "HeCodes2Much <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://wiki.archlinux.org/index.php/Pacman#Hooks",
+  "Validated By": "SHA-256 Sum",
+  "Version": "2.1-1"
+}
