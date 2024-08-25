@@ -4,8 +4,8 @@ pacman -Si *linuxrepos/proctl*
 
 <div class="highlight"><pre class="highlight"><text>
 <b>Repository</b>      : linuxrepos
-<b>Name</b>            : <a href="../../x86_64/proctl-2022.02.21-1-any.pkg.tar.zst">proctl</a>
-<b>Version</b>         : 2022.02.21-1
+<b>Name</b>            : <a href="../../x86_64/proctl-2024.08.25-1-any.pkg.tar.zst">proctl</a>
+<b>Version</b>         : 2024.08.25-1
 <b>Description</b>     : Github Project Manager
 <b>Architecture</b>    : any
 <b>URL</b>             : https://github.com/HeCodes2Much/proctl
@@ -18,10 +18,10 @@ pacman -Si *linuxrepos/proctl*
                   ncurses: for the colors
 <b>Conflicts With</b>  : None
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 15.70 KiB
-<b>Installed Size</b>  : 21.74 KiB
+<b>Download Size</b>   : 20.18 KiB
+<b>Installed Size</b>  : 22.98 KiB
 <b>Packager</b>        : HeCodes2Much <wayne6324@gmail.com>
-<b>Build Date</b>      : Tue 20 Aug 2024 19:24:50 BST
+<b>Build Date</b>      : Sun 25 Aug 2024 20:14:56 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 

@@ -1,15 +1,15 @@
 {
   "Architecture": "any",
-  "Build Date": "Tue 20 Aug 2024 19:24:50 BST",
+  "Build Date": "Sun 25 Aug 2024 20:14:56 BST",
   "Conflicts With": "None",
   "Depends On": [
     "bash",
     "coreutils"
   ],
   "Description": "Github Project Manager",
-  "Download Size": "15.70 KiB",
+  "Download Size": "20.18 KiB",
   "Groups": "therepoclub",
-  "Installed Size": "21.74 KiB",
+  "Installed Size": "22.98 KiB",
   "Licenses": "MIT",
   "Name": "proctl",
   "Optional Deps": {
@@ -23,5 +23,5 @@
   "Repository": "linuxrepos",
   "URL": "https://github.com/HeCodes2Much/proctl",
   "Validated By": "SHA-256 Sum",
-  "Version": "2022.02.21-1"
+  "Version": "2024.08.25-1"
 }
