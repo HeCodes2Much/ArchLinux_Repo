@@ -1,6 +1,6 @@
 {
   "Architecture": "any",
-  "Build Date": "Sun 18 Aug 2024 20:21:00 BST",
+  "Build Date": "Thu 05 Sep 2024 12:56:00 BST",
   "Conflicts With": "None",
   "Depends On": [
     "git",
@@ -11,9 +11,9 @@
     "bash"
   ],
   "Description": "helper tools for the arch user repository",
-  "Download Size": "117.35 KiB",
+  "Download Size": "122.77 KiB",
   "Groups": "None",
-  "Installed Size": "229.48 KiB",
+  "Installed Size": "227.66 KiB",
   "Licenses": "ISC",
   "Name": "aurutils",
   "Optional Deps": {
@@ -32,5 +32,5 @@
   "Repository": "linuxrepos",
   "URL": "https://github.com/AladW/aurutils",
   "Validated By": "SHA-256 Sum",
-  "Version": "19.9-1"
+  "Version": "20-1"
 }

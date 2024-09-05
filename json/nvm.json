@@ -1,12 +1,12 @@
 {
   "Architecture": "any",
-  "Build Date": "Tue 20 Aug 2024 19:13:36 BST",
+  "Build Date": "Thu 05 Sep 2024 12:56:12 BST",
   "Conflicts With": "None",
   "Depends On": "None",
   "Description": "Node Version Manager - Simple bash script to manage multiple active node.js versions",
-  "Download Size": "45.58 KiB",
+  "Download Size": "50.61 KiB",
   "Groups": "None",
-  "Installed Size": "148.47 KiB",
+  "Installed Size": "149.49 KiB",
   "Licenses": "MIT",
   "Name": "nvm",
   "Optional Deps": {
@@ -18,5 +18,5 @@
   "Repository": "linuxrepos",
   "URL": "https://github.com/nvm-sh/nvm",
   "Validated By": "SHA-256 Sum",
-  "Version": "0.40.0-1"
+  "Version": "0.40.1-1"
 }
