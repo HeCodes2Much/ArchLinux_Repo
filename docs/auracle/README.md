@@ -16,10 +16,10 @@ pacman -Si *linuxrepos/auracle*
 <b>Optional Deps</b>   : None
 <b>Conflicts With</b>  : auracle-git
 <b>Replaces</b>        : None
-<b>Download Size</b>   : 747.89 KiB
-<b>Installed Size</b>  : 2065.15 KiB
+<b>Download Size</b>   : 750.86 KiB
+<b>Installed Size</b>  : 2065.18 KiB
 <b>Packager</b>        : HeCodes2Much <wayne6324@gmail.com>
-<b>Build Date</b>      : Sun 18 Aug 2024 20:41:39 BST
+<b>Build Date</b>      : Fri 27 Sep 2024 10:46:42 BST
 <b>Validated By</b>    : SHA-256 Sum
 </text></pre></div>
 
