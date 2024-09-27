@@ -1,1 +1,20 @@
-{}
+{
+  "Architecture": "any",
+  "Build Date": "Mon 09 Sep 2024 16:41:58 BST",
+  "Conflicts With": "None",
+  "Depends On": "sh",
+  "Description": "A dracut module which enables numlock in the early boot",
+  "Download Size": "11.13 KiB",
+  "Groups": "None",
+  "Installed Size": "1.27 KiB",
+  "Licenses": "MIT",
+  "Name": "dracut-numlock",
+  "Optional Deps": "None",
+  "Packager": "HeCodes2Much <wayne6324@gmail.com>",
+  "Provides": "None",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/bouteillerAlan/dracut-numlock",
+  "Validated By": "SHA-256 Sum",
+  "Version": "1.0.1-1"
+}
