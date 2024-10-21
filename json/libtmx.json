@@ -1,0 +1,24 @@
+{
+  "Architecture": "any",
+  "Build Date": "Mon 21 Oct 2024 21:37:49 BST",
+  "Conflicts With": "None",
+  "Depends On": [
+    "zlib",
+    "libxml2",
+    "zstd"
+  ],
+  "Description": "A portable C library to load tiled maps in your games.",
+  "Download Size": "51.80 KiB",
+  "Groups": "None",
+  "Installed Size": "132.07 KiB",
+  "Licenses": "BSD",
+  "Name": "libtmx",
+  "Optional Deps": "None",
+  "Packager": "HeCodes2Much <wayne6324@gmail.com>",
+  "Provides": "libtmx",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/baylej/tmx/",
+  "Validated By": "SHA-256 Sum",
+  "Version": "1.10.0-2"
+}

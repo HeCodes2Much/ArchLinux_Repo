@@ -11,6 +11,8 @@
     "grub-hook",
     "ideapad-cm",
     "imagewriter",
+    "libtmx",
+    "linuxdeploy-appimage",
     "linuxrepos-keyring",
     "linuxrepos-mirrorlist",
     "pacmanity",

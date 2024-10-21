@@ -1,0 +1,20 @@
+{
+  "Architecture": "x86_64",
+  "Build Date": "Sat 05 Oct 2024 20:44:27 BST",
+  "Conflicts With": "linuxdeploy",
+  "Depends On": "None",
+  "Description": "AppDir creation and maintenance tool.",
+  "Download Size": "12.62 MiB",
+  "Groups": "None",
+  "Installed Size": "12.80 MiB",
+  "Licenses": "MIT",
+  "Name": "linuxdeploy-appimage",
+  "Optional Deps": "None",
+  "Packager": "HeCodes2Much <wayne6324@gmail.com>",
+  "Provides": "linuxdeploy",
+  "Replaces": "None",
+  "Repository": "linuxrepos",
+  "URL": "https://github.com/linuxdeploy/linuxdeploy",
+  "Validated By": "SHA-256 Sum",
+  "Version": "1.alpha.20240109.1-1"
+}
