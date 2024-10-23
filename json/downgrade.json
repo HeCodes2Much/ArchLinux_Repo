@@ -1,15 +1,15 @@
 {
   "Architecture": "any",
-  "Build Date": "Tue 20 Aug 2024 19:08:37 BST",
+  "Build Date": "Wed 23 Oct 2024 15:40:00 BST",
   "Conflicts With": "None",
   "Depends On": [
     "pacman-contrib",
     "fzf"
   ],
   "Description": "Bash script for downgrading one or more packages to a version in your cache or the A.L.A.",
-  "Download Size": "32.43 KiB",
+  "Download Size": "38.69 KiB",
   "Groups": "None",
-  "Installed Size": "76.35 KiB",
+  "Installed Size": "78.96 KiB",
   "Licenses": "GPL",
   "Name": "downgrade",
   "Optional Deps": {
@@ -21,5 +21,5 @@
   "Repository": "linuxrepos",
   "URL": "https://github.com/archlinux-downgrade/downgrade",
   "Validated By": "SHA-256 Sum",
-  "Version": "11.3.0-1"
+  "Version": "11.4.2-1"
 }
